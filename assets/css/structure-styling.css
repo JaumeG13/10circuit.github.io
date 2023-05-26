@@ -42,7 +42,7 @@ header {
     padding: 12px;
     display: flex;
     justify-content: space-between;
-    height: 8vh;
+    height: 10vh;
 }
 nav {   /*nav tag is placed inside header tag*/
     display: flex;
@@ -54,7 +54,7 @@ div.nav-left {
     align-items: center;
 }
 div.nav-left img {
-    width: 80px;
+    width: 90px;
 }
 div.nav-right {
     display: flex;

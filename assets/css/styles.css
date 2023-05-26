@@ -6,7 +6,7 @@ section.index {
 }
 /*background image and title*/
 div.section-bg-image {
-    height: 92vh;
+    height: 90vh;
     overflow: hidden;
     background-image: url('../images/background/indy.png');
     background-repeat: no-repeat;
