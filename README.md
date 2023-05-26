@@ -17,3 +17,27 @@ Inside the images folder there's multiple "categories", if you will:
 - "gallery-thumbnail" for the pictures used in the sliding gallery on the home page
 - Logos for shortcut icon and schedule page
 - Discord profile pictures for the driver profiles page
+
+10circuit/
+├─ assets/
+│  ├─ css/
+│  │  ├─ structure-styling.css
+│  │  └─ styles.css
+│  ├─ js/
+│  │  ├─ roundToggleButton.js
+│  │  └─ headerScroll.js
+│  └─ images/
+│     ├─ background/
+│     │  └─ ...
+│     ├─ gallery-thumbnails/
+│     │  └─ ...
+│     ├─ logos/
+│     │  └─ ...
+│     └─ pfp/
+│        └─ ...
+├─ index.html
+├─ standings.html
+├─ results.html
+├─ driver-profiles.html
+├─ schedule.html
+└─ README.md
