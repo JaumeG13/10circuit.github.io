@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10 Circuit</title>
+    <link rel="shortcut icon" href="./assets/images/logos/10c.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.css">   <!-- Gallery slider CSS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.pkgd.js"></script>  <!-- Gallery slider JS -->
+    <link rel="stylesheet" href="./structure-styling.css">
+    <link rel="stylesheet" href="./pages/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"> <!-- Import font awesome for icons -->
+    <script src="./headerScroll.js"></script>   <!--Sticky header scroll JS-->
+</head>
+
+
+
+<body>
+    <div class="main-container">
+        <header id="shrinker">
+            <nav>
+                <div class="nav-left">
+                    <a href="#"><img src="./assets/images/logos/10c-cc.png" alt="Logo"></a>
+                </div>
+                <div class="nav-right">
+                    <a href="#" id="active">Home</a>
+                    <a href="./pages/standings.html">Standings</a>
+                    <a href="./pages/results.html">Results</a>
+                    <a href="./pages/driver-profiles.html">Driver Profiles</a>
+                    <a href="./pages/schedule.html">Schedule</a>
+                    <a href="http://10circuit.com:8772/live-timing" target="_blank" id="live-timing">Live timing</a>
+                </div>
+            </nav>
+        </header>
+
+        <section class="index">
+            <!--BACKGROUND IMAGE AND TITLE-->
+            <div class="section-bg-image"></div>
+
+            <div class="section-title">
+                <span id="title">Championship Circuit</span><br><br>
+                <span id="round">Next up: Round 4 at Indy</span>
+            </div>
+
+
+            <!--PREVIOUS EVENTS GALLERY-->
+            <div class="events-container">
+
+                <div><h1>Previous Events</h1></div>
+
+                <div class="gallery js-flickity" data-flickity-options='{ "pauseAutoPlayOnHover": false, "imagesLoaded": true, "autoPlay": 3000, "wrapAround": true }'>
+                    <div class="gallery-cell">
+                        <div class="thumbnail"><img src="./assets/images/turkey-thumb.jpg" alt="2.4h of Turkey"></div>
+                        <div class="watch-button"><a href="https://youtu.be/KHxB5wTgZTY" target="_blank">Watch Highlights</a></div>
+                    </div>
+                    <div class="gallery-cell">
+                        <div class="thumbnail"><img src="./assets/images/bathurst-thumb.jpg" alt="Bathurst Porsche Cup"></div>
+                        <div class="watch-button"><a href="https://youtu.be/drTE-Ga5uCw" target="_blank">Watch Highlights</a></div>
+                    </div>
+                    <div class="gallery-cell">
+                        <div class="thumbnail"><img src="./assets/images/tsukuba-thumb.jpg" alt="MX-5 Tsukuba"></div>
+                        <div class="watch-button"><a href="https://youtu.be/-XF1c7XlVwQ" target="_blank">Watch Highlights</a></div>
+                    </div>
+                    <div class="gallery-cell">
+                        <div class="thumbnail"><img src="./assets/images/fuji-thumb.jpg" alt="Fuji F1 1991"></div>
+                        <div class="watch-button"><a href="https://www.youtube.com/live/bLH4XIYOUnY?feature=share" target="_blank">Watch VOD</a></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <span>10 Controls &copy; 2023</span>
+            <span>
+                <a href="https://www.instagram.com/10circuit/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://www.youtube.com/@10controls22" target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                <a href="https://www.discord.gg/10controls" target="_blank"><i class="fa-brands fa-discord"></i></a>
+            </span>
+        </footer>
+    </div>
+</body>
+</html>
