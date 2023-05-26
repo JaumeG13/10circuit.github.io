@@ -1,0 +1,226 @@
+/* INDEX */
+section.index {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+/*background image and title*/
+div.section-bg-image {
+    height: 92vh;
+    overflow: hidden;
+    background-image: url('../images/background/indy.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-x: 50%;
+}
+div.section-title {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+span#title {
+    font-size: 80px;
+    font-weight: 700;
+}
+span#round {
+    font-size: 30px;
+}
+/*end of background image and title*/
+/*recent events gallery*/
+div.events-container {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+div.gallery-cell {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 20px;
+    width: 30%;
+}
+div.thumbnail img {
+    width: 100%;
+}
+div.watch-button {
+    background-color: #492833;
+    width: 98%;
+    margin: 10px 1%;
+    font-size: larger;
+    text-align: center;
+    transition: 250ms;
+    border-radius: 10px;
+}
+div.watch-button:hover {
+    width: 100%;
+    margin: 8px 2px;
+    padding: 2px;
+    transition-duration: 250ms;
+}
+div.watch-button a {
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+}
+.flickity-page-dots .dot {
+    background: #c18794;
+}
+/*end of recent events gallery*/
+/* END OF INDEX */
+
+
+
+
+
+
+/* STANDINGS AND RESULTS*/
+section.grid-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+}
+section.grid-container h1 {
+    background-image: url('../images/background/indy.png');
+    background-position-y: 200%;
+    background-position-x: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 2.5em 0;
+}
+/*toggle buttons*/
+div.grid-toggle {
+    background-color: #975e6a;
+    width: 100%;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+div.toggle-button {
+    background-color: #975e6a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 66px;
+    width: 66px;
+}
+div.toggle-button:hover {
+    background-color: #c18794;
+    cursor: pointer;
+}
+#button3 {          /*CHANGE AFTER EACH EVENT*/
+    background-color: #c18794;
+}
+#round1, #round2, /*#round3, */#round4, #round5, #round6, #round7, #round8, #round9, #round10 { 
+    display: none;  /*CHANGE AFTER EACH EVENT*/
+}       
+/*end of toggle buttons*/
+
+/*standings content*/
+div.standings-race {       /*ONLY FOR STANDINGS PAGE*/
+    width: 50%;
+    margin: 0 25%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 5px;
+    margin-bottom: 50px;
+}
+div.race-results {          /*ONLY FOR RESULTS PAGE*/
+    width: 70%;
+    margin: 0 15%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    row-gap: 5px;
+    margin-bottom: 50px;
+}
+div.grid-header {
+    grid-column: 1/4;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+div.grid-header#results {
+    grid-column: 1/10;
+}
+div.grid-element {
+    border-bottom: 1px solid white;
+    text-align: center;
+    padding-bottom: 5px;
+}
+div#grid-title {
+    font-weight: 700;
+}
+/*end of standings content*/
+/* END OF STANDINGS AND RESULTS */
+
+
+
+
+
+
+/* DRIVER PROFILE */
+section.driver-profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+div.driver-card {
+    width: 100%;
+    padding: 5vh;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid green;
+}
+div.driver-card img {
+    width: 50%;
+}
+div.driver-card h1, div.driver-card h2 {
+    text-align: left;
+    margin: 0;
+}
+div.driver-card div {
+    width: 100%;
+}
+/* END OF DRIVER PROFILE */
+
+
+
+
+
+
+/* SCHEDULE */
+section.schedule {
+    width: 60%;
+    margin: 0 20%;
+    display: flex;
+    flex-direction: column;
+}
+div.schedule-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+div.round {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    font-size: 25px;
+    align-items: center;
+    text-align: center;
+}
+div.round img {
+    height: 40px;
+}
+div.round-number {
+    font-weight: 700;
+}
+div.round div {
+    width: 25%;
+    white-space: nowrap;
+}
+/* END OF SCHEDULE */
