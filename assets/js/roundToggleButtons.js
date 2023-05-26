@@ -117,4 +117,15 @@ function showRound(roundNumber) {
     document.getElementById(`button${roundNumber}`).style.backgroundColor = '#c18794';
 }
 
-*/
+
+
+
+
+function showRound() {
+    for (let i = 1; i < 11; i++) {
+        document.getElementById(`round${i}`).style.display = 'none';
+        document.getElementById(`button${i}`).style.backgroundColor = '#975e6a';
+        }
+        document.getElementById('round10').style.display = 'grid';
+        document.getElementById('button10').style.backgroundColor = '#c18794';
+}*/
