@@ -20,21 +20,21 @@ Inside the images folder there's multiple "categories", if you will:
 
 10circuit/ <br>
 ├─ assets/ <br>
- │  ├─ css/ <br>
- │  │  ├─ structure-styling.css <br>
- │  │  └─ styles.css <br>
- │  ├─ js/ <br>
- │  │  ├─ roundToggleButton.js <br>
- │  │  └─ headerScroll.js <br>
- │  └─ images/ <br>
- │     ├─ background/ <br>
- │     │  └─ ... <br>
- │     ├─ gallery-thumbnails/ <br>
- │     │  └─ ... <br>
- │     ├─ logos/ <br>
- │     │  └─ ... <br>
- │     └─ pfp/ <br>
- │        └─ ... <br>
+│  ├─ css/ <br>
+│  │  ├─ structure-styling.css <br>
+│  │  └─ styles.css <br>
+│  ├─ js/ <br>
+│  │  ├─ roundToggleButton.js <br>
+│  │  └─ headerScroll.js <br>
+│  └─ images/ <br>
+│     ├─ background/ <br>
+│     │  └─ ... <br>
+│     ├─ gallery-thumbnails/ <br>
+│     │  └─ ... <br>
+│     ├─ logos/ <br>
+│     │  └─ ... <br>
+│     └─ pfp/ <br>
+│        └─ ... <br>
 ├─ index.html <br>
 ├─ standings.html <br>
 ├─ results.html <br>
