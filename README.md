@@ -18,26 +18,26 @@ Inside the images folder there's multiple "categories", if you will:
 - Logos for shortcut icon and schedule page
 - Discord profile pictures for the driver profiles page
 
-10circuit/
-├─ assets/
-│  ├─ css/
-│  │  ├─ structure-styling.css
-│  │  └─ styles.css
-│  ├─ js/
-│  │  ├─ roundToggleButton.js
-│  │  └─ headerScroll.js
-│  └─ images/
-│     ├─ background/
-│     │  └─ ...
-│     ├─ gallery-thumbnails/
-│     │  └─ ...
-│     ├─ logos/
-│     │  └─ ...
-│     └─ pfp/
-│        └─ ...
-├─ index.html
-├─ standings.html
-├─ results.html
-├─ driver-profiles.html
-├─ schedule.html
-└─ README.md
+10circuit/ <br>
+├─ assets/ <br>
+│  ├─ css/ <br>
+│  │  ├─ structure-styling.css <br>
+│  │  └─ styles.css <br>
+│  ├─ js/ <br>
+│  │  ├─ roundToggleButton.js <br>
+│  │  └─ headerScroll.js <br>
+│  └─ images/ <br>
+│     ├─ background/ <br>
+│     │  └─ ... <br>
+│     ├─ gallery-thumbnails/ <br>
+│     │  └─ ... <br>
+│     ├─ logos/ <br>
+│     │  └─ ... <br>
+│     └─ pfp/ <br>
+│        └─ ... <br>
+├─ index.html <br>
+├─ standings.html <br>
+├─ results.html <br>
+├─ driver-profiles.html <br>
+├─ schedule.html <br>
+└─ README.md <br>
