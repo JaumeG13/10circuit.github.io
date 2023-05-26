@@ -27,7 +27,7 @@ Inside the images folder there's multiple "categories", if you will:
 │  │  ├─ roundToggleButton.js <br>
 │  │  └─ headerScroll.js <br>
 │  └─ images/ <br>
-│     ├─ background/ <br>
+│  ­­   ├─ background/ <br>
 │     │  └─ ... <br>
 │     ├─ gallery-thumbnails/ <br>
 │     │  └─ ... <br>
