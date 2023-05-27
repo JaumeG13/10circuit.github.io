@@ -5,6 +5,7 @@ Structure:
 The Root folder contains the following:
 - All of the .html files
 - The assets folder
+- CNAME file for custom hostname
 - This readme file
 
 The assets folder is divided into 3 parts:
