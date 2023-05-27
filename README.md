@@ -27,14 +27,14 @@ Inside the images folder there's multiple "categories", if you will:
 │  │  ├─ roundToggleButton.js <br>
 │  │  └─ headerScroll.js <br>
 │  └─ images/ <br>
-│  ­&nbsp;­&nbsp;­   ├─ background/ <br>
-│  ­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br>
-│  ­&nbsp;­&nbsp;   ├─ gallery-thumbnails/ <br>
-│  ­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br>
-│  ­&nbsp;­&nbsp;   ├─ logos/ <br>
-│  ­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br>
-│  ­&nbsp;­&nbsp;   └─ pfp/ <br>
-│  ­&nbsp;­&nbsp;     ­&nbsp;­&nbsp;­&nbsp;­&nbsp; └─ ... <br>
+│  ­&nbsp;­&nbsp;­&nbsp;­   ├─ background/ <br>
+│  ­&nbsp;­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br>
+│  ­&nbsp;­&nbsp;­&nbsp;   ├─ gallery-thumbnails/ <br>
+│  ­&nbsp;­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br>
+│  ­&nbsp;­&nbsp;­&nbsp;   ├─ logos/ <br>
+│  ­&nbsp;­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br>
+│  ­&nbsp;­&nbsp;­&nbsp;   └─ pfp/ <br>
+│  ­&nbsp;­&nbsp;­&nbsp;     ­&nbsp;­&nbsp;­&nbsp;­&nbsp; └─ ... <br>
 ├─ index.html <br>
 ├─ standings.html <br>
 ├─ results.html <br>
