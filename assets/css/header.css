@@ -1,0 +1,70 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: black;
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+}
+nav {   /*nav tag is placed inside header tag*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+}
+div.nav-left {
+    align-items: center;
+}
+div.nav-left img {
+    width: 90px;
+}
+div.nav-right {
+    display: flex;
+    justify-content: right;
+    gap: 15px;
+    padding-right: 20px;
+    white-space: nowrap;    /*to stop line break on "driver profile" button (or any buttons with more than 1 word)*/
+    align-items: center;
+}
+header a:hover {
+    color: #c18794;
+}
+a#active {                      /*this id should be given to the active html page*/
+    color: #c18794;
+}
+a#live-timing {
+    background-color: #c18794;
+    padding: 8px;
+    border-radius: 25px;
+    margin-left: 4px;
+    transition: 250ms;
+}
+a:hover#live-timing {
+    color: white;
+    padding: 12px;
+    margin-left: -2px;
+    margin-right: -2px;
+    transition-duration: 250ms;
+}
+
+/*shrinking header section
+.shrinker {
+	background: black;
+	transition: all .2s linear!important;
+	-webkit-transition: all .2s linear!important;
+	-moz-transition: all .2s linear!important;
+}
+
+.shrinker.elementor-sticky--effects {
+	background: #fff;
+	padding-top: 2px!important;
+	padding-bottom: 2px!important;
+	box-shadow: 0px 6px 30px -4px rgba(0,0,0,.05);
+	transition: all .2s linear!important;
+	-webkit-transition: all .2s linear!important;
+	-moz-transition: all .2s linear!important;
+}

@@ -27,17 +27,18 @@ Inside the images folder there's multiple "categories", if you will:
 │  │  ├─ roundToggleButton.js <br>
 │  │  └─ headerScroll.js <br>
 │  └─ images/ <br>
-│  ­­   ├─ background/ <br>
-│     │  └─ ... <br>
-│     ├─ gallery-thumbnails/ <br>
-│     │  └─ ... <br>
-│     ├─ logos/ <br>
-│     │  └─ ... <br>
-│     └─ pfp/ <br>
-│        └─ ... <br>
+│  ­&nbsp;­   ├─ background/ <br>
+│  ­&nbsp;   │ ­&nbsp; └─ ... <br>
+│  ­&nbsp;   ├─ gallery-thumbnails/ <br>
+│  ­&nbsp;   │ ­&nbsp; └─ ... <br>
+│  ­&nbsp;   ├─ logos/ <br>
+│  ­&nbsp;   │ ­&nbsp; └─ ... <br>
+│  ­&nbsp;   └─ pfp/ <br>
+│  ­&nbsp;     ­&nbsp; └─ ... <br>
 ├─ index.html <br>
 ├─ standings.html <br>
 ├─ results.html <br>
 ├─ driver-profiles.html <br>
 ├─ schedule.html <br>
+├─ CNAME <br>
 └─ README.md <br>
