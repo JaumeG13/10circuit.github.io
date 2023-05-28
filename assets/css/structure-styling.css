@@ -48,20 +48,6 @@ section h1 {
     font-size: 50px;
     width: 100%;
     text-align: center;
+    margin: .67em 0;
 }
 /* END OF SECTION */
-
-
-
-/* FOOTER 
-footer {
-    height: 30vh;
-    background-color: #492833;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    gap: 10px;
-    font-size: 1.3em;
-}
-/* END OF FOOTER */
