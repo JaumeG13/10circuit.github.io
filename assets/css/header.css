@@ -4,6 +4,8 @@ header {
     display: flex;
     justify-content: space-between;
     height: 10vh;
+    width: 100%;
+    margin: 0;
 }
 nav {   /*nav tag is placed inside header tag*/
     display: flex;

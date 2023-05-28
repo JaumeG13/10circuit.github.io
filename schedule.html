@@ -4,32 +4,25 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>10 Circuit</title>
-    <link rel="shortcut icon" href="./assets/images/logos/10c.png">
-    <link rel="stylesheet" href="./assets/css/structure-styling.css">
-    <link rel="stylesheet" href="./assets/css/styles.css">
+    <title>Schedule</title>
+    <link rel="shortcut icon" href="/assets/images/logos/10c.png">
+    <link rel="stylesheet" href="/assets/css/structure-styling.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"> <!-- Import font awesome for icons -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>     <!--jquery code to import header and footer-->
+    <script type="text/javascript">                 //jquery code to import header and footer
+        $(document).ready(function(){
+          $("#header").load("/header.html");
+          $("#footer").load("/footer.html");
+         });
+    </script>
 </head>
 
 
 
 <body>
     <div class="main-container">
-        <header>
-            <nav>
-                <div class="nav-left">
-                    <a href="./i"><img src="./assets/images/logos/10c-cc.png" alt="Logo"></a>
-                </div>
-                <div class="nav-right">
-                    <a href="./">Home</a>
-                    <a href="./standings">Standings</a>
-                    <a href="./results">Results</a>
-                    <!--<a href="./driver-profiles.html">Driver Profiles</a>-->
-                    <a href="#" id="active">Schedule</a>
-                    <a href="http://10circuit.com:8772/live-timing" target="_blank" id="live-timing">Live timing</a>
-                </div>
-            </nav>
-        </header>
+        <div id="header"></div>
 
         <section class="schedule">
             <h1>schedule</h1>
@@ -97,14 +90,7 @@
             </div>
         </section>
 
-        <footer>
-            <span>10 Controls &copy; 2023</span>
-            <span>
-                <a href="https://www.instagram.com/10circuit/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-                <a href="https://www.youtube.com/@10controls22" target="_blank"><i class="fa-brands fa-youtube"></i></a>
-                <a href="https://www.discord.gg/10controls" target="_blank"><i class="fa-brands fa-discord"></i></a>
-            </span>
-        </footer>
+        <div id="footer"></div>
     </div>
 </body>
 </html>
