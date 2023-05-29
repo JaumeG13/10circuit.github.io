@@ -1,3 +1,4 @@
+
 /* INDEX */
 section.index {
     display: flex;
@@ -8,7 +9,7 @@ section.index {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('../images/background/indy.png');
+    background-image: url('../images/background/indy.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -16,7 +17,7 @@ div.section-bg-image {
 }
 div.section-title {
     position: absolute;
-    top: 50%;
+    top: 45%;
     width: 100%;
     text-align: center;
 }
@@ -82,7 +83,7 @@ section.grid-container {
     white-space: nowrap;
 }
 section.grid-container h1 {
-    background-image: url('../images/background/indy.png');
+    background-image: url('../images/background/indy.jpg');
     background-position-y: 200%;
     background-position-x: 50%;
     background-repeat: no-repeat;
@@ -224,3 +225,66 @@ div.round div {
     white-space: nowrap;
 }
 /* END OF SCHEDULE */
+
+
+
+
+
+/* MOBILE VIEW */
+@media screen and (max-width: 320px) {
+    /*index*/
+    div.section-title {
+        top: 25%;
+    }
+    .section-title #title {
+        font-size: 2em;
+    }
+    .section-title #round {
+        font-size: 1em;
+    }
+
+    div.events-container h1 {
+        font-size: 2em;
+        padding-bottom: 25px;
+    }
+    div.gallery {
+        width: 100%;
+    }
+    div.gallery-cell {
+        width: 40%;
+    }
+}
+/*
+@media screen and (max-width: 768px) {
+    
+}
+div.gallery-cell {
+    margin: 0 20px;
+    width: 30%;
+}
+div.thumbnail img {
+    width: 100%;
+}
+div.watch-button {
+    background-color: #492833;
+    width: 98%;
+    margin: 10px 1%;
+    font-size: larger;
+    text-align: center;
+    transition: 250ms;
+    border-radius: 10px;
+}
+div.watch-button:hover {
+    width: 100%;
+    margin: 8px 2px;
+    padding: 2px;
+    transition-duration: 250ms;
+}
+div.watch-button a {
+    display: inline-block;
+    width: 100%;
+    padding: 10px;
+}
+.flickity-page-dots .dot {
+    background: #c18794;
+}

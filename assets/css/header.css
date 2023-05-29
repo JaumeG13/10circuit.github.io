@@ -1,3 +1,4 @@
+/*
 header {
     background-color: black;
     padding: 12px;
@@ -7,7 +8,7 @@ header {
     width: 100%;
     margin: 0;
 }
-nav {   /*nav tag is placed inside header tag*/
+nav {   /*nav tag is placed inside header tag
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -24,13 +25,13 @@ div.nav-right {
     justify-content: right;
     gap: 15px;
     padding-right: 20px;
-    white-space: nowrap;    /*to stop line break on "driver profile" button (or any buttons with more than 1 word)*/
+    white-space: nowrap;    /*to stop line break on "driver profile" button (or any buttons with more than 1 word)
     align-items: center;
 }
 header a:hover {
     color: #c18794;
 }
-a#active {                      /*this id should be given to the active html page*/
+a#active {                      /*this id should be given to the active html page
     color: #c18794;
 }
 a#live-timing {
@@ -46,4 +47,98 @@ a:hover#live-timing {
     margin-left: -2px;
     margin-right: -2px;
     transition-duration: 250ms;
+}
+
+
+
+@media screen and (max-width: 660px) {
+    .topheader a:not(:first-child) {display: none;}
+    .topheader a.icon {
+      float: right;
+      display: block;
+    }
+}
+@media screen and (max-width: 660px) {
+    .topheader.responsive {position: relative;}
+    .topheader.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+}
+
+*/
+div#header {        /*for div id="header" inside index, standings, etc*/
+    min-height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    width: 100%;
+    padding-right: 15px;
+    background-color: black;
+}
+.header {           
+    overflow: hidden;
+    background-color: black;
+    padding: 12px;
+}
+.header img {
+    width: 5em;
+}
+.header span#nav-logo {
+    position: absolute;
+    left: 0;
+}
+.header a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 10px;
+    font-size: 17px;
+    white-space: nowrap;
+}
+
+.header .icon {
+    display: none;
+}
+
+a#live-timing {
+    background-color: #c18794;
+    padding: 8px;
+    border-radius: 25px;
+    margin-left: 4px;
+    transition: 250ms;
+}
+a:hover#live-timing {
+    color: white;
+    padding: 12px;
+    margin-left: -2px;
+    margin-right: -2px;
+    transition-duration: 250ms;
+}
+/*
+@media screen and (max-width: 600px) {
+    .header a:not(:first-child) {
+        display: none;
+    }
+    .header a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .header.responsive {
+        position: relative;
+    }
+    .header.responsive .icon {
+        position: absolute;
+        display: inline;
+    }
+    .header.responsive a {
+        float: none;
+        display: flex;
+        flex-direction: row;
+    }
 }

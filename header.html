@@ -4,23 +4,30 @@
 <head>
     <link rel="stylesheet" href="/assets/css/structure-styling.css">
     <link rel="stylesheet" href="/assets/css/header.css">
+    <script>
+        function headerFunction() {
+          var x = document.getElementById("header");
+          if (x.className === "header") {
+            x.className += " responsive";
+          } else {
+            x.className = "header";
+          }
+        }
+      </script>
 </head>
 
 <body>
-    <header id="header">
-        <nav>
-            <div class="nav-left">
-                <a href="/"><img src="/assets/images/logos/10c-cc.png" alt="Main web logo"></a>
-            </div>
-            <div class="nav-right">
-                <a href="/">Home</a>
-                <a href="/standings">Standings</a>
-                <a href="/results">Results</a>
-                <!--<a href="/driver-profiles">Driver Profiles</a>-->
-                <a href="/schedule">Schedule</a>
-                <a href="http://ac.10circuit.com:8772/live-timing" target="_blank" id="live-timing">Live timing</a>
-            </div>
-        </nav>
-    </header>
+    <div class="header" id="header">
+        <span id="nav-logo"><a href="/"><img src="/assets/images/logos/10c-cc.png" alt="10C Logo"></a></span>
+        <a href="/">Home</a>
+        <a href="/standings">Standings</a>
+        <a href="/results">Results</a>
+        <!--<a href="/driver-profiles">Driver Profiles</a>-->
+        <a href="/schedule">Schedule</a>
+        <a href="http://ac.10circuit.com:8772/live-timing" target="_blank" id="live-timing">Live timing</a>
+        <a href="javascript:void(0);" class="icon" onclick="headerFunction()">
+            <i class="fa fa-bars"></i>
+        </a>        
+    </div>
 </body>
 </html>
