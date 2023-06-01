@@ -23,10 +23,11 @@ div.section-title {
 }
 span#title {
     font-size: 80px;
-    font-weight: 700;
+    font-weight: 900;
 }
 span#round {
     font-size: 30px;
+    font-weight: 700;
 }
 /*end of background image and title*/
 /*recent events gallery*/
