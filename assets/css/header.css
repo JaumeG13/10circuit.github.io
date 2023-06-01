@@ -142,3 +142,58 @@ a:hover#live-timing {
         flex-direction: row;
     }
 }
+*/
+
+
+
+/*
+@media (min-width: 1200px) {
+    .header {
+        display:flex;
+        justify-content:space-between;
+    }
+    .logo {
+        flex:1
+    }
+    .nav {
+        flex:2;
+    }
+    a {
+        margin-left:20px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+    .header {
+        display:flex;
+        justify-content:space-between;
+    }
+    .logo {
+        flex:1
+    }
+    .nav {
+        flex:2;
+    }
+    a {
+        margin-left:20px;
+    }
+}
+@media (max-width: 767px) {
+    .header {
+        display:flex;
+        flex-flow: column nowrap;
+        justify-content: space-between;
+    }
+    .icon {
+        width: 50px;
+    }
+    .nav {
+        display:none;
+    }
+    .active {
+        display: block;
+    }
+    .logo {
+        margin: 20px 0;
+    }
+}
+*/
