@@ -92,6 +92,7 @@ section.grid-container h1 {
     background-attachment: fixed;
     margin: 0;
     padding: 2.5em 0;
+    font-weight: 900;
 }
 /*toggle buttons*/
 div.grid-toggle {
@@ -200,6 +201,9 @@ section.schedule {
     margin: 0 20%;
     display: flex;
     flex-direction: column;
+}
+section.schedule h1 {
+    font-weight: 900;
 }
 div.schedule-container {
     display: flex;
