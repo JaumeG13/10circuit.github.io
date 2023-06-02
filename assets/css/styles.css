@@ -65,7 +65,7 @@ div.watch-button a {
     width: 100%;
     padding: 10px;
 }
-.flickity-page-dots .dot {
+ol.flickity-page-dots .dot {
     background: #c18794;
 }
 /*end of recent events gallery*/
@@ -236,10 +236,10 @@ div.round div {
 
 
 /* MOBILE VIEW */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 450px) {
     /*index*/
     div.section-title {
-        top: 25%;
+        top: 50%;
     }
     .section-title #title {
         font-size: 2em;
