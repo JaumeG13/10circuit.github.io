@@ -82,6 +82,7 @@ section.grid-container {
     display: flex;
     flex-direction: column;
     white-space: nowrap;
+    justify-content: center;
 }
 section.grid-container h1 {
     background-image: url('../images/background/indy.jpg');
@@ -236,7 +237,7 @@ div.round div {
 
 
 /* MOBILE VIEW */
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 950px) {
     /*index*/
     div.section-title {
         top: 50%;
@@ -247,49 +248,46 @@ div.round div {
     .section-title #round {
         font-size: 1em;
     }
-
     div.events-container h1 {
         font-size: 2em;
         padding-bottom: 25px;
     }
-    div.gallery {
+    div.gallery-cell {
+        width: 90%;
+    }
+    /*end of index*/
+
+    /*standings*/
+    div.standings-race {       /*ONLY FOR STANDINGS PAGE*/
+        width: 100%;
+        margin: 0;
+    }/*
+    section.grid-container h1 {         dis shit no work idk why
+        background-position-y: 200%;
+    }*/
+    /*end of standings*/
+
+    /*results*/
+    div.race-results {          /*ONLY FOR RESULTS PAGE*/
+        width: 100%;
+        margin: 0;
+    }
+    /*end of results*/
+
+    /*schedule*/
+    section.schedule {
+        width: 100%;
+        margin: 0;
+    }
+    .schedule-container {
         width: 100%;
     }
-    div.gallery-cell {
-        width: 40%;
+    div.round {
+        font-size: 1em;
+        padding: 10px 0;
     }
-}
-/*
-@media screen and (max-width: 768px) {
-    
-}
-div.gallery-cell {
-    margin: 0 20px;
-    width: 30%;
-}
-div.thumbnail img {
-    width: 100%;
-}
-div.watch-button {
-    background-color: #492833;
-    width: 98%;
-    margin: 10px 1%;
-    font-size: larger;
-    text-align: center;
-    transition: 250ms;
-    border-radius: 10px;
-}
-div.watch-button:hover {
-    width: 100%;
-    margin: 8px 2px;
-    padding: 2px;
-    transition-duration: 250ms;
-}
-div.watch-button a {
-    display: inline-block;
-    width: 100%;
-    padding: 10px;
-}
-.flickity-page-dots .dot {
-    background: #c18794;
+    div.round .logo {
+        display: none;
+    }
+    /*end of schedule*/
 }
