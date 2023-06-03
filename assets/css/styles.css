@@ -9,7 +9,7 @@ section.index {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('../images/background/indy.jpg');
+    background-image: url('../images/background/lemans.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -17,7 +17,7 @@ div.section-bg-image {
 }
 div.section-title {
     position: absolute;
-    top: 45%;
+    top: 25%;
     width: 100%;
     text-align: center;
 }
@@ -85,8 +85,8 @@ section.grid-container {
     justify-content: center;
 }
 section.grid-container h1 {
-    background-image: url('../images/background/indy.jpg');
-    background-position-y: 200%;
+    background-image: url('../images/background/lemans.jpg');
+    background-position-y: 230%;
     background-position-x: 50%;
     background-repeat: no-repeat;
     background-size: cover;
