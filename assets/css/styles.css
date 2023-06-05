@@ -42,6 +42,10 @@ div.gallery-cell {
     margin: 0 20px;
     width: 30%;
 }
+div.events-buttons {
+    width: 100%;
+    display: flex;
+}
 div.thumbnail img {
     width: 100%;
 }
