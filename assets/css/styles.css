@@ -163,6 +163,12 @@ div#grid-title {
     font-weight: 700;
 }
 /*end of standings content*/
+
+/*results content*/
+div.race-results#round4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+/*end of results content*/
 /* END OF STANDINGS AND RESULTS */
 
 
