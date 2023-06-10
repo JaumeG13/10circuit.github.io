@@ -1,0 +1,8060 @@
+{
+  "Version": 0,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume G.",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#93 Ricfan",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#1 MAXFAN",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198361832653",
+        "GuidsList": [
+          "76561198361832653"
+        ],
+        "Name": "Max",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#8 Max Housley",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "$#@@!$kicked",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#13 Rabas",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#16 Akieush",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "focuser",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#22 Focuser",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198861484317",
+        "GuidsList": [
+          "76561198861484317"
+        ],
+        "Name": "Tommy V.",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#23 Tommy Volszky",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561199022032730",
+        "GuidsList": [
+          "76561199022032730"
+        ],
+        "Name": "PIPPI",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#25 Pippi",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198428202945",
+        "GuidsList": [
+          "76561198428202945"
+        ],
+        "Name": "Thomas V.",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#33 Thomas Vink",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#38 Bolar",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198153379542",
+        "GuidsList": [
+          "76561198153379542"
+        ],
+        "Name": "Adrian L.",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#39 Adrian Acevedo",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#42 Veixel",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198829166200",
+        "GuidsList": [
+          "76561198829166200"
+        ],
+        "Name": "Lando",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#45 Lando",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#47 Saad",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#55 Melon",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561199129036039",
+        "GuidsList": [
+          "76561199129036039"
+        ],
+        "Name": "JackG6",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#88 OTLR Jack",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 16,
+      "Driver": {
+        "Guid": "76561198272409983",
+        "GuidsList": [
+          "76561198272409983"
+        ],
+        "Name": "Eskiio",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#91 Eskiio",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#92 Justin Janson",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "Driver": {
+        "Guid": "76561198075937657",
+        "GuidsList": [
+          "76561198075937657"
+        ],
+        "Name": "nik k.",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#95 Nik Kei",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#144 Tim Verhoeven",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561199025779858",
+        "GuidsList": [
+          "76561199025779858"
+        ],
+        "Name": "Newman145",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#160 Newman145",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#193 Stra",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198875084577",
+        "GuidsList": [
+          "76561198875084577"
+        ],
+        "Name": "Gideon L",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#217 Gideon L",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 23,
+      "Driver": {
+        "Guid": "76561199046537014",
+        "GuidsList": [
+          "76561199046537014"
+        ],
+        "Name": "Aspec",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#331 Aspec",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 24,
+      "Driver": {
+        "Guid": "76561199047444145",
+        "GuidsList": [
+          "76561199047444145"
+        ],
+        "Name": "Sea P.",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#355 Sea_Pulse",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony S.",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#409 Tony Seroka",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#508 Arion",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "Driver": {
+        "Guid": "76561199199145692",
+        "GuidsList": [
+          "76561199199145692"
+        ],
+        "Name": "Gerikeee",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#517 Gerikeee",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 28,
+      "Driver": {
+        "Guid": "76561198320605570",
+        "GuidsList": [
+          "76561198320605570"
+        ],
+        "Name": "Alfie S.",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#632 Big Bloke",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198264503508",
+        "GuidsList": [
+          "76561198264503508"
+        ],
+        "Name": "Kai",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#888 Kai",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam24",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "#219 Adam24",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 31,
+      "Driver": {
+        "Guid": "",
+        "GuidsList": [
+          ""
+        ],
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_porsche_911_gt3_r_2016",
+      "Restrictor": 0,
+      "Skin": "00_gt3",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 32,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Broadcast",
+        "Nation": "USA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_abarth_595ss",
+      "Restrictor": 0,
+      "Skin": "rosso_medio",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 48.25284,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9177493,
+        "Y": 0.64005065,
+        "Z": -2.0745835
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -513.6193,
+        "Y": 117.116615,
+        "Z": 447.1654
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 179.79999,
+      "OtherCarId": 14,
+      "OtherDriver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.84450793,
+        "Y": -0.26219392,
+        "Z": 2.3442225
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -524.74896,
+        "Y": 117.9059,
+        "Z": 435.0367
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 176.32155,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.6901908,
+        "Y": -0.21989918,
+        "Z": 2.0929587
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -524.8097,
+        "Y": 117.94382,
+        "Z": 435.00537
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 28.073658,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99319255,
+        "Y": 0.84547454,
+        "Z": -2.1164923
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -534.2367,
+        "Y": 120.02949,
+        "Z": 432.46356
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 27.598925,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.98693836,
+        "Y": 0.84529644,
+        "Z": -2.110902
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -579.1235,
+        "Y": 125.91977,
+        "Z": 405.3473
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 29.750961,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.000025002293,
+        "Y": -0.26135984,
+        "Z": 2.5827596
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -526.36426,
+        "Y": 117.95624,
+        "Z": 437.14154
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 6.246792,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.84452033,
+        "Y": -0.2622006,
+        "Z": 2.3442116
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -560.446,
+        "Y": 123.278015,
+        "Z": 403.86542
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 14.906294,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8445302,
+        "Y": -0.2621949,
+        "Z": 2.344246
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -517.6917,
+        "Y": 117.14801,
+        "Z": 429.88654
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 6.5585732,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99899316,
+        "Y": 0.6398861,
+        "Z": -2.1218116
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -524.57465,
+        "Y": 118.63238,
+        "Z": 438.19717
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 21,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 1.8774742,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99899364,
+        "Y": 0.63988775,
+        "Z": -2.1217728
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -971.3494,
+        "Y": 193.33186,
+        "Z": 862.8823
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 4.1693716,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99202603,
+        "Y": 0.83141136,
+        "Z": -1.6999831
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -787.71783,
+        "Y": 153.03369,
+        "Z": 382.29858
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 64.61822,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0003533,
+        "Y": 0.3572584,
+        "Z": 1.7920482
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -415.70013,
+        "Y": 173.2636,
+        "Z": 1260.4406
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 46.589977,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.98132974,
+        "Y": -0.2667707,
+        "Z": 1.852285
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -386.73846,
+        "Y": 169.80585,
+        "Z": 1261.3038
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 52.909256,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99670404,
+        "Y": 0.6397957,
+        "Z": -2.1218848
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -347.63086,
+        "Y": 97.318756,
+        "Z": 485.41782
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 20.084816,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8789374,
+        "Y": 0.27380636,
+        "Z": 1.9777682
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -780.2933,
+        "Y": 150.01631,
+        "Z": 367.6973
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 24.066261,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99200207,
+        "Y": 0.83141065,
+        "Z": -1.6999946
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -295.63644,
+        "Y": 81.44595,
+        "Z": 325.9582
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 56.633183,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0149844,
+        "Y": -0.29475376,
+        "Z": 1.8312274
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -725.81274,
+        "Y": 167.00128,
+        "Z": 511.15707
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198264503508",
+        "GuidsList": [
+          "76561198264503508"
+        ],
+        "Name": "Kai",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 51.19217,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.84453917,
+        "Y": -0.2622011,
+        "Z": 2.3442342
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -737.2049,
+        "Y": 144.47916,
+        "Z": 340.35837
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 102.56259,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.7870541,
+        "Y": -0.11355572,
+        "Z": 2.3009152
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -784.36816,
+        "Y": 186.82957,
+        "Z": 695.25226
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 36.09593,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.000022053719,
+        "Y": -0.26136658,
+        "Z": 2.5827475
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -818.1864,
+        "Y": 190.50204,
+        "Z": 697.4459
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198264503508",
+        "GuidsList": [
+          "76561198264503508"
+        ],
+        "Name": "Kai",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 73.93307,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.87344635,
+        "Y": -0.11248879,
+        "Z": 2.01074
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -956.85425,
+        "Y": 195.21268,
+        "Z": 826.13995
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 12.946392,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0172482,
+        "Y": 0.16480918,
+        "Z": -1.1228169
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -971.82623,
+        "Y": 192.8212,
+        "Z": 864.1047
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 163.3767,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.7406599,
+        "Y": -0.27637404,
+        "Z": 2.312447
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -984.68976,
+        "Y": 195.9051,
+        "Z": 985.7518
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198264503508",
+        "GuidsList": [
+          "76561198264503508"
+        ],
+        "Name": "Kai",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 41.94434,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0006925,
+        "Y": -0.28212082,
+        "Z": 1.8412472
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -995.02515,
+        "Y": 194.3806,
+        "Z": 930.51715
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 89.88922,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99318874,
+        "Y": 0.6411623,
+        "Z": -2.043422
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -97.35351,
+        "Y": 124.06397,
+        "Z": 1536.2157
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 68.64754,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.88949907,
+        "Y": -0.14970216,
+        "Z": 1.9670552
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -987.2669,
+        "Y": 195.98271,
+        "Z": 980.65173
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 43.77505,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.09731537,
+        "Y": -0.26147282,
+        "Z": 2.555271
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -945.55225,
+        "Y": 195.82321,
+        "Z": 1026.5239
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 28.753607,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99318194,
+        "Y": 0.8454837,
+        "Z": -2.1165032
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -963.53076,
+        "Y": 197.1591,
+        "Z": 1021.7376
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 7.5376987,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9989897,
+        "Y": 0.63988644,
+        "Z": -2.1218014
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -750.92975,
+        "Y": 146.92712,
+        "Z": 344.1197
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "$#@@!$kicked",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 84.11602,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.1643728,
+        "Y": -0.28370798,
+        "Z": 2.441341
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -676.8832,
+        "Y": 193.7449,
+        "Z": 1231.977
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 6.3831215,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.00231,
+        "Y": 0.35952532,
+        "Z": 1.7557136
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -536.4879,
+        "Y": 188.70663,
+        "Z": 1229.8982
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "$#@@!$kicked",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 17.999487,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99319875,
+        "Y": 0.84547704,
+        "Z": -2.116481
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -654.0202,
+        "Y": 194.5074,
+        "Z": 1212.4492
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198264503508",
+        "GuidsList": [
+          "76561198264503508"
+        ],
+        "Name": "Kai",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 59.642838,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.94281477,
+        "Y": 0.6670964,
+        "Z": -2.0616333
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -293.8706,
+        "Y": 153.5175,
+        "Z": 1323.5659
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 29.653887,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0137084,
+        "Y": -0.29534233,
+        "Z": 1.8310905
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -409.0414,
+        "Y": 171.74748,
+        "Z": 1260.8662
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 7.514044,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0038894,
+        "Y": 0.3589471,
+        "Z": 1.7891064
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -159.8421,
+        "Y": 136.20988,
+        "Z": 1434.2451
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561199129036039",
+        "GuidsList": [
+          "76561199129036039"
+        ],
+        "Name": "JackG6",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 46.95042,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.70681244,
+        "Y": -0.2804376,
+        "Z": 2.3044362
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -346.22775,
+        "Y": 159.48555,
+        "Z": 1323.9153
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561199129036039",
+        "GuidsList": [
+          "76561199129036039"
+        ],
+        "Name": "JackG6",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 29.174397,
+      "OtherCarId": 1,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.0153527,
+        "Y": -0.29475224,
+        "Z": 1.8314834
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -334.4254,
+        "Y": 157.7576,
+        "Z": 1319.4742
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 27.295774,
+      "OtherCarId": 15,
+      "OtherDriver": {
+        "Guid": "76561199129036039",
+        "GuidsList": [
+          "76561199129036039"
+        ],
+        "Name": "JackG6",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9753073,
+        "Y": 0.31500554,
+        "Z": -0.5232489
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -334.5901,
+        "Y": 158.39746,
+        "Z": 1319.5267
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561199129036039",
+        "GuidsList": [
+          "76561199129036039"
+        ],
+        "Name": "JackG6",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 3.281681,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99321365,
+        "Y": 0.845478,
+        "Z": -2.116512
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -321.62198,
+        "Y": 156.76094,
+        "Z": 1323.3662
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 80.824936,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0114744,
+        "Y": -0.29474393,
+        "Z": 1.8321007
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 248.31023,
+        "Y": 29.669601,
+        "Z": -554.1535
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198264503508",
+        "GuidsList": [
+          "76561198264503508"
+        ],
+        "Name": "Kai",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 27.974277,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9989759,
+        "Y": 0.6398879,
+        "Z": -2.1217875
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 343.54843,
+        "Y": 39.242462,
+        "Z": -238.64131
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 39.812107,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.95261925,
+        "Y": -0.2863311,
+        "Z": -0.5146379
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 326.64795,
+        "Y": 31.817513,
+        "Z": -364.05664
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 28.131086,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9989831,
+        "Y": 0.63989395,
+        "Z": -2.1217964
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -490.63135,
+        "Y": 114.44209,
+        "Z": 445.74643
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 2.288617,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9932153,
+        "Y": 0.84548205,
+        "Z": -2.1165133
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -495.41153,
+        "Y": 115.28735,
+        "Z": 442.94455
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 33.229656,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9761436,
+        "Y": 0.3466562,
+        "Z": 1.8083404
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -788.0179,
+        "Y": 152.96045,
+        "Z": 385.09225
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 44.69756,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9439362,
+        "Y": -0.26272988,
+        "Z": 1.8375179
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -375.1044,
+        "Y": 99.96263,
+        "Z": 496.88254
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam24",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 1.1759148,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0153733,
+        "Y": -0.2947474,
+        "Z": 1.8314886
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -34.709885,
+        "Y": 113.32791,
+        "Z": 1502.0714
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony S.",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 63.056927,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0149723,
+        "Y": -0.29468143,
+        "Z": 1.831306
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -35.54123,
+        "Y": 113.49691,
+        "Z": 1503.2745
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 43.671833,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9466421,
+        "Y": -0.22517005,
+        "Z": 1.8919438
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -369.29694,
+        "Y": 99.275185,
+        "Z": 495.40604
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198361832653",
+        "GuidsList": [
+          "76561198361832653"
+        ],
+        "Name": "Max",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 3.8624976,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.0257434,
+        "Y": 0.32391876,
+        "Z": -1.2969062
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -723.57526,
+        "Y": 172.81766,
+        "Z": 588.1033
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 62.354366,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0100023,
+        "Y": -0.28438553,
+        "Z": -0.6284923
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -967.5943,
+        "Y": 193.01378,
+        "Z": 853.3143
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 14.490184,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9989954,
+        "Y": 0.639883,
+        "Z": -2.121771
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -877.6713,
+        "Y": 199.35522,
+        "Z": 1127.921
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 48.629982,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9953664,
+        "Y": -0.2802637,
+        "Z": 1.8409475
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -405.50037,
+        "Y": 171.23732,
+        "Z": 1262.058
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 127.13712,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.97371167,
+        "Y": 0.6439663,
+        "Z": -1.7078253
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -800.45074,
+        "Y": 189.62607,
+        "Z": 702.3713
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 71.47946,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9932184,
+        "Y": 0.8454802,
+        "Z": -2.116507
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -361.86517,
+        "Y": 166.03275,
+        "Z": 1291.4564
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 29.847744,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99897116,
+        "Y": 0.6398927,
+        "Z": -2.1217892
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -862.7019,
+        "Y": 195.06534,
+        "Z": 742.6679
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 9.801619,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.0201837,
+        "Y": 0.32384184,
+        "Z": -1.297075
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -720.41046,
+        "Y": 171.14964,
+        "Z": 569.615
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 0.022970598,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.025716,
+        "Y": 0.32391778,
+        "Z": -1.2969055
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -902.6041,
+        "Y": 196.10274,
+        "Z": 781.79205
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 22.727053,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.015387,
+        "Y": -0.29474688,
+        "Z": 1.8314879
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -962.5985,
+        "Y": 196.07666,
+        "Z": 1023.34705
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 29.511583,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.0000020297598,
+        "Y": -0.2613664,
+        "Z": 2.582784
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -476.87802,
+        "Y": 111.88097,
+        "Z": 453.8564
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 51.192833,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.84455234,
+        "Y": -0.26218864,
+        "Z": 2.3442607
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -585.8588,
+        "Y": 192.68147,
+        "Z": 1214.2977
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 85.831856,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.78175217,
+        "Y": -0.2664817,
+        "Z": 2.3433497
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -403.0375,
+        "Y": 170.88564,
+        "Z": 1263.1669
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 20.67046,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9932104,
+        "Y": 0.84548277,
+        "Z": -2.1165056
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -707.3266,
+        "Y": 142.4451,
+        "Z": 336.24362
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 14.5598545,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9932089,
+        "Y": 0.84548736,
+        "Z": -2.1165218
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -771.57916,
+        "Y": 160.70134,
+        "Z": 433.48325
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 26.990526,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99912655,
+        "Y": -0.29564884,
+        "Z": 1.8212638
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -282.35086,
+        "Y": 149.22957,
+        "Z": 1348.1593
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 9.4426155,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.7820507,
+        "Y": -0.26487994,
+        "Z": 2.3501253
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -784.0757,
+        "Y": 155.22527,
+        "Z": 401.91568
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 32.684757,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9931648,
+        "Y": 0.845469,
+        "Z": -2.1165254
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -280.64682,
+        "Y": 150.15883,
+        "Z": 1349.8986
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 18.951166,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8044965,
+        "Y": -0.26873454,
+        "Z": 2.3273976
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -786.76044,
+        "Y": 154.14719,
+        "Z": 395.82834
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 94.37444,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.95070577,
+        "Y": 0.7447858,
+        "Z": -1.8905573
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -874.5736,
+        "Y": 195.54567,
+        "Z": 736.57495
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 3.3937736,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99319285,
+        "Y": 0.84547424,
+        "Z": -2.1164868
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -787.16724,
+        "Y": 154.98886,
+        "Z": 394.23035
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 18.61917,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.993222,
+        "Y": 0.8454855,
+        "Z": -2.1165094
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -910.68634,
+        "Y": 196.63,
+        "Z": 772.1158
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume G.",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 121.45612,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.86940604,
+        "Y": 0.67175686,
+        "Z": -2.051009
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -953.2568,
+        "Y": 196.34425,
+        "Z": 818.3752
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 51.94981,
+      "OtherCarId": 29,
+      "OtherDriver": {
+        "Guid": "76561198264503508",
+        "GuidsList": [
+          "76561198264503508"
+        ],
+        "Name": "Kai",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.0217593,
+        "Y": -0.24885096,
+        "Z": -1.3944335
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -782.114,
+        "Y": 157.40007,
+        "Z": 415.12024
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 20.591663,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9585129,
+        "Y": -0.24118699,
+        "Z": 1.875876
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -778.6995,
+        "Y": 158.57568,
+        "Z": 424.90628
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198264503508",
+        "GuidsList": [
+          "76561198264503508"
+        ],
+        "Name": "Kai",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 58.474003,
+      "OtherCarId": 17,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.82847553,
+        "Y": -0.24615939,
+        "Z": 2.3117552
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -782.2605,
+        "Y": 157.38437,
+        "Z": 415.03677
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 28.53912,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8445064,
+        "Y": -0.26220033,
+        "Z": 2.3442574
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -892.98236,
+        "Y": 195.28075,
+        "Z": 754.33594
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 33.38407,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9994625,
+        "Y": 0.26184034,
+        "Z": 1.791486
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -825.5564,
+        "Y": 191.60721,
+        "Z": 713.96173
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 24.568724,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99320316,
+        "Y": 0.84548163,
+        "Z": -2.1165073
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -886.383,
+        "Y": 196.35933,
+        "Z": 765.59814
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 5.0312223,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99898285,
+        "Y": 0.6398842,
+        "Z": -2.121834
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -884.99786,
+        "Y": 196.14386,
+        "Z": 764.24664
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 60.263172,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9746208,
+        "Y": -0.28528818,
+        "Z": -0.6096876
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -962.9509,
+        "Y": 196.07959,
+        "Z": 1022.6888
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 50.192387,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.998975,
+        "Y": 0.639886,
+        "Z": -2.1218076
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -837.8921,
+        "Y": 198.04405,
+        "Z": 1215.1741
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 100.58778,
+      "OtherCarId": 1,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8220859,
+        "Y": -0.26069063,
+        "Z": 2.2819622
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -951.23834,
+        "Y": 196.2294,
+        "Z": 1037.3975
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 17.303335,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99316514,
+        "Y": 0.8454807,
+        "Z": -2.1165125
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -951.0135,
+        "Y": 197.46103,
+        "Z": 1042.6461
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 47.691113,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.090617456,
+        "Y": -0.27349752,
+        "Z": 2.5056014
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -655.27545,
+        "Y": 193.21097,
+        "Z": 1227.7446
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198361832653",
+        "GuidsList": [
+          "76561198361832653"
+        ],
+        "Name": "Max",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 15.259982,
+      "OtherCarId": 1,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9003674,
+        "Y": 0.28401753,
+        "Z": 1.9604269
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -922.256,
+        "Y": 198.502,
+        "Z": 1085.7527
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 108.3679,
+      "OtherCarId": 9,
+      "OtherDriver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.981471,
+        "Y": -0.2930347,
+        "Z": 1.2081572
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -951.3901,
+        "Y": 196.21866,
+        "Z": 1037.1416
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 92.678474,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9429354,
+        "Y": 0.7836364,
+        "Z": -1.8049448
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -948.41876,
+        "Y": 197.75348,
+        "Z": 1046.9639
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 27.225576,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198361832653",
+        "GuidsList": [
+          "76561198361832653"
+        ],
+        "Name": "Max",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.75945354,
+        "Y": 0.3321471,
+        "Z": -1.9315177
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -922.266,
+        "Y": 198.60162,
+        "Z": 1085.497
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 2.2375572,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.0221997,
+        "Y": 0.20003451,
+        "Z": -1.1611723
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -751.022,
+        "Y": 195.34023,
+        "Z": 1208.6581
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 58.22537,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.5488885,
+        "Y": 0.051868346,
+        "Z": 2.336676
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -773.0663,
+        "Y": 148.68713,
+        "Z": 362.7883
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 46.578487,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99321437,
+        "Y": 0.84548485,
+        "Z": -2.1165175
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -358.90082,
+        "Y": 162.37721,
+        "Z": 1319.6038
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 9.351384,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99898267,
+        "Y": 0.63988584,
+        "Z": -2.1218102
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -792.85956,
+        "Y": 152.31923,
+        "Z": 364.19937
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 0.012479487,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99896526,
+        "Y": 0.6398927,
+        "Z": -2.1218102
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -348.04153,
+        "Y": 160.6503,
+        "Z": 1323.6936
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume G.",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 11.494215,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0257512,
+        "Y": 0.32390556,
+        "Z": -1.296901
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -756.46893,
+        "Y": 147.25072,
+        "Z": 345.8297
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume G.",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 46.679775,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.40249947,
+        "Y": -0.2617655,
+        "Z": 2.469089
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -789.16516,
+        "Y": 150.87975,
+        "Z": 363.3688
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 50.038685,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume G.",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.82482964,
+        "Y": -0.25598603,
+        "Z": 2.2936375
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -789.1677,
+        "Y": 150.90157,
+        "Z": 363.36707
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 6.748761,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99896103,
+        "Y": 0.63988537,
+        "Z": -2.1217816
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -793.2283,
+        "Y": 152.39047,
+        "Z": 364.74252
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 33.308094,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8445387,
+        "Y": -0.26220173,
+        "Z": 2.34422
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -357.2928,
+        "Y": 161.74037,
+        "Z": 1305.6965
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 17.028242,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9931857,
+        "Y": 0.8454857,
+        "Z": -2.1164985
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -364.49173,
+        "Y": 163.36682,
+        "Z": 1315.2843
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 46.348663,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.87739134,
+        "Y": -0.09978894,
+        "Z": 2.0308518
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -54.70729,
+        "Y": 117.77283,
+        "Z": 1530.4523
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 22.315044,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99897677,
+        "Y": 0.639885,
+        "Z": -2.1218233
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -743.41327,
+        "Y": 146.01468,
+        "Z": 341.92953
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 42.628643,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0152942,
+        "Y": -0.29478624,
+        "Z": 1.8314383
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -12.790277,
+        "Y": 33.740536,
+        "Z": -604.231
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198264503508",
+        "GuidsList": [
+          "76561198264503508"
+        ],
+        "Name": "Kai",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 5.3068056,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.0154029,
+        "Y": -0.29474732,
+        "Z": 1.8314928
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 194.7845,
+        "Y": 31.50856,
+        "Z": -550.5483
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 79.4029,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8396398,
+        "Y": -0.26311952,
+        "Z": 2.3416517
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -389.1474,
+        "Y": 168.82214,
+        "Z": 1272.7446
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam24",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 8.077232,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9928359,
+        "Y": 0.84089744,
+        "Z": -1.9809575
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -719.0912,
+        "Y": 171.14215,
+        "Z": 562.03564
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198264503508",
+        "GuidsList": [
+          "76561198264503508"
+        ],
+        "Name": "Kai",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 2.2311137,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9931907,
+        "Y": 0.8454749,
+        "Z": -2.1165369
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -719.3572,
+        "Y": 171.20427,
+        "Z": 563.5173
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam24",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 11.444056,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0039015,
+        "Y": 0.35896873,
+        "Z": 1.7891294
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -853.9068,
+        "Y": 193.84282,
+        "Z": 716.94055
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 40.011818,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.7096548,
+        "Y": -0.27408683,
+        "Z": 2.330895
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -46.68227,
+        "Y": 115.989044,
+        "Z": 1519.6318
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam24",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 1.9614466,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.003926,
+        "Y": 0.35895926,
+        "Z": 1.78913
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -860.00793,
+        "Y": 194.26524,
+        "Z": 722.6644
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 85.10886,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8502003,
+        "Y": -0.21909842,
+        "Z": 1.8477104
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -956.85425,
+        "Y": 195.2191,
+        "Z": 826.13995
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 78.7674,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.6330603,
+        "Y": -0.26614115,
+        "Z": 2.3861547
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -435.07568,
+        "Y": 175.481,
+        "Z": 1263.2081
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561199129036039",
+        "GuidsList": [
+          "76561199129036039"
+        ],
+        "Name": "JackG6",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 29.285244,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.932615,
+        "Y": -0.18778215,
+        "Z": 1.9370071
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -33.04978,
+        "Y": 113.13737,
+        "Z": 1499.6981
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 89.97173,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9876875,
+        "Y": 0.34761354,
+        "Z": 1.8146248
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -161.85661,
+        "Y": 136.40474,
+        "Z": 1432.4788
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony S.",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 22.086475,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.01443,
+        "Y": -0.29510227,
+        "Z": 1.831209
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -1.9221685,
+        "Y": 33.47403,
+        "Z": -602.16
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 85.007935,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.069978245,
+        "Y": -0.27302706,
+        "Z": 2.513369
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -406.84018,
+        "Y": 172.34392,
+        "Z": 1250.4677
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 36.891445,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99027884,
+        "Y": 0.35217825,
+        "Z": -0.6530489
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -962.9509,
+        "Y": 196.70172,
+        "Z": 1022.6888
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 34.526367,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8445542,
+        "Y": -0.26219374,
+        "Z": 2.344226
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -600.7013,
+        "Y": 192.92223,
+        "Z": 1213.7164
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 16.599728,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9990024,
+        "Y": 0.63988066,
+        "Z": -2.1218433
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -533.19366,
+        "Y": 189.69962,
+        "Z": 1219.59
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 58.540874,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9090213,
+        "Y": 0.29901594,
+        "Z": 1.9161664
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -718.0152,
+        "Y": 170.13829,
+        "Z": 555.5535
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 35.847145,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99572384,
+        "Y": 0.67055935,
+        "Z": -2.0542471
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -47.095116,
+        "Y": 114.29889,
+        "Z": 1496.118
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 40.416584,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8187912,
+        "Y": -0.2630345,
+        "Z": 2.3478122
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 297.586,
+        "Y": 27.560442,
+        "Z": -561.0091
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 10.5529785,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.998996,
+        "Y": 0.63989013,
+        "Z": -2.1218166
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 278.11508,
+        "Y": 29.443653,
+        "Z": -550.06976
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 22.958916,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0104293,
+        "Y": 0.32373333,
+        "Z": -1.2973104
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -748.5554,
+        "Y": 146.27713,
+        "Z": 343.40244
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony S.",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 56.971394,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0105331,
+        "Y": -0.29228467,
+        "Z": 1.8323305
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -380.49005,
+        "Y": 167.20795,
+        "Z": 1281.4972
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 110.64726,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.94250214,
+        "Y": 0.31920218,
+        "Z": 1.8746185
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -963.2086,
+        "Y": 196.65555,
+        "Z": 1022.26263
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan1982",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 3.336402,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99320364,
+        "Y": 0.84547293,
+        "Z": -2.1164992
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -720.43994,
+        "Y": 171.69739,
+        "Z": 569.8006
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198361832653",
+        "GuidsList": [
+          "76561198361832653"
+        ],
+        "Name": "Max",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 2.1497953,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.0038761,
+        "Y": 0.35895497,
+        "Z": 1.7891084
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -787.7821,
+        "Y": 153.83954,
+        "Z": 390.54446
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 16.977795,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.998976,
+        "Y": 0.63988984,
+        "Z": -2.12179
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 300.67535,
+        "Y": 43.924644,
+        "Z": -72.77409
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 8.087558,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.015373,
+        "Y": -0.29474568,
+        "Z": 1.8314676
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -833.24866,
+        "Y": 191.7427,
+        "Z": 718.15607
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561199129036039",
+        "GuidsList": [
+          "76561199129036039"
+        ],
+        "Name": "JackG6",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 69.16275,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.74468374,
+        "Y": -0.27784768,
+        "Z": 2.3049867
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -298.4712,
+        "Y": 153.16228,
+        "Z": 1320.2947
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 17.371958,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9932232,
+        "Y": 0.84547395,
+        "Z": -2.1165469
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -394.97205,
+        "Y": 172.06496,
+        "Z": 1255.5771
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198361832653",
+        "GuidsList": [
+          "76561198361832653"
+        ],
+        "Name": "Max",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 2.251332,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.02571,
+        "Y": 0.32391566,
+        "Z": -1.296875
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -219.77747,
+        "Y": 142.08499,
+        "Z": 1392.785
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 42.27642,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.84451765,
+        "Y": -0.2621928,
+        "Z": 2.3442318
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -309.9953,
+        "Y": 154.84436,
+        "Z": 1314.7604
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 31.1149,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99627924,
+        "Y": 0.65972555,
+        "Z": -2.0781121
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -305.9346,
+        "Y": 154.1324,
+        "Z": 1327.0447
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 101.76033,
+      "OtherCarId": 26,
+      "OtherDriver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.992036,
+        "Y": 0.83242476,
+        "Z": -1.7297258
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -310.8027,
+        "Y": 155.38326,
+        "Z": 1321.6111
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 87.277275,
+      "OtherCarId": 26,
+      "OtherDriver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.84456015,
+        "Y": -0.26218578,
+        "Z": 2.3442063
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -313.75385,
+        "Y": 154.90671,
+        "Z": 1318.967
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 100.3438,
+      "OtherCarId": 4,
+      "OtherDriver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.95018804,
+        "Y": 0.7658401,
+        "Z": -2.1187367
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -310.81775,
+        "Y": 155.38707,
+        "Z": 1321.6235
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 88.05569,
+      "OtherCarId": 17,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.000005893772,
+        "Y": -0.26136377,
+        "Z": 2.5827856
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -313.91592,
+        "Y": 154.9776,
+        "Z": 1318.6271
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 32.29677,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.015384,
+        "Y": -0.29474065,
+        "Z": 1.831482
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -307.03488,
+        "Y": 154.57397,
+        "Z": 1315.9895
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 51.140965,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9836311,
+        "Y": -0.28517187,
+        "Z": -0.5937347
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -282.8644,
+        "Y": 150.72566,
+        "Z": 1333.5629
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 11.750164,
+      "OtherCarId": 26,
+      "OtherDriver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.93145007,
+        "Y": 0.096959956,
+        "Z": -0.39440066
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -310.71286,
+        "Y": 154.91714,
+        "Z": 1319.02
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 16.913355,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99892414,
+        "Y": 0.63990253,
+        "Z": -2.1217756
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -305.12463,
+        "Y": 155.3019,
+        "Z": 1316.8046
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 8.293167,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 1.0257326,
+        "Y": 0.3239063,
+        "Z": -1.2968768
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -464.5381,
+        "Y": 110.46134,
+        "Z": 475.35474
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 30.567781,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.995497,
+        "Y": 0.64024407,
+        "Z": -2.1192524
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -293.8706,
+        "Y": 153.41023,
+        "Z": 1323.5659
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 94.32759,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.6469857,
+        "Y": -0.29120582,
+        "Z": 2.2749674
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -116.977066,
+        "Y": 126.9554,
+        "Z": 1512.2023
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 25.189362,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.000006058425,
+        "Y": -0.2613733,
+        "Z": 2.5827475
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -315.9078,
+        "Y": 154.6827,
+        "Z": 1323.8153
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 11.9458065,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.84453315,
+        "Y": -0.26219767,
+        "Z": 2.3442361
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -67.491585,
+        "Y": 119.33926,
+        "Z": 1540.3563
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "JSTN N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 8.668195,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9932106,
+        "Y": 0.8454839,
+        "Z": -2.1165402
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -318.75082,
+        "Y": 157.21178,
+        "Z": 1311.6658
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 6.8957095,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9932537,
+        "Y": 0.8454699,
+        "Z": -2.1165125
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -262.94064,
+        "Y": 148.84259,
+        "Z": 1352.8937
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 5.81942,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99323624,
+        "Y": 0.845482,
+        "Z": -2.1164598
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -263.55334,
+        "Y": 148.92262,
+        "Z": 1352.2935
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 11.695822,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.99898344,
+        "Y": 0.6398948,
+        "Z": -2.1218004
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -626.2052,
+        "Y": 194.00186,
+        "Z": 1212.9142
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 1.8569194,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0039032,
+        "Y": 0.35896772,
+        "Z": 1.7891397
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -257.10043,
+        "Y": 146.58492,
+        "Z": 1372.9824
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam24",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 127.77385,
+      "OtherCarId": 14,
+      "OtherDriver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.34925583,
+        "Y": -0.22511756,
+        "Z": -1.9028187
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -470.5596,
+        "Y": 180.21738,
+        "Z": 1238.426
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 126.70517,
+      "OtherCarId": 30,
+      "OtherDriver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam24",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.000013923835,
+        "Y": -0.21009688,
+        "Z": 2.5679636
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -470.58292,
+        "Y": 180.17139,
+        "Z": 1238.428
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 15.89069,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.011842196,
+        "Y": -0.26528904,
+        "Z": 2.5626726
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -447.7618,
+        "Y": 176.6456,
+        "Z": 1240.35
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion N.",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 11.869054,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -1.0001348,
+        "Y": 0.357732,
+        "Z": 1.7901974
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -247.11192,
+        "Y": 145.19882,
+        "Z": 1382.7771
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony S.",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 62.08823,
+      "OtherCarId": -1,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.2886629,
+        "Y": -0.09634714,
+        "Z": 2.4535232
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -935.47253,
+        "Y": 197.31192,
+        "Z": 1068.7499
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam24",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "ImpactSpeed": 13.976078,
+      "OtherCarId": 14,
+      "OtherDriver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "Melon",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9961767,
+        "Y": -0.2569308,
+        "Z": 1.4772799
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -455.08905,
+        "Y": 177.73688,
+        "Z": 1242.6414
+      },
+      "Timestamp": 0,
+      "AfterSessionEnd": false
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan1982",
+      "LapTime": 142507,
+      "Restrictor": 0,
+      "Sectors": [
+        63599,
+        39956,
+        38952
+      ],
+      "Timestamp": 194515,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam24",
+      "LapTime": 159913,
+      "Restrictor": 0,
+      "Sectors": [
+        76168,
+        40181,
+        43564
+      ],
+      "Timestamp": 199862,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 166011,
+      "Restrictor": 0,
+      "Sectors": [
+        91040,
+        39232,
+        35739
+      ],
+      "Timestamp": 214480,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "Melon",
+      "LapTime": 168436,
+      "Restrictor": 0,
+      "Sectors": [
+        90419,
+        41333,
+        36684
+      ],
+      "Timestamp": 220405,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198829166200",
+      "DriverName": "Lando",
+      "LapTime": 170052,
+      "Restrictor": 0,
+      "Sectors": [
+        91553,
+        42332,
+        36167
+      ],
+      "Timestamp": 231357,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 182850,
+      "Restrictor": 0,
+      "Sectors": [
+        103605,
+        41903,
+        37342
+      ],
+      "Timestamp": 237689,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198813193393",
+      "DriverName": "Akieush",
+      "LapTime": 156705,
+      "Restrictor": 0,
+      "Sectors": [
+        76946,
+        41283,
+        38476
+      ],
+      "Timestamp": 246756,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561199074556594",
+      "DriverName": "Arion N.",
+      "LapTime": 173912,
+      "Restrictor": 0,
+      "Sectors": [
+        93731,
+        44020,
+        36161
+      ],
+      "Timestamp": 301819,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "JSTN N.",
+      "LapTime": 246970,
+      "Restrictor": 0,
+      "Sectors": [
+        158397,
+        51030,
+        37543
+      ],
+      "Timestamp": 308511,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam24",
+      "LapTime": 125051,
+      "Restrictor": 0,
+      "Sectors": [
+        49897,
+        39739,
+        35415
+      ],
+      "Timestamp": 324912,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561198420004143",
+      "DriverName": "Sp3xtre",
+      "LapTime": 229303,
+      "Restrictor": 0,
+      "Sectors": [
+        149158,
+        43816,
+        36329
+      ],
+      "Timestamp": 333275,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 4,
+      "DriverGuid": "76561198264503508",
+      "DriverName": "Kai",
+      "LapTime": 222058,
+      "Restrictor": 0,
+      "Sectors": [
+        124633,
+        52254,
+        45171
+      ],
+      "Timestamp": 339964,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 127417,
+      "Restrictor": 0,
+      "Sectors": [
+        49711,
+        42057,
+        35649
+      ],
+      "Timestamp": 341899,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan1982",
+      "LapTime": 148100,
+      "Restrictor": 0,
+      "Sectors": [
+        50176,
+        60444,
+        37480
+      ],
+      "Timestamp": 342613,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "JackG6",
+      "LapTime": 270842,
+      "Restrictor": 0,
+      "Sectors": [
+        185234,
+        48088,
+        37520
+      ],
+      "Timestamp": 345124,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198829166200",
+      "DriverName": "Lando",
+      "LapTime": 127768,
+      "Restrictor": 0,
+      "Sectors": [
+        51345,
+        40751,
+        35672
+      ],
+      "Timestamp": 359128,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume G.",
+      "LapTime": 138525,
+      "Restrictor": 0,
+      "Sectors": [
+        63847,
+        38853,
+        35825
+      ],
+      "Timestamp": 373148,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 2,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 139693,
+      "Restrictor": 0,
+      "Sectors": [
+        50913,
+        44271,
+        44509
+      ],
+      "Timestamp": 377380,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198813193393",
+      "DriverName": "Akieush",
+      "LapTime": 131890,
+      "Restrictor": 0,
+      "Sectors": [
+        53586,
+        42506,
+        35798
+      ],
+      "Timestamp": 378640,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561198361832653",
+      "DriverName": "Max",
+      "LapTime": 203091,
+      "Restrictor": 0,
+      "Sectors": [
+        123292,
+        40972,
+        38827
+      ],
+      "Timestamp": 399746,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "Melon",
+      "LapTime": 186202,
+      "Restrictor": 0,
+      "Sectors": [
+        86469,
+        40711,
+        59022
+      ],
+      "Timestamp": 406604,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561199074556594",
+      "DriverName": "Arion N.",
+      "LapTime": 126938,
+      "Restrictor": 0,
+      "Sectors": [
+        50623,
+        40496,
+        35819
+      ],
+      "Timestamp": 428749,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam24",
+      "LapTime": 123325,
+      "Restrictor": 0,
+      "Sectors": [
+        49543,
+        38371,
+        35411
+      ],
+      "Timestamp": 448238,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198420004143",
+      "DriverName": "Sp3xtre",
+      "LapTime": 124538,
+      "Restrictor": 0,
+      "Sectors": [
+        50099,
+        38727,
+        35712
+      ],
+      "Timestamp": 457810,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 124264,
+      "Restrictor": 0,
+      "Sectors": [
+        49983,
+        38601,
+        35680
+      ],
+      "Timestamp": 466163,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony S.",
+      "LapTime": 167068,
+      "Restrictor": 0,
+      "Sectors": [
+        82310,
+        41266,
+        43492
+      ],
+      "Timestamp": 470139,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "JSTN N.",
+      "LapTime": 175830,
+      "Restrictor": 0,
+      "Sectors": [
+        98457,
+        40801,
+        36572
+      ],
+      "Timestamp": 484340,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan1982",
+      "LapTime": 150640,
+      "Restrictor": 0,
+      "Sectors": [
+        68690,
+        41067,
+        40883
+      ],
+      "Timestamp": 493251,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198829166200",
+      "DriverName": "Lando",
+      "LapTime": 136688,
+      "Restrictor": 0,
+      "Sectors": [
+        51346,
+        46076,
+        39266
+      ],
+      "Timestamp": 495843,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume G.",
+      "LapTime": 124443,
+      "Restrictor": 0,
+      "Sectors": [
+        50080,
+        38736,
+        35627
+      ],
+      "Timestamp": 497591,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198264503508",
+      "DriverName": "Kai",
+      "LapTime": 171257,
+      "Restrictor": 0,
+      "Sectors": [
+        91252,
+        42098,
+        37907
+      ],
+      "Timestamp": 511219,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198813193393",
+      "DriverName": "Akieush",
+      "LapTime": 137526,
+      "Restrictor": 0,
+      "Sectors": [
+        57853,
+        42075,
+        37598
+      ],
+      "Timestamp": 516173,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 5,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "JackG6",
+      "LapTime": 172659,
+      "Restrictor": 0,
+      "Sectors": [
+        55208,
+        56755,
+        60696
+      ],
+      "Timestamp": 517784,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198361832653",
+      "DriverName": "Max",
+      "LapTime": 126162,
+      "Restrictor": 0,
+      "Sectors": [
+        50768,
+        39727,
+        35667
+      ],
+      "Timestamp": 525910,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 3,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "Melon",
+      "LapTime": 150045,
+      "Restrictor": 0,
+      "Sectors": [
+        49307,
+        53218,
+        47520
+      ],
+      "Timestamp": 556648,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 186054,
+      "Restrictor": 0,
+      "Sectors": [
+        104648,
+        45122,
+        36284
+      ],
+      "Timestamp": 563433,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561199074556594",
+      "DriverName": "Arion N.",
+      "LapTime": 136658,
+      "Restrictor": 0,
+      "Sectors": [
+        52617,
+        46575,
+        37466
+      ],
+      "Timestamp": 565413,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 4,
+      "DriverGuid": "76561198420004143",
+      "DriverName": "Sp3xtre",
+      "LapTime": 134624,
+      "Restrictor": 0,
+      "Sectors": [
+        52445,
+        45172,
+        37007
+      ],
+      "Timestamp": 592430,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony S.",
+      "LapTime": 125533,
+      "Restrictor": 0,
+      "Sectors": [
+        50369,
+        39439,
+        35725
+      ],
+      "Timestamp": 595674,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 135532,
+      "Restrictor": 0,
+      "Sectors": [
+        57470,
+        41509,
+        36553
+      ],
+      "Timestamp": 601696,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198264503508",
+      "DriverName": "Kai",
+      "LapTime": 140762,
+      "Restrictor": 0,
+      "Sectors": [
+        54930,
+        49540,
+        36292
+      ],
+      "Timestamp": 651980,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198361832653",
+      "DriverName": "Max",
+      "LapTime": 134397,
+      "Restrictor": 0,
+      "Sectors": [
+        50229,
+        46745,
+        37423
+      ],
+      "Timestamp": 660305,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan1982",
+      "LapTime": 174682,
+      "Restrictor": 0,
+      "Sectors": [
+        49960,
+        86112,
+        38610
+      ],
+      "Timestamp": 667932,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 4,
+      "DriverGuid": "76561198813193393",
+      "DriverName": "Akieush",
+      "LapTime": 154687,
+      "Restrictor": 0,
+      "Sectors": [
+        50305,
+        65565,
+        38817
+      ],
+      "Timestamp": 670853,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "JackG6",
+      "LapTime": 162675,
+      "Restrictor": 0,
+      "Sectors": [
+        83169,
+        42353,
+        37153
+      ],
+      "Timestamp": 680459,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam24",
+      "LapTime": 238514,
+      "Restrictor": 0,
+      "Sectors": [
+        158180,
+        41869,
+        38465
+      ],
+      "Timestamp": 686753,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 2,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "JSTN N.",
+      "LapTime": 202607,
+      "Restrictor": 0,
+      "Sectors": [
+        79568,
+        83080,
+        39959
+      ],
+      "Timestamp": 686942,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561199074556594",
+      "DriverName": "Arion N.",
+      "LapTime": 127353,
+      "Restrictor": 0,
+      "Sectors": [
+        51374,
+        40186,
+        35793
+      ],
+      "Timestamp": 692759,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume G.",
+      "LapTime": 207805,
+      "Restrictor": 0,
+      "Sectors": [
+        132520,
+        39348,
+        35937
+      ],
+      "Timestamp": 705396,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 148963,
+      "Restrictor": 0,
+      "Sectors": [
+        63854,
+        46999,
+        38110
+      ],
+      "Timestamp": 712395,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "Melon",
+      "LapTime": 172718,
+      "Restrictor": 0,
+      "Sectors": [
+        94895,
+        40942,
+        36881
+      ],
+      "Timestamp": 729362,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony S.",
+      "LapTime": 138556,
+      "Restrictor": 0,
+      "Sectors": [
+        58758,
+        41319,
+        38479
+      ],
+      "Timestamp": 734230,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 167882,
+      "Restrictor": 0,
+      "Sectors": [
+        88795,
+        40122,
+        38965
+      ],
+      "Timestamp": 769578,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan1982",
+      "LapTime": 124633,
+      "Restrictor": 0,
+      "Sectors": [
+        50226,
+        38614,
+        35793
+      ],
+      "Timestamp": 792563,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198420004143",
+      "DriverName": "Sp3xtre",
+      "LapTime": 207858,
+      "Restrictor": 0,
+      "Sectors": [
+        103732,
+        54706,
+        49420
+      ],
+      "Timestamp": 800287,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561198264503508",
+      "DriverName": "Kai",
+      "LapTime": 163915,
+      "Restrictor": 0,
+      "Sectors": [
+        85935,
+        41705,
+        36275
+      ],
+      "Timestamp": 815894,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "JackG6",
+      "LapTime": 140026,
+      "Restrictor": 0,
+      "Sectors": [
+        51399,
+        41813,
+        46814
+      ],
+      "Timestamp": 820483,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume G.",
+      "LapTime": 127639,
+      "Restrictor": 0,
+      "Sectors": [
+        50676,
+        40068,
+        36895
+      ],
+      "Timestamp": 833033,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561199074556594",
+      "DriverName": "Arion N.",
+      "LapTime": 141039,
+      "Restrictor": 0,
+      "Sectors": [
+        50858,
+        45315,
+        44866
+      ],
+      "Timestamp": 833798,
+      "Tyre": "M",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198361832653",
+      "DriverName": "Max",
+      "LapTime": 177610,
+      "Restrictor": 0,
+      "Sectors": [
+        84874,
+        41467,
+        51269
+      ],
+      "Timestamp": 837912,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198813193393",
+      "DriverName": "Akieush",
+      "LapTime": 173202,
+      "Restrictor": 0,
+      "Sectors": [
+        93399,
+        42875,
+        36928
+      ],
+      "Timestamp": 844070,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "JSTN N.",
+      "LapTime": 160567,
+      "Restrictor": 0,
+      "Sectors": [
+        82825,
+        41323,
+        36419
+      ],
+      "Timestamp": 847506,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 1,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 141315,
+      "Restrictor": 0,
+      "Sectors": [
+        50689,
+        42925,
+        47701
+      ],
+      "Timestamp": 853709,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam24",
+      "LapTime": 198259,
+      "Restrictor": 0,
+      "Sectors": [
+        120810,
+        40275,
+        37174
+      ],
+      "Timestamp": 885016,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 4,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "Melon",
+      "LapTime": 161611,
+      "Restrictor": 0,
+      "Sectors": [
+        49219,
+        55571,
+        56821
+      ],
+      "Timestamp": 890971,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 123780,
+      "Restrictor": 0,
+      "Sectors": [
+        49791,
+        38529,
+        35460
+      ],
+      "Timestamp": 893360,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony S.",
+      "LapTime": 165696,
+      "Restrictor": 0,
+      "Sectors": [
+        89483,
+        40379,
+        35834
+      ],
+      "Timestamp": 899931,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198264503508",
+      "DriverName": "Kai",
+      "LapTime": 126104,
+      "Restrictor": 0,
+      "Sectors": [
+        50343,
+        39833,
+        35928
+      ],
+      "Timestamp": 941995,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan1982",
+      "LapTime": 157055,
+      "Restrictor": 0,
+      "Sectors": [
+        81199,
+        39452,
+        36404
+      ],
+      "Timestamp": 949616,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume G.",
+      "LapTime": 124458,
+      "Restrictor": 0,
+      "Sectors": [
+        50082,
+        38699,
+        35677
+      ],
+      "Timestamp": 957491,
+      "Tyre": "S",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 0,
+      "BestLap": 123325,
+      "CarId": 30,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam24",
+      "Restrictor": 0,
+      "TotalTime": 883706,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 123780,
+      "CarId": 21,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "Restrictor": 0,
+      "TotalTime": 892054,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 124443,
+      "CarId": 0,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume G.",
+      "Restrictor": 0,
+      "TotalTime": 956208,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 124538,
+      "CarId": 19,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198420004143",
+      "DriverName": "Sp3xtre",
+      "Restrictor": 0,
+      "TotalTime": 798971,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 124633,
+      "CarId": 1,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan1982",
+      "Restrictor": 0,
+      "TotalTime": 948296,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 125533,
+      "CarId": 25,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony S.",
+      "Restrictor": 0,
+      "TotalTime": 898614,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 126104,
+      "CarId": 29,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198264503508",
+      "DriverName": "Kai",
+      "Restrictor": 0,
+      "TotalTime": 940690,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 126162,
+      "CarId": 2,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198361832653",
+      "DriverName": "Max",
+      "Restrictor": 0,
+      "TotalTime": 836601,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 126938,
+      "CarId": 26,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561199074556594",
+      "DriverName": "Arion N.",
+      "Restrictor": 0,
+      "TotalTime": 691448,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 127768,
+      "CarId": 12,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198829166200",
+      "DriverName": "Lando",
+      "Restrictor": 0,
+      "TotalTime": 494513,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 131890,
+      "CarId": 4,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198813193393",
+      "DriverName": "Akieush",
+      "Restrictor": 0,
+      "TotalTime": 842740,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 148963,
+      "CarId": 11,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "Restrictor": 0,
+      "TotalTime": 711079,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 160567,
+      "CarId": 17,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198987212773",
+      "DriverName": "JSTN N.",
+      "Restrictor": 0,
+      "TotalTime": 846200,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 162675,
+      "CarId": 15,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561199129036039",
+      "DriverName": "JackG6",
+      "Restrictor": 0,
+      "TotalTime": 679144,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 172718,
+      "CarId": 14,
+      "CarModel": "ks_porsche_911_gt3_r_2016",
+      "DriverGuid": "76561198418665166",
+      "DriverName": "Melon",
+      "Restrictor": 0,
+      "TotalTime": 728051,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "GridPosition": 0
+    }
+  ],
+  "Penalties": null,
+  "TrackConfig": "",
+  "TrackName": "rt_bathurst",
+  "Type": "QUALIFY",
+  "Date": "2023-04-09T16:39:00+02:00",
+  "SessionFile": "2023_4_9_16_39_QUALIFY",
+  "SessionConfig": {
+    "session_type": 0,
+    "name": "",
+    "time": 0,
+    "laps": 0,
+    "is_open": 0,
+    "wait_time": 0,
+    "visibility_mode": 0,
+    "qualifying_type": 0,
+    "qualifying_number_of_laps_to_average": 0,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "",
+  "RaceWeekendID": ""
+}

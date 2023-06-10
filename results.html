@@ -17,6 +17,26 @@
           $("#footer").load("/footer.html");
          });
     </script>
+    <script>
+        fetch("/assets/json/R4_INDY_RACE.json")
+        .then(response => {
+            return response.json();
+        })
+        .then(race4 => console.log(race4));
+
+        buildTable(race4)
+
+        function buildTable(race4) {
+            var table = document.getElementById('round4')
+
+            for (var i = 0; i < race4.length; i++) {
+                var row = `<tr>
+                                <td>${race4[i].Result}</td>
+                           </tr>`
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">     <!--for formatting json-->
 </head>
 
 
@@ -840,172 +860,182 @@
                 <div class="grid-element" id="grid-title">Strategy</div>
 
                 <div class="grid-element">1</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Focuser</div>
+                <div class="grid-element">2</div>
+                <div class="grid-element">+1</div>
+                <div class="grid-element">2:29:46.078</div>
+                <div class="grid-element">3:12.990</div>
+                <div class="grid-element">M</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">2</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Maxfan</div>
+                <div class="grid-element">1</div>
+                <div class="grid-element">-1</div>
+                <div class="grid-element">+46.133</div>
+                <div class="grid-element">3:11.444</div>
+                <div class="grid-element">M</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">3</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Melon</div>
+                <div class="grid-element">3</div>
+                <div class="grid-element">0</div>
+                <div class="grid-element">+1 Lap</div>
+                <div class="grid-element">3:13.376</div>
+                <div class="grid-element">M</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">4</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Gerikeee</div>
+                <div class="grid-element">5</div>
+                <div class="grid-element">+1</div>
+                <div class="grid-element">+2 Laps</div>
+                <div class="grid-element">3:19.707</div>
+                <div class="grid-element">H</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">5</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">OTLR_Jack</div>
+                <div class="grid-element">6</div>
+                <div class="grid-element">+1</div>
+                <div class="grid-element">+3 Laps</div>
+                <div class="grid-element">3:33.532</div>
+                <div class="grid-element">M</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">6</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Tony Seroka</div>
+                <div class="grid-element">7</div>
                 <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">+4 Laps</div>
+                <div class="grid-element">3:30.882</div>
+                <div class="grid-element">S</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">7</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Veixel</div>
+                <div class="grid-element">10</div>
                 <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">+4 Laps</div>
+                <div class="grid-element">3:34.840</div>
+                <div class="grid-element">M</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">8</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Saad</div>
+                <div class="grid-element">9</div>
+                <div class="grid-element">+1</div>
+                <div class="grid-element">+4 Laps</div>
+                <div class="grid-element">3:35.158</div>
+                <div class="grid-element">M</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">9</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Matt Arellano</div>
+                <div class="grid-element">11</div>
+                <div class="grid-element">+2</div>
+                <div class="grid-element">+5 Laps</div>
+                <div class="grid-element">3:38.499</div>
+                <div class="grid-element">S</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">10</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Gideon L</div>
+                <div class="grid-element">-</div>
+                <div class="grid-element">+15</div>
+                <div class="grid-element">+5 Laps</div>
+                <div class="grid-element">3:30.571</div>
+                <div class="grid-element">S</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">11</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Arion</div>
+                <div class="grid-element">12</div>
+                <div class="grid-element">+1</div>
+                <div class="grid-element">+7 Laps</div>
+                <div class="grid-element">3:52.095</div>
+                <div class="grid-element">S</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">12</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Ricfan</div>
+                <div class="grid-element">14</div>
+                <div class="grid-element">+2</div>
+                <div class="grid-element">+7 Laps</div>
+                <div class="grid-element">3:52.636</div>
+                <div class="grid-element">S</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">13</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Justin Janson</div>
+                <div class="grid-element">13</div>
+                <div class="grid-element">0</div>
+                <div class="grid-element">+9 Laps</div>
+                <div class="grid-element">3:52.036</div>
+                <div class="grid-element">S</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">14</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Dopi</div>
+                <div class="grid-element">15</div>
+                <div class="grid-element">-1</div>
+                <div class="grid-element">+9 Laps</div>
+                <div class="grid-element">3:54.857</div>
+                <div class="grid-element">S</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">15</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Akieush</div>
+                <div class="grid-element">16</div>
+                <div class="grid-element">-2</div>
+                <div class="grid-element">+10 Laps</div>
+                <div class="grid-element">3:57.593</div>
+                <div class="grid-element">S</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">16</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Danottok</div>
+                <div class="grid-element">17</div>
+                <div class="grid-element">-1</div>
+                <div class="grid-element">DNF</div>
+                <div class="grid-element">4:44.455</div>
+                <div class="grid-element">S</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
 
                 <div class="grid-element">17</div>
+                <div class="grid-element">Miska Heikkilä</div>
+                <div class="grid-element">8</div>
+                <div class="grid-element">-10</div>
+                <div class="grid-element">DNF</div>
+                <div class="grid-element">3:47.731</div>
+                <div class="grid-element">M</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+
+                <div class="grid-element">18</div>
+                <div class="grid-element">Adam24</div>
+                <div class="grid-element">4</div>
+                <div class="grid-element">-14</div>
+                <div class="grid-element">DSQ</div>
+                <div class="grid-element">3:15.030</div>
+                <div class="grid-element">M</div>
                 <div class="grid-element"></div>
                 <div class="grid-element"></div>
             </div>

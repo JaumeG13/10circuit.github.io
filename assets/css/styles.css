@@ -9,7 +9,7 @@ section.index {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('../images/background/lemans.jpg');
+    background-image: url('/assets/images/background/nords2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -89,8 +89,8 @@ section.grid-container {
     justify-content: center;
 }
 section.grid-container h1 {
-    background-image: url('../images/background/lemans.jpg');
-    background-position-y: 230%;
+    background-image: url('/assets/images/background/nords2.jpg');
+    background-position-y: 190%;
     background-position-x: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -119,10 +119,10 @@ div.toggle-button:hover {
     background-color: #c18794;
     cursor: pointer;
 }
-#button4 {          /*CHANGE AFTER EACH EVENT*/
+#button5 {          /*CHANGE AFTER EACH EVENT*/
     background-color: #c18794;
 }
-#round1, #round2, #round3, /*#round4,*/ #round5, #round6, #round7, #round8, #round9, #round10 { 
+#round1, #round2, #round3, #round4, /*#round5,*/ #round6, #round7, #round8, #round9, #round10 { 
     display: none;  /*CHANGE AFTER EACH EVENT*/
 }       
 /*end of toggle buttons*/
@@ -230,8 +230,8 @@ div.round {
     align-items: center;
     text-align: center;
 }
-div.round img {
-    height: 40px;
+div.round .logo {
+    padding: -10px;
 }
 div.round-number {
     font-weight: 700;
@@ -250,7 +250,7 @@ div.round div {
 @media screen and (max-width: 950px) {
     /*index*/
     div.section-title {
-        top: 50%;
+        top: 25%;
     }
     .section-title #title {
         font-size: 2em;
@@ -271,10 +271,10 @@ div.round div {
     div.standings-race {       /*ONLY FOR STANDINGS PAGE*/
         width: 100%;
         margin: 0;
-    }/*
-    section.grid-container h1 {         dis shit no work idk why
-        background-position-y: 200%;
-    }*/
+    }
+    section.grid-container h1 {
+        top: 100px;
+    }
     /*end of standings*/
 
     /*results*/
