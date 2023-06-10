@@ -137,10 +137,10 @@ div.standings-race {       /*ONLY FOR STANDINGS PAGE*/
     margin-bottom: 50px;
 }
 div.race-results {          /*ONLY FOR RESULTS PAGE*/
-    width: 70%;
-    margin: 0 15%;
+    width: 50%;
+    margin: 0 25%;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     row-gap: 5px;
     margin-bottom: 50px;
 }
@@ -152,7 +152,7 @@ div.grid-header {
     text-align: center;
 }
 div.grid-header#results {
-    grid-column: 1/10;
+    grid-column: 1/7;
 }
 div.grid-element {
     border-bottom: 1px solid white;
@@ -163,12 +163,6 @@ div#grid-title {
     font-weight: 700;
 }
 /*end of standings content*/
-
-/*results content*/
-div.race-results#round4 {
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-}
-/*end of results content*/
 /* END OF STANDINGS AND RESULTS */
 
 
