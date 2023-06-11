@@ -163,6 +163,14 @@ div#grid-title {
     font-weight: 700;
 }
 /*end of standings content*/
+/*results*/
+#round5, #round10 {     /*add a column for endurance (class column)*/
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+#fastest-lap {
+    color: #492833;
+}
+/*end of results*/
 /* END OF STANDINGS AND RESULTS */
 
 
