@@ -267,6 +267,9 @@ div.round div {
     div.gallery-cell {
         width: 90%;
     }
+    div.section-bg-image {
+        background-position-x: 12%;
+    }
     /*end of index*/
 
     /*standings*/
@@ -276,8 +279,8 @@ div.round div {
     }
     section.grid-container h1 {
         top: 100px;
-        background-position-y: -2em;
-        background-position-x: -10em;
+        background-position-y: -3em;
+        background-position-x: -13em;
     }
     /*end of standings*/
 
