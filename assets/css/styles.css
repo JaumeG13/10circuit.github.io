@@ -276,8 +276,8 @@ div.round div {
     }
     section.grid-container h1 {
         top: 100px;
-        background-position-x: 50%;
-        background-position-y: 10%;
+        background-position-y: -2em;
+        background-position-x: -10em;
     }
     /*end of standings*/
 
@@ -285,6 +285,7 @@ div.round div {
     div.race-results {          /*ONLY FOR RESULTS PAGE*/
         width: 100%;
         margin: 0;
+        font-size: 0.65em;
     }
     /*end of results*/
 
