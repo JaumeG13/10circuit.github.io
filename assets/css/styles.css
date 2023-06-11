@@ -127,7 +127,7 @@ div.toggle-button:hover {
 }       
 /*end of toggle buttons*/
 
-/*standings content*/
+/*standings*/
 div.standings-race {       /*ONLY FOR STANDINGS PAGE*/
     width: 50%;
     margin: 0 25%;
@@ -162,7 +162,7 @@ div.grid-element {
 div#grid-title {
     font-weight: 700;
 }
-/*end of standings content*/
+/*end of standings*/
 /*results*/
 #round5, #round10 {     /*add a column for endurance (class column)*/
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -276,6 +276,8 @@ div.round div {
     }
     section.grid-container h1 {
         top: 100px;
+        background-position-x: 50%;
+        background-position-y: 10%;
     }
     /*end of standings*/
 
