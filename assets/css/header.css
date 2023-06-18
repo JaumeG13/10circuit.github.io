@@ -20,15 +20,13 @@ nav {
     align-items: center;
     height: 10vh;
 }
-
 .logo a { /*main logo*/
-    font-size: 24px;
+    font-size: 1.5em;
 }
 .logo img { /*main logo*/
     width: 5em;
     padding: 10px;
 }
-
 .menu {
     display: flex;
     justify-content: center;
@@ -42,21 +40,27 @@ nav {
     transition: 0.2s all ease-in-out;
     color: #fff;
 }
-
 .menu a:hover {
     opacity: 1;
     color: #c18794;
 }
-
+.menu #register {
+    background-color: #c18794;
+    border-radius: 25px;
+    margin: 0 20px 0 10px;
+}
+.menu #register:hover {
+    color: white;
+    padding: 10px 18px;     /*increase (default 7px 15px) by 3px*/
+    margin: 0 17px 0 7px;  /*decrease (default 0 20px 0 10px) by 3px*/
+}
 .menu-icon {
     display: none;
     padding-right: 25px;
 }
-
 #menu-toggle {
     display: none;
 }
-
 #menu-toggle:checked ~ .menu {
     transform: scale(1, 1);
 }

@@ -36,13 +36,16 @@ Inside the images folder there's multiple "categories", if you will:
 │  ­&nbsp;­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br>
 │  ­&nbsp;­&nbsp;­&nbsp;   ├─ logos/ <br>
 │  ­&nbsp;­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br>
-│  ­&nbsp;­&nbsp;­&nbsp;   └─ pfp/ <br>
-│  ­&nbsp;­&nbsp;­&nbsp;     ­&nbsp;­&nbsp;­&nbsp;­&nbsp;­&nbsp;­&nbsp; └─ ... <br>
+│  ­&nbsp;­&nbsp;­&nbsp;   ├─ pfp/ <br>
+│  ­&nbsp;­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br> 
+│  ­&nbsp;­&nbsp;­&nbsp;   └─ special-events <br>
+│  ­&nbsp;­&nbsp;­&nbsp;     ­&nbsp;­&nbsp;­&nbsp;­&nbsp;­&nbsp;­&nbsp; └─ ... <br> 
 ├─ index.html <br>
 ├─ standings.html <br>
 ├─ results.html <br>
 ├─ driver-profiles.html <br>
 ├─ schedule.html <br>
+├─ servers.html <br>
 ├─ header.html <br>
 ├─ footer.html <br>
 ├─ CNAME <br>

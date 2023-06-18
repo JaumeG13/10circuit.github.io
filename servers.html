@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10 Circuit</title>
+    <link rel="shortcut icon" href="/assets/images/logos/10c.png">
+    <link rel="stylesheet" href="/assets/css/structure-styling.css">
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">    <!-- Import font awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.css">           <!-- Gallery slider code -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.pkgd.js"></script>              <!-- Gallery slider code -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>     <!--jquery code to import header and footer-->
+    <script type="text/javascript">                 //jquery code to import header and footer
+        $(document).ready(function(){
+          $("#header").load("/header.html");
+          $("#footer").load("/footer.html");
+         });
+    </script>
+</head>
+
+
+
+<body>
+    <div class="main-container">
+        
+        <div id="header"></div>
+
+        <section class="servers">
+            <div class="server">
+                <div class="server-info">
+                    <div class="server-title"><h1>Championship Server</h1></div>
+
+                    <p>
+                        Our championship races take place on Saturdays at 16:30 BST (UK time)
+                    </p>
+
+                    <div class="server-content">
+                        <table>
+                            <tr>
+                                <td id="left">Car:</td>
+                                <td id="right">Porsche 911 GT3 R 2016</td>
+                            </tr>
+                            <tr>
+                                <td id="left">Track:</td>
+                                <td id="right">Nordschleife - Endurance OSRW</td>
+                            </tr>
+                            <tr>
+                                <td id="left">Qualifying:</td>
+                                <td id="right">Grid will decided by the times set during the week of the race</td>
+                            </tr>
+                            <tr>
+                                <td id="left">Race:</td>
+                                <td id="right">45 minutes</td>
+                            </tr>
+                            <tr>
+                                <td id="left">Mandatory pit:</td>
+                                <td id="right">Yes</td>
+                            </tr>
+                            <tr>
+                                <td id="left">Start time:</td>
+                                <td id="right">16:30 BST (UK time)</td>
+                            </tr>
+                            <tr>
+                                <td id="left">Damage:</td>
+                                <td id="right">30%</td>
+                            </tr>
+                        </table>
+                    </div>
+                    
+                    <img src="/assets/images/background/nords.jpg" class="championship-image">
+
+                    <div class="timing-buttons">
+                        <a href="http://ac.10circuit.com:8773/live-timing?server=0" target="_blank" class="timing-button">Practice server</a>
+                        <a href="http://ac.10circuit.com:8773/live-timing?server=1" target="_blank" class="timing-button">Race server</a>
+                    </div>
+                </div>
+
+                <div class="server-image" id="championship"></div>
+            </div>
+            
+            <div class="server">
+                <div class="server-image" id="casual-races"></div>
+                
+                <div class="server-info">
+                    <div class="server-title"><h1>Casual races</h1></div>
+
+                    <p>
+                        Every Sunday from 18:00 to 21:00 BST (UK time).<br>
+                        The server will be set to open at 18:00 and run continuously until 21:00
+                    </p>
+
+                    <div class="server-content">
+                        <table>
+                            <tr>
+                                <td id="left">Practice:</td>
+                                <td id="right">5 minutes</td>
+                            </tr>
+                            <tr>
+                                <td id="left">Race:</td>
+                                <td id="right">10 Laps</td>
+                            </tr>
+                            <tr>
+                                <td id="left">Damage:</td>
+                                <td id="right">10%</td>
+                            </tr>
+                        </table>
+                        
+                        <div>
+                            <ul>
+                                <li style="list-style-position: outside; list-style-type: none;">Some of our planned events:</li>
+                                <li>Praga R1 at Dubai Autodrome</li>
+                                <li>Formula 3 at Suzuka</li>
+                                <li>Indycar at Indianapolis (Road course)</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <img src="/assets/images/special-events/praga_dubai.jpg" class="casual-races-image">
+
+                    <div class="timing-buttons">
+                        <a href="http://ac.10circuit.com:8773/live-timing?server=2" target="_blank" class="timing-button">Casual races server</a>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="server">
+                <div class="server-info">
+                    <div class="server-title"><h1>Time trial</h1></div>
+
+                    <div class="server-content">
+                        <p>
+                            Our first Time Trial event will be held at Pikes Peak, in the form of a<br>
+                            7-day Qualifying session starting on Monday 19th of June to Sunday 25th.<br>
+                        </p>
+
+                        <table>
+                            <tr>
+                                <td id="left">Car:</td>
+                                <td id="right">RedBull X2010</td>
+                            </tr>
+                            <tr>
+                                <td id="left">Track:</td>
+                                <td id="right">Pikes Peak</td>
+                            </tr>
+                            <tr>
+                                <td id="left">Prize:</td>
+                                <td id="right">10$</td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <img src="/assets/images/special-events/x2010_pikes.jpg" class="timetrial-image">
+
+                    <div class="timing-buttons">
+                        <a href="http://ac.10circuit.com:8773/live-timing?server=3" target="_blank" class="timing-button">Time trial server</a>
+                    </div>
+                </div>
+
+                <div class="server-image" id="timetrial"></div>
+            </div>
+        </section>
+
+        <div id="footer"></div>
+    </div>
+</body>
+</html>

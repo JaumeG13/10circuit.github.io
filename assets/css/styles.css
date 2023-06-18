@@ -9,7 +9,7 @@ section.index {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/nords2.jpg');
+    background-image: url('/assets/images/background/nords2.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -73,6 +73,11 @@ ol.flickity-page-dots .dot {
     background: #c18794;
 }
 /*end of recent events gallery*/
+/*about*/
+div.about {
+    width: 100%;
+    background-color: #c18794;
+}
 /* END OF INDEX */
 
 
@@ -88,8 +93,8 @@ section.grid-container {
     white-space: nowrap;
     justify-content: center;
 }
-section.grid-container h1 {
-    background-image: url('/assets/images/background/nords2.jpg');
+section.grid-container h1 {     /*change after every event*/
+    background-image: url('/assets/images/background/nords2.jpg');  
     background-position-y: 190%;
     background-position-x: 50%;
     background-repeat: no-repeat;
@@ -119,11 +124,11 @@ div.toggle-button:hover {
     background-color: #c18794;
     cursor: pointer;
 }
-#button5 {          /*CHANGE AFTER EACH EVENT*/
+#button5 {          /*change after every event*/
     background-color: #c18794;
 }
 #round1, #round2, #round3, #round4, /*#round5,*/ #round6, #round7, #round8, #round9, #round10 { 
-    display: none;  /*CHANGE AFTER EACH EVENT*/
+    display: none;  /*change after every event*/
 }       
 /*end of toggle buttons*/
 
@@ -248,6 +253,105 @@ div.round div {
 
 
 
+/* SERVERS */
+section.servers {
+    display: flex;
+    flex-direction: column;
+    font-size: larger;
+}
+section.servers h1 {
+    font-size: 40px;
+}
+div.server {
+    min-height: 45vh;
+    display: flex;
+    flex-direction: row;
+}
+div.server-image {
+    width: 50%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+div.server-image#championship {
+    background-image: url('/assets/images/background/nords_cropped.jpg');
+    background-position-x: right;
+    background-position-y: -250px;
+}
+img.championship-image {
+    display: none;
+}
+div.server-image#casual-races {
+    background-image: url('/assets/images/special-events/praga_dubai_cropped.jpg');
+    background-position-x: left;
+}
+img.casual-races-image {
+    display: none;
+}
+div.server-image#timetrial {
+    background-image: url('/assets/images/special-events/x2010_pikes_cropped.jpg');
+    background-position-x: right;
+    background-position-y: center;
+}
+img.timetrial-image {
+    display: none;
+}
+div.server-info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    gap: 10px;
+}
+.server-info p, .server-info li {
+    text-transform: none;
+}
+div.server-content {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-transform: none;
+    gap: 10px;
+}
+div.server-content table {
+    align-self: center;
+}
+table td#left {
+    text-align: right;
+    padding-right: 8px;
+}
+table td#right {
+    text-align: left;
+}
+div.server-content ul {
+    margin: 0 30%;
+}
+div.server-content li {
+    list-style-type: disc;
+    list-style-position: inside;
+    text-align: left;
+}
+div.timing-buttons {
+    display: flex;
+    text-align: center;
+}
+div.timing-buttons a {
+    background-color: #492833;
+    width: 100%;
+    padding: 20px;
+    transition: 250ms;
+}
+div.timing-buttons a:hover {
+    background-color: #70394b;
+    transition: 250ms;
+}
+/* END OF SERVERS */
+
+
+
+
+
 /* MOBILE VIEW */
 @media screen and (max-width: 950px) {
     /*index*/
@@ -267,7 +371,7 @@ div.round div {
     div.gallery-cell {
         width: 90%;
     }
-    div.section-bg-image {
+    div.section-bg-image {  /*change after every event*/
         background-position-x: 12%;
     }
     /*end of index*/
@@ -277,7 +381,7 @@ div.round div {
         width: 100%;
         margin: 0;
     }
-    section.grid-container h1 {
+    section.grid-container h1 {     /*change after every event*/
         top: 100px;
         background-position-y: -4em;
         background-position-x: -2em;
@@ -308,4 +412,48 @@ div.round div {
         display: none;
     }
     /*end of schedule*/
+
+    /*servers*/
+    div.server {
+        flex-direction: column;
+        font-size: smaller;
+        min-height: auto;
+    }
+    div.server h1 {
+        font-size: 30px;
+    }
+    div.server-image {
+        width: 100%;
+    }
+    div.server-info {
+        width: 100%;
+    }
+    img.championship-image {
+        display: block;
+        width: 100vw;
+        object-fit: cover;
+    }
+    img.casual-races-image {
+        display: block;
+        width: 120vw;
+        object-fit: cover;
+        overflow: hidden;
+    }
+    img.timetrial-image {
+        display: block;
+        width: 100vw;
+    }
+    div.timing-buttons {
+        margin-top: -15px;
+    }
+    div.server-content table {
+        font-size: small;
+    }
+    table td#left {
+        width: 35%;
+    }
+    div.server-content ul {
+        margin: 0 10%;
+    }
+    /*end of servers*/
 }
