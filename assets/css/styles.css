@@ -306,6 +306,10 @@ div.server-info {
 .server-info p, .server-info li {
     text-transform: none;
 }
+.server-info > img {
+    width: 100%;
+    object-fit: cover;
+}
 div.server-content {
     flex-grow: 1;
     display: flex;
