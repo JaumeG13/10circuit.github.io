@@ -38,7 +38,9 @@ Inside the images folder there's multiple "categories", if you will:
 │  ­&nbsp;­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br>
 │  ­&nbsp;­&nbsp;­&nbsp;   ├─ pfp/ <br>
 │  ­&nbsp;­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br> 
-│  ­&nbsp;­&nbsp;­&nbsp;   └─ special-events <br>
+│  ­&nbsp;­&nbsp;­&nbsp;   ├─ special-events/ <br>
+│  ­&nbsp;­&nbsp;­&nbsp;   │ ­&nbsp;­&nbsp; └─ ... <br> 
+│  ­&nbsp;­&nbsp;­&nbsp;   └─ ig-posts <br>
 │  ­&nbsp;­&nbsp;­&nbsp;     ­&nbsp;­&nbsp;­&nbsp;­&nbsp;­&nbsp;­&nbsp; └─ ... <br> 
 ├─ index.html <br>
 ├─ standings.html <br>
