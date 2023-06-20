@@ -73,11 +73,52 @@ ol.flickity-page-dots .dot {
     background: #c18794;
 }
 /*end of recent events gallery*/
-/*about*/
-div.about {
-    width: 100%;
-    background-color: #c18794;
+/*instagram*/
+div.instagram-container {
+    display: flex;
+    flex-direction: column;
+    background: black;
+    max-height: 100vh;
+    overflow: hidden;
 }
+div.instagram-subcontainer {
+    width: 60%;
+    margin: 0 20%;
+    display: flex;
+    flex-direction: row;
+}
+div.instagram-column {
+    width: 33%;
+    height: 85vh;
+    z-index: 1;
+    overflow: hidden;
+}
+div.instagram-column-fade {
+    min-height: 85vh;
+    background-image: linear-gradient(0deg,rgba(233,243,254,0) 85%,black 95%),linear-gradient(0deg,black 5%,rgba(255,255,255,0) 15%);
+}
+div.instagram-column > img {
+    width: 100%;
+    padding: 1em;
+    position: relative;
+    top: -85vh;
+    z-index: -1;
+}
+div.instagram-column#ig-1 > img {
+    animation: imagesAutoScroll 75s infinite;
+}
+div.instagram-column#ig-2 > img {
+    animation: imagesAutoScroll 60s infinite;
+}
+div.instagram-column#ig-3 > img {
+    animation: imagesAutoScroll 90s infinite;
+}
+@keyframes imagesAutoScroll {
+    0% {top: -95vh}
+    50% {top: -210vh}
+    100% {top: -95vh}
+}
+/*end of instagram*/
 /* END OF INDEX */
 
 
