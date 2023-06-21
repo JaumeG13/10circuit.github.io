@@ -442,10 +442,10 @@ div.timing-buttons a:hover {
         top: -150vh;
     }
     div.instagram-column#ig-1 > img {
-        animation: imagesAutoScroll 55s infinite;
+        animation: imagesAutoScroll 65s infinite;
     }
     div.instagram-column#ig-2 > img {
-        animation: imagesAutoScroll 60s infinite;
+        animation: imagesAutoScroll 55s infinite;
     }
     div.instagram-column#ig-3 > img {
         animation: imagesAutoScroll 90s infinite;
