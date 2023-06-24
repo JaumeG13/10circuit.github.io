@@ -320,9 +320,9 @@ div.server-image {
     background-repeat: no-repeat;
 }
 div.server-image#championship {
-    background-image: url('/assets/images/background/brands.jpg');
-    background-position-x: left;
-    background-size: cover;
+    background-image: url('/assets/images/background/brands_cropped.jpg');
+    background-position-x: right;
+    background-position-y: 170%;
 }
 img.championship-image {
     display: none;
