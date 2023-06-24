@@ -216,7 +216,7 @@ div#grid-title {
 #round5, #round10 {     /*add a column for endurance (class column)*/
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
-#round6 {
+div.race-results#round6 {
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 #fastest-lap {
