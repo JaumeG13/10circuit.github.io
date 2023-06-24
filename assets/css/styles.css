@@ -403,6 +403,18 @@ div.timing-buttons a:hover {
 
 
 
+/* REGISTER EMBED */
+section.register iframe {
+    min-height: 170vh;
+    width: 40%;
+
+}
+/* END OF REGISTER */
+
+
+
+
+
 /* MOBILE VIEW */
 @media screen and (max-width: 950px) {
     /*index*/
