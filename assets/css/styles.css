@@ -320,9 +320,9 @@ div.server-image {
     background-repeat: no-repeat;
 }
 div.server-image#championship {
-    background-image: url('/assets/images/background/nords_cropped.jpg');
-    background-position-x: right;
-    background-position-y: -250px;
+    background-image: url('/assets/images/background/brands.jpg');
+    background-position-x: left;
+    background-size: cover;
 }
 img.championship-image {
     display: none;
