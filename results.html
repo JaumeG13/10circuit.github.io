@@ -18,28 +18,6 @@
           $("#footer").load("/footer.html");
          });
     </script>
-    <!--
-    <script>
-        fetch("/assets/json/R4_INDY_RACE.json")
-        .then(response => {
-            return response.json();
-        })
-        .then(race4 => console.log(race4));
-
-        buildTable(race4)
-
-        function buildTable(race4) {
-            var table = document.getElementById('round4')
-
-            for (var i = 0; i < race4.length; i++) {
-                var row = `<tr>
-                                <td>${race4[i].Result}</td>
-                           </tr>`
-            }
-        }
-    </script>
-    -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">     <!--for formatting json-->
 </head>
 
 
@@ -778,133 +756,72 @@
 
 
             <div class="race-results" id="round6">
-                <div class="grid-header" id="results">Round 6 - Nordschleife</div>
+                <div class="grid-header" id="results" style="grid-column: 1/5;">Round 6 - Nordschleife</div>
                 
                 <div class="grid-element" id="grid-title">Position</div>
                 <div class="grid-element" id="grid-title">Driver</div>
                 <div class="grid-element" id="grid-title">Qualified</div>
-                <div class="grid-element" id="grid-title">+/-</div>
-                <div class="grid-element" id="grid-title">Time</div>
                 <div class="grid-element" id="grid-title">Fastest lap</div>
 
                 <div class="grid-element">1</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Focuser</div>
+                <div class="grid-element">49:32.785</div>
+                <div class="grid-element" id="fastest-lap">8:04.116*</div>
 
                 <div class="grid-element">2</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Adam24</div>
+                <div class="grid-element">+15.399</div>
+                <div class="grid-element">8:07.798</div>
 
                 <div class="grid-element">3</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Maxfan</div>
+                <div class="grid-element">+38.687</div>
+                <div class="grid-element">8:05.559</div>
 
                 <div class="grid-element">4</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Stra</div>
+                <div class="grid-element">+43.676</div>
+                <div class="grid-element">8:08.996</div>
 
                 <div class="grid-element">5</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Melon</div>
+                <div class="grid-element">+1:39.187</div>
+                <div class="grid-element">8:20.097</div>
 
                 <div class="grid-element">6</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">OTLR_Jack</div>
+                <div class="grid-element">+1:49.545</div>
+                <div class="grid-element">8:22.702</div>
 
                 <div class="grid-element">7</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Arion</div>
+                <div class="grid-element">+1:51.953</div>
+                <div class="grid-element">8:21.149</div>
 
                 <div class="grid-element">8</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">kai</div>
+                <div class="grid-element">+2:24.100</div>
+                <div class="grid-element">8:13.640</div>
 
                 <div class="grid-element">9</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Ricfan</div>
+                <div class="grid-element">+1 Lap</div>
+                <div class="grid-element">8:30.525</div>
 
                 <div class="grid-element">10</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Akieush</div>
+                <div class="grid-element">+1 Lap</div>
+                <div class="grid-element">8:43.984</div>
 
                 <div class="grid-element">11</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Saad</div>
+                <div class="grid-element">+2 Laps</div>
+                <div class="grid-element">8:37.611</div>
 
                 <div class="grid-element">12</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-
-                <div class="grid-element">13</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-
-                <div class="grid-element">14</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-
-                <div class="grid-element">15</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-
-                <div class="grid-element">16</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
-
-                <div class="grid-element">17</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                <div class="grid-element">+</div>
-                <div class="grid-element"></div>
+                <div class="grid-element">Dopi</div>
+                <div class="grid-element">DNF</div>
+                <div class="grid-element">8:35.079</div>
             </div>
 
 
