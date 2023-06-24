@@ -17,7 +17,7 @@ div.section-bg-image {
 }
 div.section-title {
     position: absolute;
-    top: 20%;
+    top: 50%;
     width: 100%;
     text-align: center;
 }
@@ -139,7 +139,7 @@ section.grid-container {
 }
 section.grid-container h1 {     /*change after every event*/
     background-image: url('/assets/images/background/brands.jpg');  
-    background-position-y: 180%;
+    background-position-y: 220%;
     background-position-x: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -418,7 +418,7 @@ section.register iframe {
 @media screen and (max-width: 950px) {
     /*index*/
     div.section-title {
-        top: 25%;
+        top: 45%;
     }
     .section-title #title {
         font-size: 2em;
@@ -434,7 +434,7 @@ section.register iframe {
         width: 90%;
     }
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 5%;
+        background-position-x: 45%;
     }
 
 
@@ -477,9 +477,8 @@ section.register iframe {
         margin: 0;
     }
     section.grid-container h1 {     /*change after every event*/
-        top: 100px;
         background-position-y: -4em;
-        background-position-x: -2em;
+        background-position-x: 50%;
     }
     /*end of standings*/
 
