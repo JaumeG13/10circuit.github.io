@@ -407,7 +407,6 @@ div.timing-buttons a:hover {
 section.register iframe {
     min-height: 170vh;
     width: 40%;
-
 }
 /* END OF REGISTER */
 
@@ -552,4 +551,9 @@ section.register iframe {
         margin: 0 10%;
     }
     /*end of servers*/
+
+    /*register*/
+    section.register iframe {
+        width: 100%;
+    }
 }
