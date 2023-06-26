@@ -335,9 +335,9 @@ img.casual-races-image {
     display: none;
 }
 div.server-image#timetrial {
-    background-image: url('/assets/images/special-events/x2010_pikes_cropped.jpg');
+    background-image: url('/assets/images/special-events/lambo_suzuka_cropped.jpg');
     background-position-x: right;
-    background-position-y: center;
+    background-position-y: bottom;
 }
 img.timetrial-image {
     display: none;
