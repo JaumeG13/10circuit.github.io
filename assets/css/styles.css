@@ -418,7 +418,7 @@ div.form img {
 }
 section.register iframe {
     width: 100%;
-    min-height: 150vh;
+    min-height: 140vh;
 }
 /* END OF REGISTER */
 
@@ -571,14 +571,8 @@ section.register iframe {
     div.form img {
         width: 90%;
     }
-    /*
-        border-radius: 10px;
-        margin-top: 1em;
-        align-self: center;
-    }
     section.register iframe {
-        width: 100%;
         min-height: 150vh;
+        overflow: hidden;
     }
-    */
 }
