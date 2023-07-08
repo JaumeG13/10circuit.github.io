@@ -9,7 +9,7 @@ section.index {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/roadamerica.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/roadatlanta.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -139,8 +139,8 @@ section.grid-container {
     justify-content: center;
 }
 section.grid-container h1 {     /*change after every event*/
-    background-image: url('/assets/images/background/roadamerica.jpg');  
-    background-position-y: 260%;
+    background-image: url('/assets/images/background/roadatlanta.jpg');  
+    background-position-y: 220%;
     background-position-x: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -169,10 +169,10 @@ div.toggle-button:hover {
     background-color: #c18794;
     cursor: pointer;
 }
-#button7 {          /*change after every event*/
+#button8 {          /*change after every event*/
     background-color: #c18794;
 }
-#round1, #round2, #round3, #round4, #round5, #round6, /*#round7,*/ #round8, #round9, #round10 { 
+#round1, #round2, #round3, #round4, #round5, #round6, #round7, /*#round8,*/ #round9, #round10 { 
     display: none;  /*change after every event*/
 }
 /*end of toggle buttons*/
@@ -321,7 +321,7 @@ div.server-image {
     background-repeat: no-repeat;
 }
 div.server-image#championship {
-    background-image: url('/assets/images/background/roadamerica.jpg');
+    background-image: url('/assets/images/background/roadatlanta.jpg');
     background-position-x: center;
     background-position-y: -13em;
     background-size: cover;
@@ -432,7 +432,7 @@ section.register iframe {
 @media screen and (max-width: 950px) {
     /*index*/
     div.section-title {
-        top: 30%;
+        top: 60%;
     }
     .section-title #title {
         font-size: 2em;
@@ -448,8 +448,8 @@ section.register iframe {
         width: 90%;
     }
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 70%;
-        background-position-y: 90%;
+        background-position-x: 3%;
+        background-position-y: 45%;
     }
 
 
@@ -492,8 +492,8 @@ section.register iframe {
         margin: 0;
     }
     section.grid-container h1 {     /*change after every event*/
-        background-position-y: -3.5em;
-        background-position-x: 70%;
+        background-position-y: 0;
+        background-position-x: 15%;
     }
     /*end of standings*/
 
