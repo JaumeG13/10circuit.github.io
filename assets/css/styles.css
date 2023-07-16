@@ -9,7 +9,7 @@ section.index {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/roadatlanta.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/abudhabi.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -24,10 +24,12 @@ div.section-title {
 span#title {
     font-size: 80px;
     font-weight: 900;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
 span#round {
     font-size: 30px;
     font-weight: 700;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
 /*end of background image and title*/
 /*recent events gallery*/
@@ -180,8 +182,8 @@ section.grid-container {
     justify-content: center;
 }
 section.grid-container h1 {     /*change after every event*/
-    background-image: url('/assets/images/background/roadatlanta.jpg');  
-    background-position-y: 220%;
+    background-image: url('/assets/images/background/abudhabi.jpg');  
+    background-position-y: 120%;
     background-position-x: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -189,6 +191,7 @@ section.grid-container h1 {     /*change after every event*/
     margin: 0;
     padding: 2.5em 0;
     font-weight: 900;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
 /*toggle buttons*/
 div.grid-toggle {
@@ -210,10 +213,10 @@ div.toggle-button:hover {
     background-color: #c18794;
     cursor: pointer;
 }
-#button8 {          /*change after every event*/
+#button9 {          /*change after every event*/
     background-color: #c18794;
 }
-#round1, #round2, #round3, #round4, #round5, #round6, #round7, /*#round8,*/ #round9, #round10 { 
+#round1, #round2, #round3, #round4, #round5, #round6, #round7, #round8, /*#round9,*/ #round10 { 
     display: none;  /*change after every event*/
 }
 /*end of toggle buttons*/
@@ -226,6 +229,7 @@ div.standings-race {       /*ONLY FOR STANDINGS PAGE*/
     grid-template-columns: 1fr 1fr 1fr;
     row-gap: 5px;
     margin-bottom: 50px;
+    flex-grow: 1;
 }
 div.race-results {          /*ONLY FOR RESULTS PAGE*/
     width: 50%;
@@ -234,6 +238,7 @@ div.race-results {          /*ONLY FOR RESULTS PAGE*/
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     row-gap: 5px;
     margin-bottom: 50px;
+    flex-grow: 1;
 }
 div.grid-header {
     grid-column: 1/4;
@@ -362,10 +367,9 @@ div.server-image {
     background-repeat: no-repeat;
 }
 div.server-image#championship {
-    background-image: url('/assets/images/background/roadatlanta.jpg');
-    background-position-x: center;
-    background-position-y: -13em;
-    background-size: cover;
+    background-image: url('/assets/images/background/abudhabi2.jpg');
+    background-position-x: right;
+    background-position-y: -10em;
 }
 img.championship-image {
     display: none;
@@ -476,8 +480,8 @@ section.register iframe {
         font-size: 2.5em;
     }
 
-    div.section-title {
-        top: 60%;
+    div.section-title { /*change after every event*/
+        top: 50%;
     }
     .section-title #title {
         font-size: 2em;
@@ -495,8 +499,8 @@ section.register iframe {
         width: 90%;
     }
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 3%;
-        background-position-y: 45%;
+        background-position-x: 55%;
+        background-position-y: 50%;
     }
 
 
@@ -579,8 +583,8 @@ section.register iframe {
         margin: 0;
     }
     section.grid-container h1 {     /*change after every event*/
-        background-position-y: 0;
-        background-position-x: 15%;
+        background-position-y: -4em;
+        background-position-x: 20%;
     }
     /*end of standings*/
 
