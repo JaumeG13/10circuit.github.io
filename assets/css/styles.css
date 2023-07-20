@@ -194,6 +194,12 @@ section.grid-container h1 {     /*change after every event*/
     text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
 /*toggle buttons*/
+div.season-toggle {
+    background-color: #975e6a;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
 div.grid-toggle {
     background-color: #975e6a;
     width: 100%;
@@ -422,13 +428,10 @@ table td#left {
 table td#right {
     text-align: left;
 }
-div.server-content ul {
-    margin: 0 30%;
-}
 div.server-content li {
     list-style-type: disc;
     list-style-position: inside;
-    text-align: left;
+    text-align: center;
 }
 div.timing-buttons {
     display: flex;
