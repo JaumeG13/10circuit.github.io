@@ -374,15 +374,16 @@ div.server-image {
 }
 div.server-image#championship {
     background-image: url('/assets/images/background/abudhabi2.jpg');
-    background-position-x: right;
-    background-position-y: -10em;
+    background-position-x: center;
+    background-position-y: -15em;
 }
 img.championship-image {
     display: none;
 }
 div.server-image#casual-races {
-    background-image: url('/assets/images/special-events/praga_dubai_cropped.jpg');
-    background-position-x: left;
+    background-image: url('/assets/images/special-events/ascari.jpg');
+    background-position-x: center;
+    background-position-y: -4em;
 }
 img.casual-races-image {
     display: none;
@@ -420,6 +421,12 @@ div.server-content {
 }
 div.server-content table {
     align-self: center;
+    width: 90%;
+}
+div.server-content table.car-list td {
+    text-transform: none;
+    text-align: left;
+    margin-right: 10px;
 }
 table td#left {
     text-align: right;
