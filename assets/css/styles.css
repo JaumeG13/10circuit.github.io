@@ -193,7 +193,7 @@ section.grid-container h1 {     /*change after every event*/
     font-weight: 900;
     text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
-/*toggle buttons*/
+/*toggle buttons
 div.season-toggle {
     background-color: #975e6a;
     width: 100%;
@@ -219,29 +219,62 @@ div.toggle-button:hover {
     background-color: #c18794;
     cursor: pointer;
 }
-#button9 {          /*change after every event*/
+#button10 {          change after every event
     background-color: #c18794;
 }
-#round1, #round2, #round3, #round4, #round5, #round6, #round7, #round8, /*#round9,*/ #round10 { 
-    display: none;  /*change after every event*/
+#round1, #round2, #round3, #round4, #round5, #round6, #round7, #round8, #round9, #round10 { 
+    display: none;  change after every event
+}
+*/
+div.standings-results-filter-container {
+    background-color: #492833;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 12vh;
+    overflow: hidden;
+    padding: 2.5vh 0;
+    margin-bottom: 3vh;
+}
+div.standings-results-filter-wrap {
+    width: 15vw;
+    text-align: center;
+    min-height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+ul.button-list {
+    font-size: 1.1em;
+    min-height: 10vh;
+}
+ul.button-list li {
+    margin: 2.5vh 0;
+    cursor: pointer;
+}
+div.round-selector ul.button-list li {
+    margin: 1vh 0;
+}
+div.filter-controls {
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+div.filter-controls button {
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
 }
 /*end of toggle buttons*/
 
 /*standings*/
-div.standings-race {       /*ONLY FOR STANDINGS PAGE*/
+div.standings-race {
     width: 50%;
     margin: 0 25%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    row-gap: 5px;
-    margin-bottom: 50px;
-    flex-grow: 1;
-}
-div.race-results {          /*ONLY FOR RESULTS PAGE*/
-    width: 50%;
-    margin: 0 25%;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
     row-gap: 5px;
     margin-bottom: 50px;
     flex-grow: 1;
@@ -261,11 +294,20 @@ div.grid-element {
     text-align: center;
     padding-bottom: 5px;
 }
-div#grid-title {
+div.grid-title {
     font-weight: 700;
 }
 /*end of standings*/
 /*results*/
+div.race-results {
+    width: 50%;
+    margin: 0 25%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    row-gap: 5px;
+    margin-bottom: 50px;
+    flex-grow: 1;
+}
 #round5, #round10 {     /*add a column for endurance (class column)*/
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
 }
@@ -283,40 +325,10 @@ div.race-results#round6 {
 
 
 
-/* DRIVER PROFILE */
-section.driver-profile {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-div.driver-card {
-    width: 100%;
-    padding: 5vh;
-    display: flex;
-    justify-content: space-between;
-    border: 1px solid green;
-}
-div.driver-card img {
-    width: 50%;
-}
-div.driver-card h1, div.driver-card h2 {
-    text-align: left;
-    margin: 0;
-}
-div.driver-card div {
-    width: 100%;
-}
-/* END OF DRIVER PROFILE */
-
-
-
-
-
-
 /* SCHEDULE */
 section.schedule {
-    width: 60%;
-    margin: 0 20%;
+    width: 80%;
+    margin: 0 10%;
     display: flex;
     flex-direction: column;
 }
@@ -324,28 +336,49 @@ section.schedule h1 {
     font-weight: 900;
 }
 div.schedule-container {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1em;
+    padding-bottom: 1em;
 }
-div.round {
+div.event {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border: #492833 0.4em solid;
+    border-radius: 25px;
+    background-color: black;
+    justify-content: space-between;
+    overflow: hidden;
+}
+div.event img {
+    width: 100%;
+    border-bottom: #492833 0.4em solid;
+}
+div.event-subcontainer {
     display: flex;
     flex-direction: row;
-    gap: 20px;
-    font-size: 25px;
-    align-items: center;
-    text-align: center;
 }
-div.round .logo {
-    padding: -10px;
+div.event-subcontainer div {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-self: center;
 }
-div.round-number {
-    font-weight: 700;
+span.round-span {
+    text-align: right;
+    font-weight: bold;
 }
-div.round div {
-    width: 25%;
-    white-space: nowrap;
+div.event span {
+    padding: 10px;
+    font-size: 1.3em;
+}
+div.event div.championship {
+    background-color: #492833;
+    min-height: 2.4em;
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
 }
 /* END OF SCHEDULE */
 
@@ -373,9 +406,9 @@ div.server-image {
     background-repeat: no-repeat;
 }
 div.server-image#championship {
-    background-image: url('/assets/images/background/abudhabi2.jpg');
-    background-position-x: center;
-    background-position-y: -15em;
+    background-image: url('/assets/images/special-events/anythingbutcars.jpg');
+    background-position-x: right;
+    background-position-y: -4em;
 }
 img.championship-image {
     display: none;
@@ -419,11 +452,11 @@ div.server-content {
     text-transform: none;
     gap: 10px;
 }
-div.server-content table {
+section.servers table {
     align-self: center;
     width: 90%;
 }
-div.server-content table.car-list td {
+table.car-list td {
     text-transform: none;
     text-align: left;
     margin-right: 10px;
@@ -609,17 +642,17 @@ section.register iframe {
     /*schedule*/
     section.schedule {
         width: 100%;
-        margin: 0;
+        margin: 0 0;
+        flex-direction: column;
     }
-    .schedule-container {
-        width: 100%;
+    section.schedule h1 {
+        font-weight: 900;
     }
-    div.round {
-        font-size: 1em;
-        padding: 10px 0;
-    }
-    div.round .logo {
-        display: none;
+    div.schedule-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1em;
+        padding: 0 1em;
     }
     /*end of schedule*/
 
