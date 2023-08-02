@@ -1,0 +1,100 @@
+section.servers {
+    display: flex;
+    flex-direction: column;
+    font-size: larger;
+}
+section.servers h1 {
+    font-size: 40px;
+}
+div.server {
+    min-height: 45vh;
+    display: flex;
+    flex-direction: row;
+}
+div.server-image {
+    width: 50%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+div.server-image#championship {
+    background-image: url('/assets/images/special-events/anythingbutcars.jpg');
+    background-position-x: right;
+    background-position-y: -4em;
+}
+img.championship-image {
+    display: none;
+}
+div.server-image#casual-races {
+    background-image: url('/assets/images/special-events/ascari.jpg');
+    background-position-x: center;
+    background-position-y: -4em;
+}
+img.casual-races-image {
+    display: none;
+}
+div.server-image#timetrial {
+    background-image: url('/assets/images/special-events/lambo_suzuka_cropped.jpg');
+    background-position-x: right;
+    background-position-y: bottom;
+}
+img.timetrial-image {
+    display: none;
+}
+div.server-info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    gap: 10px;
+}
+.server-info p, .server-info li {
+    text-transform: none;
+}
+.server-info > img {
+    width: 100%;
+    object-fit: cover;
+}
+div.server-content {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-transform: none;
+    gap: 10px;
+}
+section.servers table {
+    align-self: center;
+    width: 90%;
+}
+table.car-list td {
+    text-transform: none;
+    text-align: left;
+    margin-right: 10px;
+}
+table td#left {
+    text-align: right;
+    padding-right: 8px;
+}
+table td#right {
+    text-align: left;
+}
+div.server-content li {
+    list-style-type: disc;
+    list-style-position: inside;
+    text-align: center;
+}
+div.timing-buttons {
+    display: flex;
+    text-align: center;
+}
+div.timing-buttons a {
+    background-color: #492833;
+    width: 100%;
+    padding: 20px;
+    transition: 250ms;
+}
+div.timing-buttons a:hover {
+    background-color: #70394b;
+    transition: 250ms;
+}

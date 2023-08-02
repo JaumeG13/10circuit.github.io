@@ -7,7 +7,7 @@
     <title>Standings</title>
     <link rel="shortcut icon" href="/assets/images/logos/10c.png">
     <link rel="stylesheet" href="/assets/css/structure-styling.css">
-    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="stylesheet" href="/assets/css/standings-results.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"> <!-- Import font awesome for icons -->
     <script src="/assets/js/roundToggleButtons.js"></script>        <!--script for the buttons to toggle standings and results-->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>     <!--jquery code to import header and footer-->
@@ -28,6 +28,7 @@
         <section class="grid-container">
             <h1>standings</h1>
 
+            <!--
             <div class="grid-toggle">
                 <div class="toggle-button" id="button1" onclick="showRound1()">R1</div>
                 <div class="toggle-button" id="button2" onclick="showRound2()">R2</div>
@@ -40,1132 +41,1126 @@
                 <div class="toggle-button" id="button9" onclick="showRound9()">R9</div>
                 <div class="toggle-button" id="button10" onclick="showRound10()">R10</div>
             </div>
+            -->
 
-            <div class="standings-race" id="round1">
-                <div class="grid-header">Round 1 - Bathurst</div>
+            <div class="standings-results-filter-container">
+                <div class="standings-results-filter-wrap championship-selector">
+                    <ul class="button-list">
+                        <li class="toggle-button" id="champ" onclick="showChampionshipCircuit()">Championship Circuit</li>
+                        <li class="toggle-button" id="porsche" onclick="showPorscheCup()">Porsche Cup</li>
+                    </ul>
+                </div>
 
-                <div class="grid-element" id="grid-title">Position</div>
-                <div class="grid-element" id="grid-title">Driver name</div>
-                <div class="grid-element" id="grid-title">Points</div>
+                <div class="standings-results-filter-wrap season-selector">
+                    <ul class="button-list">
+                        <li class="toggle-button" id="szn1" onclick="showSeason1()">Season 1</li>
+                        <li class="toggle-button" id="szn2" onclick="showSeason2()">Season 2</li>
+                    </ul>
+                </div>
 
-                <div class="grid-element">1</div>
-                <div class="grid-element">Adam24</div>
-                <div class="grid-element">50</div>
-                
-                <div class="grid-element">2</div>
-                <div class="grid-element">Maxfan</div>
-                <div class="grid-element">40</div>
-                
-                <div class="grid-element">3</div>
-                <div class="grid-element">Stra</div>
-                <div class="grid-element">30</div>
-                
-                <div class="grid-element">4</div>
-                <div class="grid-element">Ricfan</div>
-                <div class="grid-element">25</div>
-                
-                <div class="grid-element">5</div>
-                <div class="grid-element">Sp3xtre</div>
-                <div class="grid-element">20</div>
-                
-                <div class="grid-element">6</div>
-                <div class="grid-element">Melon</div>
-                <div class="grid-element">18</div>
-                
-                <div class="grid-element">7</div>
-                <div class="grid-element">Justin Janson</div>
-                <div class="grid-element">15</div>
-                
-                <div class="grid-element">8</div>
-                <div class="grid-element">Veixel</div>
-                <div class="grid-element">12</div>
-                
-                <div class="grid-element">9</div>
-                <div class="grid-element">Lando</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">10</div>
-                <div class="grid-element">Arion</div>
-                <div class="grid-element">8</div>
-                
-                <div class="grid-element">11</div>
-                <div class="grid-element">Akieush</div>
-                <div class="grid-element">6</div>
-                
-                <div class="grid-element">12</div>
-                <div class="grid-element">OTLR_Jack</div>
-                <div class="grid-element">4</div>
-                
-                <div class="grid-element">13</div>
-                <div class="grid-element">Focuser</div>
-                <div class="grid-element">2</div>
-                
-                <div class="grid-element">14</div>
-                <div class="grid-element">Max Housley</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">15</div>
-                <div class="grid-element">Kai</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">16</div>
-                <div class="grid-element">Bolar</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">17</div>
-                <div class="grid-element">Tony Seroka</div>
-                <div class="grid-element">0</div>
+                <div class="standings-results-filter-wrap round-selector">
+                    <ul class="button-list">
+                        <li class="toggle-button" id="button1" onclick="showRound1()">Round 1</li>
+                        <li class="toggle-button" id="button2" onclick="showRound2()">Round 2</li>
+                        <li class="toggle-button" id="button3" onclick="showRound3()">Round 3</li>
+                        <li class="toggle-button" id="button4" onclick="showRound4()">Round 4</li>
+                        <li class="toggle-button" id="button5" onclick="showRound5()">Round 5</li>
+                        <li class="toggle-button" id="button6" onclick="showRound6()">Round 6</li>
+                        <li class="toggle-button" id="button7" onclick="showRound7()">Round 7</li>
+                        <li class="toggle-button" id="button8" onclick="showRound8()">Round 8</li>
+                        <li class="toggle-button" id="button9" onclick="showRound9()">Round 9</li>
+                        <li class="toggle-button" id="button10" onclick="showRound10()">Round 10</li>
+                    </ul>
+
+                    <div class="filter-controls">
+                        <button class="up"><i class="fa-solid fa-chevron-up"></i></button>
+                        <button class="down"><i class="fa-solid fa-chevron-down"></i></button>
+                    </div>
+                </div>
             </div>
 
+            <div id="championship-circuit">
+                <div id="season1">
+                    <div class="standings-race" id="round1">
+                        <div class="grid-header">Round 1 - Bathurst</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                
+                        <div class="grid-element">1</div>
+                        <div class="grid-element">Adam24</div>
+                        <div class="grid-element">50</div>
+                
+                        <div class="grid-element">2</div>
+                        <div class="grid-element">Maxfan</div>
+                        <div class="grid-element">40</div>
+                
+                        <div class="grid-element">3</div>
+                        <div class="grid-element">Stra</div>
+                        <div class="grid-element">30</div>
+                
+                        <div class="grid-element">4</div>
+                        <div class="grid-element">Ricfan</div>
+                        <div class="grid-element">25</div>
+                
+                        <div class="grid-element">5</div>
+                        <div class="grid-element">Sp3xtre</div>
+                        <div class="grid-element">20</div>
+                
+                        <div class="grid-element">6</div>
+                        <div class="grid-element">Melon</div>
+                        <div class="grid-element">18</div>
+                
+                        <div class="grid-element">7</div>
+                        <div class="grid-element">Justin Janson</div>
+                        <div class="grid-element">15</div>
+                
+                        <div class="grid-element">8</div>
+                        <div class="grid-element">Veixel</div>
+                        <div class="grid-element">12</div>
+                
+                        <div class="grid-element">9</div>
+                        <div class="grid-element">Lando</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">10</div>
+                        <div class="grid-element">Arion</div>
+                        <div class="grid-element">8</div>
+                
+                        <div class="grid-element">11</div>
+                        <div class="grid-element">Akieush</div>
+                        <div class="grid-element">6</div>
+                
+                        <div class="grid-element">12</div>
+                        <div class="grid-element">OTLR_Jack</div>
+                        <div class="grid-element">4</div>
+                
+                        <div class="grid-element">13</div>
+                        <div class="grid-element">Focuser</div>
+                        <div class="grid-element">2</div>
+                
+                        <div class="grid-element">14</div>
+                        <div class="grid-element">Max Housley</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">15</div>
+                        <div class="grid-element">Kai</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">16</div>
+                        <div class="grid-element">Bolar</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">17</div>
+                        <div class="grid-element">Tony Seroka</div>
+                        <div class="grid-element">0</div>
+                    </div>
 
+                    <div class="standings-race" id="round2">
+                        <div class="grid-header">Round 2 - Tsukuba</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                        <div class="grid-element">1</div>
+                        <div class="grid-element">Maxfan</div>
+                        <div class="grid-element">90</div>
+                
+                        <div class="grid-element">2</div>
+                        <div class="grid-element">Adam24</div>
+                        <div class="grid-element">80</div>
+                
+                        <div class="grid-element">3</div>
+                        <div class="grid-element">Melon</div>
+                        <div class="grid-element">58</div>
+                
+                        <div class="grid-element">4</div>
+                        <div class="grid-element">Ricfan</div>
+                        <div class="grid-element">50</div>
+                
+                        <div class="grid-element">5</div>
+                        <div class="grid-element">Sp3xtre</div>
+                        <div class="grid-element">35</div>
+                
+                        <div class="grid-element">6</div>
+                        <div class="grid-element">Veixel</div>
+                        <div class="grid-element">32</div>
+                
+                        <div class="grid-element">7</div>
+                        <div class="grid-element">Stra</div>
+                        <div class="grid-element">30</div>
+                
+                        <div class="grid-element">8</div>
+                        <div class="grid-element">Justin Janson</div>
+                        <div class="grid-element">27</div>
+                
+                        <div class="grid-element">9</div>
+                        <div class="grid-element">Arion</div>
+                        <div class="grid-element">26</div>
+                
+                        <div class="grid-element">10</div>
+                        <div class="grid-element">Lando</div>
+                        <div class="grid-element">16</div>
+                
+                        <div class="grid-element">11</div>
+                        <div class="grid-element">Egamer</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">12</div>
+                        <div class="grid-element">Gerikeee</div>
+                        <div class="grid-element">8</div>
+                
+                        <div class="grid-element">13</div>
+                        <div class="grid-element">OTLR_Jack</div>
+                        <div class="grid-element">6</div>
+                
+                        <div class="grid-element">14</div>
+                        <div class="grid-element">Akieush</div>
+                        <div class="grid-element">6</div>
+                
+                        <div class="grid-element">15</div>
+                        <div class="grid-element">Sea_Pulse</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">16</div>
+                        <div class="grid-element">Saad</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">17</div>
+                        <div class="grid-element">Focuser</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">18</div>
+                        <div class="grid-element">Max Housley</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">19</div>
+                        <div class="grid-element">Kai</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">20</div>
+                        <div class="grid-element">Bolar</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">21</div>
+                        <div class="grid-element">Tony Seroka</div>
+                        <div class="grid-element">0</div>
+                    </div>
 
-            <div class="standings-race" id="round2">
-                <div class="grid-header">Round 2 - Tsukuba</div>
+                    <div class="standings-race" id="round3">
+                        <div class="grid-header">Round 3 - Fuji</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                        <div class="grid-element">1</div>
+                        <div class="grid-element">Adam24</div>
+                        <div class="grid-element">130</div>
+                
+                        <div class="grid-element">2</div>
+                        <div class="grid-element">Maxfan</div>
+                        <div class="grid-element">108</div>
+                
+                        <div class="grid-element">3</div>
+                        <div class="grid-element">Melon</div>
+                        <div class="grid-element">66</div>
+                
+                        <div class="grid-element">4</div>
+                        <div class="grid-element">Ricfan</div>
+                        <div class="grid-element">62</div>
+                
+                        <div class="grid-element">5</div>
+                        <div class="grid-element">Arion</div>
+                        <div class="grid-element">56</div>
+                
+                        <div class="grid-element">6</div>
+                        <div class="grid-element">Stra</div>
+                        <div class="grid-element">55</div>
+                
+                        <div class="grid-element">7</div>
+                        <div class="grid-element">Sp3xtre</div>
+                        <div class="grid-element">50</div>
+                
+                        <div class="grid-element">8</div>
+                        <div class="grid-element">Focuser</div>
+                        <div class="grid-element">42</div>
+                
+                        <div class="grid-element">9</div>
+                        <div class="grid-element">Veixel</div>
+                        <div class="grid-element">38</div>
+                
+                        <div class="grid-element">10</div>
+                        <div class="grid-element">Justin Janson</div>
+                        <div class="grid-element">27</div>
+                
+                        <div class="grid-element">11</div>
+                        <div class="grid-element">Dopi</div>
+                        <div class="grid-element">20</div>
+                
+                        <div class="grid-element">12</div>
+                        <div class="grid-element">Gerikeee</div>
+                        <div class="grid-element">18</div>
+                
+                        <div class="grid-element">13</div>
+                        <div class="grid-element">Lando</div>
+                        <div class="grid-element">16</div>
+                
+                        <div class="grid-element">14</div>
+                        <div class="grid-element">Egamer</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">15</div>
+                        <div class="grid-element">OTLR_Jack</div>
+                        <div class="grid-element">6</div>
+                
+                        <div class="grid-element">16</div>
+                        <div class="grid-element">Akieush</div>
+                        <div class="grid-element">6</div>
+                
+                        <div class="grid-element">17</div>
+                        <div class="grid-element">Sea_Pulse</div>
+                        <div class="grid-element">4</div>
+                
+                        <div class="grid-element">18</div>
+                        <div class="grid-element">Saad</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">19</div>
+                        <div class="grid-element">Max Housley</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">20</div>
+                        <div class="grid-element">Kai</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">21</div>
+                        <div class="grid-element">Bolar</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">22</div>
+                        <div class="grid-element">Tony Seroka</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">23</div>
+                        <div class="grid-element">Rabas</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">24</div>
+                        <div class="grid-element">Tib</div>
+                        <div class="grid-element">0</div>
+                    </div>
 
-                <div class="grid-element" id="grid-title">Position</div>
-                <div class="grid-element" id="grid-title">Driver name</div>
-                <div class="grid-element" id="grid-title">Points</div>
+                    <div class="standings-race" id="round4">
+                        <div class="grid-header">Round 4 - Indy</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                        <div class="grid-element">1</div>
+                        <div class="grid-element">Maxfan</div>
+                        <div class="grid-element">148</div>
+                
+                        <div class="grid-element">2</div>
+                        <div class="grid-element">Adam24</div>
+                        <div class="grid-element">136</div>
+                
+                        <div class="grid-element">3</div>
+                        <div class="grid-element">Stra</div>
+                        <div class="grid-element">105</div>
+                
+                        <div class="grid-element">4</div>
+                        <div class="grid-element">Melon</div>
+                        <div class="grid-element">84</div>
+                
+                        <div class="grid-element">5</div>
+                        <div class="grid-element">Arion</div>
+                        <div class="grid-element">81</div>
+                
+                        <div class="grid-element">6</div>
+                        <div class="grid-element">Focuser</div>
+                        <div class="grid-element">72</div>
+                
+                        <div class="grid-element">7</div>
+                        <div class="grid-element">Ricfan</div>
+                        <div class="grid-element">62</div>
+                
+                        <div class="grid-element">8</div>
+                        <div class="grid-element">Veixel</div>
+                        <div class="grid-element">58</div>
+                
+                        <div class="grid-element">9</div>
+                        <div class="grid-element">Tim Verhoeven</div>
+                        <div class="grid-element">50</div>
+                
+                        <div class="grid-element">10</div>
+                        <div class="grid-element">Justin Janson</div>
+                        <div class="grid-element">27</div>
+                
+                        <div class="grid-element">11</div>
+                        <div class="grid-element">Dopi</div>
+                        <div class="grid-element">20</div>
+                
+                        <div class="grid-element">12</div>
+                        <div class="grid-element">Gerikeee</div>
+                        <div class="grid-element">18</div>
+                
+                        <div class="grid-element">13</div>
+                        <div class="grid-element">Lando</div>
+                        <div class="grid-element">16</div>
+                
+                        <div class="grid-element">14</div>
+                        <div class="grid-element">Newman</div>
+                        <div class="grid-element">15</div>
+                
+                        <div class="grid-element">15</div>
+                        <div class="grid-element">OTLR_Jack</div>
+                        <div class="grid-element">14</div>
+                
+                        <div class="grid-element">16</div>
+                        <div class="grid-element">Thomas Vink</div>
+                        <div class="grid-element">12</div>
+                
+                        <div class="grid-element">17</div>
+                        <div class="grid-element">Egamer</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">18</div>
+                        <div class="grid-element">Abdul</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">19</div>
+                        <div class="grid-element">Akieush</div>
+                        <div class="grid-element">6</div>
+                
+                        <div class="grid-element">20</div>
+                        <div class="grid-element">Sea_Pulse</div>
+                        <div class="grid-element">4</div>
+                
+                        <div class="grid-element">21</div>
+                        <div class="grid-element">Saad</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">22</div>
+                        <div class="grid-element">Max Housley</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">23</div>
+                        <div class="grid-element">Kai</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">24</div>
+                        <div class="grid-element">Bolar</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">25</div>
+                        <div class="grid-element">Tony Seroka</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">26</div>
+                        <div class="grid-element">Rabas</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">27</div>
+                        <div class="grid-element">Tib</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">28</div>
+                        <div class="grid-element">Henry Parsons</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">29</div>
+                        <div class="grid-element">danottok</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">30</div>
+                        <div class="grid-element">Chizz</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">31</div>
+                        <div class="grid-element">Romeo</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">32</div>
+                        <div class="grid-element">Matt Arellano</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">33</div>
+                        <div class="grid-element">Manuel</div>
+                        <div class="grid-element">0</div>
+                    </div>
 
-                <div class="grid-element">1</div>
-                <div class="grid-element">Maxfan</div>
-                <div class="grid-element">90</div>
+                    <div class="standings-race" id="round5" style="grid-template-columns: 1fr 1fr 1fr;">
+                        <div class="grid-header">Round 5 - Le Mans</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                        <div class="grid-element">1</div>
+                        <div class="grid-element">Maxfan</div>
+                        <div class="grid-element">228</div>
                 
-                <div class="grid-element">2</div>
-                <div class="grid-element">Adam24</div>
-                <div class="grid-element">80</div>
+                        <div class="grid-element">2</div>
+                        <div class="grid-element">Arion</div>
+                        <div class="grid-element">181</div>
                 
-                <div class="grid-element">3</div>
-                <div class="grid-element">Melon</div>
-                <div class="grid-element">58</div>
+                        <div class="grid-element">3</div>
+                        <div class="grid-element">Focuser</div>
+                        <div class="grid-element">172</div>
                 
-                <div class="grid-element">4</div>
-                <div class="grid-element">Ricfan</div>
-                <div class="grid-element">50</div>
+                        <div class="grid-element">4</div>
+                        <div class="grid-element">Melon</div>
+                        <div class="grid-element">144</div>
                 
-                <div class="grid-element">5</div>
-                <div class="grid-element">Sp3xtre</div>
-                <div class="grid-element">35</div>
+                        <div class="grid-element">5</div>
+                        <div class="grid-element">Ricfan</div>
+                        <div class="grid-element">142</div>
                 
-                <div class="grid-element">6</div>
-                <div class="grid-element">Veixel</div>
-                <div class="grid-element">32</div>
+                        <div class="grid-element">6</div>
+                        <div class="grid-element">Adam24</div>
+                        <div class="grid-element">136</div>
                 
-                <div class="grid-element">7</div>
-                <div class="grid-element">Stra</div>
-                <div class="grid-element">30</div>
+                        <div class="grid-element">7</div>
+                        <div class="grid-element">Veixel</div>
+                        <div class="grid-element">118</div>
                 
-                <div class="grid-element">8</div>
-                <div class="grid-element">Justin Janson</div>
-                <div class="grid-element">27</div>
+                        <div class="grid-element">8</div>
+                        <div class="grid-element">OTLR_Jack</div>
+                        <div class="grid-element">114</div>
                 
-                <div class="grid-element">9</div>
-                <div class="grid-element">Arion</div>
-                <div class="grid-element">26</div>
+                        <div class="grid-element">9</div>
+                        <div class="grid-element">Stra</div>
+                        <div class="grid-element">105</div>
                 
-                <div class="grid-element">10</div>
-                <div class="grid-element">Lando</div>
-                <div class="grid-element">16</div>
+                        <div class="grid-element">10</div>
+                        <div class="grid-element">Justin Janson</div>
+                        <div class="grid-element">87</div>
                 
-                <div class="grid-element">11</div>
-                <div class="grid-element">Egamer</div>
-                <div class="grid-element">10</div>
+                        <div class="grid-element">11</div>
+                        <div class="grid-element">Tony Seroka</div>
+                        <div class="grid-element">80</div>
                 
-                <div class="grid-element">12</div>
-                <div class="grid-element">Gerikeee</div>
-                <div class="grid-element">8</div>
+                        <div class="grid-element">12</div>
+                        <div class="grid-element">Dopi</div>
+                        <div class="grid-element">70</div>
                 
-                <div class="grid-element">13</div>
-                <div class="grid-element">OTLR_Jack</div>
-                <div class="grid-element">6</div>
+                        <div class="grid-element">13</div>
+                        <div class="grid-element">Gerikeee</div>
+                        <div class="grid-element">68</div>
                 
-                <div class="grid-element">14</div>
-                <div class="grid-element">Akieush</div>
-                <div class="grid-element">6</div>
+                        <div class="grid-element">14</div>
+                        <div class="grid-element">Tim Verhoeven</div>
+                        <div class="grid-element">50</div>
                 
-                <div class="grid-element">15</div>
-                <div class="grid-element">Sea_Pulse</div>
-                <div class="grid-element">0</div>
+                        <div class="grid-element">15</div>
+                        <div class="grid-element">Saad</div>
+                        <div class="grid-element">50</div>
                 
-                <div class="grid-element">16</div>
-                <div class="grid-element">Saad</div>
-                <div class="grid-element">0</div>
+                        <div class="grid-element">16</div>
+                        <div class="grid-element">Akieush</div>
+                        <div class="grid-element">46</div>
                 
-                <div class="grid-element">17</div>
-                <div class="grid-element">Focuser</div>
-                <div class="grid-element">0</div>
+                        <div class="grid-element">17</div>
+                        <div class="grid-element">Matt Arellano</div>
+                        <div class="grid-element">40</div>
                 
-                <div class="grid-element">18</div>
-                <div class="grid-element">Max Housley</div>
-                <div class="grid-element">0</div>
+                        <div class="grid-element">18</div>
+                        <div class="grid-element">Gideon L</div>
+                        <div class="grid-element">36</div>
                 
-                <div class="grid-element">19</div>
-                <div class="grid-element">Kai</div>
-                <div class="grid-element">0</div>
+                        <div class="grid-element">19</div>
+                        <div class="grid-element">Lando</div>
+                        <div class="grid-element">16</div>
                 
-                <div class="grid-element">20</div>
-                <div class="grid-element">Bolar</div>
-                <div class="grid-element">0</div>
+                        <div class="grid-element">20</div>
+                        <div class="grid-element">Newman</div>
+                        <div class="grid-element">15</div>
                 
-                <div class="grid-element">21</div>
-                <div class="grid-element">Tony Seroka</div>
-                <div class="grid-element">0</div>
+                        <div class="grid-element">21</div>
+                        <div class="grid-element">Thomas Vink</div>
+                        <div class="grid-element">12</div>
+                
+                        <div class="grid-element">22</div>
+                        <div class="grid-element">Egamer</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">23</div>
+                        <div class="grid-element">Abdul</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">24</div>
+                        <div class="grid-element">Sea_Pulse</div>
+                        <div class="grid-element">4</div>
+                
+                        <div class="grid-element">25</div>
+                        <div class="grid-element">Max Housley</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">26</div>
+                        <div class="grid-element">Kai</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">27</div>
+                        <div class="grid-element">Bolar</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">28</div>
+                        <div class="grid-element">Rabas</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">29</div>
+                        <div class="grid-element">Tib</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">30</div>
+                        <div class="grid-element">Henry Parsons</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">31</div>
+                        <div class="grid-element">danottok</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">32</div>
+                        <div class="grid-element">Chizz</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">33</div>
+                        <div class="grid-element">Romeo</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">34</div>
+                        <div class="grid-element">Manuel</div>
+                        <div class="grid-element">0</div>
+                    </div>
+
+                    <div class="standings-race" id="round6">
+                        <div class="grid-header">Round 6 - Nordschleife</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                        <div class="grid-element">1</div>
+                        <div class="grid-element">Maxfan</div>
+                        <div class="grid-element">258</div>
+                
+                        <div class="grid-element">2</div>
+                        <div class="grid-element">Focuser</div>
+                        <div class="grid-element">222</div>
+                
+                        <div class="grid-element">3</div>
+                        <div class="grid-element">Arion</div>
+                        <div class="grid-element">196</div>
+                
+                        <div class="grid-element">4</div>
+                        <div class="grid-element">Adam24</div>
+                        <div class="grid-element">176</div>
+                
+                        <div class="grid-element">5</div>
+                        <div class="grid-element">Melon</div>
+                        <div class="grid-element">164</div>
+                
+                        <div class="grid-element">6</div>
+                        <div class="grid-element">Ricfan</div>
+                        <div class="grid-element">152</div>
+                
+                        <div class="grid-element">7</div>
+                        <div class="grid-element">OTLR_Jack</div>
+                        <div class="grid-element">132</div>
+                
+                        <div class="grid-element">8</div>
+                        <div class="grid-element">Stra</div>
+                        <div class="grid-element">130</div>
+                
+                        <div class="grid-element">9</div>
+                        <div class="grid-element">Veixel</div>
+                        <div class="grid-element">118</div>
+                
+                        <div class="grid-element">10</div>
+                        <div class="grid-element">Justin Janson</div>
+                        <div class="grid-element">87</div>
+                
+                        <div class="grid-element">11</div>
+                        <div class="grid-element">Tony Seroka</div>
+                        <div class="grid-element">80</div>
+                
+                        <div class="grid-element">12</div>
+                        <div class="grid-element">Dopi</div>
+                        <div class="grid-element">70</div>
+                
+                        <div class="grid-element">13</div>
+                        <div class="grid-element">Gerikeee</div>
+                        <div class="grid-element">68</div>
+                
+                        <div class="grid-element">14</div>
+                        <div class="grid-element">Saad</div>
+                        <div class="grid-element">56</div>
+                
+                        <div class="grid-element">15</div>
+                        <div class="grid-element">Akieush</div>
+                        <div class="grid-element">54</div>
+                
+                        <div class="grid-element">16</div>
+                        <div class="grid-element">Tim Verhoeven</div>
+                        <div class="grid-element">50</div>
+                
+                        <div class="grid-element">17</div>
+                        <div class="grid-element">Matt Arellano</div>
+                        <div class="grid-element">40</div>
+                
+                        <div class="grid-element">18</div>
+                        <div class="grid-element">Gideon L</div>
+                        <div class="grid-element">36</div>
+                
+                        <div class="grid-element">19</div>
+                        <div class="grid-element">Lando</div>
+                        <div class="grid-element">16</div>
+                
+                        <div class="grid-element">20</div>
+                        <div class="grid-element">Newman</div>
+                        <div class="grid-element">15</div>
+                
+                        <div class="grid-element">21</div>
+                        <div class="grid-element">Thomas Vink</div>
+                        <div class="grid-element">12</div>
+                
+                        <div class="grid-element">22</div>
+                        <div class="grid-element">Kai</div>
+                        <div class="grid-element">12</div>
+                
+                        <div class="grid-element">23</div>
+                        <div class="grid-element">Egamer</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">24</div>
+                        <div class="grid-element">Abdul</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">25</div>
+                        <div class="grid-element">Sea_Pulse</div>
+                        <div class="grid-element">4</div>
+                
+                        <div class="grid-element">26</div>
+                        <div class="grid-element">Max Housley</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">27</div>
+                        <div class="grid-element">Bolar</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">28</div>
+                        <div class="grid-element">Rabas</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">29</div>
+                        <div class="grid-element">Tib</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">30</div>
+                        <div class="grid-element">Henry Parsons</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">31</div>
+                        <div class="grid-element">danottok</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">32</div>
+                        <div class="grid-element">Chizz</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">33</div>
+                        <div class="grid-element">Romeo</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">34</div>
+                        <div class="grid-element">Manuel</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">35</div>
+                        <div class="grid-element">Miska Heikkilä</div>
+                        <div class="grid-element">0</div>
+                    </div>
+
+                    <div class="standings-race" id="round7">
+                        <div class="grid-header">Round 7 - Brands Hatch</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                        <div class="grid-element">1</div>
+                        <div class="grid-element">Maxfan</div>
+                        <div class="grid-element">308</div>
+                
+                        <div class="grid-element">2</div>
+                        <div class="grid-element">Focuser</div>
+                        <div class="grid-element">247</div>
+                
+                        <div class="grid-element">3</div>
+                        <div class="grid-element">Adam24</div>
+                        <div class="grid-element">216</div>
+                
+                        <div class="grid-element">4</div>
+                        <div class="grid-element">Arion</div>
+                        <div class="grid-element">214</div>
+                
+                        <div class="grid-element">5</div>
+                        <div class="grid-element">Melon</div>
+                        <div class="grid-element">164</div>
+                
+                        <div class="grid-element">6</div>
+                        <div class="grid-element">Stra</div>
+                        <div class="grid-element">160</div>
+                
+                        <div class="grid-element">7</div>
+                        <div class="grid-element">OTLR_Jack</div>
+                        <div class="grid-element">152</div>
+                
+                        <div class="grid-element">8</div>
+                        <div class="grid-element">Ricfan</div>
+                        <div class="grid-element">152</div>
+                
+                        <div class="grid-element">9</div>
+                        <div class="grid-element">Veixel</div>
+                        <div class="grid-element">133</div>
+                
+                        <div class="grid-element">10</div>
+                        <div class="grid-element">Justin Janson</div>
+                        <div class="grid-element">87</div>
+                
+                        <div class="grid-element">11</div>
+                        <div class="grid-element">Tony Seroka</div>
+                        <div class="grid-element">80</div>
+                
+                        <div class="grid-element">12</div>
+                        <div class="grid-element">Dopi</div>
+                        <div class="grid-element">70</div>
+                
+                        <div class="grid-element">13</div>
+                        <div class="grid-element">Saad</div>
+                        <div class="grid-element">68</div>
+                
+                        <div class="grid-element">14</div>
+                        <div class="grid-element">Gerikeee</div>
+                        <div class="grid-element">68</div>
+                
+                        <div class="grid-element">15</div>
+                        <div class="grid-element">Akieush</div>
+                        <div class="grid-element">54</div>
+                
+                        <div class="grid-element">16</div>
+                        <div class="grid-element">Tim Verhoeven</div>
+                        <div class="grid-element">50</div>
+                
+                        <div class="grid-element">17</div>
+                        <div class="grid-element">Matt Arellano</div>
+                        <div class="grid-element">40</div>
+                
+                        <div class="grid-element">18</div>
+                        <div class="grid-element">Gideon L</div>
+                        <div class="grid-element">36</div>
+                
+                        <div class="grid-element">19</div>
+                        <div class="grid-element">Lando</div>
+                        <div class="grid-element">16</div>
+                
+                        <div class="grid-element">20</div>
+                        <div class="grid-element">Newman</div>
+                        <div class="grid-element">15</div>
+                
+                        <div class="grid-element">21</div>
+                        <div class="grid-element">Thomas Vink</div>
+                        <div class="grid-element">12</div>
+                
+                        <div class="grid-element">22</div>
+                        <div class="grid-element">Kai</div>
+                        <div class="grid-element">12</div>
+                
+                        <div class="grid-element">23</div>
+                        <div class="grid-element">Egamer</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">24</div>
+                        <div class="grid-element">Abdul</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">25</div>
+                        <div class="grid-element">Sea_Pulse</div>
+                        <div class="grid-element">4</div>
+                
+                        <div class="grid-element">26</div>
+                        <div class="grid-element">Max Housley</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">27</div>
+                        <div class="grid-element">Bolar</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">28</div>
+                        <div class="grid-element">Rabas</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">29</div>
+                        <div class="grid-element">Tib</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">30</div>
+                        <div class="grid-element">Henry Parsons</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">31</div>
+                        <div class="grid-element">danottok</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">32</div>
+                        <div class="grid-element">Chizz</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">33</div>
+                        <div class="grid-element">Romeo</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">34</div>
+                        <div class="grid-element">Manuel</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">35</div>
+                        <div class="grid-element">Miska Heikkilä</div>
+                        <div class="grid-element">0</div>
+                    </div>
+
+                    <div class="standings-race" id="round8">
+                        <div class="grid-header">Round 8 - Road America</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                        <div class="grid-element">1</div>
+                        <div class="grid-element">Maxfan</div>
+                        <div class="grid-element">348</div>
+                
+                        <div class="grid-element">2</div>
+                        <div class="grid-element">Focuser</div>
+                        <div class="grid-element">272</div>
+                
+                        <div class="grid-element">3</div>
+                        <div class="grid-element">Adam24</div>
+                        <div class="grid-element">236</div>
+                
+                        <div class="grid-element">4</div>
+                        <div class="grid-element">Arion</div>
+                        <div class="grid-element">229</div>
+                
+                        <div class="grid-element">5</div>
+                        <div class="grid-element">Melon</div>
+                        <div class="grid-element">214</div>
+                
+                        <div class="grid-element">6</div>
+                        <div class="grid-element">Stra</div>
+                        <div class="grid-element">190</div>
+                
+                        <div class="grid-element">7</div>
+                        <div class="grid-element">OTLR_Jack</div>
+                        <div class="grid-element">170</div>
+                
+                        <div class="grid-element">8</div>
+                        <div class="grid-element">Ricfan</div>
+                        <div class="grid-element">152</div>
+                
+                        <div class="grid-element">9</div>
+                        <div class="grid-element">Veixel</div>
+                        <div class="grid-element">133</div>
+                
+                        <div class="grid-element">10</div>
+                        <div class="grid-element">Justin Janson</div>
+                        <div class="grid-element">87</div>
+                
+                        <div class="grid-element">11</div>
+                        <div class="grid-element">Tony Seroka</div>
+                        <div class="grid-element">80</div>
+                
+                        <div class="grid-element">12</div>
+                        <div class="grid-element">Saad</div>
+                        <div class="grid-element">78</div>
+                
+                        <div class="grid-element">13</div>
+                        <div class="grid-element">Dopi</div>
+                        <div class="grid-element">70</div>
+                
+                        <div class="grid-element">14</div>
+                        <div class="grid-element">Gerikeee</div>
+                        <div class="grid-element">68</div>
+                
+                        <div class="grid-element">15</div>
+                        <div class="grid-element">Akieush</div>
+                        <div class="grid-element">66</div>
+                
+                        <div class="grid-element">16</div>
+                        <div class="grid-element">Tim Verhoeven</div>
+                        <div class="grid-element">50</div>
+                
+                        <div class="grid-element">17</div>
+                        <div class="grid-element">Matt Arellano</div>
+                        <div class="grid-element">40</div>
+                
+                        <div class="grid-element">18</div>
+                        <div class="grid-element">Gideon L</div>
+                        <div class="grid-element">36</div>
+                
+                        <div class="grid-element">19</div>
+                        <div class="grid-element">Lando</div>
+                        <div class="grid-element">16</div>
+                
+                        <div class="grid-element">20</div>
+                        <div class="grid-element">Newman</div>
+                        <div class="grid-element">15</div>
+                
+                        <div class="grid-element">21</div>
+                        <div class="grid-element">Thomas Vink</div>
+                        <div class="grid-element">12</div>
+                
+                        <div class="grid-element">22</div>
+                        <div class="grid-element">Kai</div>
+                        <div class="grid-element">12</div>
+                
+                        <div class="grid-element">23</div>
+                        <div class="grid-element">Egamer</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">24</div>
+                        <div class="grid-element">Abdul</div>
+                        <div class="grid-element">10</div>
+                
+                        <div class="grid-element">25</div>
+                        <div class="grid-element">Sea_Pulse</div>
+                        <div class="grid-element">4</div>
+                
+                        <div class="grid-element">26</div>
+                        <div class="grid-element">Max Housley</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">27</div>
+                        <div class="grid-element">Bolar</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">28</div>
+                        <div class="grid-element">Rabas</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">29</div>
+                        <div class="grid-element">Tib</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">30</div>
+                        <div class="grid-element">Henry Parsons</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">31</div>
+                        <div class="grid-element">danottok</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">32</div>
+                        <div class="grid-element">Chizz</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">33</div>
+                        <div class="grid-element">Romeo</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">34</div>
+                        <div class="grid-element">Manuel</div>
+                        <div class="grid-element">0</div>
+                
+                        <div class="grid-element">35</div>
+                        <div class="grid-element">Miska Heikkilä</div>
+                        <div class="grid-element">0</div>
+                    </div>
+                </div>
+
+                <div id="season2">
+                    <div class="standings-race" id="round1" style="grid-template-columns: 1fr 1fr 1fr;">
+                        <div class="grid-header">Round 1 - Long Beach</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                        <div class="grid-element">1</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">2</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">3</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">4</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">5</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                    </div>
+
+                    <div class="standings-race" id="round2" style="grid-template-columns: 1fr 1fr 1fr;">
+                        <div class="grid-header">Round 2 - Hockenheim</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                        <div class="grid-element">1</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">2</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">3</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">4</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">5</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                    </div>
+
+                    <div class="standings-race" id="round3" style="grid-template-columns: 1fr 1fr 1fr;">
+                        <div class="grid-header">Round 3 - Bristol (Oval)</div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                        <div class="grid-element">1</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">2</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">3</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">4</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                
+                        <div class="grid-element">5</div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                    </div>
+                </div>
             </div>
 
-
-
-            <div class="standings-race" id="round3">
-                <div class="grid-header">Round 3 - Fuji</div>
-
-                <div class="grid-element" id="grid-title">Position</div>
-                <div class="grid-element" id="grid-title">Driver name</div>
-                <div class="grid-element" id="grid-title">Points</div>
-
-                <div class="grid-element">1</div>
-                <div class="grid-element">Adam24</div>
-                <div class="grid-element">130</div>
-                
-                <div class="grid-element">2</div>
-                <div class="grid-element">Maxfan</div>
-                <div class="grid-element">108</div>
-                
-                <div class="grid-element">3</div>
-                <div class="grid-element">Melon</div>
-                <div class="grid-element">66</div>
-                
-                <div class="grid-element">4</div>
-                <div class="grid-element">Ricfan</div>
-                <div class="grid-element">62</div>
-                
-                <div class="grid-element">5</div>
-                <div class="grid-element">Arion</div>
-                <div class="grid-element">56</div>
-                
-                <div class="grid-element">6</div>
-                <div class="grid-element">Stra</div>
-                <div class="grid-element">55</div>
-                
-                <div class="grid-element">7</div>
-                <div class="grid-element">Sp3xtre</div>
-                <div class="grid-element">50</div>
-                
-                <div class="grid-element">8</div>
-                <div class="grid-element">Focuser</div>
-                <div class="grid-element">42</div>
-                
-                <div class="grid-element">9</div>
-                <div class="grid-element">Veixel</div>
-                <div class="grid-element">38</div>
-                
-                <div class="grid-element">10</div>
-                <div class="grid-element">Justin Janson</div>
-                <div class="grid-element">27</div>
-                
-                <div class="grid-element">11</div>
-                <div class="grid-element">Dopi</div>
-                <div class="grid-element">20</div>
-                
-                <div class="grid-element">12</div>
-                <div class="grid-element">Gerikeee</div>
-                <div class="grid-element">18</div>
-                
-                <div class="grid-element">13</div>
-                <div class="grid-element">Lando</div>
-                <div class="grid-element">16</div>
-                
-                <div class="grid-element">14</div>
-                <div class="grid-element">Egamer</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">15</div>
-                <div class="grid-element">OTLR_Jack</div>
-                <div class="grid-element">6</div>
-                
-                <div class="grid-element">16</div>
-                <div class="grid-element">Akieush</div>
-                <div class="grid-element">6</div>
-                
-                <div class="grid-element">17</div>
-                <div class="grid-element">Sea_Pulse</div>
-                <div class="grid-element">4</div>
-                
-                <div class="grid-element">18</div>
-                <div class="grid-element">Saad</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">19</div>
-                <div class="grid-element">Max Housley</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">20</div>
-                <div class="grid-element">Kai</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">21</div>
-                <div class="grid-element">Bolar</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">22</div>
-                <div class="grid-element">Tony Seroka</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">23</div>
-                <div class="grid-element">Rabas</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">24</div>
-                <div class="grid-element">Tib</div>
-                <div class="grid-element">0</div>
-            </div>
-
-
-
-            <div class="standings-race" id="round4">
-                <div class="grid-header">Round 4 - Indy</div>
-
-                <div class="grid-element" id="grid-title">Position</div>
-                <div class="grid-element" id="grid-title">Driver name</div>
-                <div class="grid-element" id="grid-title">Points</div>
-
-                <div class="grid-element">1</div>
-                <div class="grid-element">Maxfan</div>
-                <div class="grid-element">148</div>
-                
-                <div class="grid-element">2</div>
-                <div class="grid-element">Adam24</div>
-                <div class="grid-element">136</div>
-                
-                <div class="grid-element">3</div>
-                <div class="grid-element">Stra</div>
-                <div class="grid-element">105</div>
-                
-                <div class="grid-element">4</div>
-                <div class="grid-element">Melon</div>
-                <div class="grid-element">84</div>
-                
-                <div class="grid-element">5</div>
-                <div class="grid-element">Arion</div>
-                <div class="grid-element">81</div>
-                
-                <div class="grid-element">6</div>
-                <div class="grid-element">Focuser</div>
-                <div class="grid-element">72</div>
-                
-                <div class="grid-element">7</div>
-                <div class="grid-element">Ricfan</div>
-                <div class="grid-element">62</div>
-                
-                <div class="grid-element">8</div>
-                <div class="grid-element">Veixel</div>
-                <div class="grid-element">58</div>
-                
-                <div class="grid-element">9</div>
-                <div class="grid-element">Tim Verhoeven</div>
-                <div class="grid-element">50</div>
-                
-                <div class="grid-element">10</div>
-                <div class="grid-element">Justin Janson</div>
-                <div class="grid-element">27</div>
-                
-                <div class="grid-element">11</div>
-                <div class="grid-element">Dopi</div>
-                <div class="grid-element">20</div>
-                
-                <div class="grid-element">12</div>
-                <div class="grid-element">Gerikeee</div>
-                <div class="grid-element">18</div>
-                
-                <div class="grid-element">13</div>
-                <div class="grid-element">Lando</div>
-                <div class="grid-element">16</div>
-                
-                <div class="grid-element">14</div>
-                <div class="grid-element">Newman</div>
-                <div class="grid-element">15</div>
-                
-                <div class="grid-element">15</div>
-                <div class="grid-element">OTLR_Jack</div>
-                <div class="grid-element">14</div>
-                
-                <div class="grid-element">16</div>
-                <div class="grid-element">Thomas Vink</div>
-                <div class="grid-element">12</div>
-                
-                <div class="grid-element">17</div>
-                <div class="grid-element">Egamer</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">18</div>
-                <div class="grid-element">Abdul</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">19</div>
-                <div class="grid-element">Akieush</div>
-                <div class="grid-element">6</div>
-                
-                <div class="grid-element">20</div>
-                <div class="grid-element">Sea_Pulse</div>
-                <div class="grid-element">4</div>
-                
-                <div class="grid-element">21</div>
-                <div class="grid-element">Saad</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">22</div>
-                <div class="grid-element">Max Housley</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">23</div>
-                <div class="grid-element">Kai</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">24</div>
-                <div class="grid-element">Bolar</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">25</div>
-                <div class="grid-element">Tony Seroka</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">26</div>
-                <div class="grid-element">Rabas</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">27</div>
-                <div class="grid-element">Tib</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">28</div>
-                <div class="grid-element">Henry Parsons</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">29</div>
-                <div class="grid-element">danottok</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">30</div>
-                <div class="grid-element">Chizz</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">31</div>
-                <div class="grid-element">Romeo</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">32</div>
-                <div class="grid-element">Matt Arellano</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">33</div>
-                <div class="grid-element">Manuel</div>
-                <div class="grid-element">0</div>
-            </div>
-
-
-
-            <div class="standings-race" id="round5" style="grid-template-columns: 1fr 1fr 1fr;">
-                <div class="grid-header">Round 5 - Le Mans</div>
-
-                <div class="grid-element" id="grid-title">Position</div>
-                <div class="grid-element" id="grid-title">Driver name</div>
-                <div class="grid-element" id="grid-title">Points</div>
-
-                <div class="grid-element">1</div>
-                <div class="grid-element">Maxfan</div>
-                <div class="grid-element">228</div>
-                
-                <div class="grid-element">2</div>
-                <div class="grid-element">Arion</div>
-                <div class="grid-element">181</div>
-                
-                <div class="grid-element">3</div>
-                <div class="grid-element">Focuser</div>
-                <div class="grid-element">172</div>
-                
-                <div class="grid-element">4</div>
-                <div class="grid-element">Melon</div>
-                <div class="grid-element">144</div>
-                
-                <div class="grid-element">5</div>
-                <div class="grid-element">Ricfan</div>
-                <div class="grid-element">142</div>
-                
-                <div class="grid-element">6</div>
-                <div class="grid-element">Adam24</div>
-                <div class="grid-element">136</div>
-                
-                <div class="grid-element">7</div>
-                <div class="grid-element">Veixel</div>
-                <div class="grid-element">118</div>
-                
-                <div class="grid-element">8</div>
-                <div class="grid-element">OTLR_Jack</div>
-                <div class="grid-element">114</div>
-                
-                <div class="grid-element">9</div>
-                <div class="grid-element">Stra</div>
-                <div class="grid-element">105</div>
-                
-                <div class="grid-element">10</div>
-                <div class="grid-element">Justin Janson</div>
-                <div class="grid-element">87</div>
-                
-                <div class="grid-element">11</div>
-                <div class="grid-element">Tony Seroka</div>
-                <div class="grid-element">80</div>
-                
-                <div class="grid-element">12</div>
-                <div class="grid-element">Dopi</div>
-                <div class="grid-element">70</div>
-                
-                <div class="grid-element">13</div>
-                <div class="grid-element">Gerikeee</div>
-                <div class="grid-element">68</div>
-                
-                <div class="grid-element">14</div>
-                <div class="grid-element">Tim Verhoeven</div>
-                <div class="grid-element">50</div>
-                
-                <div class="grid-element">15</div>
-                <div class="grid-element">Saad</div>
-                <div class="grid-element">50</div>
-                
-                <div class="grid-element">16</div>
-                <div class="grid-element">Akieush</div>
-                <div class="grid-element">46</div>
-                
-                <div class="grid-element">17</div>
-                <div class="grid-element">Matt Arellano</div>
-                <div class="grid-element">40</div>
-                
-                <div class="grid-element">18</div>
-                <div class="grid-element">Gideon L</div>
-                <div class="grid-element">36</div>
-                
-                <div class="grid-element">19</div>
-                <div class="grid-element">Lando</div>
-                <div class="grid-element">16</div>
-                
-                <div class="grid-element">20</div>
-                <div class="grid-element">Newman</div>
-                <div class="grid-element">15</div>
-                
-                <div class="grid-element">21</div>
-                <div class="grid-element">Thomas Vink</div>
-                <div class="grid-element">12</div>
-                
-                <div class="grid-element">22</div>
-                <div class="grid-element">Egamer</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">23</div>
-                <div class="grid-element">Abdul</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">24</div>
-                <div class="grid-element">Sea_Pulse</div>
-                <div class="grid-element">4</div>
-                
-                <div class="grid-element">25</div>
-                <div class="grid-element">Max Housley</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">26</div>
-                <div class="grid-element">Kai</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">27</div>
-                <div class="grid-element">Bolar</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">28</div>
-                <div class="grid-element">Rabas</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">29</div>
-                <div class="grid-element">Tib</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">30</div>
-                <div class="grid-element">Henry Parsons</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">31</div>
-                <div class="grid-element">danottok</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">32</div>
-                <div class="grid-element">Chizz</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">33</div>
-                <div class="grid-element">Romeo</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">34</div>
-                <div class="grid-element">Manuel</div>
-                <div class="grid-element">0</div>
-            </div>
-
-
-
-            <div class="standings-race" id="round6">
-                <div class="grid-header">Round 6 - Nordschleife</div>
-
-                <div class="grid-element" id="grid-title">Position</div>
-                <div class="grid-element" id="grid-title">Driver name</div>
-                <div class="grid-element" id="grid-title">Points</div>
-
-                <div class="grid-element">1</div>
-                <div class="grid-element">Maxfan</div>
-                <div class="grid-element">258</div>
-                
-                <div class="grid-element">2</div>
-                <div class="grid-element">Focuser</div>
-                <div class="grid-element">222</div>
-                
-                <div class="grid-element">3</div>
-                <div class="grid-element">Arion</div>
-                <div class="grid-element">196</div>
-                
-                <div class="grid-element">4</div>
-                <div class="grid-element">Adam24</div>
-                <div class="grid-element">176</div>
-                
-                <div class="grid-element">5</div>
-                <div class="grid-element">Melon</div>
-                <div class="grid-element">164</div>
-                
-                <div class="grid-element">6</div>
-                <div class="grid-element">Ricfan</div>
-                <div class="grid-element">152</div>
-                
-                <div class="grid-element">7</div>
-                <div class="grid-element">OTLR_Jack</div>
-                <div class="grid-element">132</div>
-                
-                <div class="grid-element">8</div>
-                <div class="grid-element">Stra</div>
-                <div class="grid-element">130</div>
-                
-                <div class="grid-element">9</div>
-                <div class="grid-element">Veixel</div>
-                <div class="grid-element">118</div>
-                
-                <div class="grid-element">10</div>
-                <div class="grid-element">Justin Janson</div>
-                <div class="grid-element">87</div>
-                
-                <div class="grid-element">11</div>
-                <div class="grid-element">Tony Seroka</div>
-                <div class="grid-element">80</div>
-                
-                <div class="grid-element">12</div>
-                <div class="grid-element">Dopi</div>
-                <div class="grid-element">70</div>
-                
-                <div class="grid-element">13</div>
-                <div class="grid-element">Gerikeee</div>
-                <div class="grid-element">68</div>
-                
-                <div class="grid-element">14</div>
-                <div class="grid-element">Saad</div>
-                <div class="grid-element">56</div>
-                
-                <div class="grid-element">15</div>
-                <div class="grid-element">Akieush</div>
-                <div class="grid-element">54</div>
-                
-                <div class="grid-element">16</div>
-                <div class="grid-element">Tim Verhoeven</div>
-                <div class="grid-element">50</div>
-                
-                <div class="grid-element">17</div>
-                <div class="grid-element">Matt Arellano</div>
-                <div class="grid-element">40</div>
-                
-                <div class="grid-element">18</div>
-                <div class="grid-element">Gideon L</div>
-                <div class="grid-element">36</div>
-                
-                <div class="grid-element">19</div>
-                <div class="grid-element">Lando</div>
-                <div class="grid-element">16</div>
-                
-                <div class="grid-element">20</div>
-                <div class="grid-element">Newman</div>
-                <div class="grid-element">15</div>
-                
-                <div class="grid-element">21</div>
-                <div class="grid-element">Thomas Vink</div>
-                <div class="grid-element">12</div>
-                
-                <div class="grid-element">22</div>
-                <div class="grid-element">Kai</div>
-                <div class="grid-element">12</div>
-                
-                <div class="grid-element">23</div>
-                <div class="grid-element">Egamer</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">24</div>
-                <div class="grid-element">Abdul</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">25</div>
-                <div class="grid-element">Sea_Pulse</div>
-                <div class="grid-element">4</div>
-                
-                <div class="grid-element">26</div>
-                <div class="grid-element">Max Housley</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">27</div>
-                <div class="grid-element">Bolar</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">28</div>
-                <div class="grid-element">Rabas</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">29</div>
-                <div class="grid-element">Tib</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">30</div>
-                <div class="grid-element">Henry Parsons</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">31</div>
-                <div class="grid-element">danottok</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">32</div>
-                <div class="grid-element">Chizz</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">33</div>
-                <div class="grid-element">Romeo</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">34</div>
-                <div class="grid-element">Manuel</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">35</div>
-                <div class="grid-element">Miska Heikkilä</div>
-                <div class="grid-element">0</div>
-            </div>
-
-
-
-            <div class="standings-race" id="round7">
-                <div class="grid-header">Round 7 - Brands Hatch</div>
-
-                <div class="grid-element" id="grid-title">Position</div>
-                <div class="grid-element" id="grid-title">Driver name</div>
-                <div class="grid-element" id="grid-title">Points</div>
-
-                <div class="grid-element">1</div>
-                <div class="grid-element">Maxfan</div>
-                <div class="grid-element">308</div>
-                
-                <div class="grid-element">2</div>
-                <div class="grid-element">Focuser</div>
-                <div class="grid-element">247</div>
-                
-                <div class="grid-element">3</div>
-                <div class="grid-element">Adam24</div>
-                <div class="grid-element">216</div>
-                
-                <div class="grid-element">4</div>
-                <div class="grid-element">Arion</div>
-                <div class="grid-element">214</div>
-                
-                <div class="grid-element">5</div>
-                <div class="grid-element">Melon</div>
-                <div class="grid-element">164</div>
-                
-                <div class="grid-element">6</div>
-                <div class="grid-element">Stra</div>
-                <div class="grid-element">160</div>
-                
-                <div class="grid-element">7</div>
-                <div class="grid-element">OTLR_Jack</div>
-                <div class="grid-element">152</div>
-                
-                <div class="grid-element">8</div>
-                <div class="grid-element">Ricfan</div>
-                <div class="grid-element">152</div>
-                
-                <div class="grid-element">9</div>
-                <div class="grid-element">Veixel</div>
-                <div class="grid-element">133</div>
-                
-                <div class="grid-element">10</div>
-                <div class="grid-element">Justin Janson</div>
-                <div class="grid-element">87</div>
-                
-                <div class="grid-element">11</div>
-                <div class="grid-element">Tony Seroka</div>
-                <div class="grid-element">80</div>
-                
-                <div class="grid-element">12</div>
-                <div class="grid-element">Dopi</div>
-                <div class="grid-element">70</div>
-                
-                <div class="grid-element">13</div>
-                <div class="grid-element">Saad</div>
-                <div class="grid-element">68</div>
-                
-                <div class="grid-element">14</div>
-                <div class="grid-element">Gerikeee</div>
-                <div class="grid-element">68</div>
-                
-                <div class="grid-element">15</div>
-                <div class="grid-element">Akieush</div>
-                <div class="grid-element">54</div>
-                
-                <div class="grid-element">16</div>
-                <div class="grid-element">Tim Verhoeven</div>
-                <div class="grid-element">50</div>
-                
-                <div class="grid-element">17</div>
-                <div class="grid-element">Matt Arellano</div>
-                <div class="grid-element">40</div>
-                
-                <div class="grid-element">18</div>
-                <div class="grid-element">Gideon L</div>
-                <div class="grid-element">36</div>
-                
-                <div class="grid-element">19</div>
-                <div class="grid-element">Lando</div>
-                <div class="grid-element">16</div>
-                
-                <div class="grid-element">20</div>
-                <div class="grid-element">Newman</div>
-                <div class="grid-element">15</div>
-                
-                <div class="grid-element">21</div>
-                <div class="grid-element">Thomas Vink</div>
-                <div class="grid-element">12</div>
-                
-                <div class="grid-element">22</div>
-                <div class="grid-element">Kai</div>
-                <div class="grid-element">12</div>
-                
-                <div class="grid-element">23</div>
-                <div class="grid-element">Egamer</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">24</div>
-                <div class="grid-element">Abdul</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">25</div>
-                <div class="grid-element">Sea_Pulse</div>
-                <div class="grid-element">4</div>
-                
-                <div class="grid-element">26</div>
-                <div class="grid-element">Max Housley</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">27</div>
-                <div class="grid-element">Bolar</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">28</div>
-                <div class="grid-element">Rabas</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">29</div>
-                <div class="grid-element">Tib</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">30</div>
-                <div class="grid-element">Henry Parsons</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">31</div>
-                <div class="grid-element">danottok</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">32</div>
-                <div class="grid-element">Chizz</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">33</div>
-                <div class="grid-element">Romeo</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">34</div>
-                <div class="grid-element">Manuel</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">35</div>
-                <div class="grid-element">Miska Heikkilä</div>
-                <div class="grid-element">0</div>
-            </div>
-
-
-
-            <div class="standings-race" id="round8">
-                <div class="grid-header">Round 8 - Road America</div>
-
-                <div class="grid-element" id="grid-title">Position</div>
-                <div class="grid-element" id="grid-title">Driver name</div>
-                <div class="grid-element" id="grid-title">Points</div>
-
-                <div class="grid-element">1</div>
-                <div class="grid-element">Maxfan</div>
-                <div class="grid-element">348</div>
-                
-                <div class="grid-element">2</div>
-                <div class="grid-element">Focuser</div>
-                <div class="grid-element">272</div>
-                
-                <div class="grid-element">3</div>
-                <div class="grid-element">Adam24</div>
-                <div class="grid-element">236</div>
-                
-                <div class="grid-element">4</div>
-                <div class="grid-element">Arion</div>
-                <div class="grid-element">229</div>
-                
-                <div class="grid-element">5</div>
-                <div class="grid-element">Melon</div>
-                <div class="grid-element">214</div>
-                
-                <div class="grid-element">6</div>
-                <div class="grid-element">Stra</div>
-                <div class="grid-element">190</div>
-                
-                <div class="grid-element">7</div>
-                <div class="grid-element">OTLR_Jack</div>
-                <div class="grid-element">170</div>
-                
-                <div class="grid-element">8</div>
-                <div class="grid-element">Ricfan</div>
-                <div class="grid-element">152</div>
-                
-                <div class="grid-element">9</div>
-                <div class="grid-element">Veixel</div>
-                <div class="grid-element">133</div>
-                
-                <div class="grid-element">10</div>
-                <div class="grid-element">Justin Janson</div>
-                <div class="grid-element">87</div>
-                
-                <div class="grid-element">11</div>
-                <div class="grid-element">Tony Seroka</div>
-                <div class="grid-element">80</div>
-                
-                <div class="grid-element">12</div>
-                <div class="grid-element">Saad</div>
-                <div class="grid-element">78</div>
-                
-                <div class="grid-element">13</div>
-                <div class="grid-element">Dopi</div>
-                <div class="grid-element">70</div>
-                
-                <div class="grid-element">14</div>
-                <div class="grid-element">Gerikeee</div>
-                <div class="grid-element">68</div>
-                
-                <div class="grid-element">15</div>
-                <div class="grid-element">Akieush</div>
-                <div class="grid-element">66</div>
-                
-                <div class="grid-element">16</div>
-                <div class="grid-element">Tim Verhoeven</div>
-                <div class="grid-element">50</div>
-                
-                <div class="grid-element">17</div>
-                <div class="grid-element">Matt Arellano</div>
-                <div class="grid-element">40</div>
-                
-                <div class="grid-element">18</div>
-                <div class="grid-element">Gideon L</div>
-                <div class="grid-element">36</div>
-                
-                <div class="grid-element">19</div>
-                <div class="grid-element">Lando</div>
-                <div class="grid-element">16</div>
-                
-                <div class="grid-element">20</div>
-                <div class="grid-element">Newman</div>
-                <div class="grid-element">15</div>
-                
-                <div class="grid-element">21</div>
-                <div class="grid-element">Thomas Vink</div>
-                <div class="grid-element">12</div>
-                
-                <div class="grid-element">22</div>
-                <div class="grid-element">Kai</div>
-                <div class="grid-element">12</div>
-                
-                <div class="grid-element">23</div>
-                <div class="grid-element">Egamer</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">24</div>
-                <div class="grid-element">Abdul</div>
-                <div class="grid-element">10</div>
-                
-                <div class="grid-element">25</div>
-                <div class="grid-element">Sea_Pulse</div>
-                <div class="grid-element">4</div>
-                
-                <div class="grid-element">26</div>
-                <div class="grid-element">Max Housley</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">27</div>
-                <div class="grid-element">Bolar</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">28</div>
-                <div class="grid-element">Rabas</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">29</div>
-                <div class="grid-element">Tib</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">30</div>
-                <div class="grid-element">Henry Parsons</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">31</div>
-                <div class="grid-element">danottok</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">32</div>
-                <div class="grid-element">Chizz</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">33</div>
-                <div class="grid-element">Romeo</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">34</div>
-                <div class="grid-element">Manuel</div>
-                <div class="grid-element">0</div>
-                
-                <div class="grid-element">35</div>
-                <div class="grid-element">Miska Heikkilä</div>
-                <div class="grid-element">0</div>
-            </div>
-
-
-
-            <div class="standings-race" id="round9">
-                <div class="grid-header">Round 9 - Road Atlanta</div>
-                <div class="grid-header">Cancelled (see round 8)</div>
-            </div>
-
-
-
-            <div class="standings-race" id="round10" style="grid-template-columns: 1fr 1fr 1fr;">
-                <div class="grid-header">Round 10 - Abu Dhabi</div>
-
-                <div class="grid-element" id="grid-title">Position</div>
-                <div class="grid-element" id="grid-title">Driver name</div>
-                <div class="grid-element" id="grid-title">Points</div>
-
-                <div class="grid-element">1</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">2</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">3</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">4</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">5</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">6</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">7</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">8</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">9</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">10</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">11</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">12</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">13</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">14</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">15</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">16</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">17</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">18</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">19</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">20</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">21</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">22</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">23</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
-                
-                <div class="grid-element">24</div>
-                <div class="grid-element"></div>
-                <div class="grid-element"></div>
+            <div id="porsche-cup">
+                <div id="season1">
+                    <div class="standings-race" id="round1">
+                        <div class="grid-header">Round 1 - </div>
+                        <div class="grid-element" class="grid-title">Position</div>
+                        <div class="grid-element" class="grid-title">Driver name</div>
+                        <div class="grid-element" class="grid-title">Points</div>
+                
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                        <div class="grid-element"></div>
+                    </div>
+                </div>
             </div>
         </section>
 

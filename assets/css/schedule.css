@@ -1,0 +1,54 @@
+section.schedule {
+    width: 80%;
+    margin: 0 10%;
+    display: flex;
+    flex-direction: column;
+}
+section.schedule h1 {
+    font-weight: 900;
+}
+div.schedule-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1em;
+    padding-bottom: 1em;
+}
+div.event {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border: #492833 0.4em solid;
+    border-radius: 25px;
+    background-color: black;
+    justify-content: space-between;
+    overflow: hidden;
+}
+div.event img {
+    width: 100%;
+    border-bottom: #492833 0.4em solid;
+}
+div.event-subcontainer {
+    display: flex;
+    flex-direction: row;
+}
+div.event-subcontainer div {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-self: center;
+}
+span.round-span {
+    text-align: right;
+    font-weight: bold;
+}
+div.event span {
+    padding: 10px;
+    font-size: 1.3em;
+}
+div.event div.championship {
+    background-color: #492833;
+    min-height: 2.4em;
+    display: flex;
+    font-weight: bold;
+    justify-content: space-between;
+}

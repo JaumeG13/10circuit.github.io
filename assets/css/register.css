@@ -1,0 +1,16 @@
+div.form {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: 0 30%;
+}
+div.form img {
+    width: 85%;
+    border-radius: 10px;
+    margin-top: 1em;
+    align-self: center;
+}
+section.register iframe {
+    width: 100%;
+    min-height: 140vh;
+}
