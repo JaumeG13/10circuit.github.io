@@ -17,7 +17,7 @@ div.section-bg-image {
 }
 div.section-title {
     position: absolute;
-    top: 40%;
+    top: 30%;   /*change*/
     width: 100%;
     text-align: center;
 }
@@ -32,6 +32,38 @@ span#round {
     text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
 /*end of background image and title*/
+
+
+
+/*prize pool*/
+div.prize-pool {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 40vw;
+    margin: 0 30vw;
+    text-align: center;
+    gap: 40px;
+}
+div.championship-circuit-prizes {
+    
+}
+div.porsche-cup-prizes {
+    
+}
+div.prize-money {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+}
+div.series-prizes {
+    grid-column: 1/3;
+}
+div.series-prizes img {
+    height: 16em;
+    margin: 0 30px;
+}
+/*end of prize pool*/
 
 
 
