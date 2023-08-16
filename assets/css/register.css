@@ -14,3 +14,21 @@ section.register iframe {
     width: 100%;
     min-height: 140vh;
 }
+
+
+
+
+/* MOBILE VIEW */
+@media screen and (max-width: 950px) {
+    div.form {
+        width: 100%;
+        margin: 0;
+    }
+    div.form img {
+        width: 90%;
+    }
+    section.register iframe {
+        min-height: 150vh;
+        overflow: hidden;
+    }
+}

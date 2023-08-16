@@ -9,7 +9,7 @@ section.index {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/abudhabi.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/championship/longbeach.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -175,3 +175,109 @@ div.instagram-column#ig-3 > img {
     100% {top: -95vh}
 }
 /*end of instagram*/
+
+
+
+
+/* MOBILE VIEW */
+@media screen and (max-width: 950px) {
+    section.index h1 {
+        font-size: 2.5em;
+    }
+
+    div.section-title { /*change after every event*/
+        top: 50%;
+    }
+    .section-title #title {
+        font-size: 2em;
+    }
+    .section-title #round {
+        font-size: 1em;
+    }
+    div.events-container {
+        margin-bottom: 50px;
+    }
+    div.events-container h1 {
+        padding-bottom: 25px;
+    }
+    div.gallery-cell {
+        width: 90%;
+    }
+    div.section-bg-image {  /*change after every event*/
+        background-position-x: 55%;
+        background-position-y: 50%;
+    }
+
+
+    /*about part*/
+    div.about-content p {
+        text-align: justify;
+        padding: 0 1em 2em 1em;
+    }
+    div.about-us {
+        min-height: 100vh;
+    }
+    div.about-us h2 {
+        font-size: 2.5em;
+    }
+    div.our-team {
+        width: 100%;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+    }
+    div.member {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 20px;
+        margin-bottom: 4em;
+    }
+    div.member img {
+        width: 60vw;
+        align-self: center;
+    }
+    
+    div.about-us h3 {
+        font-size: 2em;
+    }
+    span.desc {
+        font-style: italic;
+        font-size: 1.3em;
+    }
+    ul.member-tasks li {
+        font-size: 1em;
+    }
+    
+
+    /*instagram part*/
+    div.instagram-container h1 {
+        min-height: 5vh;
+    }
+    div.instagram-subcontainer {
+        width: 100%;
+        margin: 0 0;
+    }/*
+    div.instagram-column {
+        width: 33%;
+    }*/
+    div.instagram-column > img {
+        padding: 0.4em;
+        position: relative;
+        top: -150vh;
+    }
+    div.instagram-column#ig-1 > img {
+        animation: imagesAutoScroll 65s infinite;
+    }
+    div.instagram-column#ig-2 > img {
+        animation: imagesAutoScroll 55s infinite;
+    }
+    div.instagram-column#ig-3 > img {
+        animation: imagesAutoScroll 90s infinite;
+    }
+    @keyframes imagesAutoScroll {
+        0% {top: -85vh}
+        50% {top: -140vh}
+        100% {top: -85vh}
+    }
+}

@@ -136,3 +136,28 @@ div.race-results#round6 {
     color: #492833;
 }
 /*end of results*/
+
+
+
+
+/* MOBILE VIEW */
+@media screen and (max-width: 950px) {
+    /*standings*/
+    div.standings-race {       /*ONLY FOR STANDINGS PAGE*/
+        width: 100%;
+        margin: 0;
+    }
+    section.grid-container h1 {     /*change after every event*/
+        background-position-y: -4em;
+        background-position-x: 20%;
+    }
+    /*end of standings*/
+
+    /*results*/
+    div.race-results {          /*ONLY FOR RESULTS PAGE*/
+        width: 100%;
+        margin: 0;
+        font-size: 0.65em;
+    }
+    /*end of results*/
+}

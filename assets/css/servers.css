@@ -98,3 +98,51 @@ div.timing-buttons a:hover {
     background-color: #70394b;
     transition: 250ms;
 }
+
+
+
+
+/* MOBILE VIEW */
+@media screen and (max-width: 950px) {
+    div.server {
+        flex-direction: column;
+        font-size: smaller;
+        min-height: auto;
+    }
+    div.server h1 {
+        font-size: 30px;
+    }
+    div.server-image {
+        width: 100%;
+    }
+    div.server-info {
+        width: 100%;
+    }
+    img.championship-image {
+        display: block;
+        width: 100vw;
+        object-fit: cover;
+    }
+    img.casual-races-image {
+        display: block;
+        width: 120vw;
+        object-fit: cover;
+        overflow: hidden;
+    }
+    img.timetrial-image {
+        display: block;
+        width: 100vw;
+    }
+    div.timing-buttons {
+        margin-top: -15px;
+    }
+    div.server-content table {
+        font-size: small;
+    }
+    table td#left {
+        width: 35%;
+    }
+    div.server-content ul {
+        margin: 0 10%;
+    }
+}

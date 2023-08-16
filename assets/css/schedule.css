@@ -52,3 +52,24 @@ div.event div.championship {
     font-weight: bold;
     justify-content: space-between;
 }
+
+
+
+
+/* MOBILE VIEW */
+@media screen and (max-width: 950px) {
+    section.schedule {
+        width: 100%;
+        margin: 0 0;
+        flex-direction: column;
+    }
+    section.schedule h1 {
+        font-weight: 900;
+    }
+    div.schedule-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1em;
+        padding: 0 1em;
+    }
+}
