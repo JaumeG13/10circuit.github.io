@@ -11,43 +11,11 @@ h1 {
 
 
 
-/*prize pool*/
-div.prize-pool {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    width: 40vw;
-    margin: 0 30vw;
-    text-align: center;
-    gap: 40px;
-}/*
-div.championship-circuit-prizes {
-    
-}
-div.porsche-cup-prizes {
-    
-}*/
-div.prize-money {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    gap: 10px;
-}
-div.series-prizes {
-    grid-column: 1/3;
-}
-div.series-prizes img {
-    height: 16em;
-    margin: 0 30px;
-}
-/*end of prize pool*/
-
-
-
 /*background image and title*/
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/championship/longbeach.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/championship/season2/longbeach.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -73,9 +41,41 @@ span#round {
 
 
 
+/*prize pool*/
+div.prize-pool-container {
+    min-height: 100vh;
+}
+div.prize-pool-container h2 {
+    font-size: 35px;
+    text-align: center;
+}
+div.prize-pool {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 60vw;
+    margin: 0 20vw;
+    gap: 5em;
+}
+div.prize-pool span {
+    font-size: 1.3em;
+}
+div.prize-money {
+    display: flex;
+    justify-content: center;
+}
+div.series-win {
+    grid-column: 1/3;
+    text-align: center;
+}
+div.series-win img {
+    margin: 20px;
+}
+/*end of prize pool*/
+
+
+
 /*recent events gallery*/
 div.events-container {
-    margin-top: 50px;
     margin-bottom: 100px;
 }
 div.gallery-cell {
