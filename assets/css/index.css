@@ -58,6 +58,7 @@ div.prize-pool {
 }
 div.prize-pool span {
     font-size: 1.3em;
+    margin: 0 2px;
 }
 div.prize-money {
     display: flex;
@@ -221,24 +222,39 @@ div.instagram-column#ig-3 > img {
 /* MOBILE VIEW */
 @media screen and (max-width: 950px) {
     /*prize pool*/
+    div.prize-pool-container {
+        min-height: 100vh;
+        white-space: nowrap;
+    }
+    div.prize-pool-container h2 {
+        font-size: 1.6em;
+        text-align: center;
+    }
     div.prize-pool {
+        grid-template-columns: 1fr;
         width: 90vw;
         margin: 0 5vw;
-        gap: 40px;
+        gap: 2em;
     }
-    div.prize-pool h2 {
+    div.prize-pool span {
         font-size: 1em;
-        white-space: nowrap;
-    }
-    div.prize-pool p {
-        white-space: nowrap;
     }
     div.prize-money {
-        font-size: 0.8em;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
-    div.series-prizes img {
-        height: 9em;
-        margin: 0 0;
+    div.series-win {
+        grid-column: 1/1;
+    }
+    div.series-win img {
+        margin: 2px;
+        height: 100%;
+        width: 130px;
+    }
+    div.series-win .prize-money {
+        display: flex;
+        flex-direction: column;
     }
     /*end of prize pool*/
 
