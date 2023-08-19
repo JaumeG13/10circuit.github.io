@@ -27,50 +27,35 @@
 
         <section class="grid-container">
             <h1>standings</h1>
-
             <!--
-            <div class="grid-toggle">
-                <div class="toggle-button" id="button1" onclick="showRound1()">R1</div>
-                <div class="toggle-button" id="button2" onclick="showRound2()">R2</div>
-                <div class="toggle-button" id="button3" onclick="showRound3()">R3</div>
-                <div class="toggle-button" id="button4" onclick="showRound4()">R4</div>
-                <div class="toggle-button" id="button5" onclick="showRound5()">R5</div>
-                <div class="toggle-button" id="button6" onclick="showRound6()">R6</div>
-                <div class="toggle-button" id="button7" onclick="showRound7()">R7</div>
-                <div class="toggle-button" id="button8" onclick="showRound8()">R8</div>
-                <div class="toggle-button" id="button9" onclick="showRound9()">R9</div>
-                <div class="toggle-button" id="button10" onclick="showRound10()">R10</div>
-            </div>
-            -->
-
             <div class="standings-results-filter-container">
                 <div class="standings-results-filter-wrap championship-selector">
                     <ul class="button-list">
-                        <li class="toggle-button" id="champ" onclick="showChampionshipCircuit()">Championship Circuit</li>
-                        <li class="toggle-button" id="porsche" onclick="showPorscheCup()">Porsche Cup</li>
+                        <li class="toggle-button championship-button" onclick="showChampionshipCircuit()">Championship Circuit</li>
+                        <li class="toggle-button porsche-button" onclick="showPorscheCup()">Porsche Cup</li>
                     </ul>
                 </div>
 
                 <div class="standings-results-filter-wrap season-selector">
                     <ul class="button-list">
-                        <li class="toggle-button" id="szn1" onclick="showSeason1()">Season 1</li>
-                        <li class="toggle-button" id="szn2" onclick="showSeason2()">Season 2</li>
+                        <li class="toggle-button season1-button" onclick="showSeason1()">Season 1</li>
+                        <li class="toggle-button season2-button" onclick="showSeason2()">Season 2</li>
                     </ul>
                 </div>
 
                 <div class="standings-results-filter-wrap round-selector">
                     <ul class="button-list">
-                        <li class="toggle-button" id="button1" onclick="showRound1()">Round 1</li>
-                        <li class="toggle-button" id="button2" onclick="showRound2()">Round 2</li>
-                        <li class="toggle-button" id="button3" onclick="showRound3()">Round 3</li>
-                        <li class="toggle-button" id="button4" onclick="showRound4()">Round 4</li>
-                        <li class="toggle-button" id="button5" onclick="showRound5()">Round 5</li>
-                        <li class="toggle-button" id="button6" onclick="showRound6()">Round 6</li>
-                        <li class="toggle-button" id="button7" onclick="showRound7()">Round 7</li>
-                        <li class="toggle-button" id="button8" onclick="showRound8()">Round 8</li>
-                        <li class="toggle-button" id="button9" onclick="showRound9()">Round 9</li>
-                        <li class="toggle-button" id="button10" onclick="showRound10()">Round 10</li>
-                    </ul>
+                        <li class="toggle-button" onclick="showRound1()">Round 1</li>
+                        <li class="toggle-button" onclick="showRound2()">Round 2</li>
+                        <li class="toggle-button" onclick="showRound3()">Round 3</li>
+                        <li class="toggle-button" onclick="showRound4()">Round 4</li>
+                        <li class="toggle-button" onclick="showRound5()">Round 5</li>
+                        <li class="toggle-button" onclick="showRound6()">Round 6</li>
+                        <li class="toggle-button" onclick="showRound7()">Round 7</li>
+                        <li class="toggle-button" onclick="showRound8()">Round 8</li>
+                        <li class="toggle-button" onclick="showRound9()">Round 9</li>
+                        <li class="toggle-button" onclick="showRound10()">Round 10</li>
+                    </ul>                   
 
                     <div class="filter-controls">
                         <button class="up"><i class="fa-solid fa-chevron-up"></i></button>
@@ -79,9 +64,70 @@
                 </div>
             </div>
 
-            <div id="championship-circuit">
-                <div id="season1" class="season">
-                    <div class="standings-race" id="round1">
+            <div class="standings-results-filter-container">
+                <div class="standings-results-filter-wrap championship-selector">
+                    <ul class="button-list">
+                        <li class="toggle-button"><label for="championship-button"><input type="radio" name="series" id="championship-button">Championship Circuit</label></li>
+                        <li class="toggle-button"><label for="porsche-button"><input type="radio" name="series" id="porsche-button">Porsche Cup</label></li>
+                    </ul>
+                </div>
+
+                <div class="standings-results-filter-wrap season-selector">
+                    <ul class="button-list">
+                        <li class="toggle-button"><label for="season1-button"><input type="radio" name="season" id="season1-button">Season 1</label></li>
+                        <li class="toggle-button"><label for="season2-button"><input type="radio" name="season" id="season2-button">Season 2</label></li>
+                    </ul>
+                </div>
+
+                <div class="standings-results-filter-wrap round-selector">
+                    <ul class="button-list">
+                        <li class="toggle-button"><label for="round1"><input type="radio" name="round" id="round1-button">Round 1</label></li>
+                        <li class="toggle-button"><label for="round2"><input type="radio" name="round" id="round2-button">Round 2</label></li>
+                        <li class="toggle-button"><label for="round3"><input type="radio" name="round" id="round3-button">Round 3</label></li>
+                        <li class="toggle-button"><label for="round4"><input type="radio" name="round" id="round4-button">Round 4</label></li>
+                        <li class="toggle-button"><label for="round5"><input type="radio" name="round" id="round5-button">Round 5</label></li>
+                        <li class="toggle-button"><label for="round6"><input type="radio" name="round" id="round6-button">Round 6</label></li>
+                        <li class="toggle-button"><label for="round7"><input type="radio" name="round" id="round7-button">Round 7</label></li>
+                        <li class="toggle-button"><label for="round8"><input type="radio" name="round" id="round8-button">Round 8</label></li>
+                        <li class="toggle-button"><label for="round9"><input type="radio" name="round" id="round9-button">Round 9</label></li>
+                        <li class="toggle-button"><label for="round10"><input type="radio" name="round" id="round10-button">Round 10</label></li>
+                    </ul>
+
+                    <div class="filter-controls">
+                        <button class="up"><i class="fa-solid fa-chevron-up"></i></button>
+                        <button class="down"><i class="fa-solid fa-chevron-down"></i></button>
+                    </div>
+                </div>
+            </div>
+            -->
+            <div class="buttons-container">
+                <div class="buttons">
+                    <label for="championship-button" onclick="roundToggle()"><input type="radio" name="series" id="championship-button">Championship Circuit</label>
+                    <label for="porsche-button" onclick="roundToggle()"><input type="radio" name="series" id="porsche-button">Porsche Cup</label>
+                </div>
+
+                <div class="buttons">
+                    <label for="season1-button" onclick="roundToggle()"><input type="radio" name="season" id="season1-button">Season 1</label>
+                    <label for="season2-button" onclick="roundToggle()"><input type="radio" name="season" id="season2-button">Season 2</label>
+                </div>
+
+                <div class="buttons round-buttons">
+                    <label for="round1-button" onclick="roundToggle()"><input type="radio" name="round" id="round1-button">Round 1</label>
+                    <label for="round2-button" onclick="roundToggle()"><input type="radio" name="round" id="round2-button">Round 2</label>
+                    <label for="round3-button" onclick="roundToggle()"><input type="radio" name="round" id="round3-button">Round 3</label>
+                    <label for="round4-button" onclick="roundToggle()"><input type="radio" name="round" id="round4-button">Round 4</label>
+                    <label for="round5-button" onclick="roundToggle()"><input type="radio" name="round" id="round5-button">Round 5</label>
+                    <label for="round6-button" onclick="roundToggle()"><input type="radio" name="round" id="round6-button">Round 6</label>
+                    <label for="round7-button" onclick="roundToggle()"><input type="radio" name="round" id="round7-button">Round 7</label>
+                    <label for="round8-button" onclick="roundToggle()"><input type="radio" name="round" id="round8-button">Round 8</label>
+                    <label for="round9-button" onclick="roundToggle()"><input type="radio" name="round" id="round9-button">Round 9</label>
+                    <label for="round10-button" onclick="roundToggle()"><input type="radio" name="round" id="round10-button">Round 10</label>
+                </div>
+            </div>
+
+            <div class="championship-circuit">
+                <div class="season1">
+                    <div class="standings-race round1" id="ccs1r1">
                         <div class="grid-header">Round 1 - Bathurst</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -156,7 +202,7 @@
                         <div class="grid-element">0</div>
                     </div>
 
-                    <div class="standings-race" id="round2">
+                    <div class="standings-race round2" id="ccs1r2">
                         <div class="grid-header">Round 2 - Tsukuba</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -246,7 +292,7 @@
                         <div class="grid-element">0</div>
                     </div>
 
-                    <div class="standings-race" id="round3">
+                    <div class="standings-race round3" id="ccs1r3">
                         <div class="grid-header">Round 3 - Fuji</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -348,7 +394,7 @@
                         <div class="grid-element">0</div>
                     </div>
 
-                    <div class="standings-race" id="round4">
+                    <div class="standings-race round4" id="ccs1r4">
                         <div class="grid-header">Round 4 - Indy</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -486,7 +532,7 @@
                         <div class="grid-element">0</div>
                     </div>
 
-                    <div class="standings-race" id="round5" style="grid-template-columns: 1fr 1fr 1fr;">
+                    <div class="standings-race round5"  id="ccs1r5" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 5 - Le Mans</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -628,7 +674,7 @@
                         <div class="grid-element">0</div>
                     </div>
 
-                    <div class="standings-race" id="round6">
+                    <div class="standings-race round6" id="ccs1r6">
                         <div class="grid-header">Round 6 - Nordschleife</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -774,7 +820,7 @@
                         <div class="grid-element">0</div>
                     </div>
 
-                    <div class="standings-race" id="round7">
+                    <div class="standings-race round7" id="ccs1r7">
                         <div class="grid-header">Round 7 - Brands Hatch</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -920,7 +966,7 @@
                         <div class="grid-element">0</div>
                     </div>
 
-                    <div class="standings-race" id="round8">
+                    <div class="standings-race round8" id="ccs1r8">
                         <div class="grid-header">Round 8 - Road America</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1067,8 +1113,8 @@
                     </div>
                 </div>
 
-                <div id="season2" class="season">
-                    <div class="standings-race" id="round1" style="grid-template-columns: 1fr 1fr 1fr;">
+                <div class="season2">
+                    <div class="standings-race round1" id="ccs2r1" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 1 - Long Beach</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1094,7 +1140,7 @@
                         <div class="grid-element"></div>
                     </div>
 
-                    <div class="standings-race" id="round2" style="grid-template-columns: 1fr 1fr 1fr;">
+                    <div class="standings-race round2" id="ccs2r2" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 2 - Hockenheim</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1120,7 +1166,7 @@
                         <div class="grid-element"></div>
                     </div>
 
-                    <div class="standings-race" id="round3" style="grid-template-columns: 1fr 1fr 1fr;">
+                    <div class="standings-race round3" id="ccs2r3" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 3 - Bristol (Oval)</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1146,7 +1192,7 @@
                         <div class="grid-element"></div>
                     </div>
 
-                    <div class="standings-race" id="round4" style="grid-template-columns: 1fr 1fr 1fr;">
+                    <div class="standings-race round4" id="ccs2r4" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 4 - Bathurst</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1172,7 +1218,7 @@
                         <div class="grid-element"></div>
                     </div>
 
-                    <div class="standings-race" id="round5" style="grid-template-columns: 1fr 1fr 1fr;">
+                    <div class="standings-race round5" id="ccs2r5" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 5 - Sebring</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1198,7 +1244,7 @@
                         <div class="grid-element"></div>
                     </div>
 
-                    <div class="standings-race" id="round6" style="grid-template-columns: 1fr 1fr 1fr;">
+                    <div class="standings-race round6" id="ccs2r6" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 6 - Texas (Oval)</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1224,7 +1270,7 @@
                         <div class="grid-element"></div>
                     </div>
 
-                    <div class="standings-race" id="round7" style="grid-template-columns: 1fr 1fr 1fr;">
+                    <div class="standings-race round7" id="ccs2r7" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 7 - Zolder</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1250,7 +1296,7 @@
                         <div class="grid-element"></div>
                     </div>
 
-                    <div class="standings-race" id="round8" style="grid-template-columns: 1fr 1fr 1fr;">
+                    <div class="standings-race round8" id="ccs2r8" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 8 - Charlotte (Oval)</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1276,7 +1322,7 @@
                         <div class="grid-element"></div>
                     </div>
                     <!--
-                    <div class="standings-race" id="round9" style="grid-template-columns: 1fr 1fr 1fr;">
+                    <div class="standings-race round9" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 9 - Adelaide</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1302,7 +1348,7 @@
                         <div class="grid-element"></div>
                     </div>
 
-                    <div class="standings-race" id="round10" style="grid-template-columns: 1fr 1fr 1fr;">
+                    <div class="standings-race round10" style="grid-template-columns: 1fr 1fr 1fr;">
                         <div class="grid-header">Round 10 - Kyalami</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1331,9 +1377,9 @@
                 </div>
             </div>
 
-            <div id="porsche-cup">
-                <div id="season1" class="season">
-                    <div class="standings-race" id="round1">
+            <div class="porsche-cup">
+                <div class="season1">
+                    <div class="standings-race round1" id="pcs1r1">
                         <div class="grid-header">Round 1 - Hungaroring</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1348,7 +1394,7 @@
                         <div class="grid-element">a</div>
                     </div>
                     
-                    <div class="standings-race" id="round2">
+                    <div class="standings-race round2" id="pcs1r2">
                         <div class="grid-header">Round 2 - Spa</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1363,7 +1409,7 @@
                         <div class="grid-element">a</div>
                     </div>
                     
-                    <div class="standings-race" id="round3">
+                    <div class="standings-race round3" id="pcs1r3">
                         <div class="grid-header">Round 3 - Laguna Seca</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1378,7 +1424,7 @@
                         <div class="grid-element">a</div>
                     </div>
                     
-                    <div class="standings-race" id="round4">
+                    <div class="standings-race round4" id="pcs1r4">
                         <div class="grid-header">Round 4 - Interlagos</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1393,7 +1439,7 @@
                         <div class="grid-element">a</div>
                     </div>
                     
-                    <div class="standings-race" id="round5">
+                    <div class="standings-race round5" id="pcs1r5">
                         <div class="grid-header">Round 5 - Watkins Glen</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1408,7 +1454,7 @@
                         <div class="grid-element">a</div>
                     </div>
                     
-                    <div class="standings-race" id="round6">
+                    <div class="standings-race round6" id="pcs1r6">
                         <div class="grid-header">Round 6 - Dubai Autodrome</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1423,7 +1469,7 @@
                         <div class="grid-element">a</div>
                     </div>
                     
-                    <div class="standings-race" id="round7">
+                    <div class="standings-race round7" id="pcs1r7">
                         <div class="grid-header">Round 7 - Bahrain</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>
@@ -1438,7 +1484,7 @@
                         <div class="grid-element">a</div>
                     </div>
                     
-                    <div class="standings-race" id="round8">
+                    <div class="standings-race round8" id="pcs1r8">
                         <div class="grid-header">Round 8 - Sepang</div>
                         <div class="grid-element grid-title">Position</div>
                         <div class="grid-element grid-title">Driver name</div>

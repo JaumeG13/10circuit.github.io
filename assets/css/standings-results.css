@@ -6,8 +6,8 @@ section.grid-container {
     justify-content: center;
 }
 section.grid-container h1 {     /*change after every event*/
-    background-image: url('/assets/images/background/abudhabi.jpg');  
-    background-position-y: 120%;
+    background-image: url('/assets/images/background/championship/season2/longbeach.jpg');  
+    background-position-y: 200%;
     background-position-x: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -17,7 +17,7 @@ section.grid-container h1 {     /*change after every event*/
     font-weight: 900;
     text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
-/*toggle buttons*/
+/*toggle buttons
 div.season-toggle {
     background-color: #975e6a;
     width: 100%;
@@ -85,6 +85,24 @@ div.filter-controls button {
     border: 0;
     cursor: pointer;
 }
+*/
+div.buttons-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #975e6a;
+    gap: 5em;
+}
+div.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+}/*
+div.round-buttons label {
+
+}*/
 /*end of toggle buttons*/
 
 /*standings*/

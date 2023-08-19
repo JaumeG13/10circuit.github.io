@@ -1,153 +1,189 @@
 /* SERIES */
-var championshipCircuit = document.getElementById('championship-circuit');
-var porscheCup = document.getElementById('porsche-cup');
+var championshipCircuit = document.getElementsByClassName('championship-circuit');
+var porscheCup = document.getElementsByClassName('porsche-cup');
 
-function makeDefaultSeries() {   /*increase "i < 3" if new series is added*/
-    for (let i = 1; i < 3; i++) {      /*series buttons*/
-        document.getElementById('championship-circuit').style.display = 'none';
-        document.getElementById('porsche-cup').style.display = 'none';
-
-        document.getElementById('champ').style.fontWeight = 'normal';
-        document.getElementById('champ').style.textDecoration = 'none';
-        document.getElementById('porsche').style.fontWeight = 'normal';
-        document.getElementById('porsche').style.textDecoration = 'none';
-
-        document.getElementById('szn2').style.display = 'grid';
-    }
-}
-
-function showChampionshipCircuit() {
-    makeDefaultSeries();
-    document.getElementById('championship-circuit').style.display = 'grid';
-    document.getElementById('champ').style.fontWeight = 'bold';
-    document.getElementById('champ').style.textDecoration = 'underline';
-}
-function showPorscheCup() {
-    makeDefaultSeries();
-    showSeason1()
-    document.getElementById('porsche-cup').style.display = 'grid';
-    document.getElementById('porsche').style.fontWeight = 'bold';
-    document.getElementById('porsche').style.textDecoration = 'underline';
-    
-    document.getElementById('szn2').style.display = 'none';
-}
-
-
-
+var championshipButton = document.getElementsByClassName('championship-button');
+var porscheButton = document.getElementsByClassName('porsche-button');
 
 
 /* SEASONS */
-var Season1 = document.getElementById('season1');
-var Season2 = document.getElementById('season2');
+var seasonOne = document.getElementsByClassName('season1');
+var seasonTwo = document.getElementsByClassName('season2');
 
-function makeDefaultSeason() {
-    for (let i = 1; i < 3; i++) {   /*increase "i < 3" when new season is added*/
-        document.getElementById(`season${i}`).style.display = 'none';
-        document.getElementById(`szn${i}`).style.fontWeight = 'normal';
-        document.getElementById(`szn${i}`).style.textDecoration = 'none';
-    }
-}
-
-function showSeason1() {
-    makeDefaultSeason();
-    document.getElementById('season1').style.display = 'grid';
-    document.getElementById('szn1').style.fontWeight = 'bold';
-    document.getElementById('szn1').style.textDecoration = 'underline';
-}
-function showSeason2() {
-    makeDefaultSeason();
-    document.getElementById('season2').style.display = 'grid';
-    document.getElementById('szn2').style.fontWeight = 'bold';
-    document.getElementById('szn2').style.textDecoration = 'underline';
-}
-
-
-
+var seasonOneButton = document.getElementsByClassName('season1-button');
+var seasonTwoButton = document.getElementsByClassName('season2-button');
 
 
 /* ROUNDS */
-var r1 = document.getElementById('round1');
-var r2 = document.getElementById('round2');
-var r3 = document.getElementById('round3');
-var r4 = document.getElementById('round4');
-var r5 = document.getElementById('round5');
-var r6 = document.getElementById('round6');
-var r7 = document.getElementById('round7');
-var r8 = document.getElementById('round8');
-var r9 = document.getElementById('round9');
-var r10 = document.getElementById('round10');
+/*championship circuit season 1*/
+var ccSzn1R1 = document.getElementById('ccs1r1');
+var ccSzn1R2 = document.getElementById('ccs1r2');
+var ccSzn1R3 = document.getElementById('ccs1r3');
+var ccSzn1R4 = document.getElementById('ccs1r4');
+var ccSzn1R5 = document.getElementById('ccs1r5');
+var ccSzn1R6 = document.getElementById('ccs1r6');
+var ccSzn1R7 = document.getElementById('ccs1r7');
+var ccSzn1R8 = document.getElementById('ccs1r8');
+/*championship circuit season 2*/
+var ccSzn2R1 = document.getElementById('ccs2r1');
+var ccSzn2R2 = document.getElementById('ccs2r2');
+var ccSzn2R3 = document.getElementById('ccs2r3');
+var ccSzn2R4 = document.getElementById('ccs2r4');
+var ccSzn2R5 = document.getElementById('ccs2r5');
+var ccSzn2R6 = document.getElementById('ccs2r6');
+var ccSzn2R7 = document.getElementById('ccs2r7');
+var ccSzn2R8 = document.getElementById('ccs2r8');
+/*porsche cup season 1*/
+var ccSzn1R1 = document.getElementById('pcs1r1');
+var ccSzn1R2 = document.getElementById('pcs1r2');
+var ccSzn1R3 = document.getElementById('pcs1r3');
+var ccSzn1R4 = document.getElementById('pcs1r4');
+var ccSzn1R5 = document.getElementById('pcs1r5');
+var ccSzn1R6 = document.getElementById('pcs1r6');
+var ccSzn1R7 = document.getElementById('pcs1r7');
+var ccSzn1R8 = document.getElementById('pcs1r8');
 
-function makeDefaultRound() {   
-    for (let i = 1; i < 9; i++) {  /*increase "i < 9" if theres more than 8 rounds*/
-        document.getElementById(`round${i}`).style.display = 'none';
-        document.getElementById(`button${i}`).style.fontWeight = 'normal';
-        document.getElementById(`button${i}`).style.textDecoration = 'none';
+var round1Button = document.getElementById('round1-button');
+var round2Button = document.getElementById('round2-button');
+var round3Button = document.getElementById('round3-button');
+var round4Button = document.getElementById('round4-button');
+var round5Button = document.getElementById('round5-button');
+var round6Button = document.getElementById('round6-button');
+var round7Button = document.getElementById('round7-button');
+var round8Button = document.getElementById('round8-button');
+var round9Button = document.getElementById('round9-button');
+var round10Button = document.getElementById('round10-button');
+
+/* FUNCTIONS */
+function makeDefault() {
+    document.getElementById('ccs1r1').style.display = 'none';
+    document.getElementById('ccs1r2').style.display = 'none';
+    document.getElementById('ccs1r3').style.display = 'none';
+    document.getElementById('ccs1r4').style.display = 'none';
+    document.getElementById('ccs1r5').style.display = 'none';
+    document.getElementById('ccs1r6').style.display = 'none';
+    document.getElementById('ccs1r7').style.display = 'none';
+    document.getElementById('ccs1r8').style.display = 'none';
+    document.getElementById('ccs2r1').style.display = 'none';
+    document.getElementById('ccs2r2').style.display = 'none';
+    document.getElementById('ccs2r3').style.display = 'none';
+    document.getElementById('ccs2r4').style.display = 'none';
+    document.getElementById('ccs2r5').style.display = 'none';
+    document.getElementById('ccs2r6').style.display = 'none';
+    document.getElementById('ccs2r7').style.display = 'none';
+    document.getElementById('ccs2r8').style.display = 'none';
+    document.getElementById('ccs2r9').style.display = 'none';
+    document.getElementById('ccs2r10').style.display = 'none';
+    document.getElementById('pcs1r1').style.display = 'none';
+    document.getElementById('pcs1r2').style.display = 'none';
+    document.getElementById('pcs1r3').style.display = 'none';
+    document.getElementById('pcs1r4').style.display = 'none';
+    document.getElementById('pcs1r5').style.display = 'none';
+    document.getElementById('pcs1r6').style.display = 'none';
+    document.getElementById('pcs1r7').style.display = 'none';
+    document.getElementById('pcs1r8').style.display = 'none';
+}
+
+function roundToggle() {
+    if ((championshipButton.checked) && (seasonOneButton.checked) && (round1Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r1').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonOneButton.checked) && (round2Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r2').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonOneButton.checked) && (round3Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r3').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonOneButton.checked) && (round4Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r4').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonOneButton.checked) && (round5Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r5').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonOneButton.checked) && (round6Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r6').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonOneButton.checked) && (round7Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r7').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonOneButton.checked) && (round8Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r8').style.display = 'grid';
+    }
+    
+    else if ((championshipButton.checked) && (seasonTwoButton.checked) && (round1Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs2r1').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonTwoButton.checked) && (round2Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs2r2').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonTwoButton.checked) && (round3Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs2r3').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonTwoButton.checked) && (round4Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs2r4').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonTwoButton.checked) && (round5Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs2r5').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonTwoButton.checked) && (round6Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs2r6').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonTwoButton.checked) && (round7Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs2r7').style.display = 'grid';
+    }
+    else if ((championshipButton.checked) && (seasonTwoButton.checked) && (round8Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs2r8').style.display = 'grid';
+    }
+
+    else if ((porscheButton.checked) && (seasonOneButton.checked) && (round1Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r1').style.display = 'grid';
+    }
+    else if ((porscheButton.checked) && (seasonOneButton.checked) && (round2Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r2').style.display = 'grid';
+    }
+    else if ((porscheButton.checked) && (seasonOneButton.checked) && (round3Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r3').style.display = 'grid';
+    }
+    else if ((porscheButton.checked) && (seasonOneButton.checked) && (round4Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r4').style.display = 'grid';
+    }
+    else if ((porscheButton.checked) && (seasonOneButton.checked) && (round5Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r5').style.display = 'grid';
+    }
+    else if ((porscheButton.checked) && (seasonOneButton.checked) && (round6Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r6').style.display = 'grid';
+    }
+    else if ((porscheButton.checked) && (seasonOneButton.checked) && (round7Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r7').style.display = 'grid';
+    }
+    else if ((porscheButton.checked) && (seasonOneButton.checked) && (round8Button.checked)) {
+        makeDefault();
+        document.getElementById('ccs1r8').style.display = 'grid';
+    }
+    else {
+        console.log("Error")
     }
 }
-
-function showRound1() {
-    makeDefaultRound();
-    document.getElementById('round1').style.display = 'grid';
-    document.getElementById('button1').style.fontWeight = 'bold';
-    document.getElementById('button1').style.textDecoration = 'underline';
-}
-function showRound2() {
-    makeDefaultRound();
-    document.getElementById('round2').style.display = 'grid';
-    document.getElementById('button2').style.fontWeight = 'bold';
-    document.getElementById('button2').style.textDecoration = 'underline';
-}
-function showRound3() {
-    makeDefaultRound();
-    document.getElementById('round3').style.display = 'grid';
-    document.getElementById('button3').style.fontWeight = 'bold';
-    document.getElementById('button3').style.textDecoration = 'underline';
-}
-function showRound4() {
-    makeDefaultRound();
-    document.getElementById('round4').style.display = 'grid';
-    document.getElementById('button4').style.fontWeight = 'bold';
-    document.getElementById('button4').style.textDecoration = 'underline';
-}
-function showRound5() {
-    makeDefaultRound();
-    document.getElementById('round5').style.display = 'grid';
-    document.getElementById('button5').style.fontWeight = 'bold';
-    document.getElementById('button5').style.textDecoration = 'underline';
-}
-function showRound6() {
-    makeDefaultRound();
-    document.getElementById('round6').style.display = 'grid';
-    document.getElementById('button6').style.fontWeight = 'bold';
-    document.getElementById('button6').style.textDecoration = 'underline';
-}
-function showRound7() {
-    makeDefaultRound();
-    document.getElementById('round7').style.display = 'grid';
-    document.getElementById('button7').style.fontWeight = 'bold';
-    document.getElementById('button7').style.textDecoration = 'underline';
-}
-function showRound8() {
-    makeDefaultRound();
-    document.getElementById('round8').style.display = 'grid';
-    document.getElementById('button8').style.fontWeight = 'bold';
-    document.getElementById('button8').style.textDecoration = 'underline';
-}
-function showRound9() {
-    document.getElementById('round9').style.display = 'grid';
-    document.getElementById('button9').style.fontWeight = 'bold';
-    document.getElementById('button9').style.textDecoration = 'underline';
-}
-function showRound10() {
-    document.getElementById('round10').style.display = 'grid';
-    document.getElementById('button10').style.fontWeight = 'bold';
-    document.getElementById('button10').style.textDecoration = 'underline';
-}
-
-
-
-/* RANDOM 
-if ((document.getElementById('championship-circuit').style.display == 'grid') && (document.getElementById('season1').style.display == 'grid')) {
-    document.getElementById('button9').style.display = 'none';
-    document.getElementById('button10').style.display = 'none';
-}*/
