@@ -27,101 +27,29 @@
 
         <section class="grid-container">
             <h1>standings</h1>
-            <!--
-            <div class="standings-results-filter-container">
-                <div class="standings-results-filter-wrap championship-selector">
-                    <ul class="button-list">
-                        <li class="toggle-button championship-button" onclick="showChampionshipCircuit()">Championship Circuit</li>
-                        <li class="toggle-button porsche-button" onclick="showPorscheCup()">Porsche Cup</li>
-                    </ul>
-                </div>
-
-                <div class="standings-results-filter-wrap season-selector">
-                    <ul class="button-list">
-                        <li class="toggle-button season1-button" onclick="showSeason1()">Season 1</li>
-                        <li class="toggle-button season2-button" onclick="showSeason2()">Season 2</li>
-                    </ul>
-                </div>
-
-                <div class="standings-results-filter-wrap round-selector">
-                    <ul class="button-list">
-                        <li class="toggle-button" onclick="showRound1()">Round 1</li>
-                        <li class="toggle-button" onclick="showRound2()">Round 2</li>
-                        <li class="toggle-button" onclick="showRound3()">Round 3</li>
-                        <li class="toggle-button" onclick="showRound4()">Round 4</li>
-                        <li class="toggle-button" onclick="showRound5()">Round 5</li>
-                        <li class="toggle-button" onclick="showRound6()">Round 6</li>
-                        <li class="toggle-button" onclick="showRound7()">Round 7</li>
-                        <li class="toggle-button" onclick="showRound8()">Round 8</li>
-                        <li class="toggle-button" onclick="showRound9()">Round 9</li>
-                        <li class="toggle-button" onclick="showRound10()">Round 10</li>
-                    </ul>                   
-
-                    <div class="filter-controls">
-                        <button class="up"><i class="fa-solid fa-chevron-up"></i></button>
-                        <button class="down"><i class="fa-solid fa-chevron-down"></i></button>
-                    </div>
-                </div>
-            </div>
-
-            <div class="standings-results-filter-container">
-                <div class="standings-results-filter-wrap championship-selector">
-                    <ul class="button-list">
-                        <li class="toggle-button"><label for="championship-button"><input type="radio" name="series" id="championship-button">Championship Circuit</label></li>
-                        <li class="toggle-button"><label for="porsche-button"><input type="radio" name="series" id="porsche-button">Porsche Cup</label></li>
-                    </ul>
-                </div>
-
-                <div class="standings-results-filter-wrap season-selector">
-                    <ul class="button-list">
-                        <li class="toggle-button"><label for="season1-button"><input type="radio" name="season" id="season1-button">Season 1</label></li>
-                        <li class="toggle-button"><label for="season2-button"><input type="radio" name="season" id="season2-button">Season 2</label></li>
-                    </ul>
-                </div>
-
-                <div class="standings-results-filter-wrap round-selector">
-                    <ul class="button-list">
-                        <li class="toggle-button"><label for="round1"><input type="radio" name="round" id="round1-button">Round 1</label></li>
-                        <li class="toggle-button"><label for="round2"><input type="radio" name="round" id="round2-button">Round 2</label></li>
-                        <li class="toggle-button"><label for="round3"><input type="radio" name="round" id="round3-button">Round 3</label></li>
-                        <li class="toggle-button"><label for="round4"><input type="radio" name="round" id="round4-button">Round 4</label></li>
-                        <li class="toggle-button"><label for="round5"><input type="radio" name="round" id="round5-button">Round 5</label></li>
-                        <li class="toggle-button"><label for="round6"><input type="radio" name="round" id="round6-button">Round 6</label></li>
-                        <li class="toggle-button"><label for="round7"><input type="radio" name="round" id="round7-button">Round 7</label></li>
-                        <li class="toggle-button"><label for="round8"><input type="radio" name="round" id="round8-button">Round 8</label></li>
-                        <li class="toggle-button"><label for="round9"><input type="radio" name="round" id="round9-button">Round 9</label></li>
-                        <li class="toggle-button"><label for="round10"><input type="radio" name="round" id="round10-button">Round 10</label></li>
-                    </ul>
-
-                    <div class="filter-controls">
-                        <button class="up"><i class="fa-solid fa-chevron-up"></i></button>
-                        <button class="down"><i class="fa-solid fa-chevron-down"></i></button>
-                    </div>
-                </div>
-            </div>
-            -->
+        
             <div class="buttons-container">
                 <div class="buttons">
-                    <label for="championship-button" onclick="roundToggle()"><input type="radio" name="series" id="championship-button">Championship Circuit</label>
-                    <label for="porsche-button" onclick="roundToggle()"><input type="radio" name="series" id="porsche-button">Porsche Cup</label>
+                    <label for="championship-button"><input type="radio" name="series" id="championship-button">Championship Circuit</label>
+                    <label for="porsche-button"><input type="radio" name="series" id="porsche-button">Porsche Cup</label>
                 </div>
 
                 <div class="buttons">
-                    <label for="season1-button" onclick="roundToggle()"><input type="radio" name="season" id="season1-button">Season 1</label>
-                    <label for="season2-button" onclick="roundToggle()"><input type="radio" name="season" id="season2-button">Season 2</label>
+                    <label for="season1-button"><input type="radio" name="season" id="season1-button">Season 1</label>
+                    <label for="season2-button"><input type="radio" name="season" id="season2-button">Season 2</label>
                 </div>
 
                 <div class="buttons round-buttons">
-                    <label for="round1-button" onclick="roundToggle()"><input type="radio" name="round" id="round1-button">Round 1</label>
-                    <label for="round2-button" onclick="roundToggle()"><input type="radio" name="round" id="round2-button">Round 2</label>
-                    <label for="round3-button" onclick="roundToggle()"><input type="radio" name="round" id="round3-button">Round 3</label>
-                    <label for="round4-button" onclick="roundToggle()"><input type="radio" name="round" id="round4-button">Round 4</label>
-                    <label for="round5-button" onclick="roundToggle()"><input type="radio" name="round" id="round5-button">Round 5</label>
-                    <label for="round6-button" onclick="roundToggle()"><input type="radio" name="round" id="round6-button">Round 6</label>
-                    <label for="round7-button" onclick="roundToggle()"><input type="radio" name="round" id="round7-button">Round 7</label>
-                    <label for="round8-button" onclick="roundToggle()"><input type="radio" name="round" id="round8-button">Round 8</label>
-                    <label for="round9-button" onclick="roundToggle()"><input type="radio" name="round" id="round9-button">Round 9</label>
-                    <label for="round10-button" onclick="roundToggle()"><input type="radio" name="round" id="round10-button">Round 10</label>
+                    <label for="round1-button"><input type="radio" name="round" id="round1-button">Round 1</label>
+                    <label for="round2-button"><input type="radio" name="round" id="round2-button">Round 2</label>
+                    <label for="round3-button"><input type="radio" name="round" id="round3-button">Round 3</label>
+                    <label for="round4-button"><input type="radio" name="round" id="round4-button">Round 4</label>
+                    <label for="round5-button"><input type="radio" name="round" id="round5-button">Round 5</label>
+                    <label for="round6-button"><input type="radio" name="round" id="round6-button">Round 6</label>
+                    <label for="round7-button"><input type="radio" name="round" id="round7-button">Round 7</label>
+                    <label for="round8-button"><input type="radio" name="round" id="round8-button">Round 8</label>
+                    <label for="round9-button"><input type="radio" name="round" id="round9-button">Round 9</label>
+                    <label for="round10-button"><input type="radio" name="round" id="round10-button">Round 10</label>
                 </div>
             </div>
 

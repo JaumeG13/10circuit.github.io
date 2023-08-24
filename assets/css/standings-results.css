@@ -99,7 +99,11 @@ div.buttons {
     display: flex;
     flex-direction: column;
     gap: 0.4em;
-}/*
+}
+div.buttons-container label {
+    cursor: pointer;    
+}
+/*
 div.round-buttons label {
 
 }*/
