@@ -94,6 +94,16 @@ nav {
     .menu li:hover {
         background-color: #c18794;
     }
+    .menu #register {
+        background-color: transparent;
+        border-radius: 0px;
+        margin: 0 20px 0 0px;
+    }
+    .menu #register:hover {
+        color: white;
+        padding: 7px 15px;     
+        margin: 0 20px 0 12px; 
+    }
     .menu-icon {
         display: block;
         color: #fff;
