@@ -39,7 +39,7 @@ section.register span {
     font-size: 2.2em;
     font-weight: 700;
     text-shadow: black 0.1em 0.1em 0.2em;
-    transition: all .25s;
+    transition: all .3s;
 }
 span.champ {
     margin: -20px 0 0 -197px;
