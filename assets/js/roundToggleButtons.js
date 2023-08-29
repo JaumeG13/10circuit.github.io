@@ -34,7 +34,7 @@ function roundToggle() {
         document.getElementById('rnd9').style.display = 'none';
         document.getElementById('rnd10').style.display = 'none';
     }
-/*
+
     //CHAMPIONSHIP SEASON 1
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round1-button').checked)) {
         $("#ccs1r1").load("/standings/championshipcircuit/season1/round1.html");
@@ -110,5 +110,5 @@ function roundToggle() {
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round8-button').checked)) {
         $("#pcs1r8").load("/standings/porschecup/season1/round8.html");
     }
-    */
+    
 }
