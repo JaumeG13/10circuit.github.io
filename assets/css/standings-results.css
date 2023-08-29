@@ -22,75 +22,8 @@ section.grid-container h1 {     /*change after every event*/
     font-weight: 900;
     text-shadow: 0 0 3px #000000, 0 0 5px #000000;
 }
-/*toggle buttons
-div.season-toggle {
-    background-color: #975e6a;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-}
-div.grid-toggle {
-    background-color: #975e6a;
-    width: 100%;
-    margin-bottom: 50px;
-    display: flex;
-    justify-content: center;
-}
-div.toggle-button {
-    background-color: #975e6a;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 66px;
-    width: 66px;
-}
-div.toggle-button:hover {
-    background-color: #c18794;
-    cursor: pointer;
-}
+/*toggle buttons*/
 
-div.standings-results-filter-container {
-    background-color: #975e6a;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    max-height: 35vh;
-    overflow: hidden;
-    padding: 2.5vh 0;
-    margin-bottom: 3vh;
-}
-div.standings-results-filter-wrap {
-    width: 15vw;
-    text-align: center;
-    min-height: 10vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 50px;
-}
-ul.button-list {
-    font-size: 1.1em;
-    min-height: 10vh;
-}
-ul.button-list li {
-    margin: 2.5vh 0;
-    cursor: pointer;
-}
-div.round-selector ul.button-list li {
-    margin: 1vh 0;
-}
-div.filter-controls {
-    min-height: 10vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-}
-div.filter-controls button {
-    background-color: transparent;
-    border: 0;
-    cursor: pointer;
-}
-*/
 div.buttons-container {
     width: 100%;
     display: flex;

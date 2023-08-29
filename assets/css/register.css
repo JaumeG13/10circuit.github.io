@@ -1,34 +1,70 @@
-div.form {
+section.register {
+    width: 80%;
+    margin: 0 10%;
     display: flex;
     flex-direction: column;
-    width: 40%;
-    margin: 0 30%;
 }
-div.form img {
-    width: 85%;
-    border-radius: 10px;
-    margin-top: 1em;
-    align-self: center;
+section.register a {
+    height: fit-content;
 }
-section.register iframe {
+div.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 15px;
+}
+div.championship {
+    border: 0.4em solid #492833;
+    border-radius: 25px;
+    overflow: hidden;
     width: 100%;
-    min-height: 140vh;
+    position: relative;
 }
-
+div.porsche {
+    border: 0.4em solid #492833;
+    border-radius: 25px;
+    overflow: hidden;
+    width: 100%;
+    position: relative;
+}
+div.container img {
+    width: 100%;
+    margin-bottom: -10px;
+}
+section.register span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 2.2em;
+    font-weight: 700;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    transition: all .25s;
+}
+span.champ {
+    margin: -20px 0 0 -197px;
+    opacity: 0;
+}
+span.porsche {
+    margin: -20px 0 0 -126px;
+    opacity: 0;
+}
+a.champ:hover img.champ {
+    filter: blur(2px);
+}
+a.champ:hover span.champ {
+    opacity: 1.0;
+}
+a.porsche:hover img.porsche {
+    filter: blur(2px);
+}
+a.porsche:hover span.porsche {
+    opacity: 1.0;
+}
 
 
 
 /* MOBILE VIEW */
 @media screen and (max-width: 950px) {
-    div.form {
-        width: 100%;
-        margin: 0;
-    }
-    div.form img {
-        width: 90%;
-    }
-    section.register iframe {
-        min-height: 150vh;
-        overflow: hidden;
-    }
+    
 }
