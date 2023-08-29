@@ -48,53 +48,10 @@ div.round-buttons label {
 /*end of toggle buttons*/
 
 /*standings*/
-div.standings-race {
-    width: 50%;
-    margin: 0 25%;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    row-gap: 5px;
-    margin-bottom: 50px;
-    flex-grow: 1;
-}
-div.grid-header {
-    grid-column: 1/4;
-    margin-bottom: 20px;
-    font-weight: 700;
-    font-size: 20px;
-    text-align: center;
-}
-div.grid-header#results {
-    grid-column: 1/7;
-}
-div.grid-element {
-    border-bottom: 1px solid white;
-    text-align: center;
-    padding-bottom: 5px;
-}
-div.grid-title {
-    font-weight: 700;
-}
+
 /*end of standings*/
 /*results*/
-div.race-results {
-    width: 50%;
-    margin: 0 25%;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-    row-gap: 5px;
-    margin-bottom: 50px;
-    flex-grow: 1;
-}
-#round5, #round10 {     /*add a column for endurance (class column)*/
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-}
-div.race-results#round6 {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-}
-#fastest-lap {
-    color: #492833;
-}
+
 /*end of results*/
 
 
