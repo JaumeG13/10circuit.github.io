@@ -16,12 +16,12 @@ var round8Button = document.getElementById('round8-button');
 var round9Button = document.getElementById('round9-button');
 var round10Button = document.getElementById('round10-button');
 
-    
+
     if (championshipButton.checked == true && seasonOneButton.checked == true) {
         document.getElementById('rnd9').style.display = 'none';
         document.getElementById('rnd10').style.display = 'none';
     }
-    
+
 */
 
 function roundToggle() {
@@ -35,80 +35,85 @@ function roundToggle() {
         document.getElementById('rnd10').style.display = 'none';
     }
 
+    let roundHtml;
+
     //CHAMPIONSHIP SEASON 1
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round1-button').checked)) {
-        $("#ccs1r1").load("/standings/championshipcircuit/season1/round1.html");
+        roundHtml = "/standings/championshipcircuit/season1/round1.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round2-button').checked)) {
-        $("#ccs1r2").load("/standings/championshipcircuit/season1/round2.html");
+        roundHtml = "/standings/championshipcircuit/season1/round2.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round3-button').checked)) {
-        $("#ccs1r3").load("/standings/championshipcircuit/season1/round3.html");
+        roundHtml = "/standings/championshipcircuit/season1/round3.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round4-button').checked)) {
-        $("#ccs1r4").load("/standings/championshipcircuit/season1/round4.html");
+        roundHtml = "/standings/championshipcircuit/season1/round4.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round5-button').checked)) {
-        $("#ccs1r5").load("/standings/championshipcircuit/season1/round5.html");
+        roundHtml = "/standings/championshipcircuit/season1/round5.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round6-button').checked)) {
-        $("#ccs1r6").load("/standings/championshipcircuit/season1/round6.html");
+        roundHtml = "/standings/championshipcircuit/season1/round6.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round7-button').checked)) {
-        $("#ccs1r7").load("/standings/championshipcircuit/season1/round7.html");
+        roundHtml = "/standings/championshipcircuit/season1/round7.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round8-button').checked)) {
-        $("#ccs1r8").load("/standings/championshipcircuit/season1/round8.html");
+        roundHtml = "/standings/championshipcircuit/season1/round8.html";
     }
     //CHAMPIONSHIP SEASON 2
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season2-button').checked) && (document.getElementById('round1-button').checked)) {
-        $("#ccs2r1").load("/standings/championshipcircuit/season2/round1.html");
+        roundHtml = "/standings/championshipcircuit/season2/round1.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season2-button').checked) && (document.getElementById('round2-button').checked)) {
-        $("#ccs2r2").load("/standings/championshipcircuit/season2/round2.html");
+        roundHtml = "/standings/championshipcircuit/season2/round2.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season2-button').checked) && (document.getElementById('round3-button').checked)) {
-        $("#ccs2r3").load("/standings/championshipcircuit/season2/round3.html");
+        roundHtml = "/standings/championshipcircuit/season2/round3.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season2-button').checked) && (document.getElementById('round4-button').checked)) {
-        $("#ccs2r4").load("/standings/championshipcircuit/season2/round4.html");
+        roundHtml = "/standings/championshipcircuit/season2/round4.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season2-button').checked) && (document.getElementById('round5-button').checked)) {
-        $("#ccs2r5").load("/standings/championshipcircuit/season2/round5.html");
+        roundHtml = "/standings/championshipcircuit/season2/round5.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season2-button').checked) && (document.getElementById('round6-button').checked)) {
-        $("#ccs2r6").load("/standings/championshipcircuit/season2/round6.html");
+        roundHtml = "/standings/championshipcircuit/season2/round6.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season2-button').checked) && (document.getElementById('round7-button').checked)) {
-        $("#ccs2r7").load("/standings/championshipcircuit/season2/round7.html");
+        roundHtml = "/standings/championshipcircuit/season2/round7.html";
     }
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season2-button').checked) && (document.getElementById('round8-button').checked)) {
-        $("#ccs2r8").load("/standings/championshipcircuit/season2/round8.html");
+        roundHtml = "/standings/championshipcircuit/season2/round8.html";
     }
     //PORSCHE SEASON 1
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round1-button').checked)) {
-        $("#pcs1r1").load("/standings/porschecup/season1/round1.html");
+        roundHtml = "/standings/porschecup/season1/round1.html";
     }
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round2-button').checked)) {
-        $("#pcs1r2").load("/standings/porschecup/season1/round2.html");
+        roundHtml = "/standings/porschecup/season1/round2.html";
     }
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round3-button').checked)) {
-        $("#pcs1r3").load("/standings/porschecup/season1/round3.html");
+        roundHtml = "/standings/porschecup/season1/round3.html";
     }
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round4-button').checked)) {
-        $("#pcs1r4").load("/standings/porschecup/season1/round4.html");
+        roundHtml = "/standings/porschecup/season1/round4.html";
     }
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round5-button').checked)) {
-        $("#pcs1r5").load("/standings/porschecup/season1/round5.html");
+        roundHtml = "/standings/porschecup/season1/round5.html";
     }
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round6-button').checked)) {
-        $("#pcs1r6").load("/standings/porschecup/season1/round6.html");
+        roundHtml = "/standings/porschecup/season1/round6.html";
     }
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round7-button').checked)) {
-        $("#pcs1r7").load("/standings/porschecup/season1/round7.html");
+        roundHtml = "/standings/porschecup/season1/round7.html";
     }
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round8-button').checked)) {
-        $("#pcs1r8").load("/standings/porschecup/season1/round8.html");
+        roundHtml = "/standings/porschecup/season1/round8.html";
     }
-    
+
+    if ($('#circuit') && roundHtml) {
+        $('#circuit').load(roundHtml);
+    }
 }
