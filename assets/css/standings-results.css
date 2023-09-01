@@ -28,14 +28,22 @@ div.buttons-container {
     justify-content: center;
     background-color: #975e6a;
     gap: 5em;
+    padding: 0.75em 0;
 }
 div.buttons {
+    max-height: 10vh;
+    overflow-y: scroll;
     display: flex;
     flex-direction: column;
     gap: 0.4em;
+    font-size: 1.2em;
 }
-div.buttons-container label {
-    cursor: pointer;    
+label {
+    cursor: pointer;
+    
+}
+input {
+    visibility: hidden;
 }
 /*end of toggle buttons*/
 
@@ -46,8 +54,13 @@ table {
     border-collapse: collapse;
 }
 th {
+    padding: 1em 1em 0.2em 1em;
+    border-bottom: 1px solid white;
+}
+th.header {
+    background-color: #c18794;
+    box-shadow: none;
     font-size: 1.5em;
-    padding: 1em;
 }
 td {
     border-bottom: 1px solid white;

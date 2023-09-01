@@ -242,3 +242,15 @@ function roundToggleResults() {
         $('#circuit').load(roundHtml);
     }
 }
+/*
+if (document.getElementsByTagName("input").checked == true) {
+    document.getElementsByTagName("input").parentElement style.fontWeight = "bold;"
+}
+*/
+
+function scroll() {
+    window.scrollTo({
+        top: positionY,
+        behavior: 'smooth' // You can use 'auto' for instant scrolling or 'smooth' for smooth scrolling
+    });
+}
