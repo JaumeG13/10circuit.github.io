@@ -55,6 +55,10 @@ td {
     width: auto;
     padding-top: 0.15em;
 }
+td#fastest-lap {
+    color: #703348;
+    font-weight: bold;
+}
 /*end of table content*/
 
 
