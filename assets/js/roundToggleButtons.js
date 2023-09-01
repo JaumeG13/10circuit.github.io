@@ -1,29 +1,3 @@
-/*
-var championshipButton = document.getElementById('championship-button');
-var porscheButton = document.getElementById('porsche-button');
-
-var seasonOneButton = document.getElementById('season1-button');
-var seasonOneButton = document.getElementById('season1-button');
-
-var round1Button = document.getElementById('round1-button');
-var round2Button = document.getElementById('round2-button');
-var round3Button = document.getElementById('round3-button');
-var round4Button = document.getElementById('round4-button');
-var round5Button = document.getElementById('round5-button');
-var round6Button = document.getElementById('round6-button');
-var round7Button = document.getElementById('round7-button');
-var round8Button = document.getElementById('round8-button');
-var round9Button = document.getElementById('round9-button');
-var round10Button = document.getElementById('round10-button');
-
-
-    if (championshipButton.checked == true && seasonOneButton.checked == true) {
-        document.getElementById('rnd9').style.display = 'none';
-        document.getElementById('rnd10').style.display = 'none';
-    }
-
-*/
-
 function makeDefault() {
     document.getElementById('s2btn').style.display = 'block';
     document.getElementById('rnd9').style.display = 'block';
