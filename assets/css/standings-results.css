@@ -4,6 +4,7 @@ section.standings-results-container {
     flex-direction: column;
     white-space: nowrap;
     justify-content: center;
+    padding-bottom: 2em;
 }
 section.standings-results-container h1 {     /*change after every event*/
     background-image: url('/assets/images/background/championship/season2/longbeach.jpg');  
@@ -40,17 +41,19 @@ div.buttons-container label {
 
 /*table content*/
 table {
-    width: 60%;
-    margin: 0 20%;
+    width: 50vw;
+    margin: 0 25vw;
+    border-collapse: collapse;
 }
 th {
-    
+    font-size: 1.5em;
+    padding: 1em;
 }
 td {
     border-bottom: 1px solid white;
     text-align: center;
-    margin: 0 -10px;
-    width: 33%;
+    width: auto;
+    padding-top: 0.15em;
 }
 /*end of table content*/
 
@@ -59,22 +62,5 @@ td {
 
 /* MOBILE VIEW */
 @media screen and (max-width: 950px) {
-    /*standings*/
-    div.standings-race {       /*ONLY FOR STANDINGS PAGE*/
-        width: 100%;
-        margin: 0;
-    }
-    section.grid-container h1 {     /*change after every event*/
-        background-position-y: -4em;
-        background-position-x: 20%;
-    }
-    /*end of standings*/
 
-    /*results*/
-    div.race-results {          /*ONLY FOR RESULTS PAGE*/
-        width: 100%;
-        margin: 0;
-        font-size: 0.65em;
-    }
-    /*end of results*/
 }
