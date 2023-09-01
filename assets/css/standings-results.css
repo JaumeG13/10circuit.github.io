@@ -57,7 +57,7 @@ td {
 }
 td#fastest-lap {
     color: #703348;
-    font-weight: bold;
+    font-weight: 600;
 }
 /*end of table content*/
 
