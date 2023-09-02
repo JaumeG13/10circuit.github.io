@@ -82,6 +82,18 @@ td#fastest-lap {
 }
 /*end of table content*/
 
+/*legend*/
+div.legend {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.8em;
+    margin: 2em 25vw 0 25vw;
+}
+div.legend span {
+    text-transform: none;
+}
+/*end of legend*/
+
 
 
 
@@ -136,4 +148,11 @@ td#fastest-lap {
         font-size: 0.7em;
     }
     /*end of table content*/
+
+    /*legend*/
+    div.legend {
+        font-size: 0.6em;
+        margin: 2em 0 0 2em;
+    }
+    /*end of legend*/
 }
