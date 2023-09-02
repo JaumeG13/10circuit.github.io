@@ -23,27 +23,35 @@ section.standings-results-container h1 {     /*change after every event*/
 div.buttons-container {
     width: 100%;
     display: flex;
-    flex-direction: row;
+    justify-content: space-around;
     align-items: center;
-    justify-content: center;
     background-color: #975e6a;
-    gap: 5em;
-    padding: 0.75em 0;
+    padding: 0.75em 30%;
 }
 div.buttons {
     max-height: 10vh;
-    overflow-y: scroll;
+    overflow: hidden;
     display: flex;
     flex-direction: column;
-    gap: 0.4em;
     font-size: 1.2em;
+}
+div.round-buttons {
+    overflow-y: scroll;
+    width: 7vw;
+}
+div.separator {
+    height: 10vh;
+    border: white 1px solid;
 }
 label {
     cursor: pointer;
-    
 }
 input {
-    visibility: hidden;
+    display: none;
+}
+input[type="radio"]:checked + label {
+    font-weight: 700;
+    text-decoration: underline;
 }
 /*end of toggle buttons*/
 
@@ -79,5 +87,53 @@ td#fastest-lap {
 
 /* MOBILE VIEW */
 @media screen and (max-width: 950px) {
-
+    section.standings-results-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-bottom: 2em;
+    }
+    section.standings-results-container h1 {     /*change after every event*/
+        background-image: url('/assets/images/background/championship/season2/longbeach.jpg');  
+        background-position-y: 200%;
+        background-position-x: 50%;
+        padding: 2.5em 0;
+    }
+    
+    /*toggle buttons*/
+    div.buttons-container {
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background-color: #975e6a;
+        padding: 0.75em 1em;
+    }
+    div.buttons {
+        font-size: 0.8em;
+        gap: 0.8em;
+    }
+    div.round-buttons {
+        width: 20vw;
+    }
+    /*end of toggle buttons*/
+    
+    /*table content*/
+    table {
+        width: 100vw;
+        margin: 0;
+    }
+    th {
+        padding: 0.2em;
+        font-size: 0.8em;
+    }
+    th.header {
+        font-size: 1.4em;
+    }
+    td {
+        padding-top: 0.15em;
+        font-size: 0.7em;
+    }
+    /*end of table content*/
 }
