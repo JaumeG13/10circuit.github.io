@@ -69,6 +69,7 @@ th.header {
     background-color: #c18794;
     box-shadow: none;
     font-size: 1.5em;
+    position: relative;
 }
 td {
     border-bottom: 1px solid white;
