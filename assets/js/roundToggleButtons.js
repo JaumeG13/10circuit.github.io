@@ -2,6 +2,9 @@ function makeDefault() {
     document.getElementById('s2btn').style.display = 'block';
     document.getElementById('rnd9').style.display = 'block';
     document.getElementById('rnd10').style.display = 'block';
+
+    document.getElementById('difference').style.display = 'block';  /*if function, line 127*/
+    document.getElementById('ptsGain').style.display = 'block';     /*if function, line 127*/
 }
 
 function roundToggleStandings() {
@@ -119,6 +122,12 @@ function roundToggleStandings() {
 
     if ($('#circuit') && roundHtml) {
         $('#circuit').load(roundHtml);
+    }
+
+    if ((document.getElementById('round1-button').checked)) {   /*this hides 2 span tags from the legend under standings if round 1 button is selected*/
+        makeDefault();                                          /*makeDefault() lines 6 and 7*/
+        document.getElementById('difference').style.display = 'none';
+        document.getElementById('ptsGain').style.display = 'none';
     }
 }
 
