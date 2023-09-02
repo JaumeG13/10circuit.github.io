@@ -3,10 +3,6 @@ function makeDefault() {
     document.getElementById('rnd9').style.display = 'block';
     document.getElementById('rnd10').style.display = 'block';
 }
-function makeDefaultLegend() {
-    document.getElementById('difference').style.display = 'block';  /*if function, line 124*/
-    document.getElementById('ptsGain').style.display = 'block';     /*if function, line 124*/
-}
 
 function roundToggleStandings() {
     if ((document.getElementById('championship-button').checked) && (document.getElementById('season1-button').checked)) {  /*if championship circuit and season 1 is selected, hide round 9 and 10*/
@@ -121,14 +117,16 @@ function roundToggleStandings() {
         roundHtml = "/standings/porschecup/season1/round8.html";
     }
 
-    if ((document.getElementById('round1-button').checked)) {   /*this hides 2 span tags from the legend under standings if round 1 button is selected*/
-        makeDefaultLegend();                                    /*makeDefaultLegend() line 6*/
-        document.getElementById('difference').style.display = 'none';
-        document.getElementById('ptsGain').style.display = 'none';
-    }
-
     if ($('#circuit') && roundHtml) {
         $('#circuit').load(roundHtml);
+    }
+
+    if ((document.getElementById('round1-button').checked)) {   /*this hides 2 span tags from the legend under standings if round 1 button is selected*/
+        document.getElementById('difference').style.display = 'none';
+        document.getElementById('ptsGain').style.display = 'none';
+    } else {
+        document.getElementById('difference').style.display = 'block';
+        document.getElementById('ptsGain').style.display = 'block';
     }
 }
 
@@ -253,10 +251,6 @@ function roundToggleResults() {
     }
 }
 /*
-if (document.getElementsByTagName("input").checked == true) {
-    document.getElementsByTagName("input").parentElement style.fontWeight = "bold;"
-}
-
 
 function scroll() {
     window.scrollTo({
