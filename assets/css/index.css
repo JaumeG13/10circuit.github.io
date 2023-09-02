@@ -15,15 +15,16 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/championship/season2/longbeach.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/porsche-cup/season1/hungary2.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     background-position-x: 50%;
+    background-position-y: 50%;
 }
 div.section-title {
     position: absolute;
-    top: 30%;   /*change*/
+    top: 25%;   /*change*/
     width: 100%;
     text-align: center;
 }
@@ -221,6 +222,33 @@ div.instagram-column#ig-3 > img {
 
 /* MOBILE VIEW */
 @media screen and (max-width: 950px) {
+    section.index h1 {
+        font-size: 2.5em;
+    }
+    div.section-title { /*change after every event*/
+        top: 35%;
+    }
+    .section-title #title {
+        font-size: 1.9em;
+    }
+    .section-title #round {
+        font-size: 1em;
+    }
+    div.events-container {
+        margin-bottom: 50px;
+    }
+    div.events-container h1 {
+        padding-bottom: 25px;
+    }
+    div.gallery-cell {
+        width: 90%;
+    }
+    div.section-bg-image {  /*change after every event*/
+        background-position-x: 89%;
+        background-position-y: 50%;
+    }
+
+
     /*prize pool*/
     div.prize-pool-container {
         min-height: 100vh;
@@ -257,34 +285,6 @@ div.instagram-column#ig-3 > img {
         flex-direction: column;
     }
     /*end of prize pool*/
-
-    section.index h1 {
-        font-size: 2.5em;
-    }
-
-    div.section-title { /*change after every event*/
-        top: 50%;
-    }
-    .section-title #title {
-        font-size: 2em;
-    }
-    .section-title #round {
-        font-size: 1em;
-    }
-    div.events-container {
-        margin-bottom: 50px;
-    }
-    div.events-container h1 {
-        padding-bottom: 25px;
-    }
-    div.gallery-cell {
-        width: 90%;
-    }
-    div.section-bg-image {  /*change after every event*/
-        background-position-x: 55%;
-        background-position-y: 50%;
-    }
-
 
     /*about part*/
     div.about-content p {
@@ -325,7 +325,7 @@ div.instagram-column#ig-3 > img {
     ul.member-tasks li {
         font-size: 1em;
     }
-    
+    /*end of about part*/
 
     /*instagram part*/
     div.instagram-container h1 {
