@@ -4,6 +4,9 @@ section.register {
     display: flex;
     flex-direction: column;
 }
+section.register h2 {
+    text-align: center;
+}
 div.container {
     display: flex;
     flex-direction: row;
@@ -22,7 +25,7 @@ div.porsche {
     border: 0.4em solid #492833;
     border-radius: 25px;
     overflow: hidden;
-    width: 100%;
+    width: 50%; /*change if another event is added*/
     position: relative;
 }
 div.container img {
