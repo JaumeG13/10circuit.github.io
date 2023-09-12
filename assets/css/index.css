@@ -140,9 +140,12 @@ div.about-us h2 {
 }
 div.our-team {
     width: 80vw;
-    margin: 0 10vw;
-    display: flex;
-    justify-content: space-around;
+    margin: 0 10vw 2em 10vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    text-align: center;
+    gap: 2em;
 }
 div.member {
     display: flex;
@@ -152,6 +155,7 @@ div.member {
 }
 div.member img {
     width: 15vw;
+    align-self: center;
 }
 div.about-us h3 {
     font-size: 25px;
@@ -314,7 +318,6 @@ div.instagram-column#ig-3 > img {
         width: 60vw;
         align-self: center;
     }
-    
     div.about-us h3 {
         font-size: 2em;
     }
