@@ -3,10 +3,49 @@ section.schedule {
     margin: 0 10%;
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
 }
 section.schedule h1 {
     font-weight: 900;
 }
+
+/*buttons part*/
+div.filters {
+    margin-bottom: 1em;
+    width: fit-content;
+    align-self: center;
+}
+div.filters form {
+    display: flex;
+    border: 5px #492833 solid;
+    border-radius: 25px;
+}
+div.separator {
+    min-height: 100%;
+    border: #492833 2px solid;
+}
+div.filters input {
+    display: none;
+}
+div.filters label {
+    background-color: #c18794;
+    padding: 10px;
+    cursor: pointer;
+    user-select: none
+}
+input[type="checkbox"]:checked + label {
+    background: #9f3f5f;
+}
+#cc-button-label {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+#past-button-label {
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+/*end of buttons part*/
+
 div.schedule-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -22,6 +61,8 @@ div.event {
     background-color: black;
     justify-content: space-between;
     overflow: hidden;
+
+    display: block;
 }
 div.event img {
     width: 100%;
@@ -59,12 +100,9 @@ div.event div.championship {
 /* MOBILE VIEW */
 @media screen and (max-width: 950px) {
     section.schedule {
-        width: 100%;
-        margin: 0 0;
+        width: 96%;
+        margin: 0 2%;
         flex-direction: column;
-    }
-    section.schedule h1 {
-        font-weight: 900;
     }
     div.schedule-container {
         display: grid;
@@ -72,4 +110,41 @@ div.event div.championship {
         gap: 1em;
         padding: 0 1em;
     }
+
+    /*buttons part*/
+    div.filters {
+        margin-bottom: 1em;
+        width: fit-content;
+        align-self: center;
+    }
+    div.filters form {
+        display: flex;
+        border: 5px #492833 solid;
+        border-radius: 25px;
+    }
+    div.separator {
+        min-height: 100%;
+        border: #492833 2px solid;
+    }
+    div.filters input {
+        display: none;
+    }
+    div.filters label {
+        background-color: #c18794;
+        padding: 10px;
+        cursor: pointer;
+        user-select: none
+    }
+    input[type="checkbox"]:checked + label {
+        background-color: #975e6a;
+    }
+    #cc-button-label {
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+    #past-button-label {
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    /*end of buttons part*/
 }
