@@ -15,7 +15,6 @@
     <link rel="stylesheet" href="/assets/css/standings-results.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"> <!-- Import font awesome for icons -->
 
-    <script src="/assets/js/roundToggleButtons.js"></script>                <!--script for the buttons to toggle standings and results-->
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>     <!--jquery code to import header and footer-->
     <script type="text/javascript">                                         //jquery code to import header and footer
         $(document).ready(function(){
@@ -23,6 +22,7 @@
           $("#footer").load("/footer.html");
          });
     </script>
+    <script src="/assets/js/roundToggleButtons.js"></script>                <!--script for the buttons to toggle standings and results-->
     <script type="text/javascript">
         $(document).ready(function() {
             roundToggleResults();
@@ -54,10 +54,8 @@
                     <input type="radio" name="season" id="season1-button" onchange="roundToggleResults()" checked>
                     <label for="season1-button">Season 1</label>
 
-                    <!--
                     <input type="radio" name="season" id="season2-button" onchange="roundToggleResults()">
                     <label id="s2btn" for="season2-button">Season 2</label>
-                    -->
                 </div>
 
                 <div class="separator"></div>
@@ -86,12 +84,13 @@
 
                     <input type="radio" name="round" id="round8-button" onchange="roundToggleResults()">
                     <label for="round8-button">Round 8</label>
-
+                    <!--
                     <input type="radio" name="round" id="round9-button" onchange="roundToggleResults()">
                     <label id="rnd9" for="round9-button">Round 9</label>
 
                     <input type="radio" name="round" id="round10-button" onchange="roundToggleResults()">
                     <label id="rnd10" for="round10-button">Round 10</label>
+                    -->
                 </div>
             </div>
 
