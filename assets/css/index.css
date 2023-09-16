@@ -15,7 +15,7 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/porsche-cup/season1/hungary2.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/championship/season2/unused/bristol/bristol4.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -248,8 +248,8 @@ div.instagram-column#ig-3 > img {
         width: 90%;
     }
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 89%;
-        background-position-y: 50%;
+        background-position-x: 40%;
+        background-position-y: 30%;
     }
 
 
