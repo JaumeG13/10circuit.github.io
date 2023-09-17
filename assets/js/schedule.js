@@ -34,7 +34,7 @@ function scheduleFilter() {
     }
 
 
-/*
+
     // if special event is checked and unchecked
     if ((document.getElementById('special-button').checked)) {
         var se = document.getElementsByClassName("specialEvent");
@@ -50,7 +50,7 @@ function scheduleFilter() {
             se[i].style.display = 'none';
         }
     }
-*/
+
 
 
     // hide past events
