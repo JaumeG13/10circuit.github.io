@@ -72,6 +72,9 @@ a.porsche:hover span.porsche {
         margin: 0 5%;
         flex-direction: column;
     }
+    section.register h2 {
+        margin-bottom: 0.5em;
+    }
     div.container {
         flex-direction: column;
         margin-bottom: 1em;
