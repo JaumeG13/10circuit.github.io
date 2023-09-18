@@ -7,7 +7,7 @@ section.standings-results-container {
     padding-bottom: 2em;
 }
 section.standings-results-container h1 {     /*change after every event*/
-    background-image: url('/assets/images/background/championship/season2/unused/bristol/bristol4.jpg');  
+    background-image: url('/assets/images/background/championship/season2/bristol/bristol4.jpg');  
     background-position-y: 160%;
     background-position-x: 50%;
     background-repeat: no-repeat;
