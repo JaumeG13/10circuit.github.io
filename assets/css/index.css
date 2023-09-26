@@ -15,7 +15,7 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/porsche-cup/season1/spa/spa3.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/championship/season2/imola/imola1.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -230,7 +230,7 @@ div.instagram-column#ig-3 > img {
         font-size: 2.5em;
     }
     div.section-title { /*change after every event*/
-        top: 35%;
+        top: 38%;
     }
     .section-title #title {
         font-size: 1.9em;
@@ -248,7 +248,7 @@ div.instagram-column#ig-3 > img {
         width: 90%;
     }
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 92%;
+        background-position-x: 65%;
         background-position-y: 0%;
     }
 

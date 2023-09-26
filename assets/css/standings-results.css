@@ -7,8 +7,8 @@ section.standings-results-container {
     padding-bottom: 2em;
 }
 section.standings-results-container h1 {     /*change after every event*/
-    background-image: url('/assets/images/background/porsche-cup/season1/spa/spa3.jpg');  
-    background-position-y: 310%;
+    background-image: url('/assets/images/background/championship/season2/imola/imola1.jpg');  
+    background-position-y: 230%;
     background-position-x: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -109,8 +109,8 @@ div.legend span {
         padding-bottom: 2em;
     }
     section.standings-results-container h1 {     /*change after every event*/
-        background-position-x: 90%; 
-        background-position-y: -290px;
+        background-position-x: 7%; 
+        background-position-y: -270px;
         padding: 2.5em 0;
     }
     
