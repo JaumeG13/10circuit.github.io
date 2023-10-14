@@ -18,14 +18,21 @@ div.championship {
     border: 0.4em solid #492833;
     border-radius: 25px;
     overflow: hidden;
-    width: 100%;
+    width: 33%;
     position: relative;
 }
 div.porsche {
     border: 0.4em solid #492833;
     border-radius: 25px;
     overflow: hidden;
-    width: 100%; /*change if another event is added*/
+    width: 33%; /*change if another event is added*/
+    position: relative;
+}
+div.special {
+    border: 0.4em solid #492833;
+    border-radius: 25px;
+    overflow: hidden;
+    width: 33%; /*change if another event is added*/
     position: relative;
 }
 div.container img {
@@ -50,6 +57,10 @@ span.porsche {
     margin: -20px 0 0 -126px;
     opacity: 0;
 }
+span.special {
+    margin: -20px 0 0 -205px;
+    opacity: 0;
+}
 a.champ:hover img.champ {
     filter: blur(2px);
 }
@@ -60,6 +71,12 @@ a.porsche:hover img.porsche {
     filter: blur(2px);
 }
 a.porsche:hover span.porsche {
+    opacity: 1.0;
+}
+a.special:hover img.special {
+    filter: blur(2px);
+}
+a.special:hover span.special {
     opacity: 1.0;
 }
 
@@ -79,9 +96,13 @@ a.porsche:hover span.porsche {
         flex-direction: column;
         margin-bottom: 1em;
     }
+    div.container div {
+        width: 90%;
+    }
     section.register span {
         font-size: 1.5em;
     }
+
     span.champ {
         margin: -20px 0 0 -145px;
         opacity: 1;
@@ -90,10 +111,18 @@ a.porsche:hover span.porsche {
         margin: -20px 0 0 -90px;
         opacity: 1;
     }
+    span.special {
+        margin: -20px 0 0 -140px;
+        opacity: 1;
+    }
+
     a.champ:hover img.champ {
         filter: none;
     }
     a.porsche:hover img.porsche {
+        filter: none;
+    }
+    a.special:hover img.special {
         filter: none;
     }
 }
