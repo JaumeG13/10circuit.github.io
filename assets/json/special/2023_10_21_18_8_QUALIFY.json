@@ -1,0 +1,4348 @@
+{
+  "Version": 6,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "Model": "rss_formula_hybrid_2023",
+      "Restrictor": 0,
+      "Skin": "W14_63_Russell",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198428202945",
+        "GuidsList": [
+          "76561198428202945"
+        ],
+        "Name": "Thomas VInk",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "Model": "rss_formula_hybrid_2023",
+      "Restrictor": 0,
+      "Skin": "RB19_11_Perez",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Sp3xtre",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "Model": "rss_formula_hybrid_2023",
+      "Restrictor": 0,
+      "Skin": "AMR23_14_Alonso",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "MinPing": 70,
+      "MaxPing": 72
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "Model": "rss_formula_hybrid_2023",
+      "Restrictor": 0,
+      "Skin": "AMR23_18_Stroll",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "MinPing": 30,
+      "MaxPing": 40
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Cum Dumpster",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "Model": "rss_formula_hybrid_2023",
+      "Restrictor": 0,
+      "Skin": "AT04_3_Ricciardo",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "Model": "rss_formula_hybrid_2023",
+      "Restrictor": 0,
+      "Skin": "MCL60_4_Norris",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "MinPing": 50,
+      "MaxPing": 53
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "Model": "rss_formula_hybrid_2023",
+      "Restrictor": 0,
+      "Skin": "W14_44_Hamilton",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "MinPing": 67,
+      "MaxPing": 76
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561199034435554",
+        "GuidsList": [
+          "76561199034435554"
+        ],
+        "Name": "Lukáš Hendrych",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "Model": "rss_formula_hybrid_2023",
+      "Restrictor": 0,
+      "Skin": "SF23_Monza_16_Leclerc",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Dopicuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "Model": "rss_formula_hybrid_2023",
+      "Restrictor": 0,
+      "Skin": "AT04_21_DeVries",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "MinPing": 80,
+      "MaxPing": 90
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "Model": "rss_formula_hybrid_2023",
+      "Restrictor": 0,
+      "Skin": "SF23_Monza_55_Sainz",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "MinPing": 33,
+      "MaxPing": 38
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198931437182",
+        "GuidsList": [
+          "76561198931437182"
+        ],
+        "Name": "Gergő Bartus",
+        "Nation": "HUN",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "Model": "rss_formula_rss_2_v6_2020",
+      "Restrictor": 0,
+      "Skin": "2023_02_mpmotorsport_daruvala",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "MinPing": 66,
+      "MaxPing": 76
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561199364125026",
+        "GuidsList": [
+          "76561199364125026"
+        ],
+        "Name": "Bolar",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "Model": "rss_formula_rss_2_v6_2020",
+      "Restrictor": 0,
+      "Skin": "2023_07_prema_vesti",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "Model": "rss_formula_rss_2_v6_2020",
+      "Restrictor": 0,
+      "Skin": "2023_10_hitechgp_hadjar",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "MinPing": 1,
+      "MaxPing": 4
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "Model": "rss_formula_rss_2_v6_2020",
+      "Restrictor": 0,
+      "Skin": "2023_10_hitechgp_hadjar",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "MinPing": 50,
+      "MaxPing": 52
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561199241377897",
+        "GuidsList": [
+          "76561199241377897"
+        ],
+        "Name": "Michele Congia",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "Model": "rss_formula_rss_2_v6_2020",
+      "Restrictor": 0,
+      "Skin": "2023_04_carlinracing_fittipaldi",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "MinPing": 79,
+      "MaxPing": 92
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "Model": "rss_formula_rss_2_v6_2020",
+      "Restrictor": 0,
+      "Skin": "2023_09_hitechgp_crawford",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "MinPing": 49,
+      "MaxPing": 50
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 16,
+      "Driver": {
+        "Guid": "76561198269449126",
+        "GuidsList": [
+          "76561198269449126"
+        ],
+        "Name": "Lukas",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "Model": "rss_formula_rss_2_v6_2020",
+      "Restrictor": 0,
+      "Skin": "2023_08_prema_bearman",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "14_Montoya",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "MinPing": 116,
+      "MaxPing": 119
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "Driver": {
+        "Guid": "76561199169914732",
+        "GuidsList": [
+          "76561199169914732"
+        ],
+        "Name": "Wymen",
+        "Nation": "TUR",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "07_Frederick",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "MinPing": 103,
+      "MaxPing": 106
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "2023_2_Beganovic",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "2023_11_Boya",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "MinPing": 49,
+      "MaxPing": 59
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561199241377897",
+        "GuidsList": [
+          "76561199241377897"
+        ],
+        "Name": "Michele Congia",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 28.716066,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.9450287,
+        "Y": -0.09174237,
+        "Z": 2.777176
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 79.640785,
+        "Y": -9.448452,
+        "Z": 347.5597
+      },
+      "Timestamp": 1697903295,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561199241377897",
+        "GuidsList": [
+          "76561199241377897"
+        ],
+        "Name": "Michele Congia",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 56.566006,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.8877436,
+        "Y": -0.041501954,
+        "Z": 2.6042037
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -85.21927,
+        "Y": 4.9948807,
+        "Z": 354.98236
+      },
+      "Timestamp": 1697903305,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "ImpactSpeed": 32.87456,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 0.9133207,
+        "Y": -0.19383125,
+        "Z": -1.3680959
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -33.168583,
+        "Y": 2.0462983,
+        "Z": 30.284588
+      },
+      "Timestamp": 1697903501,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 35.31905,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 0.00002246607,
+        "Y": -0.14269784,
+        "Z": 3.341889
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -539.398,
+        "Y": 51.019905,
+        "Z": -363.33496
+      },
+      "Timestamp": 1697903509,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 90.11622,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.90336406,
+        "Y": -0.092811406,
+        "Z": 2.7604175
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 146.35745,
+        "Y": 18.110191,
+        "Z": -227.669
+      },
+      "Timestamp": 1697903568,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 1.3376644,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.9481057,
+        "Y": -0.22506942,
+        "Z": 2.7559667
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 58.57543,
+        "Y": 16.380724,
+        "Z": -179.12335
+      },
+      "Timestamp": 1697903578,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 21.181875,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 0.0019796172,
+        "Y": -0.09958598,
+        "Z": 3.0872152
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -3.8959548,
+        "Y": 17.427206,
+        "Z": -174.62198
+      },
+      "Timestamp": 1697903583,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 23.771719,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.6187353,
+        "Y": -0.15089191,
+        "Z": 3.1054854
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -565.21606,
+        "Y": 49.865295,
+        "Z": -358.85065
+      },
+      "Timestamp": 1697903586,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 46.477837,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 1.0036787,
+        "Y": -0.20376179,
+        "Z": 2.9637175
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 610.588,
+        "Y": -8.66882,
+        "Z": 180.55794
+      },
+      "Timestamp": 1697903714,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 23.40432,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.9480847,
+        "Y": -0.09142721,
+        "Z": 2.7771082
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -521.8741,
+        "Y": 52.92411,
+        "Z": -395.16922
+      },
+      "Timestamp": 1697903735,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 18,
+      "Driver": {
+        "Guid": "76561199169914732",
+        "GuidsList": [
+          "76561199169914732"
+        ],
+        "Name": "Wymen",
+        "Nation": "TUR",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "ImpactSpeed": 50.711384,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 0.84074044,
+        "Y": 0.046562027,
+        "Z": -1.0595605
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -83.84461,
+        "Y": 4.989323,
+        "Z": 369.776
+      },
+      "Timestamp": 1697903756,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 27.073988,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 0.9481184,
+        "Y": -0.091424294,
+        "Z": 2.7771003
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -109.411255,
+        "Y": 6.245755,
+        "Z": 305.62466
+      },
+      "Timestamp": 1697903803,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 53.357643,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.94811845,
+        "Y": 0.7982601,
+        "Z": -2.0922613
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -516.4772,
+        "Y": 51.92114,
+        "Z": -365.7743
+      },
+      "Timestamp": 1697903825,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 39.706963,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -1.0036966,
+        "Y": -0.20376274,
+        "Z": 2.9636948
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -142.5307,
+        "Y": 7.115492,
+        "Z": 324.7539
+      },
+      "Timestamp": 1697903844,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 27.07396,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.94810253,
+        "Y": -0.2250693,
+        "Z": 2.7559805
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -101.41976,
+        "Y": 5.9514184,
+        "Z": 320.1872
+      },
+      "Timestamp": 1697903885,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "ImpactSpeed": 5.404282,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.90006906,
+        "Y": -0.19016954,
+        "Z": 2.6748402
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 251.53247,
+        "Y": 8.434562,
+        "Z": -23.026196
+      },
+      "Timestamp": 1697903905,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 39.96957,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 0.0019872978,
+        "Y": -0.16387682,
+        "Z": 3.0956419
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -81.16798,
+        "Y": 4.742141,
+        "Z": 359.32492
+      },
+      "Timestamp": 1697903910,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 21.073318,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 0.94811124,
+        "Y": 0.7982588,
+        "Z": -2.092296
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -112.522514,
+        "Y": 7.1124578,
+        "Z": 301.17035
+      },
+      "Timestamp": 1697903948,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561199241377897",
+        "GuidsList": [
+          "76561199241377897"
+        ],
+        "Name": "Michele Congia",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 168.92456,
+      "OtherCarId": 13,
+      "OtherDriver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "RelPosition": {
+        "X": -0.9481092,
+        "Y": -0.098801166,
+        "Z": 1.7087504
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 82.81651,
+        "Y": 2.8904505,
+        "Z": -20.404459
+      },
+      "Timestamp": 1697904060,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 153.44699,
+      "OtherCarId": 14,
+      "OtherDriver": {
+        "Guid": "76561199241377897",
+        "GuidsList": [
+          "76561199241377897"
+        ],
+        "Name": "Michele Congia",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "RelPosition": {
+        "X": 0.94456697,
+        "Y": -0.2225802,
+        "Z": 2.7402248
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 82.98274,
+        "Y": 2.7439916,
+        "Z": -20.410597
+      },
+      "Timestamp": 1697904060,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 42.17045,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.0000027273127,
+        "Y": -0.14269829,
+        "Z": 3.3418896
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 136.22878,
+        "Y": 17.398705,
+        "Z": -218.56499
+      },
+      "Timestamp": 1697904064,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 27.12294,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.9481077,
+        "Y": -0.091424674,
+        "Z": 2.7771018
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -82.52653,
+        "Y": 4.915519,
+        "Z": 358.17804
+      },
+      "Timestamp": 1697904085,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 37.04354,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -1.0013335,
+        "Y": -0.16048709,
+        "Z": -1.9675505
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 627.41327,
+        "Y": -5.0657086,
+        "Z": 233.25145
+      },
+      "Timestamp": 1697904201,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 118.49955,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.027207412,
+        "Y": -0.10769224,
+        "Z": 2.9424171
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 544.944,
+        "Y": -9.047364,
+        "Z": 245.6364
+      },
+      "Timestamp": 1697904265,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 39.59018,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 1.001341,
+        "Y": -0.16048738,
+        "Z": -1.9675496
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -82.26871,
+        "Y": 4.51149,
+        "Z": 372.76562
+      },
+      "Timestamp": 1697904294,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 95.99436,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 0.9419811,
+        "Y": -0.19994271,
+        "Z": 2.9751446
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -83.84461,
+        "Y": 4.5871143,
+        "Z": 369.776
+      },
+      "Timestamp": 1697904306,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 13.127745,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -1.0037048,
+        "Y": -0.20376237,
+        "Z": 2.9636834
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -129.12036,
+        "Y": 7.471121,
+        "Z": 354.27695
+      },
+      "Timestamp": 1697904311,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 26.28381,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 0.001979244,
+        "Y": -0.16387631,
+        "Z": 3.0956256
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 107.24603,
+        "Y": 16.475956,
+        "Z": -198.28424
+      },
+      "Timestamp": 1697904325,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 21.514183,
+      "OtherCarId": 9,
+      "OtherDriver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "RelPosition": {
+        "X": 0.022871768,
+        "Y": -0.06159828,
+        "Z": 3.329903
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -369.89774,
+        "Y": 13.592758,
+        "Z": -84.42937
+      },
+      "Timestamp": 1697904331,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 101.03333,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 1.0013342,
+        "Y": -0.16048661,
+        "Z": -1.9675521
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -407.91748,
+        "Y": 16.176096,
+        "Z": -123.61578
+      },
+      "Timestamp": 1697904331,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 22.362001,
+      "OtherCarId": 5,
+      "OtherDriver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "RelPosition": {
+        "X": 0.8446671,
+        "Y": -0.12924378,
+        "Z": -2.025574
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -369.1206,
+        "Y": 13.456454,
+        "Z": -83.10801
+      },
+      "Timestamp": 1697904334,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 66.178665,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -0.8737752,
+        "Y": -0.03605091,
+        "Z": -2.0485406
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -129.11093,
+        "Y": 1.7848399,
+        "Z": 46.904427
+      },
+      "Timestamp": 1697904369,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 16.967167,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": -1.0036991,
+        "Y": -0.20376281,
+        "Z": 2.963698
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -105.39931,
+        "Y": -0.3953512,
+        "Z": 63.363636
+      },
+      "Timestamp": 1697904374,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a"
+      },
+      "ImpactSpeed": 20.97348,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 0.001989525,
+        "Y": -0.16387612,
+        "Z": 3.0956326
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -104.55599,
+        "Y": 6.10322,
+        "Z": 313.79294
+      },
+      "Timestamp": 1697904380,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62"
+      },
+      "ImpactSpeed": 75.58535,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e"
+      },
+      "RelPosition": {
+        "X": 1.0036719,
+        "Y": -0.20376062,
+        "Z": 2.963708
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 620.4616,
+        "Y": -5.653156,
+        "Z": 233.92558
+      },
+      "Timestamp": 1697904429,
+      "AfterSessionEnd": false
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 114472,
+      "Restrictor": 0,
+      "Sectors": [
+        44524,
+        35244,
+        34704
+      ],
+      "Timestamp": 1697903361,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 109679,
+      "Restrictor": 0,
+      "Sectors": [
+        46364,
+        34281,
+        29034
+      ],
+      "Timestamp": 1697903365,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 107637,
+      "Restrictor": 0,
+      "Sectors": [
+        47341,
+        35149,
+        25147
+      ],
+      "Timestamp": 1697903374,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561199169914732",
+      "DriverName": "Wymen",
+      "LapTime": 122712,
+      "Restrictor": 0,
+      "Sectors": [
+        60603,
+        33741,
+        28368
+      ],
+      "Timestamp": 1697903378,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "LapTime": 133673,
+      "Restrictor": 0,
+      "Sectors": [
+        72096,
+        34253,
+        27324
+      ],
+      "Timestamp": 1697903378,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 122208,
+      "Restrictor": 0,
+      "Sectors": [
+        60715,
+        34619,
+        26874
+      ],
+      "Timestamp": 1697903381,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 138057,
+      "Restrictor": 0,
+      "Sectors": [
+        76186,
+        34506,
+        27365
+      ],
+      "Timestamp": 1697903398,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 145527,
+      "Restrictor": 0,
+      "Sectors": [
+        81788,
+        34880,
+        28859
+      ],
+      "Timestamp": 1697903400,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 67344,
+      "Restrictor": 0,
+      "Sectors": [
+        15638,
+        28850,
+        22856
+      ],
+      "Timestamp": 1697903428,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 186337,
+      "Restrictor": 0,
+      "Sectors": [
+        115889,
+        42764,
+        27684
+      ],
+      "Timestamp": 1697903431,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 65965,
+      "Restrictor": 0,
+      "Sectors": [
+        15462,
+        28098,
+        22405
+      ],
+      "Timestamp": 1697903439,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 108375,
+      "Restrictor": 0,
+      "Sectors": [
+        45924,
+        34551,
+        27900
+      ],
+      "Timestamp": 1697903447,
+      "Tyre": "M",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561199169914732",
+      "DriverName": "Wymen",
+      "LapTime": 80712,
+      "Restrictor": 0,
+      "Sectors": [
+        18926,
+        33723,
+        28063
+      ],
+      "Timestamp": 1697903459,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "LapTime": 85700,
+      "Restrictor": 0,
+      "Sectors": [
+        17728,
+        40361,
+        27611
+      ],
+      "Timestamp": 1697903464,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 92474,
+      "Restrictor": 0,
+      "Sectors": [
+        17612,
+        34389,
+        40473
+      ],
+      "Timestamp": 1697903473,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 75478,
+      "Restrictor": 0,
+      "Sectors": [
+        17387,
+        31856,
+        26235
+      ],
+      "Timestamp": 1697903473,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 80869,
+      "Restrictor": 0,
+      "Sectors": [
+        18486,
+        34281,
+        28102
+      ],
+      "Timestamp": 1697903481,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 127554,
+      "Restrictor": 0,
+      "Sectors": [
+        62965,
+        35910,
+        28679
+      ],
+      "Timestamp": 1697903512,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 86967,
+      "Restrictor": 0,
+      "Sectors": [
+        21068,
+        36212,
+        29687
+      ],
+      "Timestamp": 1697903515,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 2,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 79892,
+      "Restrictor": 0,
+      "Sectors": [
+        17950,
+        34591,
+        27351
+      ],
+      "Timestamp": 1697903526,
+      "Tyre": "M",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 162687,
+      "Restrictor": 0,
+      "Sectors": [
+        89777,
+        35506,
+        37404
+      ],
+      "Timestamp": 1697903528,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 98132,
+      "Restrictor": 0,
+      "Sectors": [
+        39552,
+        29281,
+        29299
+      ],
+      "Timestamp": 1697903538,
+      "Tyre": "C3",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 79097,
+      "Restrictor": 0,
+      "Sectors": [
+        17740,
+        34191,
+        27166
+      ],
+      "Timestamp": 1697903552,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 85646,
+      "Restrictor": 0,
+      "Sectors": [
+        25419,
+        33304,
+        26923
+      ],
+      "Timestamp": 1697903559,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 2,
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "LapTime": 96591,
+      "Restrictor": 0,
+      "Sectors": [
+        18934,
+        40207,
+        37450
+      ],
+      "Timestamp": 1697903561,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 79619,
+      "Restrictor": 0,
+      "Sectors": [
+        18771,
+        33250,
+        27598
+      ],
+      "Timestamp": 1697903561,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 2,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 137157,
+      "Restrictor": 0,
+      "Sectors": [
+        68878,
+        44699,
+        23580
+      ],
+      "Timestamp": 1697903568,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 67193,
+      "Restrictor": 0,
+      "Sectors": [
+        15759,
+        28615,
+        22819
+      ],
+      "Timestamp": 1697903582,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 85950,
+      "Restrictor": 0,
+      "Sectors": [
+        17194,
+        41265,
+        27491
+      ],
+      "Timestamp": 1697903598,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561199169914732",
+      "DriverName": "Wymen",
+      "LapTime": 153584,
+      "Restrictor": 0,
+      "Sectors": [
+        91692,
+        34137,
+        27755
+      ],
+      "Timestamp": 1697903612,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 2,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 105941,
+      "Restrictor": 0,
+      "Sectors": [
+        17868,
+        57177,
+        30896
+      ],
+      "Timestamp": 1697903632,
+      "Tyre": "M",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 76223,
+      "Restrictor": 0,
+      "Sectors": [
+        17499,
+        32453,
+        26271
+      ],
+      "Timestamp": 1697903635,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 108495,
+      "Restrictor": 0,
+      "Sectors": [
+        43866,
+        35680,
+        28949
+      ],
+      "Timestamp": 1697903637,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 69300,
+      "Restrictor": 0,
+      "Sectors": [
+        16029,
+        29438,
+        23833
+      ],
+      "Timestamp": 1697903637,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 2,
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "LapTime": 90521,
+      "Restrictor": 0,
+      "Sectors": [
+        17703,
+        36697,
+        36121
+      ],
+      "Timestamp": 1697903651,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 2,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 126282,
+      "Restrictor": 0,
+      "Sectors": [
+        73951,
+        28890,
+        23441
+      ],
+      "Timestamp": 1697903664,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561199169914732",
+      "DriverName": "Wymen",
+      "LapTime": 80355,
+      "Restrictor": 0,
+      "Sectors": [
+        18750,
+        33822,
+        27783
+      ],
+      "Timestamp": 1697903693,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 79360,
+      "Restrictor": 0,
+      "Sectors": [
+        18416,
+        33881,
+        27063
+      ],
+      "Timestamp": 1697903712,
+      "Tyre": "M",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 81944,
+      "Restrictor": 0,
+      "Sectors": [
+        19079,
+        34493,
+        28372
+      ],
+      "Timestamp": 1697903719,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 2,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 89563,
+      "Restrictor": 0,
+      "Sectors": [
+        22599,
+        33714,
+        33250
+      ],
+      "Timestamp": 1697903727,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "LapTime": 77434,
+      "Restrictor": 0,
+      "Sectors": [
+        17660,
+        33035,
+        26739
+      ],
+      "Timestamp": 1697903728,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99343,
+      "Restrictor": 0,
+      "Sectors": [
+        38346,
+        36265,
+        24732
+      ],
+      "Timestamp": 1697903729,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 154353,
+      "Restrictor": 0,
+      "Sectors": [
+        95659,
+        34132,
+        24562
+      ],
+      "Timestamp": 1697903737,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 94227,
+      "Restrictor": 0,
+      "Sectors": [
+        36374,
+        32482,
+        25371
+      ],
+      "Timestamp": 1697903752,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 125266,
+      "Restrictor": 0,
+      "Sectors": [
+        70208,
+        30524,
+        24534
+      ],
+      "Timestamp": 1697903789,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 2,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 79017,
+      "Restrictor": 0,
+      "Sectors": [
+        18150,
+        33619,
+        27248
+      ],
+      "Timestamp": 1697903791,
+      "Tyre": "M",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 197270,
+      "Restrictor": 0,
+      "Sectors": [
+        125037,
+        45144,
+        27089
+      ],
+      "Timestamp": 1697903796,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 77237,
+      "Restrictor": 0,
+      "Sectors": [
+        16901,
+        31410,
+        28926
+      ],
+      "Timestamp": 1697903814,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 118571,
+      "Restrictor": 0,
+      "Sectors": [
+        54744,
+        33614,
+        30213
+      ],
+      "Timestamp": 1697903814,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 2,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 92445,
+      "Restrictor": 0,
+      "Sectors": [
+        35745,
+        30946,
+        25754
+      ],
+      "Timestamp": 1697903821,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 267703,
+      "Restrictor": 0,
+      "Sectors": [
+        201593,
+        36167,
+        29943
+      ],
+      "Timestamp": 1697903829,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 76634,
+      "Restrictor": 0,
+      "Sectors": [
+        17005,
+        30685,
+        28944
+      ],
+      "Timestamp": 1697903829,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 113600,
+      "Restrictor": 0,
+      "Sectors": [
+        50789,
+        34623,
+        28188
+      ],
+      "Timestamp": 1697903832,
+      "Tyre": "M",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 107070,
+      "Restrictor": 0,
+      "Sectors": [
+        33549,
+        50651,
+        22870
+      ],
+      "Timestamp": 1697903834,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561199169914732",
+      "DriverName": "Wymen",
+      "LapTime": 145998,
+      "Restrictor": 0,
+      "Sectors": [
+        83618,
+        34506,
+        27874
+      ],
+      "Timestamp": 1697903839,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 65508,
+      "Restrictor": 0,
+      "Sectors": [
+        15467,
+        27891,
+        22150
+      ],
+      "Timestamp": 1697903855,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 80242,
+      "Restrictor": 0,
+      "Sectors": [
+        17332,
+        36103,
+        26807
+      ],
+      "Timestamp": 1697903876,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 66594,
+      "Restrictor": 0,
+      "Sectors": [
+        15667,
+        28201,
+        22726
+      ],
+      "Timestamp": 1697903881,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 67436,
+      "Restrictor": 0,
+      "Sectors": [
+        15560,
+        28773,
+        23103
+      ],
+      "Timestamp": 1697903888,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 75850,
+      "Restrictor": 0,
+      "Sectors": [
+        17543,
+        32158,
+        26149
+      ],
+      "Timestamp": 1697903890,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 71471,
+      "Restrictor": 0,
+      "Sectors": [
+        16949,
+        30488,
+        24034
+      ],
+      "Timestamp": 1697903900,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 81597,
+      "Restrictor": 0,
+      "Sectors": [
+        19105,
+        34276,
+        28216
+      ],
+      "Timestamp": 1697903914,
+      "Tyre": "M",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 80847,
+      "Restrictor": 0,
+      "Sectors": [
+        24632,
+        32261,
+        23954
+      ],
+      "Timestamp": 1697903915,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 97709,
+      "Restrictor": 0,
+      "Sectors": [
+        18924,
+        39546,
+        39239
+      ],
+      "Timestamp": 1697903926,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 147140,
+      "Restrictor": 0,
+      "Sectors": [
+        85338,
+        34884,
+        26918
+      ],
+      "Timestamp": 1697903938,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 2,
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "LapTime": 214120,
+      "Restrictor": 0,
+      "Sectors": [
+        138349,
+        40145,
+        35626
+      ],
+      "Timestamp": 1697903943,
+      "Tyre": "S",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561199169914732",
+      "DriverName": "Wymen",
+      "LapTime": 126594,
+      "Restrictor": 0,
+      "Sectors": [
+        64925,
+        33931,
+        27738
+      ],
+      "Timestamp": 1697903965,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 69816,
+      "Restrictor": 0,
+      "Sectors": [
+        16347,
+        29335,
+        24134
+      ],
+      "Timestamp": 1697903970,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 429415,
+      "Restrictor": 0,
+      "Sectors": [
+        363251,
+        36752,
+        29412
+      ],
+      "Timestamp": 1697903982,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 131148,
+      "Restrictor": 0,
+      "Sectors": [
+        76572,
+        30559,
+        24017
+      ],
+      "Timestamp": 1697903986,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 96310,
+      "Restrictor": 0,
+      "Sectors": [
+        17434,
+        38453,
+        40423
+      ],
+      "Timestamp": 1697903987,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 3,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 123949,
+      "Restrictor": 0,
+      "Sectors": [
+        65071,
+        32814,
+        26064
+      ],
+      "Timestamp": 1697904000,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 83419,
+      "Restrictor": 0,
+      "Sectors": [
+        19740,
+        34636,
+        29043
+      ],
+      "Timestamp": 1697904010,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 139324,
+      "Restrictor": 0,
+      "Sectors": [
+        83627,
+        30362,
+        25335
+      ],
+      "Timestamp": 1697904020,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 135903,
+      "Restrictor": 0,
+      "Sectors": [
+        80584,
+        31162,
+        24157
+      ],
+      "Timestamp": 1697904024,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 119371,
+      "Restrictor": 0,
+      "Sectors": [
+        57541,
+        37823,
+        24007
+      ],
+      "Timestamp": 1697904034,
+      "Tyre": "C4",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561199169914732",
+      "DriverName": "Wymen",
+      "LapTime": 80189,
+      "Restrictor": 0,
+      "Sectors": [
+        18859,
+        33548,
+        27782
+      ],
+      "Timestamp": 1697904046,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 65502,
+      "Restrictor": 0,
+      "Sectors": [
+        15506,
+        27887,
+        22109
+      ],
+      "Timestamp": 1697904051,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 88285,
+      "Restrictor": 0,
+      "Sectors": [
+        34047,
+        30087,
+        24151
+      ],
+      "Timestamp": 1697904058,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 89358,
+      "Restrictor": 0,
+      "Sectors": [
+        17303,
+        34542,
+        37513
+      ],
+      "Timestamp": 1697904071,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 66066,
+      "Restrictor": 0,
+      "Sectors": [
+        15549,
+        28016,
+        22501
+      ],
+      "Timestamp": 1697904086,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 149051,
+      "Restrictor": 0,
+      "Sectors": [
+        88135,
+        33669,
+        27247
+      ],
+      "Timestamp": 1697904087,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 80744,
+      "Restrictor": 0,
+      "Sectors": [
+        18905,
+        33859,
+        27980
+      ],
+      "Timestamp": 1697904090,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "LapTime": 153334,
+      "Restrictor": 0,
+      "Sectors": [
+        63384,
+        35306,
+        54644
+      ],
+      "Timestamp": 1697904096,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 69809,
+      "Restrictor": 0,
+      "Sectors": [
+        16115,
+        30141,
+        23553
+      ],
+      "Timestamp": 1697904104,
+      "Tyre": "C4",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 74211,
+      "Restrictor": 0,
+      "Sectors": [
+        19423,
+        30758,
+        24030
+      ],
+      "Timestamp": 1697904132,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 88046,
+      "Restrictor": 0,
+      "Sectors": [
+        30896,
+        30015,
+        27135
+      ],
+      "Timestamp": 1697904139,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 2,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 123569,
+      "Restrictor": 0,
+      "Sectors": [
+        68904,
+        30203,
+        24462
+      ],
+      "Timestamp": 1697904148,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 156093,
+      "Restrictor": 0,
+      "Sectors": [
+        97097,
+        32760,
+        26236
+      ],
+      "Timestamp": 1697904156,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 2,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 91381,
+      "Restrictor": 0,
+      "Sectors": [
+        17212,
+        44460,
+        29709
+      ],
+      "Timestamp": 1697904163,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 80071,
+      "Restrictor": 0,
+      "Sectors": [
+        17687,
+        35042,
+        27342
+      ],
+      "Timestamp": 1697904167,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 80787,
+      "Restrictor": 0,
+      "Sectors": [
+        18866,
+        33692,
+        28229
+      ],
+      "Timestamp": 1697904171,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 265275,
+      "Restrictor": 0,
+      "Sectors": [
+        201424,
+        35644,
+        28207
+      ],
+      "Timestamp": 1697904179,
+      "Tyre": "M",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 2,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 96727,
+      "Restrictor": 0,
+      "Sectors": [
+        40018,
+        31743,
+        24966
+      ],
+      "Timestamp": 1697904183,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561199169914732",
+      "DriverName": "Wymen",
+      "LapTime": 142873,
+      "Restrictor": 0,
+      "Sectors": [
+        81560,
+        33633,
+        27680
+      ],
+      "Timestamp": 1697904188,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 1,
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "LapTime": 108856,
+      "Restrictor": 0,
+      "Sectors": [
+        31681,
+        47641,
+        29534
+      ],
+      "Timestamp": 1697904205,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 79721,
+      "Restrictor": 0,
+      "Sectors": [
+        16110,
+        39059,
+        24552
+      ],
+      "Timestamp": 1697904212,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 66742,
+      "Restrictor": 0,
+      "Sectors": [
+        15550,
+        28283,
+        22909
+      ],
+      "Timestamp": 1697904215,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 119891,
+      "Restrictor": 0,
+      "Sectors": [
+        65712,
+        30690,
+        23489
+      ],
+      "Timestamp": 1697904224,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 75410,
+      "Restrictor": 0,
+      "Sectors": [
+        17216,
+        32013,
+        26181
+      ],
+      "Timestamp": 1697904231,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 65953,
+      "Restrictor": 0,
+      "Sectors": [
+        15423,
+        28053,
+        22477
+      ],
+      "Timestamp": 1697904249,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 81076,
+      "Restrictor": 0,
+      "Sectors": [
+        18922,
+        34034,
+        28120
+      ],
+      "Timestamp": 1697904260,
+      "Tyre": "M",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 2,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 117411,
+      "Restrictor": 0,
+      "Sectors": [
+        46468,
+        32081,
+        38862
+      ],
+      "Timestamp": 1697904280,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 68349,
+      "Restrictor": 0,
+      "Sectors": [
+        15892,
+        29164,
+        23293
+      ],
+      "Timestamp": 1697904292,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 122017,
+      "Restrictor": 0,
+      "Sectors": [
+        59022,
+        34920,
+        28075
+      ],
+      "Timestamp": 1697904293,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 130168,
+      "Restrictor": 0,
+      "Sectors": [
+        69882,
+        33138,
+        27148
+      ],
+      "Timestamp": 1697904297,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "LapTime": 96918,
+      "Restrictor": 0,
+      "Sectors": [
+        17457,
+        32359,
+        47102
+      ],
+      "Timestamp": 1697904302,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 75207,
+      "Restrictor": 0,
+      "Sectors": [
+        17197,
+        31959,
+        26051
+      ],
+      "Timestamp": 1697904307,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 82365,
+      "Restrictor": 0,
+      "Sectors": [
+        18815,
+        34506,
+        29044
+      ],
+      "Timestamp": 1697904343,
+      "Tyre": "M",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 2,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 130732,
+      "Restrictor": 0,
+      "Sectors": [
+        75287,
+        29957,
+        25488
+      ],
+      "Timestamp": 1697904343,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 146989,
+      "Restrictor": 0,
+      "Sectors": [
+        89272,
+        33421,
+        24296
+      ],
+      "Timestamp": 1697904362,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 2,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 91547,
+      "Restrictor": 0,
+      "Sectors": [
+        19701,
+        42696,
+        29150
+      ],
+      "Timestamp": 1697904372,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561199169914732",
+      "DriverName": "Wymen",
+      "LapTime": 185792,
+      "Restrictor": 0,
+      "Sectors": [
+        123765,
+        33750,
+        28277
+      ],
+      "Timestamp": 1697904374,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 78431,
+      "Restrictor": 0,
+      "Sectors": [
+        17969,
+        33215,
+        27247
+      ],
+      "Timestamp": 1697904376,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 2,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 246468,
+      "Restrictor": 0,
+      "Sectors": [
+        194047,
+        29345,
+        23076
+      ],
+      "Timestamp": 1697904386,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "LapTime": 88060,
+      "Restrictor": 0,
+      "Sectors": [
+        17631,
+        42461,
+        27968
+      ],
+      "Timestamp": 1697904390,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 97192,
+      "Restrictor": 0,
+      "Sectors": [
+        18716,
+        33283,
+        45193
+      ],
+      "Timestamp": 1697904390,
+      "Tyre": "S",
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 142098,
+      "Restrictor": 0,
+      "Sectors": [
+        81887,
+        30592,
+        29619
+      ],
+      "Timestamp": 1697904391,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 113516,
+      "Restrictor": 0,
+      "Sectors": [
+        41467,
+        32283,
+        39766
+      ],
+      "Timestamp": 1697904405,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 103986,
+      "Restrictor": 0,
+      "Sectors": [
+        44865,
+        32890,
+        26231
+      ],
+      "Timestamp": 1697904411,
+      "Tyre": "SS",
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_hybrid_2023",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 73680,
+      "Restrictor": 0,
+      "Sectors": [
+        16493,
+        29331,
+        27856
+      ],
+      "Timestamp": 1697904417,
+      "Tyre": "C5",
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 0,
+      "BestLap": 65502,
+      "CarId": 5,
+      "CarModel": "rss_formula_hybrid_2023",
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "Restrictor": 0,
+      "TotalTime": 1184399,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "GridPosition": 6
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 65953,
+      "CarId": 3,
+      "CarModel": "rss_formula_hybrid_2023",
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "Restrictor": 0,
+      "TotalTime": 1189375,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "GridPosition": 4
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 66742,
+      "CarId": 6,
+      "CarModel": "rss_formula_hybrid_2023",
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "Restrictor": 0,
+      "TotalTime": 1160254,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "GridPosition": 7
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 69300,
+      "CarId": 9,
+      "CarModel": "rss_formula_hybrid_2023",
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "Restrictor": 0,
+      "TotalTime": 1204016,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "GridPosition": 10
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 69816,
+      "CarId": 8,
+      "CarModel": "rss_formula_hybrid_2023",
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "Restrictor": 0,
+      "TotalTime": 1215155,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "800ca17a-aca8-4b1b-befb-a89c4d7b7b62",
+      "GridPosition": 9
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 75207,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "Restrictor": 0,
+      "TotalTime": 1209132,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "GridPosition": 14
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 75478,
+      "CarId": 15,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "Restrictor": 0,
+      "TotalTime": 1170089,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "GridPosition": 16
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 75850,
+      "CarId": 10,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "Restrictor": 0,
+      "TotalTime": 785142,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "GridPosition": 11
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 77434,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "DriverGuid": "76561199241377897",
+      "DriverName": "Michele Congia",
+      "Restrictor": 0,
+      "TotalTime": 1188316,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "GridPosition": 15
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 78431,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_2_v6_2020",
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "Restrictor": 0,
+      "TotalTime": 1174147,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "8ade2870-0e36-488d-895d-6a0df705192a",
+      "GridPosition": 13
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 79619,
+      "CarId": 20,
+      "CarModel": "rss_formula_rss_3_v6",
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "Restrictor": 0,
+      "TotalTime": 1188937,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "GridPosition": 21
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 80189,
+      "CarId": 18,
+      "CarModel": "rss_formula_rss_3_v6",
+      "DriverGuid": "76561199169914732",
+      "DriverName": "Wymen",
+      "Restrictor": 0,
+      "TotalTime": 1172741,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "GridPosition": 19
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 81076,
+      "CarId": 17,
+      "CarModel": "rss_formula_rss_3_v6",
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "Restrictor": 0,
+      "TotalTime": 1141037,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "a5327b2c-98ad-4797-b301-2f2a6f2fb17e",
+      "GridPosition": 18
+    }
+  ],
+  "Penalties": null,
+  "TrackConfig": "layout_gp_osrw",
+  "TrackName": "ks_red_bull_ring",
+  "Type": "QUALIFY",
+  "Date": "2023-10-21T18:08:00+02:00",
+  "SessionFile": "2023_10_21_18_8_QUALIFY",
+  "SessionConfig": {
+    "session_type": 2,
+    "name": "Qualify",
+    "time": 20,
+    "laps": 0,
+    "is_open": 1,
+    "wait_time": 0,
+    "visibility_mode": 2,
+    "qualifying_type": 0,
+    "qualifying_number_of_laps_to_average": 0,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "3b601e08-a25c-4045-bad7-c88c72d730ac",
+  "RaceWeekendID": ""
+}
