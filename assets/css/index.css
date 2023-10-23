@@ -15,16 +15,16 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/special-events/austria/austria7.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/championship/season2/sebring/sebring6.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     background-position-x: 50%;
-    background-position-y: 100%;
+    background-position-y: 50%;
 }
 div.section-title {
     position: absolute;
-    top: 25%;   /*change*/
+    top: 35%;   /*change*/
     width: 100%;
     text-align: center;
 }
@@ -248,7 +248,7 @@ div.instagram-column#ig-3 > img {
         width: 90%;
     }
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 25%;
+        background-position-x: 10%;
         background-position-y: 0%;
     }
 

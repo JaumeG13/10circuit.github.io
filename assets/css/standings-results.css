@@ -7,8 +7,8 @@ section.standings-results-container {
     padding-bottom: 2em;
 }
 section.standings-results-container h1 {     /*change after every event*/
-    background-image: url('/assets/images/background/special-events/austria/austria7.jpg');  
-    background-position-y: 240%;
+    background-image: url('/assets/images/background/championship/season2/sebring/sebring6.jpg');  
+    background-position-y: 230%;
     background-position-x: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -109,8 +109,8 @@ div.legend span {
         padding-bottom: 2em;
     }
     section.standings-results-container h1 {     /*change after every event*/
-        background-position-x: 60%; 
-        background-position-y: -200px;
+        background-position-x: 15%; 
+        background-position-y: -300px;
         padding: 2.5em 0;
     }
     
