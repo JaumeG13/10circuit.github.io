@@ -33659,22 +33659,6 @@
     },
     {
       "BallastKG": 0,
-      "BestLap": 103896,
-      "CarId": 9,
-      "CarModel": "Yzd_Oreca_07_LMP2",
-      "DriverGuid": "76561198157789493",
-      "DriverName": "Dopicuh",
-      "Restrictor": 0,
-      "TotalTime": 8777610,
-      "HasPenalty": false,
-      "PenaltyTime": 0,
-      "LapPenalty": 0,
-      "Disqualified": false,
-      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
-      "GridPosition": 6
-    },
-    {
-      "BallastKG": 0,
       "BestLap": 106952,
       "CarId": 6,
       "CarModel": "Yzd_Oreca_07_LMP2",
@@ -33688,6 +33672,22 @@
       "Disqualified": false,
       "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
       "GridPosition": 7
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 103896,
+      "CarId": 9,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "Restrictor": 0,
+      "TotalTime": 8777610,
+      "HasPenalty": true,
+      "PenaltyTime": 2000000000,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 6
     },
     {
       "BallastKG": 0,

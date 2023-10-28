@@ -18,14 +18,14 @@ div.championship {
     border: 0.4em solid #492833;
     border-radius: 25px;
     overflow: hidden;
-    width: 33%;
+    width: 50%;
     position: relative;
 }
 div.porsche {
     border: 0.4em solid #492833;
     border-radius: 25px;
     overflow: hidden;
-    width: 33%; /*change if another event is added*/
+    width: 50%; /*change if another event is added*/
     position: relative;
 }
 div.special {
