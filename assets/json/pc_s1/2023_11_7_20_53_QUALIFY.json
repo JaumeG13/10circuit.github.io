@@ -4007,22 +4007,6 @@
   "Result": [
     {
       "BallastKG": 0,
-      "BestLap": 107717,
-      "CarId": 6,
-      "CarModel": "urd_darche_cup_2021",
-      "DriverGuid": "76561199026539459",
-      "DriverName": "Pau Espina",
-      "Restrictor": 0,
-      "TotalTime": 1356812,
-      "HasPenalty": false,
-      "PenaltyTime": 0,
-      "LapPenalty": 0,
-      "Disqualified": false,
-      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
-      "GridPosition": 15
-    },
-    {
-      "BallastKG": 0,
       "BestLap": 108216,
       "CarId": 14,
       "CarModel": "urd_darche_cup_2021",
@@ -4164,6 +4148,22 @@
       "Disqualified": false,
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "GridPosition": 9
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 107717,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561199026539459",
+      "DriverName": "Pau Espina",
+      "Restrictor": 0,
+      "TotalTime": 1356812,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": true,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 15
     }
   ],
   "Penalties": null,
