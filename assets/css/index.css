@@ -15,7 +15,7 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/porsche-cup/season1/watkins/watkins2.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/championship/season2/zolder/zolder5.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -52,10 +52,9 @@ div.prize-pool-container h2 {
 }
 div.prize-pool {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     width: 60vw;
     margin: 0 20vw;
-    gap: 5em;
 }
 div.prize-pool span {
     font-size: 1.3em;
@@ -248,7 +247,7 @@ div.instagram-column#ig-3 > img {
         width: 90%;
     }
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 45%;
+        background-position-x: 40%;
         background-position-y: 0%;
     }
 
