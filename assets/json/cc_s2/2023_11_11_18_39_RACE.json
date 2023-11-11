@@ -1,0 +1,5609 @@
+{
+  "Version": 6,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "Model": "t78_mustang_gt_dtm",
+      "Restrictor": 0,
+      "Skin": "51_heinz_becker",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "MinPing": 131,
+      "MaxPing": 133
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "Model": "t78_190e_dtm",
+      "Restrictor": 0,
+      "Skin": "8_ludwig",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "MinPing": 44,
+      "MaxPing": 52
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "Model": "t78_190e_dtm",
+      "Restrictor": 0,
+      "Skin": "7_thiim",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "MinPing": 49,
+      "MaxPing": 51
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "Model": "t78_m3evo_dtm",
+      "Restrictor": 0,
+      "Skin": "42_euser",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "MinPing": 68,
+      "MaxPing": 90
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "Model": "t78_190e_dtm",
+      "Restrictor": 0,
+      "Skin": "23_ommen",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "MinPing": 1,
+      "MaxPing": 4
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "Model": "t78_evo500_dtm",
+      "Restrictor": 0,
+      "Skin": "22_frank_schmickler",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "MinPing": 31,
+      "MaxPing": 35
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "Model": "t78_m3evo_dtm",
+      "Restrictor": 0,
+      "Skin": "12_hahne",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "Model": "t78_m3evo_dtm",
+      "Restrictor": 0,
+      "Skin": "14_kelleners",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "MinPing": 48,
+      "MaxPing": 56
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "Model": "t78_190e_dtm",
+      "Restrictor": 0,
+      "Skin": "20_schumacher",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "MinPing": 68,
+      "MaxPing": 109
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199192625155",
+        "GuidsList": [
+          "76561199192625155"
+        ],
+        "Name": "Forza55",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "Model": "t78_m3evo_dtm",
+      "Restrictor": 0,
+      "Skin": "11_soper",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 0.7839369,
+      "OtherCarId": 7,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.7194423,
+        "Y": 0.107416295,
+        "Z": 1.6698335
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -53.543938,
+        "Y": 82.814354,
+        "Z": 41.156544
+      },
+      "Timestamp": 1699721497,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 8.551318,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.6448604,
+        "Y": 0.0041402862,
+        "Z": -2.2586768
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -54.55053,
+        "Y": 82.72727,
+        "Z": 41.877098
+      },
+      "Timestamp": 1699721501,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 9.854745,
+      "OtherCarId": 7,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.80095744,
+        "Y": 0.23994823,
+        "Z": 1.4815454
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -166.4813,
+        "Y": 77.126015,
+        "Z": 604.8137
+      },
+      "Timestamp": 1699721575,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 9.682705,
+      "OtherCarId": 7,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.77657664,
+        "Y": 0.15221113,
+        "Z": 1.6199543
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -488.1617,
+        "Y": 77.25804,
+        "Z": 463.00128
+      },
+      "Timestamp": 1699721585,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 13.184646,
+      "OtherCarId": 3,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.7462742,
+        "Y": -0.030799251,
+        "Z": -2.1976783
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -487.1145,
+        "Y": 77.12681,
+        "Z": 465.50693
+      },
+      "Timestamp": 1699721586,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 22.11412,
+      "OtherCarId": 7,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.40614623,
+        "Y": -0.012112284,
+        "Z": 1.8201396
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -448.52463,
+        "Y": 78.38847,
+        "Z": 323.56442
+      },
+      "Timestamp": 1699721590,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 26.853556,
+      "OtherCarId": 1,
+      "OtherDriver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.42849708,
+        "Y": -0.03708896,
+        "Z": -2.2935703
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -448.82062,
+        "Y": 78.376785,
+        "Z": 323.793
+      },
+      "Timestamp": 1699721591,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 2.6647007,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.80094755,
+        "Y": 0.23995215,
+        "Z": 1.4815413
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 82.87609,
+        "Y": 78.492035,
+        "Z": -543.1891
+      },
+      "Timestamp": 1699721616,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 10.02943,
+      "OtherCarId": 7,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.7772735,
+        "Y": 0.15006196,
+        "Z": -2.0470042
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 82.92712,
+        "Y": 78.4702,
+        "Z": -543.34467
+      },
+      "Timestamp": 1699721617,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 11.233483,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.7407433,
+        "Y": 0.071412005,
+        "Z": 1.8905874
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 73.858955,
+        "Y": 78.29858,
+        "Z": -570.58203
+      },
+      "Timestamp": 1699721621,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 17.815348,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.74629635,
+        "Y": 0.0679695,
+        "Z": -2.524695
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 71.94927,
+        "Y": 78.53704,
+        "Z": -615.3365
+      },
+      "Timestamp": 1699721622,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 9.082082,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.8184613,
+        "Y": 0.08685301,
+        "Z": -2.4446383
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 299.1441,
+        "Y": 81.18293,
+        "Z": -598.7902
+      },
+      "Timestamp": 1699721846,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 61.8429,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.5217675,
+        "Y": -0.012109797,
+        "Z": 1.8201323
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -220.64565,
+        "Y": 78.09054,
+        "Z": 453.11752
+      },
+      "Timestamp": 1699721870,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 4.7313447,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.8184887,
+        "Y": 0.08685127,
+        "Z": -2.4446068
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 137.03545,
+        "Y": 77.31977,
+        "Z": -632.9892
+      },
+      "Timestamp": 1699721946,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 35.81274,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.7823564,
+        "Y": 0.03341168,
+        "Z": 1.6684345
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 533.0167,
+        "Y": 80.11053,
+        "Z": -398.48123
+      },
+      "Timestamp": 1699722155,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 4.804754,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.8663019,
+        "Y": -0.21656549,
+        "Z": -1.702484
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -330.9961,
+        "Y": 81.75037,
+        "Z": 315.02618
+      },
+      "Timestamp": 1699722206,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 51.055374,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.5176502,
+        "Y": 0.04873543,
+        "Z": 1.9863473
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 188.61453,
+        "Y": 77.70024,
+        "Z": -662.74335
+      },
+      "Timestamp": 1699722215,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 14.454729,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.8520522,
+        "Y": 0.25994772,
+        "Z": 1.28157
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 68.43,
+        "Y": 86.6041,
+        "Z": 38.901028
+      },
+      "Timestamp": 1699722654,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 42.653896,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.48067525,
+        "Y": 0.0553305,
+        "Z": 2.0055637
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -324.66663,
+        "Y": 76.69575,
+        "Z": 644.4565
+      },
+      "Timestamp": 1699722675,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 25.403301,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.7880059,
+        "Y": 0.035589334,
+        "Z": 1.6692606
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 136.28996,
+        "Y": 77.27425,
+        "Z": -632.42474
+      },
+      "Timestamp": 1699723221,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 23.039553,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.7898779,
+        "Y": -0.2520477,
+        "Z": 1.6294311
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 106.5982,
+        "Y": 85.1784,
+        "Z": 3.054948
+      },
+      "Timestamp": 1699723350,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 17.427094,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.74629223,
+        "Y": 0.0679669,
+        "Z": -2.524695
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 104.753746,
+        "Y": 85.58013,
+        "Z": 6.588252
+      },
+      "Timestamp": 1699723355,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 17.941004,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.54472613,
+        "Y": -0.008767748,
+        "Z": 1.8044617
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 107.87057,
+        "Y": 85.36929,
+        "Z": 0.5660525
+      },
+      "Timestamp": 1699723357,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 6.6289854,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.8520578,
+        "Y": 0.25994965,
+        "Z": 1.2815663
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -120.27201,
+        "Y": 85.18203,
+        "Z": 169.83777
+      },
+      "Timestamp": 1699724200,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 10.630691,
+      "OtherCarId": 8,
+      "OtherDriver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.521783,
+        "Y": -0.033553153,
+        "Z": 1.8173217
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 588.41376,
+        "Y": 79.79959,
+        "Z": -470.10687
+      },
+      "Timestamp": 1699724236,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 10.075897,
+      "OtherCarId": 8,
+      "OtherDriver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.10935132,
+        "Y": -0.17204562,
+        "Z": -2.5934613
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 598.78143,
+        "Y": 79.63326,
+        "Z": -458.83557
+      },
+      "Timestamp": 1699724238,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 18.654217,
+      "OtherCarId": 1,
+      "OtherDriver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.5797588,
+        "Y": -0.057926077,
+        "Z": -2.5607758
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 588.34174,
+        "Y": 79.82629,
+        "Z": -470.20425
+      },
+      "Timestamp": 1699724240,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 4.568435,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.5308782,
+        "Y": -0.011671813,
+        "Z": 1.8108056
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 598.7518,
+        "Y": 79.73407,
+        "Z": -458.24344
+      },
+      "Timestamp": 1699724240,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 6.790954,
+      "OtherCarId": 8,
+      "OtherDriver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.7890231,
+        "Y": -0.11983904,
+        "Z": 1.6477427
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -143.98608,
+        "Y": 84.40259,
+        "Z": 190.31392
+      },
+      "Timestamp": 1699724273,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 28.07715,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.85204625,
+        "Y": 0.25995073,
+        "Z": 1.2815741
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -176.14697,
+        "Y": 84.010796,
+        "Z": 225.59277
+      },
+      "Timestamp": 1699724273,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 45.705658,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.7879999,
+        "Y": 0.035588227,
+        "Z": 1.6692643
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -180.59213,
+        "Y": 83.74879,
+        "Z": 228.69052
+      },
+      "Timestamp": 1699724275,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 29.335386,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.792531,
+        "Y": -0.19259243,
+        "Z": -0.19763556
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -193.38498,
+        "Y": 83.41075,
+        "Z": 234.77258
+      },
+      "Timestamp": 1699724275,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 23.591072,
+      "OtherCarId": 8,
+      "OtherDriver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.7716835,
+        "Y": -0.16804974,
+        "Z": 1.6107377
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -193.65784,
+        "Y": 83.40905,
+        "Z": 234.97748
+      },
+      "Timestamp": 1699724278,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 20.715555,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.7898863,
+        "Y": -0.25205073,
+        "Z": 1.6294338
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -255.4162,
+        "Y": 82.318016,
+        "Z": 280.44608
+      },
+      "Timestamp": 1699724278,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 40.327248,
+      "OtherCarId": 1,
+      "OtherDriver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.66591334,
+        "Y": -0.19622952,
+        "Z": 0.37105238
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -265.85306,
+        "Y": 82.21771,
+        "Z": 285.53702
+      },
+      "Timestamp": 1699724278,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 25.274668,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.7971094,
+        "Y": -0.11149412,
+        "Z": 0.78957504
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -251.03778,
+        "Y": 82.5906,
+        "Z": 273.98224
+      },
+      "Timestamp": 1699724280,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 78.276505,
+      "OtherCarId": 1,
+      "OtherDriver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.73275256,
+        "Y": -0.10051251,
+        "Z": -2.4372993
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -268.08514,
+        "Y": 82.52381,
+        "Z": 286.90735
+      },
+      "Timestamp": 1699724280,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 86.06458,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.7422801,
+        "Y": -0.13186647,
+        "Z": 1.5655963
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -265.04413,
+        "Y": 82.2858,
+        "Z": 284.82605
+      },
+      "Timestamp": 1699724281,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 41.084633,
+      "OtherCarId": 1,
+      "OtherDriver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.13986126,
+        "Y": -0.10410934,
+        "Z": 1.795087
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -314.4756,
+        "Y": 80.86807,
+        "Z": 360.8391
+      },
+      "Timestamp": 1699724300,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 39.94781,
+      "OtherCarId": 8,
+      "OtherDriver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": 0.7462872,
+        "Y": -0.019596674,
+        "Z": -2.4960558
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -314.5827,
+        "Y": 80.967316,
+        "Z": 360.85934
+      },
+      "Timestamp": 1699724301,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "ImpactSpeed": 7.2286005,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d"
+      },
+      "RelPosition": {
+        "X": -0.81848437,
+        "Y": -0.15533161,
+        "Z": -2.67646
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -227.30653,
+        "Y": 78.10773,
+        "Z": 444.62708
+      },
+      "Timestamp": 1699724301,
+      "AfterSessionEnd": true
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 106269,
+      "Restrictor": 0,
+      "Sectors": [
+        42432,
+        30788,
+        33049
+      ],
+      "Timestamp": 1699721556,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 106604,
+      "Restrictor": 0,
+      "Sectors": [
+        42767,
+        30623,
+        33214
+      ],
+      "Timestamp": 1699721556,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 106905,
+      "Restrictor": 0,
+      "Sectors": [
+        43310,
+        30582,
+        33013
+      ],
+      "Timestamp": 1699721556,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 107576,
+      "Restrictor": 0,
+      "Sectors": [
+        43740,
+        30707,
+        33129
+      ],
+      "Timestamp": 1699721557,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 107913,
+      "Restrictor": 0,
+      "Sectors": [
+        44314,
+        30460,
+        33139
+      ],
+      "Timestamp": 1699721557,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 108346,
+      "Restrictor": 0,
+      "Sectors": [
+        44423,
+        30929,
+        32994
+      ],
+      "Timestamp": 1699721558,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 109380,
+      "Restrictor": 0,
+      "Sectors": [
+        44769,
+        31301,
+        33310
+      ],
+      "Timestamp": 1699721559,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "t78_mustang_gt_dtm",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 111090,
+      "Restrictor": 0,
+      "Sectors": [
+        46415,
+        30879,
+        33796
+      ],
+      "Timestamp": 1699721561,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 99513,
+      "Restrictor": 0,
+      "Sectors": [
+        35901,
+        30501,
+        33111
+      ],
+      "Timestamp": 1699721655,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99828,
+      "Restrictor": 0,
+      "Sectors": [
+        37395,
+        29749,
+        32684
+      ],
+      "Timestamp": 1699721656,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 100024,
+      "Restrictor": 0,
+      "Sectors": [
+        36741,
+        30451,
+        32832
+      ],
+      "Timestamp": 1699721657,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 102211,
+      "Restrictor": 0,
+      "Sectors": [
+        38860,
+        30452,
+        32899
+      ],
+      "Timestamp": 1699721658,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 102528,
+      "Restrictor": 0,
+      "Sectors": [
+        37854,
+        30735,
+        33939
+      ],
+      "Timestamp": 1699721661,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 104084,
+      "Restrictor": 0,
+      "Sectors": [
+        38709,
+        31364,
+        34011
+      ],
+      "Timestamp": 1699721661,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 104811,
+      "Restrictor": 0,
+      "Sectors": [
+        37266,
+        34276,
+        33269
+      ],
+      "Timestamp": 1699721663,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "t78_mustang_gt_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 106258,
+      "Restrictor": 0,
+      "Sectors": [
+        39217,
+        32171,
+        34870
+      ],
+      "Timestamp": 1699721667,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99787,
+      "Restrictor": 0,
+      "Sectors": [
+        36265,
+        29858,
+        33664
+      ],
+      "Timestamp": 1699721756,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 101119,
+      "Restrictor": 0,
+      "Sectors": [
+        36242,
+        30605,
+        34272
+      ],
+      "Timestamp": 1699721756,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99743,
+      "Restrictor": 0,
+      "Sectors": [
+        36334,
+        30434,
+        32975
+      ],
+      "Timestamp": 1699721757,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 99068,
+      "Restrictor": 0,
+      "Sectors": [
+        36694,
+        29984,
+        32390
+      ],
+      "Timestamp": 1699721757,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99162,
+      "Restrictor": 0,
+      "Sectors": [
+        36783,
+        29745,
+        32634
+      ],
+      "Timestamp": 1699721761,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 99130,
+      "Restrictor": 0,
+      "Sectors": [
+        36198,
+        30185,
+        32747
+      ],
+      "Timestamp": 1699721762,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "t78_mustang_gt_dtm",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 107475,
+      "Restrictor": 0,
+      "Sectors": [
+        37621,
+        32701,
+        37153
+      ],
+      "Timestamp": 1699721774,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 2,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 113961,
+      "Restrictor": 0,
+      "Sectors": [
+        36952,
+        44415,
+        32594
+      ],
+      "Timestamp": 1699721775,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99230,
+      "Restrictor": 0,
+      "Sectors": [
+        36190,
+        30181,
+        32859
+      ],
+      "Timestamp": 1699721855,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98940,
+      "Restrictor": 0,
+      "Sectors": [
+        36322,
+        30263,
+        32355
+      ],
+      "Timestamp": 1699721856,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 100806,
+      "Restrictor": 0,
+      "Sectors": [
+        36469,
+        31640,
+        32697
+      ],
+      "Timestamp": 1699721857,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 100834,
+      "Restrictor": 0,
+      "Sectors": [
+        37312,
+        30650,
+        32872
+      ],
+      "Timestamp": 1699721858,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 100076,
+      "Restrictor": 0,
+      "Sectors": [
+        36568,
+        30636,
+        32872
+      ],
+      "Timestamp": 1699721862,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 2,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 102100,
+      "Restrictor": 0,
+      "Sectors": [
+        38767,
+        30506,
+        32827
+      ],
+      "Timestamp": 1699721863,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 100485,
+      "Restrictor": 0,
+      "Sectors": [
+        36980,
+        30798,
+        32707
+      ],
+      "Timestamp": 1699721876,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "t78_mustang_gt_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 104579,
+      "Restrictor": 0,
+      "Sectors": [
+        36814,
+        33066,
+        34699
+      ],
+      "Timestamp": 1699721879,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98948,
+      "Restrictor": 0,
+      "Sectors": [
+        36435,
+        29780,
+        32733
+      ],
+      "Timestamp": 1699721954,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 99103,
+      "Restrictor": 0,
+      "Sectors": [
+        36909,
+        29821,
+        32373
+      ],
+      "Timestamp": 1699721955,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 100783,
+      "Restrictor": 0,
+      "Sectors": [
+        36496,
+        30469,
+        33818
+      ],
+      "Timestamp": 1699721958,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 100850,
+      "Restrictor": 0,
+      "Sectors": [
+        37558,
+        30154,
+        33138
+      ],
+      "Timestamp": 1699721964,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 102233,
+      "Restrictor": 0,
+      "Sectors": [
+        39193,
+        30218,
+        32822
+      ],
+      "Timestamp": 1699721964,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 2,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 112986,
+      "Restrictor": 0,
+      "Sectors": [
+        47177,
+        33080,
+        32729
+      ],
+      "Timestamp": 1699721970,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 101704,
+      "Restrictor": 0,
+      "Sectors": [
+        38537,
+        30407,
+        32760
+      ],
+      "Timestamp": 1699721978,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "t78_mustang_gt_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 109456,
+      "Restrictor": 0,
+      "Sectors": [
+        37402,
+        38196,
+        33858
+      ],
+      "Timestamp": 1699721988,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98651,
+      "Restrictor": 0,
+      "Sectors": [
+        36192,
+        29619,
+        32840
+      ],
+      "Timestamp": 1699722053,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98371,
+      "Restrictor": 0,
+      "Sectors": [
+        35830,
+        30109,
+        32432
+      ],
+      "Timestamp": 1699722054,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 100846,
+      "Restrictor": 0,
+      "Sectors": [
+        37248,
+        30816,
+        32782
+      ],
+      "Timestamp": 1699722059,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 98926,
+      "Restrictor": 0,
+      "Sectors": [
+        36507,
+        29601,
+        32818
+      ],
+      "Timestamp": 1699722062,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 99012,
+      "Restrictor": 0,
+      "Sectors": [
+        36317,
+        29953,
+        32742
+      ],
+      "Timestamp": 1699722063,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 101573,
+      "Restrictor": 0,
+      "Sectors": [
+        36616,
+        30496,
+        34461
+      ],
+      "Timestamp": 1699722072,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 105908,
+      "Restrictor": 0,
+      "Sectors": [
+        43201,
+        30083,
+        32624
+      ],
+      "Timestamp": 1699722084,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "t78_mustang_gt_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 105198,
+      "Restrictor": 0,
+      "Sectors": [
+        40051,
+        32053,
+        33094
+      ],
+      "Timestamp": 1699722094,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98197,
+      "Restrictor": 0,
+      "Sectors": [
+        35958,
+        29564,
+        32675
+      ],
+      "Timestamp": 1699722151,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98538,
+      "Restrictor": 0,
+      "Sectors": [
+        36455,
+        29754,
+        32329
+      ],
+      "Timestamp": 1699722152,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99734,
+      "Restrictor": 0,
+      "Sectors": [
+        36460,
+        30253,
+        33021
+      ],
+      "Timestamp": 1699722159,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99501,
+      "Restrictor": 0,
+      "Sectors": [
+        36469,
+        29830,
+        33202
+      ],
+      "Timestamp": 1699722162,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 98887,
+      "Restrictor": 0,
+      "Sectors": [
+        36035,
+        30196,
+        32656
+      ],
+      "Timestamp": 1699722162,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 104726,
+      "Restrictor": 0,
+      "Sectors": [
+        37123,
+        30528,
+        37075
+      ],
+      "Timestamp": 1699722176,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 99520,
+      "Restrictor": 0,
+      "Sectors": [
+        36862,
+        30163,
+        32495
+      ],
+      "Timestamp": 1699722183,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "t78_mustang_gt_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 104768,
+      "Restrictor": 0,
+      "Sectors": [
+        37800,
+        32715,
+        34253
+      ],
+      "Timestamp": 1699722198,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98601,
+      "Restrictor": 0,
+      "Sectors": [
+        35947,
+        29777,
+        32877
+      ],
+      "Timestamp": 1699722250,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 105353,
+      "Restrictor": 0,
+      "Sectors": [
+        35851,
+        36072,
+        33430
+      ],
+      "Timestamp": 1699722258,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99340,
+      "Restrictor": 0,
+      "Sectors": [
+        36308,
+        30303,
+        32729
+      ],
+      "Timestamp": 1699722258,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 99213,
+      "Restrictor": 0,
+      "Sectors": [
+        36879,
+        29574,
+        32760
+      ],
+      "Timestamp": 1699722261,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 100354,
+      "Restrictor": 0,
+      "Sectors": [
+        37233,
+        29943,
+        33178
+      ],
+      "Timestamp": 1699722262,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 102440,
+      "Restrictor": 0,
+      "Sectors": [
+        36331,
+        33894,
+        32215
+      ],
+      "Timestamp": 1699722279,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 2,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 104190,
+      "Restrictor": 0,
+      "Sectors": [
+        37383,
+        33947,
+        32860
+      ],
+      "Timestamp": 1699722287,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98595,
+      "Restrictor": 0,
+      "Sectors": [
+        36049,
+        29875,
+        32671
+      ],
+      "Timestamp": 1699722348,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98202,
+      "Restrictor": 0,
+      "Sectors": [
+        35746,
+        30056,
+        32400
+      ],
+      "Timestamp": 1699722356,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99433,
+      "Restrictor": 0,
+      "Sectors": [
+        36217,
+        30263,
+        32953
+      ],
+      "Timestamp": 1699722358,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 98320,
+      "Restrictor": 0,
+      "Sectors": [
+        35918,
+        29957,
+        32445
+      ],
+      "Timestamp": 1699722360,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 100369,
+      "Restrictor": 0,
+      "Sectors": [
+        37184,
+        30524,
+        32661
+      ],
+      "Timestamp": 1699722363,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 98705,
+      "Restrictor": 0,
+      "Sectors": [
+        35971,
+        29979,
+        32755
+      ],
+      "Timestamp": 1699722378,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 100106,
+      "Restrictor": 0,
+      "Sectors": [
+        36571,
+        30551,
+        32984
+      ],
+      "Timestamp": 1699722387,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98113,
+      "Restrictor": 0,
+      "Sectors": [
+        35937,
+        29425,
+        32751
+      ],
+      "Timestamp": 1699722446,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98266,
+      "Restrictor": 0,
+      "Sectors": [
+        35882,
+        29903,
+        32481
+      ],
+      "Timestamp": 1699722454,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 98700,
+      "Restrictor": 0,
+      "Sectors": [
+        36496,
+        29705,
+        32499
+      ],
+      "Timestamp": 1699722457,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99068,
+      "Restrictor": 0,
+      "Sectors": [
+        36604,
+        29484,
+        32980
+      ],
+      "Timestamp": 1699722462,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 2,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 111425,
+      "Restrictor": 0,
+      "Sectors": [
+        35821,
+        41468,
+        34136
+      ],
+      "Timestamp": 1699722471,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 100011,
+      "Restrictor": 0,
+      "Sectors": [
+        37371,
+        30024,
+        32616
+      ],
+      "Timestamp": 1699722478,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 2,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 104416,
+      "Restrictor": 0,
+      "Sectors": [
+        39341,
+        30776,
+        34299
+      ],
+      "Timestamp": 1699722492,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99316,
+      "Restrictor": 0,
+      "Sectors": [
+        36312,
+        30208,
+        32796
+      ],
+      "Timestamp": 1699722546,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98560,
+      "Restrictor": 0,
+      "Sectors": [
+        36158,
+        30060,
+        32342
+      ],
+      "Timestamp": 1699722553,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99220,
+      "Restrictor": 0,
+      "Sectors": [
+        36431,
+        30200,
+        32589
+      ],
+      "Timestamp": 1699722556,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99565,
+      "Restrictor": 0,
+      "Sectors": [
+        36628,
+        29885,
+        33052
+      ],
+      "Timestamp": 1699722561,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 98472,
+      "Restrictor": 0,
+      "Sectors": [
+        35958,
+        29816,
+        32698
+      ],
+      "Timestamp": 1699722569,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 99333,
+      "Restrictor": 0,
+      "Sectors": [
+        36746,
+        30065,
+        32522
+      ],
+      "Timestamp": 1699722577,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98740,
+      "Restrictor": 0,
+      "Sectors": [
+        36082,
+        29498,
+        33160
+      ],
+      "Timestamp": 1699722644,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98348,
+      "Restrictor": 0,
+      "Sectors": [
+        35717,
+        29899,
+        32732
+      ],
+      "Timestamp": 1699722651,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 100194,
+      "Restrictor": 0,
+      "Sectors": [
+        36267,
+        29979,
+        33948
+      ],
+      "Timestamp": 1699722656,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 98312,
+      "Restrictor": 0,
+      "Sectors": [
+        36487,
+        29160,
+        32665
+      ],
+      "Timestamp": 1699722660,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 98352,
+      "Restrictor": 0,
+      "Sectors": [
+        35919,
+        29853,
+        32580
+      ],
+      "Timestamp": 1699722668,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 101817,
+      "Restrictor": 0,
+      "Sectors": [
+        37120,
+        31460,
+        33237
+      ],
+      "Timestamp": 1699722679,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98479,
+      "Restrictor": 0,
+      "Sectors": [
+        36329,
+        29349,
+        32801
+      ],
+      "Timestamp": 1699722743,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 102891,
+      "Restrictor": 0,
+      "Sectors": [
+        40520,
+        29957,
+        32414
+      ],
+      "Timestamp": 1699722754,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99526,
+      "Restrictor": 0,
+      "Sectors": [
+        37156,
+        29943,
+        32427
+      ],
+      "Timestamp": 1699722755,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99416,
+      "Restrictor": 0,
+      "Sectors": [
+        37231,
+        29574,
+        32611
+      ],
+      "Timestamp": 1699722759,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 98284,
+      "Restrictor": 0,
+      "Sectors": [
+        35914,
+        29705,
+        32665
+      ],
+      "Timestamp": 1699722766,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 104647,
+      "Restrictor": 0,
+      "Sectors": [
+        37377,
+        33979,
+        33291
+      ],
+      "Timestamp": 1699722783,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98601,
+      "Restrictor": 0,
+      "Sectors": [
+        36095,
+        29764,
+        32742
+      ],
+      "Timestamp": 1699722841,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98540,
+      "Restrictor": 0,
+      "Sectors": [
+        36139,
+        29777,
+        32624
+      ],
+      "Timestamp": 1699722852,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99190,
+      "Restrictor": 0,
+      "Sectors": [
+        36438,
+        29875,
+        32877
+      ],
+      "Timestamp": 1699722855,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99520,
+      "Restrictor": 0,
+      "Sectors": [
+        37100,
+        29660,
+        32760
+      ],
+      "Timestamp": 1699722859,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 98056,
+      "Restrictor": 0,
+      "Sectors": [
+        35844,
+        29439,
+        32773
+      ],
+      "Timestamp": 1699722864,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 99365,
+      "Restrictor": 0,
+      "Sectors": [
+        36401,
+        30484,
+        32480
+      ],
+      "Timestamp": 1699722883,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99567,
+      "Restrictor": 0,
+      "Sectors": [
+        36238,
+        30182,
+        33147
+      ],
+      "Timestamp": 1699722941,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98422,
+      "Restrictor": 0,
+      "Sectors": [
+        36011,
+        29773,
+        32638
+      ],
+      "Timestamp": 1699722951,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99861,
+      "Restrictor": 0,
+      "Sectors": [
+        36177,
+        30006,
+        33678
+      ],
+      "Timestamp": 1699722954,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99896,
+      "Restrictor": 0,
+      "Sectors": [
+        36591,
+        29627,
+        33678
+      ],
+      "Timestamp": 1699722958,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 98033,
+      "Restrictor": 0,
+      "Sectors": [
+        35812,
+        29516,
+        32705
+      ],
+      "Timestamp": 1699722962,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 98345,
+      "Restrictor": 0,
+      "Sectors": [
+        36142,
+        29965,
+        32238
+      ],
+      "Timestamp": 1699722981,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98424,
+      "Restrictor": 0,
+      "Sectors": [
+        36009,
+        29758,
+        32657
+      ],
+      "Timestamp": 1699723039,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98470,
+      "Restrictor": 0,
+      "Sectors": [
+        35790,
+        30249,
+        32431
+      ],
+      "Timestamp": 1699723049,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99342,
+      "Restrictor": 0,
+      "Sectors": [
+        36494,
+        29853,
+        32995
+      ],
+      "Timestamp": 1699723054,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99327,
+      "Restrictor": 0,
+      "Sectors": [
+        36461,
+        29710,
+        33156
+      ],
+      "Timestamp": 1699723058,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 97868,
+      "Restrictor": 0,
+      "Sectors": [
+        35822,
+        29476,
+        32570
+      ],
+      "Timestamp": 1699723060,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 99659,
+      "Restrictor": 0,
+      "Sectors": [
+        36232,
+        30596,
+        32831
+      ],
+      "Timestamp": 1699723081,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99630,
+      "Restrictor": 0,
+      "Sectors": [
+        36467,
+        30456,
+        32707
+      ],
+      "Timestamp": 1699723139,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 99298,
+      "Restrictor": 0,
+      "Sectors": [
+        36878,
+        30124,
+        32296
+      ],
+      "Timestamp": 1699723149,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 98766,
+      "Restrictor": 0,
+      "Sectors": [
+        36179,
+        29809,
+        32778
+      ],
+      "Timestamp": 1699723153,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99224,
+      "Restrictor": 0,
+      "Sectors": [
+        36458,
+        29899,
+        32867
+      ],
+      "Timestamp": 1699723157,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 97985,
+      "Restrictor": 0,
+      "Sectors": [
+        35868,
+        29646,
+        32471
+      ],
+      "Timestamp": 1699723158,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 99606,
+      "Restrictor": 0,
+      "Sectors": [
+        36970,
+        30222,
+        32414
+      ],
+      "Timestamp": 1699723180,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98784,
+      "Restrictor": 0,
+      "Sectors": [
+        36364,
+        30092,
+        32328
+      ],
+      "Timestamp": 1699723238,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 100256,
+      "Restrictor": 0,
+      "Sectors": [
+        37293,
+        30537,
+        32426
+      ],
+      "Timestamp": 1699723249,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 98801,
+      "Restrictor": 0,
+      "Sectors": [
+        36022,
+        30082,
+        32697
+      ],
+      "Timestamp": 1699723251,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 99218,
+      "Restrictor": 0,
+      "Sectors": [
+        36093,
+        30276,
+        32849
+      ],
+      "Timestamp": 1699723257,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 114050,
+      "Restrictor": 0,
+      "Sectors": [
+        36520,
+        44267,
+        33263
+      ],
+      "Timestamp": 1699723271,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 99445,
+      "Restrictor": 0,
+      "Sectors": [
+        36225,
+        30487,
+        32733
+      ],
+      "Timestamp": 1699723280,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99008,
+      "Restrictor": 0,
+      "Sectors": [
+        36054,
+        30037,
+        32917
+      ],
+      "Timestamp": 1699723337,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98336,
+      "Restrictor": 0,
+      "Sectors": [
+        36155,
+        29966,
+        32215
+      ],
+      "Timestamp": 1699723347,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 111521,
+      "Restrictor": 0,
+      "Sectors": [
+        36124,
+        29876,
+        45521
+      ],
+      "Timestamp": 1699723363,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 2,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 107683,
+      "Restrictor": 0,
+      "Sectors": [
+        36713,
+        29606,
+        41364
+      ],
+      "Timestamp": 1699723365,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 98669,
+      "Restrictor": 0,
+      "Sectors": [
+        36664,
+        28989,
+        33016
+      ],
+      "Timestamp": 1699723370,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 101714,
+      "Restrictor": 0,
+      "Sectors": [
+        36303,
+        32458,
+        32953
+      ],
+      "Timestamp": 1699723382,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99803,
+      "Restrictor": 0,
+      "Sectors": [
+        36340,
+        30452,
+        33011
+      ],
+      "Timestamp": 1699723437,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98364,
+      "Restrictor": 0,
+      "Sectors": [
+        35908,
+        29970,
+        32486
+      ],
+      "Timestamp": 1699723446,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 99842,
+      "Restrictor": 0,
+      "Sectors": [
+        36937,
+        30002,
+        32903
+      ],
+      "Timestamp": 1699723465,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 103390,
+      "Restrictor": 0,
+      "Sectors": [
+        39684,
+        30735,
+        32971
+      ],
+      "Timestamp": 1699723466,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99768,
+      "Restrictor": 0,
+      "Sectors": [
+        36678,
+        30302,
+        32788
+      ],
+      "Timestamp": 1699723469,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 99183,
+      "Restrictor": 0,
+      "Sectors": [
+        36394,
+        30388,
+        32401
+      ],
+      "Timestamp": 1699723481,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98746,
+      "Restrictor": 0,
+      "Sectors": [
+        36524,
+        29849,
+        32373
+      ],
+      "Timestamp": 1699723535,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98397,
+      "Restrictor": 0,
+      "Sectors": [
+        35802,
+        30041,
+        32554
+      ],
+      "Timestamp": 1699723544,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 98930,
+      "Restrictor": 0,
+      "Sectors": [
+        35922,
+        29960,
+        33048
+      ],
+      "Timestamp": 1699723564,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 100968,
+      "Restrictor": 0,
+      "Sectors": [
+        37342,
+        30002,
+        33624
+      ],
+      "Timestamp": 1699723567,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 98874,
+      "Restrictor": 0,
+      "Sectors": [
+        36495,
+        29470,
+        32909
+      ],
+      "Timestamp": 1699723568,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 112842,
+      "Restrictor": 0,
+      "Sectors": [
+        36251,
+        30511,
+        46080
+      ],
+      "Timestamp": 1699723594,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99397,
+      "Restrictor": 0,
+      "Sectors": [
+        36942,
+        29637,
+        32818
+      ],
+      "Timestamp": 1699723635,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 99189,
+      "Restrictor": 0,
+      "Sectors": [
+        36206,
+        30718,
+        32265
+      ],
+      "Timestamp": 1699723643,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 98634,
+      "Restrictor": 0,
+      "Sectors": [
+        36155,
+        29628,
+        32851
+      ],
+      "Timestamp": 1699723662,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99157,
+      "Restrictor": 0,
+      "Sectors": [
+        36495,
+        29695,
+        32967
+      ],
+      "Timestamp": 1699723666,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99445,
+      "Restrictor": 0,
+      "Sectors": [
+        36558,
+        29992,
+        32895
+      ],
+      "Timestamp": 1699723668,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 99539,
+      "Restrictor": 0,
+      "Sectors": [
+        36323,
+        29962,
+        33254
+      ],
+      "Timestamp": 1699723693,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98411,
+      "Restrictor": 0,
+      "Sectors": [
+        36109,
+        29740,
+        32562
+      ],
+      "Timestamp": 1699723733,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 97803,
+      "Restrictor": 0,
+      "Sectors": [
+        36053,
+        29403,
+        32347
+      ],
+      "Timestamp": 1699723741,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 100620,
+      "Restrictor": 0,
+      "Sectors": [
+        37556,
+        30124,
+        32940
+      ],
+      "Timestamp": 1699723763,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 98875,
+      "Restrictor": 0,
+      "Sectors": [
+        36519,
+        29857,
+        32499
+      ],
+      "Timestamp": 1699723765,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99023,
+      "Restrictor": 0,
+      "Sectors": [
+        36271,
+        29993,
+        32759
+      ],
+      "Timestamp": 1699723767,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 102774,
+      "Restrictor": 0,
+      "Sectors": [
+        36291,
+        33965,
+        32518
+      ],
+      "Timestamp": 1699723796,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98831,
+      "Restrictor": 0,
+      "Sectors": [
+        36056,
+        30016,
+        32759
+      ],
+      "Timestamp": 1699723832,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98153,
+      "Restrictor": 0,
+      "Sectors": [
+        35937,
+        29763,
+        32453
+      ],
+      "Timestamp": 1699723839,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 100601,
+      "Restrictor": 0,
+      "Sectors": [
+        35896,
+        31099,
+        33606
+      ],
+      "Timestamp": 1699723863,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99176,
+      "Restrictor": 0,
+      "Sectors": [
+        36154,
+        30271,
+        32751
+      ],
+      "Timestamp": 1699723864,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99237,
+      "Restrictor": 0,
+      "Sectors": [
+        36336,
+        29744,
+        33157
+      ],
+      "Timestamp": 1699723866,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 99305,
+      "Restrictor": 0,
+      "Sectors": [
+        36323,
+        30429,
+        32553
+      ],
+      "Timestamp": 1699723895,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99291,
+      "Restrictor": 0,
+      "Sectors": [
+        37110,
+        29569,
+        32612
+      ],
+      "Timestamp": 1699723931,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 97806,
+      "Restrictor": 0,
+      "Sectors": [
+        35845,
+        29542,
+        32419
+      ],
+      "Timestamp": 1699723937,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 99237,
+      "Restrictor": 0,
+      "Sectors": [
+        36281,
+        30133,
+        32823
+      ],
+      "Timestamp": 1699723963,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99192,
+      "Restrictor": 0,
+      "Sectors": [
+        36155,
+        30425,
+        32612
+      ],
+      "Timestamp": 1699723964,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 98720,
+      "Restrictor": 0,
+      "Sectors": [
+        36180,
+        29726,
+        32814
+      ],
+      "Timestamp": 1699723965,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 100006,
+      "Restrictor": 0,
+      "Sectors": [
+        36484,
+        30757,
+        32765
+      ],
+      "Timestamp": 1699723995,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 97973,
+      "Restrictor": 0,
+      "Sectors": [
+        35847,
+        29547,
+        32579
+      ],
+      "Timestamp": 1699724029,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98167,
+      "Restrictor": 0,
+      "Sectors": [
+        35878,
+        29759,
+        32530
+      ],
+      "Timestamp": 1699724035,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 99386,
+      "Restrictor": 0,
+      "Sectors": [
+        36477,
+        30015,
+        32894
+      ],
+      "Timestamp": 1699724062,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99108,
+      "Restrictor": 0,
+      "Sectors": [
+        36368,
+        30056,
+        32684
+      ],
+      "Timestamp": 1699724063,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 98985,
+      "Restrictor": 0,
+      "Sectors": [
+        36295,
+        29957,
+        32733
+      ],
+      "Timestamp": 1699724064,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 102367,
+      "Restrictor": 0,
+      "Sectors": [
+        36559,
+        30217,
+        35591
+      ],
+      "Timestamp": 1699724098,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 98422,
+      "Restrictor": 0,
+      "Sectors": [
+        36219,
+        29623,
+        32580
+      ],
+      "Timestamp": 1699724128,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 97772,
+      "Restrictor": 0,
+      "Sectors": [
+        35623,
+        29695,
+        32454
+      ],
+      "Timestamp": 1699724133,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 99587,
+      "Restrictor": 0,
+      "Sectors": [
+        36506,
+        30132,
+        32949
+      ],
+      "Timestamp": 1699724162,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 99202,
+      "Restrictor": 0,
+      "Sectors": [
+        36378,
+        30186,
+        32638
+      ],
+      "Timestamp": 1699724162,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99179,
+      "Restrictor": 0,
+      "Sectors": [
+        36175,
+        30271,
+        32733
+      ],
+      "Timestamp": 1699724163,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 100419,
+      "Restrictor": 0,
+      "Sectors": [
+        36262,
+        31253,
+        32904
+      ],
+      "Timestamp": 1699724198,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 77,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 97656,
+      "Restrictor": 0,
+      "Sectors": [
+        35884,
+        29183,
+        32589
+      ],
+      "Timestamp": 1699724225,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 25,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 97680,
+      "Restrictor": 0,
+      "Sectors": [
+        35948,
+        29516,
+        32216
+      ],
+      "Timestamp": 1699724231,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 107732,
+      "Restrictor": 0,
+      "Sectors": [
+        36480,
+        30460,
+        40792
+      ],
+      "Timestamp": 1699724269,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 2,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 107591,
+      "Restrictor": 0,
+      "Sectors": [
+        36644,
+        30236,
+        40711
+      ],
+      "Timestamp": 1699724270,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 107958,
+      "Restrictor": 0,
+      "Sectors": [
+        36300,
+        30123,
+        41535
+      ],
+      "Timestamp": 1699724271,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    },
+    {
+      "BallastKG": 15,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 100750,
+      "Restrictor": 0,
+      "Sectors": [
+        36422,
+        31213,
+        33115
+      ],
+      "Timestamp": 1699724299,
+      "Tyre": "M",
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": []
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 77,
+      "BestLap": 97973,
+      "CarId": 5,
+      "CarModel": "t78_evo500_dtm",
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "Restrictor": 0,
+      "TotalTime": 2775919,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "GridPosition": 4
+    },
+    {
+      "BallastKG": 25,
+      "BestLap": 97680,
+      "CarId": 3,
+      "CarModel": "t78_m3evo_dtm",
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "Restrictor": 0,
+      "TotalTime": 2781042,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "GridPosition": 1
+    },
+    {
+      "BallastKG": 15,
+      "BestLap": 97868,
+      "CarId": 2,
+      "CarModel": "t78_190e_dtm",
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "Restrictor": 0,
+      "TotalTime": 2819881,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "GridPosition": 2
+    },
+    {
+      "BallastKG": 15,
+      "BestLap": 98700,
+      "CarId": 8,
+      "CarModel": "t78_190e_dtm",
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "Restrictor": 0,
+      "TotalTime": 2820073,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "GridPosition": 6
+    },
+    {
+      "BallastKG": 15,
+      "BestLap": 98669,
+      "CarId": 1,
+      "CarModel": "t78_190e_dtm",
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "Restrictor": 0,
+      "TotalTime": 2821295,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "GridPosition": 5
+    },
+    {
+      "BallastKG": 15,
+      "BestLap": 98345,
+      "CarId": 4,
+      "CarModel": "t78_190e_dtm",
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "Restrictor": 0,
+      "TotalTime": 2849233,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "GridPosition": 3
+    },
+    {
+      "BallastKG": 25,
+      "BestLap": 99520,
+      "CarId": 7,
+      "CarModel": "t78_m3evo_dtm",
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "Restrictor": 0,
+      "TotalTime": 1042240,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "GridPosition": 7
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 105198,
+      "CarId": 0,
+      "CarModel": "t78_mustang_gt_dtm",
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "Restrictor": 0,
+      "TotalTime": 748746,
+      "HasPenalty": true,
+      "PenaltyTime": 20000000000,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "aeed2325-d800-4b15-839f-42c6ab4dd82d",
+      "GridPosition": 8
+    }
+  ],
+  "Penalties": [
+    {
+      "DriverName": "Saad",
+      "DriverGUID": "76561198400628002",
+      "CarID": 0,
+      "GivenOnLap": 4,
+      "GivenAtTime": "2023-11-11T17:57:59.4007939+01:00",
+      "InfractionType": 0,
+      "PenaltyType": 4,
+      "BoPAmount": 0,
+      "BoPClearedInNumLaps": 1,
+      "DriveThroughNumLaps": 2,
+      "TimePenaltyDuration": 0
+    },
+    {
+      "DriverName": "Saad",
+      "DriverGUID": "76561198400628002",
+      "CarID": 0,
+      "GivenOnLap": 0,
+      "GivenAtTime": "0001-01-01T00:00:00Z",
+      "InfractionType": 5,
+      "PenaltyType": 6,
+      "BoPAmount": 0,
+      "BoPClearedInNumLaps": 0,
+      "DriveThroughNumLaps": 0,
+      "TimePenaltyDuration": 20000000000
+    }
+  ],
+  "TrackConfig": "zolder_mp",
+  "TrackName": "rt_zolder",
+  "Type": "RACE",
+  "Date": "2023-11-11T18:39:00+01:00",
+  "SessionFile": "2023_11_11_18_39_RACE",
+  "SessionConfig": {
+    "session_type": 3,
+    "name": "Race",
+    "time": 45,
+    "laps": 0,
+    "is_open": 1,
+    "wait_time": 60,
+    "visibility_mode": 0,
+    "qualifying_type": 0,
+    "qualifying_number_of_laps_to_average": 0,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "a21feae3-1709-4631-b257-f8a7d4f9b037",
+  "RaceWeekendID": ""
+}
