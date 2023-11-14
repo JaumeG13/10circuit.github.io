@@ -38,62 +38,34 @@
         <div id="header"></div>
 
         <section class="schedule">
-            <!--<h1>schedule</h1>-->
+            <h1>schedule</h1>
 
             <div class="filters">
-                <h1>Schedule</h1>
-                <form>
-                    <div class="filter-series">
-                        <input type="checkbox" id="cc-button" onchange="scheduleFilter()" checked>
-                        <label for="cc-button" id="cc-button-label">Championship Circuit</label>
-                        <br>
-                        <input type="checkbox" id="pc-button" onchange="scheduleFilter()" checked>
-                        <label for="pc-button" id="pc-button-label">Porsche Cup</label>
-                    </div>
-
-                    <div class="filter-seasons">
-                        <input type="checkbox" id="s1-button" onchange="scheduleFilter()" checked>
-                        <label for="s1-button" id="s1-button-label">Season 1</label>
-                        <br>
-                        <input type="checkbox" id="s2-button" onchange="scheduleFilter()" checked>
-                        <label for="s2-button" id="s2-button-label">Season 2</label>
-                    </div>
-
-                    <div class="check-past">
-                        <input type="checkbox" id="past-button" onchange="scheduleFilter()" checked>
-                        <label for="past-button" id="past-button-label">Hide past events</label>
-                    </div>
-                </form>
-
-
-
-
-                <!--
                 <form id="form">
-                    <input type="checkbox" id="cc-button" onchange="scheduleFilter()" checked>
+                    <input type="checkbox" id="cc-button" onchange="scheduleFilter()" checked="checked">
                     <label for="cc-button" id="cc-button-label">Championship Circuit</label>
 
                     <div class="separator"></div>
                     
-                    <input type="checkbox" id="pc-button" onchange="scheduleFilter()" checked>
+                    <input type="checkbox" id="pc-button" onchange="scheduleFilter()" checked="checked">
                     <label for="pc-button" id="pc-button-label">Porsche Cup</label>
                     
                     <div class="separator"></div>
                     
-                    <input type="checkbox" id="special-button" onchange="scheduleFilter()" checked>
+                    <input type="checkbox" id="special-button" onchange="scheduleFilter()" checked="checked">
                     <label for="special-button" id="special-button-label">Special Events</label>
                     
                     <div class="separator"></div>
                     
-                    <input type="checkbox" id="past-button" onchange="scheduleFilter()" checked>
+                    <input type="checkbox" id="past-button" onchange="scheduleFilter()" checked="checked">
                     <label for="past-button" id="past-button-label">Hide past events</label>
-                </form>-->
+                </form>
             </div>
             
             
             <div class="schedule-container">
-                <div class="event specialEvent past">
-                    <img src="/assets/images/background/special-events/turkey.jpg" alt="Turkey">
+                <div class="event specialEvent past" style="display: none;">
+                    <img src="Schedule_files/turkey.jpg" alt="Turkey">
                     <div class="event-subcontainer">
                         <div>
                             <span>Turkey 2.4</span>
@@ -109,8 +81,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season1/bathurst.jpg" alt="Bathurst">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/bathurst.jpg" alt="Bathurst">
                     <div class="event-subcontainer">
                         <div>
                             <span>Bathurst</span>
@@ -126,8 +98,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season1/tsukuba.jpg" alt="Tsukuba">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/tsukuba.jpg" alt="Tsukuba">
                     <div class="event-subcontainer">
                         <div>
                             <span>Tsukuba</span>
@@ -143,8 +115,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season1/fuji.jpg" alt="Fuji">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/fuji.jpg" alt="Fuji">
                     <div class="event-subcontainer">
                         <div>
                             <span>Fuji</span>
@@ -160,8 +132,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season1/indy.jpg" alt="Indy">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/indy.jpg" alt="Indy">
                     <div class="event-subcontainer">
                         <div>
                             <span>Indianapolis 250</span>
@@ -177,8 +149,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season1/lemans.jpg" alt="Le Mans">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/lemans.jpg" alt="Le Mans">
                     <div class="event-subcontainer">
                         <div>
                             <span>Le Mans 2.4</span>
@@ -194,8 +166,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season1/nords2.jpg" alt="Nordschleife">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/nords2.jpg" alt="Nordschleife">
                     <div class="event-subcontainer">
                         <div>
                             <span>Nordschleife</span>
@@ -211,8 +183,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season1/brands.jpg" alt="Brands Hatch">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/brands.jpg" alt="Brands Hatch">
                     <div class="event-subcontainer">
                         <div>
                             <span>Brands Hatch</span>
@@ -228,8 +200,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season1/roadamerica.jpg" alt="Road America">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/roadamerica.jpg" alt="Road America">
                     <div class="event-subcontainer">
                         <div>
                             <span>Road America</span>
@@ -245,8 +217,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season2/longbeach/longbeach1.jpg" alt="Long Beach">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/longbeach1.jpg" alt="Long Beach">
                     <div class="event-subcontainer">
                         <div>
                             <span>Long Beach</span>
@@ -262,8 +234,8 @@
                     </div>
                 </div>
 
-                <div class="event pc past">
-                    <img src="/assets/images/background/porsche-cup/season1/hungary/hungary1.jpg" alt="Hungaroring">
+                <div class="event pc past" style="display: none;">
+                    <img src="Schedule_files/hungary1.jpg" alt="Hungaroring">
                     <div class="event-subcontainer">
                         <div>
                             <span>Hungaroring</span>
@@ -279,8 +251,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season2/bristol/bristol1.jpg" alt="Bristol">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/bristol1.jpg" alt="Bristol">
                     <div class="event-subcontainer">
                         <div>
                             <span>Bristol 200</span>
@@ -296,8 +268,8 @@
                     </div>
                 </div>
                 
-                <div class="event pc past">
-                    <img src="/assets/images/background/porsche-cup/season1/spa/spa1.jpg" alt="Spa-Francorchamps">
+                <div class="event pc past" style="display: none;">
+                    <img src="Schedule_files/spa1.jpg" alt="Spa-Francorchamps">
                     <div class="event-subcontainer">
                         <div>
                             <span>Spa-Francorchamps</span>
@@ -313,8 +285,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season2/imola/imola1.jpg" alt="Imola">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/imola1.jpg" alt="Imola">
                     <div class="event-subcontainer">
                         <div>
                             <span>Imola</span>
@@ -330,8 +302,8 @@
                     </div>
                 </div>
                 
-                <div class="event pc past">
-                    <img src="/assets/images/background/porsche-cup/season1/lagunaseca/lagunaseca1.jpg" alt="Laguna Seca">
+                <div class="event pc past" style="display: none;">
+                    <img src="Schedule_files/lagunaseca1.jpg" alt="Laguna Seca">
                     <div class="event-subcontainer">
                         <div>
                             <span>Laguna Seca</span>
@@ -347,8 +319,8 @@
                     </div>
                 </div>
                 
-                <div class="event specialEvent past">
-                    <img src="/assets/images/background/special-events/austria/austria1.jpg" alt="Formula multiclass">
+                <div class="event specialEvent past" style="display: none;">
+                    <img src="Schedule_files/austria1.jpg" alt="Formula multiclass">
                     <div class="event-subcontainer">
                         <div>
                             <span>Austria</span>
@@ -364,8 +336,8 @@
                     </div>
                 </div>
                 
-                <div class="event pc past">
-                    <img src="/assets/images/background/porsche-cup/season1/interlagos/interlagos2.jpg" alt="Interlagos">
+                <div class="event pc past" style="display: none;">
+                    <img src="Schedule_files/interlagos2.jpg" alt="Interlagos">
                     <div class="event-subcontainer">
                         <div>
                             <span>Interlagos</span>
@@ -381,8 +353,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season2/sebring/sebring10.jpg" alt="Sebring">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/sebring10.jpg" alt="Sebring">
                     <div class="event-subcontainer">
                         <div>
                             <span>Sebring</span>
@@ -398,8 +370,8 @@
                     </div>
                 </div>
 
-                <div class="event pc past">
-                    <img src="/assets/images/background/porsche-cup/season1/watkins/watkins1.jpg" alt="Watkins Glen">
+                <div class="event pc past" style="display: none;">
+                    <img src="Schedule_files/watkins1.jpg" alt="Watkins Glen">
                     <div class="event-subcontainer">
                         <div>
                             <span>Watkins Glen</span>
@@ -415,8 +387,8 @@
                     </div>
                 </div>
 
-                <div class="event cc past">
-                    <img src="/assets/images/background/championship/season2/zolder/zolder1.jpg" alt="Zolder">
+                <div class="event cc past" style="display: none;">
+                    <img src="Schedule_files/zolder1.jpg" alt="Zolder">
                     <div class="event-subcontainer">
                         <div>
                             <span>Zolder</span>
@@ -432,8 +404,8 @@
                     </div>
                 </div>
 
-                <div class="event cc">
-                    <img src="/assets/images/background/championship/season2/charlotte/charlotte2.jpg" alt="Charlotte">
+                <div class="event cc" style="display: block;">
+                    <img src="Schedule_files/charlotte2.jpg" alt="Charlotte">
                     <div class="event-subcontainer">
                         <div>
                             <span>Charlotte 93</span>
@@ -449,8 +421,8 @@
                     </div>
                 </div>
                 
-                <div class="event pc">
-                    <img src="/assets/images/background/porsche-cup/season1/dubai/dubai2.jpg" alt="Dubai">
+                <div class="event pc" style="display: block;">
+                    <img src="Schedule_files/dubai2.jpg" alt="Dubai">
                     <div class="event-subcontainer">
                         <div>
                             <span>Dubai Autodrome</span>
@@ -466,8 +438,8 @@
                     </div>
                 </div>
 
-                <div class="event cc">
-                    <img src="/assets/images/background/championship/season2/adelaide/adelaide1.jpg" alt="Adelaide">
+                <div class="event cc" style="display: block;">
+                    <img src="Schedule_files/adelaide1.jpg" alt="Adelaide">
                     <div class="event-subcontainer">
                         <div>
                             <span>Adelaide</span>
@@ -483,8 +455,8 @@
                     </div>
                 </div>
                 
-                <div class="event pc">
-                    <img src="/assets/images/background/porsche-cup/season1/bahrain/bahrain1.jpg" alt="Bahrain">
+                <div class="event pc" style="display: block;">
+                    <img src="Schedule_files/bahrain1.jpg" alt="Bahrain">
                     <div class="event-subcontainer">
                         <div>
                             <span>Bahrain</span>
@@ -500,8 +472,8 @@
                     </div>
                 </div>
                 
-                <div class="event pc">
-                    <img src="/assets/images/background/porsche-cup/season1/sepang/sepang3.jpg" alt="Sepang">
+                <div class="event pc" style="display: block;">
+                    <img src="Schedule_files/sepang3.jpg" alt="Sepang">
                     <div class="event-subcontainer">
                         <div>
                             <span>Sepang</span>
@@ -517,8 +489,8 @@
                     </div>
                 </div>
 
-                <div class="event cc">
-                    <img src="/assets/images/background/championship/season2/kyalami/kyalami1.jpg" alt="Kyalami">
+                <div class="event cc" style="display: block;">
+                    <img src="Schedule_files/kyalami1.jpg" alt="Kyalami">
                     <div class="event-subcontainer">
                         <div>
                             <span>Kyalami</span>
