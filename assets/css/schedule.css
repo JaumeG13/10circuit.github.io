@@ -1,14 +1,14 @@
 section.schedule {
     width: 100%;
     display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-}/*
+    flex-direction: column;
+    align-items: center;
+}
 section.schedule h1 {
     font-weight: 900;
-}*/
+}
 
-/* Searching/Filtering */
+/* Searching/Filtering 
 div.filters {
     width: 20%;
     background-color: #492029;
@@ -31,7 +31,7 @@ div.check-past {
 }
 /* End of Searching/Filtering */
 
-/*buttons part
+/*buttons part*/
 div.filters {
     margin-bottom: 1em;
     width: fit-content;
