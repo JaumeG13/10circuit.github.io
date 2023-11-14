@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Search Bar Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 50px auto;
+        }
+
+        #searchInput {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+
+        #list {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        #list li {
+            padding: 10px;
+            border: 1px solid #ccc;
+            margin-bottom: 5px;
+            cursor: pointer;
+        }
+
+        #list li:hover {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <input type="text" id="searchInput" placeholder="Search...">
+        <ul class="list">
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+            <!-- Add more list items as needed -->
+        </ul>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Get the input field and list
+            var input = document.getElementById('searchInput');
+            var list = document.getElementsByClass('list');
+
+            // Add an input event listener to the search input
+            input.addEventListener('input', function () {
+                // Get the search query
+                var query = input.value.toLowerCase();
+
+                // Get all list items
+                var items = list.getElementsByTagName('li');
+
+                // Loop through the list items
+                for (var i = 0; i < items.length; i++) {
+                    var item = items[i];
+                    var text = item.textContent.toLowerCase();
+
+                    // Check if the item contains the search query
+                    if (text.includes(query)) {
+                        item.style.display = 'block'; // Show the item
+                    } else {
+                        item.style.display = 'none'; // Hide the item
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>

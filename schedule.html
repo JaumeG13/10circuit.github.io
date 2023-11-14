@@ -38,9 +38,37 @@
         <div id="header"></div>
 
         <section class="schedule">
-            <h1>schedule</h1>
+            <!--<h1>schedule</h1>-->
 
             <div class="filters">
+                <h1>Schedule</h1>
+                <form>
+                    <div class="filter-series">
+                        <input type="checkbox" id="cc-button" onchange="scheduleFilter()" checked>
+                        <label for="cc-button" id="cc-button-label">Championship Circuit</label>
+                        <br>
+                        <input type="checkbox" id="pc-button" onchange="scheduleFilter()" checked>
+                        <label for="pc-button" id="pc-button-label">Porsche Cup</label>
+                    </div>
+
+                    <div class="filter-seasons">
+                        <input type="checkbox" id="s1-button" onchange="scheduleFilter()" checked>
+                        <label for="s1-button" id="s1-button-label">Season 1</label>
+                        <br>
+                        <input type="checkbox" id="s2-button" onchange="scheduleFilter()" checked>
+                        <label for="s2-button" id="s2-button-label">Season 2</label>
+                    </div>
+
+                    <div class="check-past">
+                        <input type="checkbox" id="past-button" onchange="scheduleFilter()" checked>
+                        <label for="past-button" id="past-button-label">Hide past events</label>
+                    </div>
+                </form>
+
+
+
+
+                <!--
                 <form id="form">
                     <input type="checkbox" id="cc-button" onchange="scheduleFilter()" checked>
                     <label for="cc-button" id="cc-button-label">Championship Circuit</label>
@@ -59,7 +87,7 @@
                     
                     <input type="checkbox" id="past-button" onchange="scheduleFilter()" checked>
                     <label for="past-button" id="past-button-label">Hide past events</label>
-                </form>
+                </form>-->
             </div>
             
             
