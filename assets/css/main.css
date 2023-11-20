@@ -1,0 +1,416 @@
+section.index {
+    display: flex;
+    flex-direction: column;
+    background-color: #0a0705;
+}
+h1 {
+    margin: auto 0 0.2em 0;
+    padding: .67em 0;
+    font-size: 3.5em;
+}
+
+
+
+/* Background image and title */
+div.section-bg-image {
+    height: 90vh;
+    overflow: hidden;
+    background-image: url('/assets/images/background/porsche-cup/season1/dubai/dubai2.jpg');  /*change after every event*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position-x: 50%;
+    background-position-y: 50%;
+}
+div.section-title {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 42%;   /*change*/
+    width: 100%;
+    text-align: center;
+    user-select: none
+}
+span#title {
+    font-size: 5em;
+    font-weight: 900;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+span#round {
+    font-size: 2em;
+    font-weight: 700;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+}
+#sign-up {
+    font-size: 1.8em;
+    font-weight: 500;
+    width: fit-content;
+    align-self: center;
+    background-color: #b03650;
+    border-radius: 25px;
+    padding: 5px 12px;
+    margin: 10px 20px 0 10px;
+    transition: 0.2s all ease-in-out;
+}
+#sign-up:hover {
+    color: white;
+    padding: 8px 15px;          /*increase (default 5px 12px) by 3px*/
+    margin: 7px 20px 0px 10px;   /*decrease top (default 10px 20px 0 10px) by 3px*/
+}
+div.arrow-down {
+    position: absolute;
+    top: 90%;
+    align-self: center;
+    font-size: 4em;
+    animation: arrowDown 8s ease-in-out 0s infinite;
+}
+@keyframes arrowDown {  /*animation to encourage scrolling*/
+    0% {transform: translateY(0%);}
+    8% {transform: translateY(30%);}
+    16% {transform: translateY(0%);}
+    24% {transform: translateY(30%);}
+    32% {transform: translateY(0%);}
+    100% {transform: translateY(0%);}
+}
+a#aboutus {
+    transition: ease-in-out;
+}
+/* End of background image and title */
+
+
+
+/* About us / Our team */
+div.about-us {
+    display: grid;
+    grid-template-columns: 1fr 0.65fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    min-height: 100vh;
+}
+div.member {
+    display: flex;
+    flex-direction: row;
+    padding: 2em;
+    gap: 2em;
+    align-items: center;
+}
+div.member.left {
+    flex-direction: row-reverse;
+    text-align: right;
+}
+div.member img {
+    width: 10vw;
+    border-radius: 50%;
+}
+div.member h2 {
+    font-size: 3em;
+}
+div.member span {
+    margin-top: 5px;
+    font-weight: 600;
+    font-size: 1.3em;
+    text-decoration: underline;
+}
+ul.member-tasks {
+    margin-top: 5px;
+}
+
+
+/*middle column*/
+div.about-middle {
+    height: 100vh;
+    grid-row: span 3;
+    overflow: hidden;
+    position: relative;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}/*
+div.about-middle-visibility-hidden {
+    visibility: collapse;
+}*/
+div.about-middle h1 {
+    margin: 0 auto;
+    background-color: #b03650;
+}
+div.about-middle img {
+    display: none;
+}
+div.about-middle div.team-background {
+    height: 100%;
+    width: 100%;
+    background-image: url('/assets/images/background/porsche-cup/season1/spa/spa4.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: 50%;
+    background-position-y: 100%;
+}
+div.about-middle div.team-background-pink {
+    height: 100%;
+    width: 100%;
+    background-image: url('/assets/images/background/pinkFade.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+div.about-middle .arrow-down {
+    z-index: 1;
+    width: 20%;
+    margin: auto 40%;
+    text-align: center;
+}
+/*end of middle column*/
+/* End of about us / Our team */
+
+
+
+/* Prize pool and Instagram */
+div.prizes-and-instagram {
+    min-height: 80vh;
+    background-color: #0a0705;
+    display: grid;
+    grid-template-columns: 1fr 2.5fr;
+    gap: 2em;
+    padding: 2em;
+}
+div.prizes-and-instagram h1 {
+    text-align: center;
+    margin: 0 auto;
+    z-index: 2;
+}
+/*prizes*/
+div.prize-container {
+    background-color: #2a0e14;
+    border-radius: 25px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+div.darkPinkBg {
+    background-image: url('/assets/images/background/darkPinkFade.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+}
+div.gallery button {
+    background-color: #d35571;
+    z-index: 1;
+}
+div.gallery button:hover {
+    background-color: #972f45;
+}
+ol.flickity-page-dots .dot {
+    background: #ff9db1;
+    
+}
+/*end of prizes*/
+
+/*instagram*/
+div.instagram-container {
+    background-color: #3d0e18;
+    border-radius: 25px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div.ig-posts {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    width: 80%;
+    gap: 1em;
+}
+div.big-post {
+    grid-row: span 2;
+}
+div.post {
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+}
+div.post img {
+    width: 100%;
+    height: 100%;
+    transition: 0.3s ease-in-out;
+}
+div.post:hover img {
+    filter: blur(3px);
+}
+div.post span {
+    z-index: -1;
+    position: absolute;
+    right: 50%;
+    top: 40%;
+    margin: auto;
+    transform: translateX(50%);
+    filter: blur(3px);
+    transition: 0.3s ease-in-out;
+}
+div.post:hover span.ig-logo {
+    z-index: 1;
+    filter: none;
+}
+div.post i {
+    font-size: 3em;
+}
+div.big-post i {
+    font-size: 6em;
+}
+/*end of instagram*/
+/* End of prize pool and instagram */
+
+
+
+
+
+/* MOBILE VIEW */ /*320px, 768px, and 1200px*/
+@media screen and (max-width: 950px) {
+    div.section-bg-image {  /*change after every event*/
+        background-position-x: 18%;
+        background-position-y: 0%;
+    }
+    div.section-title { /*change after every event*/
+        top: 38%;
+    }
+    .section-title #title {
+        font-size: 1.9em;
+    }
+    .section-title #round {
+        font-size: 1em;
+        margin-top: 5px;
+    }
+    #sign-up {
+        font-size: 1.2em;
+        font-weight: 500;
+    }
+    #sign-up:hover {
+        padding: 5px 12px;          /*increase (default 5px 12px) by 3px*/
+        margin: 10px 20px 0px 10px;   /*decrease top (default 10px 20px 0 10px) by 3px*/
+    }
+    div.arrow-down {
+        top: 90%;
+        font-size: 3em;
+    }
+    div.events-container h1 {
+        padding-bottom: 25px;
+    }
+    div.gallery-cell {
+        width: 90%;
+    }
+    section.index h1 {
+        font-size: 2.5em;
+    }
+    div.events-container {
+        margin-bottom: 50px;
+    }
+
+
+    /* About us / Our team */
+    div.about-us {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        background-image: url('/assets/images/background/pinkFade.png'), url('/assets/images/background/porsche-cup/season1/spa/spa4.jpg');
+        background-repeat: no-repeat, no-repeat;
+        background-size: cover, cover;
+        background-position-x: 20%;
+        background-position-y: 10vh, 0;
+        padding-bottom: 1.5em;
+        position: relative;
+    }
+    div.member {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 1em;
+        gap: 0.5em;
+        z-index: 1;
+    }
+    div.member.first {
+        padding-top: 6em;
+    }
+    div.member.left {
+        flex-direction: column;
+        text-align: center;
+    }
+    div.member img {
+        width: 25vw;
+    }
+    div.member h2 {
+        font-size: 2em;
+    }
+
+    /*middle column*/
+    div.about-middle {
+        position: absolute;
+        width: 100%;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        grid-row: span 6;
+    }
+    div.about-middle img {
+        display: block;
+        height: 100%;
+    }
+    div.about-middle div.team-background {
+        background-image: none;
+    }
+    div.about-middle div.team-background-pink {
+        background-image: none;
+    }
+    div.about-middle .arrow-down {
+        display: none;
+    }
+    /*end of middle column*/
+    /* End of about us / Our team */
+
+
+
+    /* Prize pool and Instagram */
+    div.prizes-and-instagram {
+        min-height: 80vh;
+        height: fit-content;
+        grid-template-columns: 1fr;
+        gap: 1em;
+        padding: 1em;
+    }
+    div.prizes-and-instagram h1 {
+        font-size: 2em;
+    }
+    /*prizes*/
+    div.prize-container {
+        height: auto;
+        padding-bottom: 3em;
+    }
+    div.prize-container img {
+        width: 75%;
+    }
+    /*end of prizes*/
+
+    /*instagram*/
+    div.instagram-container {
+        overflow: hidden;
+        align-items: center;
+        height: auto;
+        padding-bottom: 2.5em;
+    }
+    div.ig-posts {
+        grid-template-columns: 1fr 1fr;
+    }
+    div.big-post {
+        grid-column: span 2;
+        grid-row: span 2;
+    }
+    div.post:hover img {
+        filter: none;
+    }
+    div.post span {
+        display: none;
+    }
+    div.post:hover span.ig-logo {
+        filter: none;
+    }
+    /*end of instagram*/
+    /* End of prize pool and instagram */
+}

@@ -27,7 +27,7 @@ Inside the images folder there's multiple "categories", if you will:
 │  ├─ css/ <br>
 │  │  ├─ footer.css <br>
 │  │  ├─ header.css <br>
-│  │  ├─ index.css <br>
+│  │  ├─ main.css <br>
 │  │  ├─ register.css <br>
 │  │  ├─ schedule.css <br>
 │  │  ├─ servers.css <br>

@@ -1,32 +1,45 @@
+div.main-container {
+    background-image: url('/assets/images/background/porsche-cup/season1/dubai/dubai2.jpg'); /*change*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #0a0705;
+}
 section.standings-results-container {
     width: 100%;
     display: flex;
     flex-direction: column;
     white-space: nowrap;
     justify-content: center;
-    padding-bottom: 2em;
+    background-color: rgba(124, 13, 13, 0.2);
+    backdrop-filter: blur(10px);
 }
-section.standings-results-container h1 {     /*change after every event*/
-    background-image: url('/assets/images/background/championship/season2/zolder/zolder5.jpg');  
-    background-position-y: 230%;
-    background-position-x: 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    margin: 0;
-    padding: 2.5em 0;
+section.standings-results-container h1 {
+    margin: 16px 0 8px 0;
+    padding: 0.5em 0;
     font-weight: 900;
+    width: 50%;
+    align-self: center;
+    border-radius: 25px;
     text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+    background-color: #4b1622;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
 }
 
-/*toggle buttons*/
+
+
+/* Toggle buttons */
 div.buttons-container {
-    width: 100%;
+    width: 50%;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #975e6a;
-    padding: 0.75em 30%;
+    background-color: #813042;
+    padding: 0.5em;
+    margin: 8px 0;
+    align-self: center;
+    border-radius: 25px;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
 }
 div.buttons {
     max-height: 10vh;
@@ -34,7 +47,12 @@ div.buttons {
     display: flex;
     flex-direction: column;
     font-size: 1.2em;
-    user-select: none
+    user-select: none;
+    min-width: 33%;
+    align-items: center;
+}
+span.mobile {
+    display: none;
 }
 div.round-buttons {
     overflow-y: scroll;
@@ -54,106 +72,154 @@ input[type="radio"]:checked + label {
     font-weight: 700;
     text-decoration: underline;
 }
-/*end of toggle buttons*/
+/* End of toggle buttons */
 
-/*table content*/
+
+
+/* Table content */
 table {
-    width: 50vw;
-    margin: 0 25vw;
+    width: 50%;
+    margin: 8px auto;
     border-collapse: collapse;
-}
-th {
-    padding: 1em 1em 0.2em 1em;
-    border-bottom: 1px solid white;
+    background-color: #5a1b28;
+    border: 2em solid transparent;
+    border-top: none;
+    border-radius: 25px;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
 }
 th.header {
-    background-color: #c18794;
+    background-color: inherit;
     box-shadow: none;
-    font-size: 1.5em;
-    position: relative;
+    font-size: 1.8em;
+    padding: 1em;
 }
 td {
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid #dfdfdf;
     text-align: center;
-    width: auto;
-    padding-top: 0.15em;
+    width: 20%;
+    padding: 0.2em 0;
 }
 td#fastest-lap {
-    color: #703348;
+    color: #e61b47;
     font-weight: 600;
 }
-/*end of table content*/
+/* End of table content */
 
-/*legend*/
+
+
+/* Legend */
 div.legend {
     display: flex;
     flex-direction: column;
+    width: 50%;
     font-size: 0.8em;
-    margin: 2em 25vw 0 25vw;
+    padding: 2em;
+    align-self: center;
+    background-color: #310b13;
+    border-radius: 25px;
+    margin: 8px 0 16px 0;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
 }
-div.legend span {
+div.legend * {
     text-transform: none;
 }
-/*end of legend*/
+/* End of legend */
 
 
 
+
+@media screen and (max-width: 1500px) {
+    section.standings-results-container h1 {
+        width: 75%;
+    }
+    div.buttons-container {
+        width: 75%;
+    }
+    table {
+        width: 75%;
+    }
+    div.legend {
+        width: 75%;
+    }
+}
 
 /* MOBILE VIEW */
 @media screen and (max-width: 950px) {
+    section.standings-results-container h1 {
+        width: 90%;
+    }
+    div.buttons-container {
+        width: 90%;
+    }
+    table {
+        width: 90%;
+    }
+    div.legend {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    div.main-container {
+        background-image: none;
+    }
     section.standings-results-container {
         width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        padding-bottom: 2em;
+        backdrop-filter: none;
     }
-    section.standings-results-container h1 {     /*change after every event*/
-        background-position-x: 15%; 
-        background-position-y: -300px;
-        padding: 2.5em 0;
-    }
-    
-    /*toggle buttons*/
-    div.buttons-container {
+    section.standings-results-container h1 {
         width: 100%;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        background-color: #975e6a;
-        padding: 0.75em 1em;
+        margin: 0;
+        border-radius: 0;
+        font-size: 2.8em;
+    }
+
+    div.buttons-container {
+        width: 96%;
+        margin: 2%;
+        border-radius: 10px;
     }
     div.buttons {
-        font-size: 0.8em;
-        gap: 0.8em;
+        font-size: 16px;
     }
-    div.round-buttons {
-        width: 20vw;
+    span.desktop {
+        display: none;
     }
-    /*end of toggle buttons*/
-    
-    /*table content*/
+    span.mobile {
+        display: block;
+    }
+    input[type="radio"]:checked + span.mobile, input[type="radio"]:checked + span.desktop {
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
     table {
-        width: 100vw;
-        margin: 0;
-    }
-    th {
-        padding: 0.2em;
-        font-size: 0.8em;
+        width: 96%;
+        white-space: normal;
+        margin: 0 2%;
+        border: 1em solid transparent;
+        border-radius: 10px;
     }
     th.header {
-        font-size: 1.4em;
+        font-size: 1.3em;
+        padding: 1em;
+        z-index: 0;
+    }
+    th {
+        font-size: 0.8em;
     }
     td {
-        padding-top: 0.15em;
-        font-size: 0.7em;
-    }
-    /*end of table content*/
-
-    /*legend*/
-    div.legend {
+        width: auto;
         font-size: 0.6em;
-        margin: 2em 0 0 2em;
+        padding: 0.2em -0.1;
     }
-    /*end of legend*/
+
+    div.legend {
+        width: 96%;
+        font-size: 0.6em;
+        border-radius: 10px;
+        padding: 1.3em;
+        margin: 2%;
+        align-self: center;
+    }
 }

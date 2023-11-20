@@ -12,11 +12,11 @@
 
     <link rel="shortcut icon" href="/assets/images/logos/10c.png">
     <link rel="stylesheet" href="/assets/css/structure-styling.css">
-    <link rel="stylesheet" href="/assets/css/index.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">    <!-- Import font awesome for icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.css">           <!-- Gallery slider code -->
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">           <!-- Gallery slider code -->
     
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.pkgd.js"></script>              <!-- Gallery slider code -->
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>              <!-- Gallery slider code -->
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>     <!--jquery code to import header and footer-->
     <script type="text/javascript">                 //jquery code to import header and footer
         $(document).ready(function(){
@@ -38,251 +38,159 @@
             <div class="section-bg-image"></div>
 
             <div class="section-title">
-                <span id="title">Championship Circuit</span><br><br>
-                <span id="round">Next up: 92' DTM at Zolder</span>  <!--change-->
+                <span id="title">Championship Circuit</span><br>
+                <span id="round">Next up: Porsche Cup at Dubai</span>  <!--change-->
+                <a href="/register" id="sign-up">Sign up</a>
             </div>  
 
-
-            <!--PRIZE POOL-->
-            <div class="prize-pool-container">
-                <div><h1 style="margin: 0 0 0.67em 0;">Prize Pool</h1></div>
-
-                <div class="prize-pool">
-                    <div class="series-win">
-                        <h2>Series win</h2>
-                        <span>14cm Engraved trophy</span>
-                        <div class="prize-money">
-                            <img src="/assets/images/trophy.png" alt="Trophy" loading="lazy">
-                            <img src="/assets/images/trophy3.png" alt="Trophy" loading="lazy">
-                            <img src="/assets/images/trophy2.png" alt="Trophy" loading="lazy">
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <div class="arrow-down"><a href="#aboutus"><i class="fa-solid fa-chevron-down"></i></a></div>
 
 
-            <!--PREVIOUS EVENTS GALLERY-->
-            <div class="events-container">
-                <div><h1>Previous Events</h1></div>
-
-                <div class="gallery js-flickity" data-flickity-options='{ "pauseAutoPlayOnHover": false, "imagesLoaded": true, "autoPlay": 3000, "wrapAround": true }'>
-                    <div class="gallery-cell">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/turkey-thumb.jpg" alt="Turkey thumbnail"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://youtu.be/KHxB5wTgZTY" target="_blank">Watch Highlights</a></div>
-                        </div>
-                    </div><!--
-                    <div class="gallery-cell">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/bathurst-thumb.jpg" alt="Bathurst thumbnail"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://youtu.be/drTE-Ga5uCw" target="_blank">Watch Highlights</a></div>
-                        </div>
-                    </div>
-                    <div class="gallery-cell">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/tsukuba-thumb.jpg" alt="Tsukuba thumbnail"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://youtu.be/-XF1c7XlVwQ" target="_blank">Watch Highlights</a></div>
-                        </div>
-                    </div>
-                    <div class="gallery-cell">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/fuji-thumb.jpg" alt="Fuji thumbnail"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://www.youtube.com/live/bLH4XIYOUnY?feature=share" target="_blank">Watch VOD</a></div>
-                        </div>
-                    </div>-->
-                    <div class="gallery-cell" id="double-video">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/indy-thumb.jpg" alt="Indycar Indianapolis"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://www.youtube.com/watch?v=ZkhbOFwzbUQ" target="_blank">Watch VOD</a></div>
-                            <div class="watch-button"><a href="https://youtu.be/-ZBAOW17QgU" target="_blank">Watch Highlights</a></div>
-                        </div>
-                    </div>
-                    <div class="gallery-cell" id="double-video">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/lemans-thumb.jpg" alt="Le Mans thumbnail"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://www.youtube.com/watch?v=b3RmqsPiuBs" target="_blank">Watch VOD</a></div>
-                            <!--<div class="watch-button"><a href="" target="_blank">Watch Highlights</a></div>-->
-                        </div>
-                    </div><!--
-                    <div class="gallery-cell" id="double-video">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/nords-thumb.jpg" alt="Nordschleife thumbnail"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://www.youtube.com/watch?v=cMhTq3UKM4w" target="_blank">Watch VOD</a></div>
-                            <div class="watch-button"><a href="https://www.youtube.com/watch?v=l0Hxsk80_qk" target="_blank">Watch Highlights</a></div>
-                        </div>
-                    </div>
-                    <div class="gallery-cell" id="double-video">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/brands-thumb.jpg" alt="Brands Hatch thumbnail"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://www.youtube.com/watch?v=mp_JowqvzCU" target="_blank">Watch VOD</a></div>
-                            <div class="watch-button"><a href="" target="_blank">Watch Highlights</a></div>
-                        </div>
-                    </div>
-                    <div class="gallery-cell" id="double-video">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/roadamerica-thumb.jpg" alt="Road America thumbnail"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://www.youtube.com/watch?v=JruOZ8717dQ" target="_blank">Watch VOD</a></div>
-                            <div class="watch-button"><a href="" target="_blank">Watch Highlights</a></div>
-                        </div>
-                    </div>-->
-                    <div class="gallery-cell" id="double-video">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/longbeach_thumb.jpg" alt="Long Beach thumbnail"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://www.youtube.com/watch?v=p-147JkIDDw" target="_blank">Watch VOD</a></div>
-                            <!--<div class="watch-button"><a href="" target="_blank">Watch Highlights</a></div>-->
-                        </div>
-                    </div>
-                    <div class="gallery-cell" id="double-video">
-                        <div class="thumbnail"><img src="./assets/images/gallery-thumbnails/bristol-thumb.jpg" alt="Bristol thumbnail"></div>
-                        <div class="events-buttons">
-                            <div class="watch-button"><a href="https://www.youtube.com/live/FiO80vysgxM?si=yRaP7Ncz-ru_ipL7" target="_blank">Watch VOD</a></div>
-                            <!--<div class="watch-button"><a href="" target="_blank">Watch Highlights</a></div>-->
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-
+            <!--ABOUT US-->
             <div class="about-us">
-                <div class="about-title"><h1>About Us</h1></div>
+                <div class="member left first">
+                    <div><img src="/assets/images/pfp/jaume.png" alt="Jaume PFP"></div>
+                    <div>
+                        <h2>Jaume</h2>
+                        <span>Number 1 Danny Ricc fan</span>
+                        <ul class="member-tasks">
+                            <li>Server manager</li>
+                            <li>Web designer</li>
+                            <li>Instagram guy</li>
+                        </ul>
+                    </div>
+                </div>
 
-                <div class="about-content">
-                    <p>10 Circuit is the official Assetto Corsa website for 10 Controls</p>
-                    
-                    <p>10 Controls was strictly an F1 league, but one day we decided to just run some practice sessions and quickly found there was an interest for Assetto Corsa in our community.</p>
-                    <p>This lead us to organise our first event which was a 2.4h multi-class endurance race at Istanbul Park, which kickstarted this project.</p>
-                    <p>And so, 10 Circuit was born, starting off Season 1 with an 8 race calendar consisting of 2 events for each of the 4 different motorsport disciplines.</p>
+                <div class="about-middle">
+                    <h1 id="aboutus">Our Team</h1>
+                    <div class="team-background-pink"></div>
+                    <div class="team-background"></div>
+                    <div class="arrow-down"><a href="#prizes-and-instagram"><i class="fa-solid fa-chevron-down"></i></a></div>
+                </div>
 
-                    <h2>Our Team</h2>
+                <div class="member">
+                    <div><img src="/assets/images/pfp/maxfan.png" alt="Maxfan PFP"></div>
+                    <div>
+                        <h2>Maxfan</h2>
+                        <span>Number 2 Max Verstappen fan</span>
+                        <ul class="member-tasks">
+                            <li>Photographer</li>
+                            <li>Coordinator</li>
+                            <li>Tester</li>
+                        </ul>
+                    </div>
+                </div> 
+                
+                <div class="member left">
+                    <div><img src="/assets/images/pfp/henry.png" alt="Henry PFP"></div>
+                    <div>
+                        <h2>Henry</h2>
+                        <span>Has no sleep schedule</span>
+                        <ul class="member-tasks">
+                            <li>Content manager</li>
+                            <li>Event planner</li>
+                            <li>Bank</li>
+                        </ul>
+                    </div>
+                </div>
 
-                    <div class="our-team">
-                        <div class="member">
-                            <img src="/assets/images/pfp/henry.png" alt="Henry member image">
-                            <h3>Henry</h3>
-                            <span class="desc">Has no sleep schedule</span>
-                            <ul class="member-tasks">
-                                <li>Content manager</li>
-                                <li>Event planner</li>
-                                <li>Streamer</li>
-                            </ul>
-                        </div>
-
-                        <div class="member">
-                            <img src="/assets/images/pfp/ricfan.png" alt="Jaume member image">
-                            <h3>Jaume</h3>
-                            <span class="desc">Number 1 Danny Ric fan</span>
-                            <ul class="member-tasks">
-                                <li>Server manager</li>
-                                <li>Web designer</li>
-                                <li>Coordinator</li>
-                            </ul>
-                        </div>
-
-                        <div class="member">
-                            <img src="/assets/images/pfp/maxfan.png" alt="Pedaus member image">
-                            <h3>Pedaus</h3>
-                            <span class="desc">Number 2 Max Verstappen fan</span>
-                            <ul class="member-tasks">
-                                <li>Photographer</li>
-                                <li>Coordinator</li>
-                                <li>Tester</li>
-                            </ul>
-                        </div>
-                        
-                        <div class="member">
-                            <img src="/assets/images/pfp/focuser.png" alt="Focuser member image">
-                            <h3>Focuser</h3>
-                            <span class="desc">is spanish</span>
-                            <ul class="member-tasks">
-                                <li>Provides emotional support</li>
-                                <li>Tester</li>
-                            </ul>
-                        </div>
-                        
-                        <div class="member">
-                            <img src="/assets/images/pfp/saad.png" alt="Saad member image">
-                            <h3>Saad</h3>
-                            <span class="desc">Lincoln towncar merchant</span>
-                            <ul class="member-tasks">
-                                <li>Will find a way to fix it</li>
-                                <li>The new guy</li>
-                            </ul>
-                        </div>
-                        
-                        <div class="member">
-                            <img src="/assets/images/pfp/maurits.jpg" alt="Maurits member image">
-                            <h3>Maurits</h3>
-                            <span class="desc">Wants to be a part of it</span>
-                            <ul class="member-tasks">
-                                <li>Provides actual emotional support </li>
-                            </ul>
-                        </div>
+                <div class="member">
+                    <div><img src="/assets/images/pfp/focuser.png" alt="Focuser PFP"></div>
+                    <div>
+                        <h2>Focuser</h2>
+                        <span>is spanish</span>
+                        <ul class="member-tasks">
+                            <li>Provides emotional support</li>
+                            <li>Tester</li>
+                        </ul>
+                    </div>
+                </div> 
+                
+                <div class="member left">
+                    <div><img src="/assets/images/pfp/saad.png" alt="Saad PFP"></div>
+                    <div>
+                        <h2>Saad</h2>
+                        <span>Lincoln town car enjoyer</span>
+                        <ul class="member-tasks">
+                            <li>Will find a way to fix it</li>
+                            <li>The new guy</li>
+                        </ul>
+                    </div>
+                </div> 
+                
+                <div class="member">
+                    <div><img src="/assets/images/pfp/maurits.jpg" alt="Maurits PFP"></div>
+                    <div>
+                        <h2>Maurits</h2>
+                        <span>Wants to be a part of it</span>
+                        <ul class="member-tasks">
+                            <li>Provides actual emotional support </li>
+                            <li>Bank</li>
+                        </ul>
                     </div>
                 </div>
             </div>
 
-        
-            
-            <div class="instagram-container">
-                <div class="instagram-title"><h1>Our Instagram</h1></div>
 
-                <div class="instagram-subcontainer">
-                    <div class="instagram-column" id="ig-1">
-                        <div class="instagram-column-fade"></div>
-                        <img src="/assets/images/ig-posts/QualiResultInterlagos.png" alt="Interlagos Qualifying">
-                        <img src="/assets/images/ig-posts/SaadWinner.png" alt="2H Formula multiclass race winner">
-                        <img src="/assets/images/ig-posts/newman-indy.jpg" alt="Indy 500 practice">
-                        <img src="/assets/images/ig-posts/lambo.jpg" alt="Lamborghini GT3">
-                        <img src="/assets/images/ig-posts/flying.jpg" alt="Flying Porsche 963">
-                        <img src="/assets/images/ig-posts/flying-dumbreck.jpg" alt="Flying Mercedes">
-                        <img src="/assets/images/ig-posts/veixel-demotion2.png" alt="Veixel demotion">
-                        
-                        <img src="/assets/images/ig-posts/QualiResultInterlagos.png" alt="Interlagos Qualifying">
-                        <img src="/assets/images/ig-posts/SaadWinner.png" alt="2H Formula multiclass race winner">
-                        <img src="/assets/images/ig-posts/newman-indy.jpg" alt="Indy 500 practice">
-                        <img src="/assets/images/ig-posts/lambo.jpg" alt="Lamborghini GT3">
-                        <img src="/assets/images/ig-posts/flying.jpg" alt="Flying Porsche 963">
-                        <img src="/assets/images/ig-posts/flying-dumbreck.jpg" alt="Flying Mercedes">
-                        <img src="/assets/images/ig-posts/veixel-demotion2.png" alt="Veixel demotion">
+            <div class="prizes-and-instagram" id="prizes-and-instagram">
+                <div class="prize-container">
+                    <span style="position: relative; z-index: 2;">
+                        <h1>Prizes</h1>
+                        <p>Series winners get a real life miniature trophy</p>
+                    </span>
+                    
+                    <div class="darkPinkBg"></div>
+                    <div class="gallery js-flickity" data-flickity-options='{ "pauseAutoPlayOnHover": false, "imagesLoaded": true, "autoPlay": 3000, "wrapAround": true }'>
+                        <div class="gallery-cell">
+                            <img src="/assets/images/trophy.png" alt="Trophy">
+                        </div>                            
+                        <div class="gallery-cell">
+                            <img src="/assets/images/trophy2.png" alt="Trophy">
+                        </div>
+                        <div class="gallery-cell">
+                            <img src="/assets/images/trophy3.png" alt="Trophy">
+                        </div>
                     </div>
-    
-                    <div class="instagram-column" id="ig-2">
-                        <div class="instagram-column-fade"></div>
-                        <img src="/assets/images/ig-posts/2hRBR Stats.png" alt="2h RBR race stats">
-                        <img src="/assets/images/ig-posts/abarth500.jpg" alt="Safety first">
-                        <img src="/assets/images/ig-posts/FocuserWinner.png" alt="Sebring race winner">
-                        <img src="/assets/images/ig-posts/positions.jpg" alt="Positions gained">
-                        <img src="/assets/images/ig-posts/veixel-demotion2.png" alt="Veixel demotion">
-                        <img src="/assets/images/ig-posts/newman-rabas.jpg" alt="Newman vs Rabas">
-                        <img src="/assets/images/ig-posts/alpine.jpg" alt="Alpine">
-                        <img src="/assets/images/ig-posts/Oreca.jpg" alt="Orece">
-                        
-                        <img src="/assets/images/ig-posts/2hRBR Stats.png" alt="2h RBR race stats">
-                        <img src="/assets/images/ig-posts/abarth500.jpg" alt="Safety first">
-                        <img src="/assets/images/ig-posts/FocuserWinner.png" alt="Sebring race winner">
-                        <img src="/assets/images/ig-posts/positions.jpg" alt="Positions gained">
-                        <img src="/assets/images/ig-posts/veixel-demotion2.png" alt="Veixel demotion">
-                        <img src="/assets/images/ig-posts/newman-rabas.jpg" alt="Newman vs Rabas">
-                        <img src="/assets/images/ig-posts/alpine.jpg" alt="Alpine">
-                        <img src="/assets/images/ig-posts/Oreca.jpg" alt="Orece">
-                    </div>
-    
-                    <div class="instagram-column" id="ig-3">
-                        <div class="instagram-column-fade"></div>
-                        <img src="/assets/images/ig-posts/saad.jpg" alt="Saad 0 points">
-                        <img src="/assets/images/ig-posts/porsche.jpg" alt="Porsche 963">
-                        <img src="/assets/images/ig-posts/reaction.jpg" alt="Reaction time">
-                        <img src="/assets/images/ig-posts/2hRBR.png" alt="2H Formula multiclass race">
-                        <img src="/assets/images/ig-posts/JustinWinner.png" alt="2H Formula multiclass race winner">
-                        <img src="/assets/images/ig-posts/fuji-poster.jpg" alt="Fuji poster">
-                        
-                        <img src="/assets/images/ig-posts/saad.jpg" alt="Saad 0 points">
-                        <img src="/assets/images/ig-posts/porsche.jpg" alt="Porsche 963">
-                        <img src="/assets/images/ig-posts/reaction.jpg" alt="Reaction time">
-                        <img src="/assets/images/ig-posts/2hRBR.png" alt="2H Formula multiclass race">
-                        <img src="/assets/images/ig-posts/JustinWinner.png" alt="2H Formula multiclass race winner">
-                        <img src="/assets/images/ig-posts/fuji-poster.jpg" alt="Fuji poster">
+                </div>
+
+                <div class="instagram-container">
+                    <h1>Our Instagram</h1>
+
+                    <div class="ig-posts">
+                        <div class="post big-post">
+                            <a href="https://www.instagram.com/p/CzmUu0gMAJg" target="_blank">
+                                <img src="/assets/images/ig-posts/AdamResults.png" alt="Last post">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>
+
+                        <div class="post">
+                            <a href="https://www.instagram.com/p/CylvrL1MieB" target="_blank">
+                                <img src="/assets/images/ig-posts/2hRBR.png" alt="2h Red Bull Ring poster">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>
+
+                        <div class="post">
+                            <a href="https://www.instagram.com/p/CtT030ygcnA" target="_blank">
+                                <img src="/assets/images/ig-posts/porsche.jpg" alt="Porsche 963">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>
+
+                        <div class="post">
+                            <a href="https://www.instagram.com/p/Cy5oeBjtCsb" target="_blank">
+                                <img src="/assets/images/ig-posts/Oreca.jpg" alt="LMP2 car">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>
+
+                        <div class="post">
+                            <a href="https://www.instagram.com/p/Cyi1sgSMQvr" target="_blank">
+                                <img src="/assets/images/ig-posts/veixel-demotion2.png" alt="Veixel demoted">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>

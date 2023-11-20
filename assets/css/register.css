@@ -1,128 +1,141 @@
+div.main-container {
+    background-image: url('/assets/images/background/porsche-cup/season1/dubai/dubai2.jpg'); /*change*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #0a0705;
+}
 section.register {
-    width: 80%;
-    margin: 0 10%;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 70vh;
+    background-color: rgba(124, 13, 13, 0.2);
+    backdrop-filter: blur(20px);
 }
-section.register h2 {
-    text-align: center;
+div.register-title {
+    background-color: #3d0e18;
+    width: 75vw;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding: 2em;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
 }
+div.register-title h1 {
+    font-size: 2.3em;
+}
+
 div.container {
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
-    gap: 15px;
+    justify-content: center;
+    margin: 1em 10em;
+    gap: 1em;
 }
-div.championship {
-    border: 0.4em solid #492833;
+div.register-card {
+    width: 25vw;
+    display: flex;
+    flex-direction: column;
+    background-color: #3d0e18;
+    padding: 8px;
+    gap: 8px;
     border-radius: 25px;
-    overflow: hidden;
-    width: 50%;
-    position: relative;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
 }
-div.porsche {
-    border: 0.4em solid #492833;
-    border-radius: 25px;
-    overflow: hidden;
-    width: 50%; /*change if another event is added*/
-    position: relative;
-}
-div.special {
-    border: 0.4em solid #492833;
-    border-radius: 25px;
-    overflow: hidden;
-    width: 33%; /*change if another event is added*/
-    position: relative;
-}
-div.container img {
+div.register-card img {
     width: 100%;
-    margin-bottom: -10px;
+    border-radius: 19px;
 }
-section.register span {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    font-size: 2.2em;
+div.register-subcontainer {
+    background-color: #0a0705;
+    border-radius: 19px;
+    padding: 1em;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+span {
+    display: block;
+}
+span.title {
+    font-size: 1.4em;
     font-weight: 700;
-    text-shadow: black 0.1em 0.1em 0.2em;
-    transition: all .3s;
-    white-space: nowrap;
 }
-span.champ {
-    margin: -20px 0 0 -216px;
-    opacity: 0;
+div.register-card a {
+    background-color: #b03650;
+    padding: 0.75em;
+    border-radius: 25px;
+    transition: ease-in-out 0.2s;
 }
-span.porsche {
-    margin: -20px 0 0 -126px;
-    opacity: 0;
+div.register-card a:hover {
+    padding: 0.9em;
+    margin-right: -0.15em;
 }
-span.special {
-    margin: -20px 0 0 -205px;
-    opacity: 0;
-}
-a.champ:hover img.champ {
-    filter: blur(2px);
-}
-a.champ:hover span.champ {
-    opacity: 1.0;
-}
-a.porsche:hover img.porsche {
-    filter: blur(2px);
-}
-a.porsche:hover span.porsche {
-    opacity: 1.0;
-}
-a.special:hover img.special {
-    filter: blur(2px);
-}
-a.special:hover span.special {
-    opacity: 1.0;
-}
+
+
+
 
 
 
 /* MOBILE VIEW */
-@media screen and (max-width: 950px) {
-    section.register {
-        width: 90%;
-        margin: 0 5%;
-        flex-direction: column;
-    }
-    section.register h2 {
-        margin-bottom: 0.5em;
+@media screen and (max-width: 1250px) {
+    div.register-title {
+        width: 100vw;
+        border-radius: 0;
     }
     div.container {
+        justify-content: center;
+        margin: 1em 4em;
+        gap: 1em;
+    }
+    div.register-card {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 975px) {
+    section.register {
+        height: auto;
+    }
+    div.register-title {
+        width: 100vw;
+        border-radius: 0;
+    }
+    div.register-title h1 {
+        font-size: 1.8em;
+    }
+    div.container {
+        justify-content: center;
         flex-direction: column;
-        margin-bottom: 1em;
+        margin: 1em 8em;
+        gap: 1em;
     }
-    div.container div {
-        width: 90%;
+    div.register-card {
+        width: auto;
     }
-    section.register span {
+}
+
+@media screen and (max-width: 730px) {
+    div.container {
+        margin: 1em 1em;
+    }
+    div.register-title h1 {
         font-size: 1.5em;
     }
+}
 
-    span.champ {
-        margin: -20px 0 0 -145px;
-        opacity: 1;
+@media screen and (max-width: 450px) {
+    div.register-title h1 {
+        font-size: 1.5em;
     }
-    span.porsche {
-        margin: -20px 0 0 -90px;
-        opacity: 1;
+    span.title {
+        font-size: 16px;
     }
-    span.special {
-        margin: -20px 0 0 -140px;
-        opacity: 1;
+    span {
+        font-size: 14px;
     }
-
-    a.champ:hover img.champ {
-        filter: none;
-    }
-    a.porsche:hover img.porsche {
-        filter: none;
-    }
-    a.special:hover img.special {
-        filter: none;
+    div.register-card a {
+        font-size: 14px;
     }
 }

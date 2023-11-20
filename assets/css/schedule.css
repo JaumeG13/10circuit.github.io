@@ -1,173 +1,163 @@
+div#header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
 section.schedule {
     width: 100%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    align-items: top;
 }
 section.schedule h1 {
     font-weight: 900;
 }
 
-/* Searching/Filtering 
+/* Searching/Filtering */
 div.filters {
-    width: 20%;
     background-color: #492029;
 }
 form {
     display: flex;
     flex-direction: column;
     padding: 0 3em;
-    height: 20vh;
+    min-height: 20vh;
     justify-content: space-between;
+    position: sticky;
+    top: 10vh; /*header height*/
 }
 div.filter-series {
-    
+    padding: 1em 0;
+    display: flex;
+    flex-direction: column;
 }
-div.filter-seasons {
-    
+/*search bar*/
+div.search-container {
+    position: relative;
 }
-div.check-past {
+#searchInput {
+    width: 100%;
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+}
+#resetButton {
+    position: absolute;
+    background-color: transparent;
+    border: none;
+    right: 1em;
+    top: 0.9em;
+}
+#resetButton i {
+    color: #828282;
+    cursor: pointer;
+    font-size: 1.25em;
+}
+/*end of search bar*/
 
+/*buttons*/
+div.filters input[type=checkbox]{
+    accent-color: #b03650;
 }
+/*end of buttons*/
 /* End of Searching/Filtering */
 
-/*buttons part*/
-div.filters {
-    margin-bottom: 1em;
-    width: fit-content;
-    align-self: center;
-}
-div.filters form {
-    display: flex;
-    border: 5px #492833 solid;
-    border-radius: 25px;
-}
-div.separator {
-    min-height: 100%;
-    border: #492833 2px solid;
-}
-div.filters input {
-    display: none;
-}
-div.filters label {
-    background-color: #c18794;
-    padding: 10px;
-    cursor: pointer;
-    user-select: none
-}
-input[type="checkbox"]:checked + label {
-    background: #9f3f5f;
-}
-#cc-button-label {
-    border-top-left-radius: 25px;
-    border-bottom-left-radius: 25px;
-}
-#past-button-label {
-    border-top-right-radius: 25px;
-    border-bottom-right-radius: 25px;
-}
-/*end of buttons part*/
+
+
 
 div.schedule-container {
-    width: 80%;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    gap: 1em;
-    padding: 1em;
+    grid-template-rows: 1fr 1fr;
+    gap: 1.35em;
+    padding: 1.35em;
 }
 div.event {
     width: 100%;
     display: flex;
     flex-direction: column;
-    border: #492833 0.4em solid;
+    background-color: #492029;
+    padding: 10px;
+    gap: 10px;
     border-radius: 25px;
-    background-color: black;
-    justify-content: space-between;
-    overflow: hidden;
-
-    display: block;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
 }
 div.event img {
     width: 100%;
-    border-bottom: #492833 0.4em solid;
-}
-div.event-subcontainer {
-    display: flex;
-    flex-direction: row;
-}
-div.event-subcontainer div {
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    align-self: center;
-}
-span.round-span {
-    text-align: right;
-    font-weight: bold;
+    border-radius: 15px;
+    margin-bottom: 10px;
 }
 div.event span {
-    padding: 10px;
-    font-size: 1.3em;
+    display: block;
 }
-div.event div.championship {
-    background-color: #492833;
-    min-height: 2.4em;
+div.event-subcontainer {
+    background-color: #0a0705;
+    border-radius: 15px;
+    padding: 1em;
     display: flex;
-    font-weight: bold;
+    align-items: center;
     justify-content: space-between;
+    font-size: 1em;
+}
+div.championship {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 8px 8px 0 8px;
 }
 
 
 
+@media screen and (max-width: 1420px) {
+    div.schedule-container {
+        grid-template-columns: 1fr 1fr;
+    }
+}
 
-/* MOBILE VIEW */
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 1030px) {
+    div.schedule-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    div.schedule-container {
+        grid-template-columns: 1fr;
+    }
     section.schedule {
-        width: 96%;
-        margin: 0 2%;
-        flex-direction: column;
+        grid-template-columns: 1fr;
+    }
+    /* Searching/Filtering */
+    form {
+        padding: 1em 3em;
+        min-height: 20vh;
+        justify-content: space-between;
+        position: sticky;
+        top: 10vh; /*header height*/
+    }
+    div.filter-series {
+        padding: 1em 0;
+        gap: 1em;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    section.schedule h1 {
+        font-size: 3em;
+        margin: 0 0 10px 0;
     }
     div.schedule-container {
-        display: grid;
-        grid-template-columns: 1fr;
-        gap: 1em;
-        padding: 0 1em;
+        gap: 0.5em;
+        padding: 0.35em;
+        margin: 0;
     }
-
-    /*buttons part*/
-    div.filters {
-        margin-bottom: 1em;
-        width: fit-content;
-        align-self: center;
+    div.event-subcontainer {
+        padding: 1em;
+        font-size: 1em;
     }
-    div.filters form {
-        display: flex;
-        border: 5px #492833 solid;
-        border-radius: 25px;
+    div.championship {
+        font-size: 1.1em;
+        padding: 8px 8px 0 8px;
     }
-    div.separator {
-        min-height: 100%;
-        border: #492833 2px solid;
-    }
-    div.filters input {
-        display: none;
-    }
-    div.filters label {
-        background-color: #c18794;
-        padding: 10px;
-        cursor: pointer;
-        user-select: none
-    }
-    input[type="checkbox"]:checked + label {
-        background-color: #975e6a;
-    }
-    #cc-button-label {
-        border-top-left-radius: 20px;
-        border-bottom-left-radius: 20px;
-    }
-    #past-button-label {
-        border-top-right-radius: 20px;
-        border-bottom-right-radius: 20px;
-    }
-    /*end of buttons part*/
 }

@@ -42,10 +42,10 @@
             <div class="buttons-container">
                 <div class="buttons">
                     <input type="radio" name="series" id="championship-button" onchange="roundToggleResults()" checked>
-                    <label for="championship-button">Championship Circuit</label>
+                    <label for="championship-button"><span class="desktop">Championship Circuit</span><span class="mobile">Circuit</span></label>
 
                     <input type="radio" name="series" id="porsche-button" onchange="roundToggleResults()" >
-                    <label for="porsche-button">Porsche Cup</label>
+                    <label for="porsche-button"><span class="desktop">Porsche Cup</span><span class="mobile">Cup</span></label>
                 </div>
 
                 <div class="separator"></div>
@@ -58,7 +58,7 @@
                     <label id="s2btn" for="season2-button">Season 2</label>
                 </div>
 
-                <div class="separator"></div>
+                <div class="separator" id="separator2"></div>
 
                 <div class="buttons round-buttons">
                     <input type="radio" name="round" id="round1-button" onchange="roundToggleResults()" >
@@ -97,13 +97,13 @@
             <div class="championship-circuit" id="circuit"></div>
 
             <div class="legend">
-                <h3>Legend:</h3>
-                <span><i class="fa-solid fa-asterisk fa-xs"></i> Position: Standings after selected round</span>
-                <span><i class="fa-solid fa-asterisk fa-xs"></i> Driver: Driver name</span>
-                <span><i class="fa-solid fa-asterisk fa-xs"></i> Qualified: Their qualifying position</span>
-                <span><i class="fa-solid fa-asterisk fa-xs"></i> +/-: Difference between qualifying and race finish position</span>
-                <span><i class="fa-solid fa-asterisk fa-xs"></i> Time: Time difference to leader</span>
-                <span><i class="fa-solid fa-asterisk fa-xs"></i> Fastest lap: Fastest lap of the race</span>
+                <h3>LEGEND:</h3>
+                <div><span class="desktop"><i class="fa-solid fa-asterisk fa-xs"></i> Position: Standings after selected round</span><span class="mobile"><i class="fa-solid fa-asterisk fa-xs"></i> P: Standings after selected round</span></div>
+                <div><i class="fa-solid fa-asterisk fa-xs"></i> Driver: Driver name</div>
+                <div><span class="desktop"><i class="fa-solid fa-asterisk fa-xs"></i> Qualified: Their qualifying position</span><span class="mobile"><i class="fa-solid fa-asterisk fa-xs"></i> Q: Their qualifying position</span></div>
+                <div><i class="fa-solid fa-asterisk fa-xs"></i> +/-: Difference between qualifying and race finish position</div>
+                <div><i class="fa-solid fa-asterisk fa-xs"></i> Time: Time difference to leader</div>
+                <div><span class="desktop"><i class="fa-solid fa-asterisk fa-xs"></i> Fastest lap: Fastest lap of the race</span><span class="mobile"><i class="fa-solid fa-asterisk fa-xs"></i> FL: Fastest lap of the race</span></div>
             </div>
         </section>
 
