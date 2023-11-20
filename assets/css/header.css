@@ -42,7 +42,7 @@ nav {
 }
 .menu a:hover {
     opacity: 1;
-    color: #c18794;
+    color: #b03650;
 }
 .menu #register {
     background-color: #b03650;
@@ -84,7 +84,7 @@ nav {
         padding-left: 27px;
     }
     .menu a:hover {
-        background-color: #c18794;
+        background-color: #b03650;
         color: white;
     }
     .menu li {
@@ -92,7 +92,7 @@ nav {
         width: 100%;
     }
     .menu li:hover {
-        background-color: #c18794;
+        background-color: #b03650;
     }
     .menu #register {
         background-color: transparent;
