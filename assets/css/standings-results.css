@@ -22,7 +22,7 @@ section.standings-results-container h1 {
     align-self: center;
     border-radius: 25px;
     text-shadow: 0 0 3px #000000, 0 0 5px #000000;
-    background-color: #4b1622;
+    background-color: #70172c;
     box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
 }
 
@@ -34,7 +34,7 @@ div.buttons-container {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #813042;
+    background-color: #7a2639;
     padding: 0.5em;
     margin: 8px 0;
     align-self: center;
@@ -115,7 +115,7 @@ div.legend {
     font-size: 0.8em;
     padding: 2em;
     align-self: center;
-    background-color: #310b13;
+    background-color: #4b1521;
     border-radius: 25px;
     margin: 8px 0 16px 0;
     box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
