@@ -20,13 +20,42 @@ nav {
     align-items: center;
     height: 10vh;
 }
-.logo a { /*main logo*/
-    font-size: 1.2em;
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+}
+.tencircuit {
+    z-index: 1;
 }
 .logo img { /*main logo*/
-    width: 5em;
+    height: 10vh;
     padding: 10px;
 }
+.logo input {
+    display: none;
+}
+.tencontrols {
+    position: absolute;
+    left: 10px;
+    visibility: hidden;
+    transition: ease-in-out 0.5s;
+    transform: rotate(180deg);
+}
+.logo input:checked + a.tencontrols {
+    left: 135px;
+    visibility: visible;
+    transform: rotate(360deg);
+}
+label[for=ten-c-logo] {
+    z-index: 1;
+}
+.logo i {
+    font-size: 2em;
+}
+
+
 .menu {
     display: flex;
     justify-content: center;
@@ -65,7 +94,7 @@ nav {
     transform: scale(1, 1);
 }
 
-@media only screen and (max-width: 730px) {
+@media only screen and (max-width: 780px) {
     .menu {
         flex-direction: column;
         background-color: #0a0705;
@@ -111,7 +140,12 @@ nav {
         cursor: pointer;
     }
     .logo img { /*main logo*/
-        padding: 20px;
-        transition: transform 0.3s ease-in-out;;
+        padding: 10px;
+        transition: transform 0.3s ease-in-out;
+    }
+    .logo input:checked + a.tencontrols {
+        left: 120px;
+        visibility: visible;
+        transform: rotate(360deg);
     }
 }
