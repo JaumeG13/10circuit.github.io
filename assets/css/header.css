@@ -31,7 +31,7 @@ nav {
 }
 .logo img { /*main logo*/
     height: 10vh;
-    padding: 10px;
+    padding: 12px;
 }
 .logo input {
     display: none;
@@ -140,7 +140,6 @@ label[for=ten-c-logo] {
         cursor: pointer;
     }
     .logo img { /*main logo*/
-        padding: 10px;
         transition: transform 0.3s ease-in-out;
     }
     .logo input:checked + a.tencontrols {
