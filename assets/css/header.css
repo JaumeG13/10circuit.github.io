@@ -38,13 +38,13 @@ nav {
 }
 .tencontrols {
     position: absolute;
-    left: 10px;
+    left: 0.9vw;
     visibility: hidden;
     transition: ease-in-out 0.5s;
     transform: rotate(180deg);
 }
 .logo input:checked + a.tencontrols {
-    left: 135px;
+    left: 7vw;
     visibility: visible;
     transform: rotate(360deg);
 }
