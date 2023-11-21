@@ -15,7 +15,7 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/porsche-cup/season1/dubai/dubai2.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/championship/season2/adelaide/adelaide3.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -26,7 +26,7 @@ div.section-title {
     position: absolute;
     display: flex;
     flex-direction: column;
-    top: 42%;   /*change*/
+    top: 35%;   /*change*/
     width: 100%;
     text-align: center;
     user-select: none
@@ -268,7 +268,7 @@ div.big-post i {
 /* MOBILE VIEW */ /*320px, 768px, and 1200px*/
 @media screen and (max-width: 950px) {
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 18%;
+        background-position-x: 60%;
         background-position-y: 0%;
     }
     div.section-title { /*change after every event*/
