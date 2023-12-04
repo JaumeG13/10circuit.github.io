@@ -41,6 +41,10 @@ div.search-container {
     color: black;
     border-radius: 5px;
 }
+#searchInput:focus {
+    border: 2px solid #ec2651;    
+    outline: none;
+}
 #resetButton {
     position: absolute;
     background-color: transparent;
