@@ -1,0 +1,6538 @@
+{
+  "Version": 7,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198875084577",
+        "GuidsList": [
+          "76561198875084577"
+        ],
+        "Name": "Spyzer",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "26",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198931437182",
+        "GuidsList": [
+          "76561198931437182"
+        ],
+        "Name": "Gergő Bartus",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "73",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "19",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "MELON",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "77",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "21",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 26,
+      "MaxPing": 33
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561199129036039",
+        "GuidsList": [
+          "76561199129036039"
+        ],
+        "Name": "Jack Nigganigga",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "25",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 56,
+      "MaxPing": 87
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "53",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "99",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "6",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 115,
+      "MaxPing": 121
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "2",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 2,
+      "MaxPing": 5
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "29",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 49,
+      "MaxPing": 73
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Cumlover87",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "96",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 119,
+      "MaxPing": 131
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "57",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 68,
+      "MaxPing": 75
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "4",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 70,
+      "MaxPing": 114
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561199192625155",
+        "GuidsList": [
+          "76561199192625155"
+        ],
+        "Name": "Forza55",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "55",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561199102505072",
+        "GuidsList": [
+          "76561199102505072"
+        ],
+        "Name": "Mihalis Loukas",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "15",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 4.0051007,
+      "OtherCarId": 13,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.885113,
+        "Y": 0.5274274,
+        "Z": -1.6829047
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -149.1601,
+        "Y": 93.538734,
+        "Z": -422.21146
+      },
+      "Timestamp": 1701807310,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 10.541213,
+      "OtherCarId": 4,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.9241223,
+        "Y": -0.30425447,
+        "Z": 1.8191991
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -150.24385,
+        "Y": 92.74116,
+        "Z": -421.48282
+      },
+      "Timestamp": 1701807310,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 49.67994,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.47298893,
+        "Y": -0.30291566,
+        "Z": 2.4426007
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -95.26871,
+        "Y": 94.464745,
+        "Z": -127.85081
+      },
+      "Timestamp": 1701807434,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 25.311867,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Cumlover87",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.25366312,
+        "Y": -0.22083338,
+        "Z": -2.0171058
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 46.126156,
+        "Y": 99.613464,
+        "Z": -168.83444
+      },
+      "Timestamp": 1701808789,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Cumlover87",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 17.871141,
+      "OtherCarId": 8,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.0000059688587,
+        "Y": -0.20007463,
+        "Z": 2.5020056
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 45.62765,
+        "Y": 99.58163,
+        "Z": -168.43568
+      },
+      "Timestamp": 1701808790,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 47.58316,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.892932,
+        "Y": 0.8489568,
+        "Z": -2.029032
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 215.29135,
+        "Y": 103.93077,
+        "Z": 264.902
+      },
+      "Timestamp": 1701809161,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Cumlover87",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 16.474613,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.89294994,
+        "Y": 0.84895754,
+        "Z": -2.0290463
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 189.50931,
+        "Y": 103.761246,
+        "Z": 280.16263
+      },
+      "Timestamp": 1701809215,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Cumlover87",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 23.19067,
+      "OtherCarId": 9,
+      "OtherDriver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.88108593,
+        "Y": -0.272278,
+        "Z": -1.1996036
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 258.4367,
+        "Y": 103.7835,
+        "Z": 265.99582
+      },
+      "Timestamp": 1701809570,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 23.428007,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Cumlover87",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.009725199,
+        "Y": -0.30291352,
+        "Z": 2.5128064
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 258.2902,
+        "Y": 103.78078,
+        "Z": 266.01035
+      },
+      "Timestamp": 1701809573,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Cumlover87",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 6.610123,
+      "OtherCarId": 9,
+      "OtherDriver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.9148241,
+        "Y": -0.28010315,
+        "Z": 1.8205206
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 337.64764,
+        "Y": 106.555725,
+        "Z": -485.3686
+      },
+      "Timestamp": 1701810010,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 7.004866,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Cumlover87",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.882177,
+        "Y": -0.2935643,
+        "Z": 1.1843247
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 337.1174,
+        "Y": 106.53687,
+        "Z": -485.4627
+      },
+      "Timestamp": 1701810013,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 98.73169,
+      "OtherCarId": 10,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.6895291,
+        "Y": -0.23240504,
+        "Z": -1.8392086
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -365.7722,
+        "Y": 92.12113,
+        "Z": -347.77008
+      },
+      "Timestamp": 1701810040,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 100.80854,
+      "OtherCarId": 4,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.46252912,
+        "Y": -0.23597354,
+        "Z": 2.3942566
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -365.69556,
+        "Y": 92.1206,
+        "Z": -348.03308
+      },
+      "Timestamp": 1701810043,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 125.43931,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.03751246,
+        "Y": -0.26774138,
+        "Z": 2.4295714
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -378.44043,
+        "Y": 92.98468,
+        "Z": -463.1285
+      },
+      "Timestamp": 1701810043,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 39.23796,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.8539364,
+        "Y": 0.7148078,
+        "Z": -1.9585508
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -377.0634,
+        "Y": 93.538055,
+        "Z": -422.26526
+      },
+      "Timestamp": 1701810045,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 19.60212,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.5573098,
+        "Y": -0.21730883,
+        "Z": -1.9709944
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -374.2575,
+        "Y": 94.05241,
+        "Z": -525.0198
+      },
+      "Timestamp": 1701810048,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 168.78821,
+      "OtherCarId": 8,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.8540542,
+        "Y": -0.28639966,
+        "Z": 0.75841546
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -370.60135,
+        "Y": 93.96219,
+        "Z": -538.9369
+      },
+      "Timestamp": 1701810048,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 168.57826,
+      "OtherCarId": 10,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.75753486,
+        "Y": -0.15062448,
+        "Z": 2.0367825
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -369.93042,
+        "Y": 94.00827,
+        "Z": -536.8408
+      },
+      "Timestamp": 1701810049,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 179.24898,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.9075871,
+        "Y": 0.36064395,
+        "Z": -1.4544575
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -345.98102,
+        "Y": 95.74546,
+        "Z": -708.4238
+      },
+      "Timestamp": 1701810049,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 66.379074,
+      "OtherCarId": 10,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.82379997,
+        "Y": -0.25994286,
+        "Z": 2.1520422
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -352.146,
+        "Y": 93.80954,
+        "Z": -570.03143
+      },
+      "Timestamp": 1701810055,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 69.61861,
+      "OtherCarId": 4,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.89872897,
+        "Y": -0.29778048,
+        "Z": 1.4348441
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -352.34967,
+        "Y": 93.79929,
+        "Z": -569.61475
+      },
+      "Timestamp": 1701810058,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 142.10606,
+      "OtherCarId": 10,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.45056638,
+        "Y": 0.0679271,
+        "Z": 2.3700094
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -353.18393,
+        "Y": 94.14786,
+        "Z": -566.0155
+      },
+      "Timestamp": 1701810059,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 210.67085,
+      "OtherCarId": 13,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.8469808,
+        "Y": -0.06737708,
+        "Z": -0.15172811
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -358.295,
+        "Y": 94.39148,
+        "Z": -598.57623
+      },
+      "Timestamp": 1701810060,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 249.0174,
+      "OtherCarId": 4,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.21715598,
+        "Y": -0.1300778,
+        "Z": 2.367605
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -358.44608,
+        "Y": 94.31538,
+        "Z": -598.65625
+      },
+      "Timestamp": 1701810061,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 157.12178,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.000010694214,
+        "Y": 0.06792068,
+        "Z": 2.470061
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -352.12766,
+        "Y": 96.051155,
+        "Z": -709.4261
+      },
+      "Timestamp": 1701810061,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 146.89249,
+      "OtherCarId": 8,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.4490666,
+        "Y": -0.30996472,
+        "Z": 2.4109883
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -353.24182,
+        "Y": 93.7815,
+        "Z": -566.1204
+      },
+      "Timestamp": 1701810063,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 42.406277,
+      "OtherCarId": 4,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.47198194,
+        "Y": -0.2867648,
+        "Z": 2.4394386
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -345.51578,
+        "Y": 94.75751,
+        "Z": -652.39124
+      },
+      "Timestamp": 1701810073,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 52.38772,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.9241477,
+        "Y": -0.30425444,
+        "Z": 1.8192115
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -351.46353,
+        "Y": 95.41914,
+        "Z": -709.32446
+      },
+      "Timestamp": 1701810074,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 43.176464,
+      "OtherCarId": 10,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.8839457,
+        "Y": -0.30022284,
+        "Z": -0.144726
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -345.42236,
+        "Y": 94.75491,
+        "Z": -652.46277
+      },
+      "Timestamp": 1701810075,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 66.80101,
+      "OtherCarId": 8,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.8733086,
+        "Y": -0.25742897,
+        "Z": -1.44524
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -332.50192,
+        "Y": 94.60466,
+        "Z": -643.1595
+      },
+      "Timestamp": 1701810093,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 67.08045,
+      "OtherCarId": 10,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.89493966,
+        "Y": -0.26381832,
+        "Z": -0.5328625
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -332.2443,
+        "Y": 94.5697,
+        "Z": -643.26733
+      },
+      "Timestamp": 1701810094,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 9.6362915,
+      "OtherCarId": 10,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.75463563,
+        "Y": 0.30924776,
+        "Z": -1.7621982
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -360.27365,
+        "Y": 95.717445,
+        "Z": -669.43
+      },
+      "Timestamp": 1701810110,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 12.165643,
+      "OtherCarId": 4,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.91458,
+        "Y": 0.29802993,
+        "Z": 1.5422617
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -360.5331,
+        "Y": 95.68908,
+        "Z": -669.3627
+      },
+      "Timestamp": 1701810113,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 42.590916,
+      "OtherCarId": 13,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.8501284,
+        "Y": -0.2911796,
+        "Z": -0.23643069
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -338.47223,
+        "Y": 94.67983,
+        "Z": -660.3996
+      },
+      "Timestamp": 1701810114,
+      "AfterSessionEnd": true
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 124693,
+      "Restrictor": 0,
+      "Sectors": [
+        40664,
+        44515,
+        39514
+      ],
+      "Timestamp": 1701807243,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 124886,
+      "Restrictor": 0,
+      "Sectors": [
+        41173,
+        44654,
+        39059
+      ],
+      "Timestamp": 1701807243,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 126784,
+      "Restrictor": 0,
+      "Sectors": [
+        42171,
+        44847,
+        39766
+      ],
+      "Timestamp": 1701807245,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 127560,
+      "Restrictor": 0,
+      "Sectors": [
+        42361,
+        45652,
+        39547
+      ],
+      "Timestamp": 1701807246,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 128596,
+      "Restrictor": 0,
+      "Sectors": [
+        42826,
+        46021,
+        39749
+      ],
+      "Timestamp": 1701807247,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 130032,
+      "Restrictor": 0,
+      "Sectors": [
+        43627,
+        46571,
+        39834
+      ],
+      "Timestamp": 1701807249,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 123919,
+      "Restrictor": 0,
+      "Sectors": [
+        39090,
+        46044,
+        38785
+      ],
+      "Timestamp": 1701807367,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 122703,
+      "Restrictor": 0,
+      "Sectors": [
+        37985,
+        45703,
+        39015
+      ],
+      "Timestamp": 1701807368,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 125155,
+      "Restrictor": 0,
+      "Sectors": [
+        39304,
+        46624,
+        39227
+      ],
+      "Timestamp": 1701807368,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122615,
+      "Restrictor": 0,
+      "Sectors": [
+        38398,
+        44919,
+        39298
+      ],
+      "Timestamp": 1701807369,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 124588,
+      "Restrictor": 0,
+      "Sectors": [
+        38809,
+        45747,
+        40032
+      ],
+      "Timestamp": 1701807372,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 124550,
+      "Restrictor": 0,
+      "Sectors": [
+        38735,
+        45325,
+        40490
+      ],
+      "Timestamp": 1701807373,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 121465,
+      "Restrictor": 0,
+      "Sectors": [
+        37913,
+        44533,
+        39019
+      ],
+      "Timestamp": 1701807489,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 122090,
+      "Restrictor": 0,
+      "Sectors": [
+        38192,
+        44398,
+        39500
+      ],
+      "Timestamp": 1701807490,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 122463,
+      "Restrictor": 0,
+      "Sectors": [
+        37853,
+        45496,
+        39114
+      ],
+      "Timestamp": 1701807490,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122636,
+      "Restrictor": 0,
+      "Sectors": [
+        38320,
+        44933,
+        39383
+      ],
+      "Timestamp": 1701807491,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 123544,
+      "Restrictor": 0,
+      "Sectors": [
+        38967,
+        45171,
+        39406
+      ],
+      "Timestamp": 1701807495,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 129728,
+      "Restrictor": 0,
+      "Sectors": [
+        38577,
+        50040,
+        41111
+      ],
+      "Timestamp": 1701807503,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 121083,
+      "Restrictor": 0,
+      "Sectors": [
+        38026,
+        44230,
+        38827
+      ],
+      "Timestamp": 1701807610,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 121512,
+      "Restrictor": 0,
+      "Sectors": [
+        38410,
+        44064,
+        39038
+      ],
+      "Timestamp": 1701807612,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 122237,
+      "Restrictor": 0,
+      "Sectors": [
+        38690,
+        44609,
+        38938
+      ],
+      "Timestamp": 1701807613,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 123409,
+      "Restrictor": 0,
+      "Sectors": [
+        38584,
+        45166,
+        39659
+      ],
+      "Timestamp": 1701807619,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 124765,
+      "Restrictor": 0,
+      "Sectors": [
+        38568,
+        45967,
+        40230
+      ],
+      "Timestamp": 1701807628,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 140024,
+      "Restrictor": 0,
+      "Sectors": [
+        38347,
+        61916,
+        39761
+      ],
+      "Timestamp": 1701807631,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 121464,
+      "Restrictor": 0,
+      "Sectors": [
+        38159,
+        44487,
+        38818
+      ],
+      "Timestamp": 1701807731,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 121072,
+      "Restrictor": 0,
+      "Sectors": [
+        38258,
+        43866,
+        38948
+      ],
+      "Timestamp": 1701807733,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 121138,
+      "Restrictor": 0,
+      "Sectors": [
+        37974,
+        44262,
+        38902
+      ],
+      "Timestamp": 1701807734,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 122491,
+      "Restrictor": 0,
+      "Sectors": [
+        38116,
+        45068,
+        39307
+      ],
+      "Timestamp": 1701807741,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 124125,
+      "Restrictor": 0,
+      "Sectors": [
+        38431,
+        46166,
+        39528
+      ],
+      "Timestamp": 1701807752,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 123572,
+      "Restrictor": 0,
+      "Sectors": [
+        38738,
+        45437,
+        39397
+      ],
+      "Timestamp": 1701807755,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 121104,
+      "Restrictor": 0,
+      "Sectors": [
+        37934,
+        44317,
+        38853
+      ],
+      "Timestamp": 1701807852,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120704,
+      "Restrictor": 0,
+      "Sectors": [
+        37887,
+        43974,
+        38843
+      ],
+      "Timestamp": 1701807854,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 121326,
+      "Restrictor": 0,
+      "Sectors": [
+        37994,
+        44200,
+        39132
+      ],
+      "Timestamp": 1701807855,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 122869,
+      "Restrictor": 0,
+      "Sectors": [
+        38242,
+        45198,
+        39429
+      ],
+      "Timestamp": 1701807864,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 123858,
+      "Restrictor": 0,
+      "Sectors": [
+        38434,
+        45481,
+        39943
+      ],
+      "Timestamp": 1701807876,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 123203,
+      "Restrictor": 0,
+      "Sectors": [
+        38378,
+        45109,
+        39716
+      ],
+      "Timestamp": 1701807878,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 218148,
+      "Restrictor": 0,
+      "Sectors": [
+        84875,
+        64031,
+        69242
+      ],
+      "Timestamp": 1701807968,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 121391,
+      "Restrictor": 0,
+      "Sectors": [
+        38492,
+        44249,
+        38650
+      ],
+      "Timestamp": 1701807974,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120846,
+      "Restrictor": 0,
+      "Sectors": [
+        37888,
+        44055,
+        38903
+      ],
+      "Timestamp": 1701807975,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 121513,
+      "Restrictor": 0,
+      "Sectors": [
+        38110,
+        44361,
+        39042
+      ],
+      "Timestamp": 1701807977,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 121865,
+      "Restrictor": 0,
+      "Sectors": [
+        38152,
+        44654,
+        39059
+      ],
+      "Timestamp": 1701807986,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 123376,
+      "Restrictor": 0,
+      "Sectors": [
+        38245,
+        45329,
+        39802
+      ],
+      "Timestamp": 1701807999,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 123555,
+      "Restrictor": 0,
+      "Sectors": [
+        38712,
+        45261,
+        39582
+      ],
+      "Timestamp": 1701808002,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120774,
+      "Restrictor": 0,
+      "Sectors": [
+        37933,
+        43830,
+        39011
+      ],
+      "Timestamp": 1701808095,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 121630,
+      "Restrictor": 0,
+      "Sectors": [
+        38151,
+        43874,
+        39605
+      ],
+      "Timestamp": 1701808096,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 121879,
+      "Restrictor": 0,
+      "Sectors": [
+        37841,
+        44434,
+        39604
+      ],
+      "Timestamp": 1701808099,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 133379,
+      "Restrictor": 0,
+      "Sectors": [
+        47897,
+        45720,
+        39762
+      ],
+      "Timestamp": 1701808101,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 123834,
+      "Restrictor": 0,
+      "Sectors": [
+        38774,
+        44703,
+        40357
+      ],
+      "Timestamp": 1701808110,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 124462,
+      "Restrictor": 0,
+      "Sectors": [
+        38395,
+        45900,
+        40167
+      ],
+      "Timestamp": 1701808123,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122737,
+      "Restrictor": 0,
+      "Sectors": [
+        38330,
+        44767,
+        39640
+      ],
+      "Timestamp": 1701808124,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120959,
+      "Restrictor": 0,
+      "Sectors": [
+        38078,
+        43853,
+        39028
+      ],
+      "Timestamp": 1701808216,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120727,
+      "Restrictor": 0,
+      "Sectors": [
+        38062,
+        44033,
+        38632
+      ],
+      "Timestamp": 1701808217,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 121348,
+      "Restrictor": 0,
+      "Sectors": [
+        37994,
+        44249,
+        39105
+      ],
+      "Timestamp": 1701808220,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 123768,
+      "Restrictor": 0,
+      "Sectors": [
+        38785,
+        45580,
+        39403
+      ],
+      "Timestamp": 1701808233,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 123580,
+      "Restrictor": 0,
+      "Sectors": [
+        38246,
+        45793,
+        39541
+      ],
+      "Timestamp": 1701808247,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 123855,
+      "Restrictor": 0,
+      "Sectors": [
+        38805,
+        45490,
+        39560
+      ],
+      "Timestamp": 1701808248,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120913,
+      "Restrictor": 0,
+      "Sectors": [
+        38041,
+        44203,
+        38669
+      ],
+      "Timestamp": 1701808336,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120605,
+      "Restrictor": 0,
+      "Sectors": [
+        37846,
+        43943,
+        38816
+      ],
+      "Timestamp": 1701808338,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 121186,
+      "Restrictor": 0,
+      "Sectors": [
+        37932,
+        44212,
+        39042
+      ],
+      "Timestamp": 1701808341,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 123821,
+      "Restrictor": 0,
+      "Sectors": [
+        38654,
+        45045,
+        40122
+      ],
+      "Timestamp": 1701808357,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 123144,
+      "Restrictor": 0,
+      "Sectors": [
+        38336,
+        45288,
+        39520
+      ],
+      "Timestamp": 1701808370,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122661,
+      "Restrictor": 0,
+      "Sectors": [
+        38371,
+        45004,
+        39286
+      ],
+      "Timestamp": 1701808371,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 282094,
+      "Restrictor": 0,
+      "Sectors": [
+        195483,
+        46115,
+        40496
+      ],
+      "Timestamp": 1701808383,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120862,
+      "Restrictor": 0,
+      "Sectors": [
+        38138,
+        44001,
+        38723
+      ],
+      "Timestamp": 1701808457,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120332,
+      "Restrictor": 0,
+      "Sectors": [
+        37892,
+        43803,
+        38637
+      ],
+      "Timestamp": 1701808458,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 120772,
+      "Restrictor": 0,
+      "Sectors": [
+        37797,
+        44037,
+        38938
+      ],
+      "Timestamp": 1701808462,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 123082,
+      "Restrictor": 0,
+      "Sectors": [
+        38797,
+        45144,
+        39141
+      ],
+      "Timestamp": 1701808480,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 122206,
+      "Restrictor": 0,
+      "Sectors": [
+        38214,
+        44819,
+        39173
+      ],
+      "Timestamp": 1701808492,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122966,
+      "Restrictor": 0,
+      "Sectors": [
+        38339,
+        45208,
+        39419
+      ],
+      "Timestamp": 1701808494,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 123251,
+      "Restrictor": 0,
+      "Sectors": [
+        35735,
+        45513,
+        42003
+      ],
+      "Timestamp": 1701808506,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 119993,
+      "Restrictor": 0,
+      "Sectors": [
+        37702,
+        43654,
+        38637
+      ],
+      "Timestamp": 1701808577,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120846,
+      "Restrictor": 0,
+      "Sectors": [
+        37910,
+        43731,
+        39205
+      ],
+      "Timestamp": 1701808579,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 121726,
+      "Restrictor": 0,
+      "Sectors": [
+        38314,
+        44325,
+        39087
+      ],
+      "Timestamp": 1701808584,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 122432,
+      "Restrictor": 0,
+      "Sectors": [
+        37518,
+        45697,
+        39217
+      ],
+      "Timestamp": 1701808603,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 123843,
+      "Restrictor": 0,
+      "Sectors": [
+        38487,
+        45000,
+        40356
+      ],
+      "Timestamp": 1701808618,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 125889,
+      "Restrictor": 0,
+      "Sectors": [
+        39048,
+        46039,
+        40802
+      ],
+      "Timestamp": 1701808618,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 118883,
+      "Restrictor": 0,
+      "Sectors": [
+        36291,
+        43047,
+        39545
+      ],
+      "Timestamp": 1701808625,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120297,
+      "Restrictor": 0,
+      "Sectors": [
+        37722,
+        43933,
+        38642
+      ],
+      "Timestamp": 1701808698,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120348,
+      "Restrictor": 0,
+      "Sectors": [
+        37772,
+        44006,
+        38570
+      ],
+      "Timestamp": 1701808699,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 121091,
+      "Restrictor": 0,
+      "Sectors": [
+        38112,
+        44135,
+        38844
+      ],
+      "Timestamp": 1701808705,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 124036,
+      "Restrictor": 0,
+      "Sectors": [
+        38212,
+        46008,
+        39816
+      ],
+      "Timestamp": 1701808727,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122607,
+      "Restrictor": 0,
+      "Sectors": [
+        38493,
+        44865,
+        39249
+      ],
+      "Timestamp": 1701808740,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 123993,
+      "Restrictor": 0,
+      "Sectors": [
+        38547,
+        45904,
+        39542
+      ],
+      "Timestamp": 1701808742,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 118685,
+      "Restrictor": 0,
+      "Sectors": [
+        34113,
+        45018,
+        39554
+      ],
+      "Timestamp": 1701808744,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120293,
+      "Restrictor": 0,
+      "Sectors": [
+        37727,
+        44011,
+        38555
+      ],
+      "Timestamp": 1701808818,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120388,
+      "Restrictor": 0,
+      "Sectors": [
+        37790,
+        43799,
+        38799
+      ],
+      "Timestamp": 1701808819,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 120864,
+      "Restrictor": 0,
+      "Sectors": [
+        37690,
+        44217,
+        38957
+      ],
+      "Timestamp": 1701808826,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 122406,
+      "Restrictor": 0,
+      "Sectors": [
+        37909,
+        45013,
+        39484
+      ],
+      "Timestamp": 1701808849,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 121783,
+      "Restrictor": 0,
+      "Sectors": [
+        38168,
+        44469,
+        39146
+      ],
+      "Timestamp": 1701808862,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 123037,
+      "Restrictor": 0,
+      "Sectors": [
+        38725,
+        44798,
+        39514
+      ],
+      "Timestamp": 1701808867,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 131764,
+      "Restrictor": 0,
+      "Sectors": [
+        38457,
+        46143,
+        47164
+      ],
+      "Timestamp": 1701808874,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120337,
+      "Restrictor": 0,
+      "Sectors": [
+        37614,
+        43866,
+        38857
+      ],
+      "Timestamp": 1701808938,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120659,
+      "Restrictor": 0,
+      "Sectors": [
+        37810,
+        43996,
+        38853
+      ],
+      "Timestamp": 1701808940,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 121045,
+      "Restrictor": 0,
+      "Sectors": [
+        37853,
+        44083,
+        39109
+      ],
+      "Timestamp": 1701808947,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 123556,
+      "Restrictor": 0,
+      "Sectors": [
+        37777,
+        45419,
+        40360
+      ],
+      "Timestamp": 1701808973,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122406,
+      "Restrictor": 0,
+      "Sectors": [
+        38471,
+        44848,
+        39087
+      ],
+      "Timestamp": 1701808985,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 121312,
+      "Restrictor": 0,
+      "Sectors": [
+        38858,
+        43133,
+        39321
+      ],
+      "Timestamp": 1701808988,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 123391,
+      "Restrictor": 0,
+      "Sectors": [
+        38355,
+        45017,
+        40019
+      ],
+      "Timestamp": 1701808997,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120480,
+      "Restrictor": 0,
+      "Sectors": [
+        37932,
+        43902,
+        38646
+      ],
+      "Timestamp": 1701809059,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 119896,
+      "Restrictor": 0,
+      "Sectors": [
+        37559,
+        43686,
+        38651
+      ],
+      "Timestamp": 1701809060,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 120083,
+      "Restrictor": 0,
+      "Sectors": [
+        37504,
+        43871,
+        38708
+      ],
+      "Timestamp": 1701809067,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 124876,
+      "Restrictor": 0,
+      "Sectors": [
+        38273,
+        45653,
+        40950
+      ],
+      "Timestamp": 1701809098,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 123650,
+      "Restrictor": 0,
+      "Sectors": [
+        38200,
+        45941,
+        39509
+      ],
+      "Timestamp": 1701809108,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 125420,
+      "Restrictor": 0,
+      "Sectors": [
+        43619,
+        42341,
+        39460
+      ],
+      "Timestamp": 1701809114,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 135465,
+      "Restrictor": 0,
+      "Sectors": [
+        38467,
+        45117,
+        51881
+      ],
+      "Timestamp": 1701809133,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120501,
+      "Restrictor": 0,
+      "Sectors": [
+        37944,
+        43920,
+        38637
+      ],
+      "Timestamp": 1701809179,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 120643,
+      "Restrictor": 0,
+      "Sectors": [
+        37524,
+        44181,
+        38938
+      ],
+      "Timestamp": 1701809187,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 136292,
+      "Restrictor": 0,
+      "Sectors": [
+        37598,
+        43596,
+        55098
+      ],
+      "Timestamp": 1701809196,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 123269,
+      "Restrictor": 0,
+      "Sectors": [
+        38323,
+        45963,
+        38983
+      ],
+      "Timestamp": 1701809221,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122051,
+      "Restrictor": 0,
+      "Sectors": [
+        38257,
+        44685,
+        39109
+      ],
+      "Timestamp": 1701809230,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 126371,
+      "Restrictor": 0,
+      "Sectors": [
+        34855,
+        45004,
+        46512
+      ],
+      "Timestamp": 1701809240,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 124451,
+      "Restrictor": 0,
+      "Sectors": [
+        38380,
+        45922,
+        40149
+      ],
+      "Timestamp": 1701809257,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 123934,
+      "Restrictor": 0,
+      "Sectors": [
+        37961,
+        47147,
+        38826
+      ],
+      "Timestamp": 1701809303,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 121055,
+      "Restrictor": 0,
+      "Sectors": [
+        38053,
+        44163,
+        38839
+      ],
+      "Timestamp": 1701809308,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 121570,
+      "Restrictor": 0,
+      "Sectors": [
+        38505,
+        44343,
+        38722
+      ],
+      "Timestamp": 1701809318,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 123897,
+      "Restrictor": 0,
+      "Sectors": [
+        39881,
+        44749,
+        39267
+      ],
+      "Timestamp": 1701809345,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 121813,
+      "Restrictor": 0,
+      "Sectors": [
+        38468,
+        44443,
+        38902
+      ],
+      "Timestamp": 1701809352,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 118281,
+      "Restrictor": 0,
+      "Sectors": [
+        37055,
+        42179,
+        39047
+      ],
+      "Timestamp": 1701809358,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 124932,
+      "Restrictor": 0,
+      "Sectors": [
+        38563,
+        46048,
+        40321
+      ],
+      "Timestamp": 1701809382,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120835,
+      "Restrictor": 0,
+      "Sectors": [
+        38125,
+        43844,
+        38866
+      ],
+      "Timestamp": 1701809424,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 120530,
+      "Restrictor": 0,
+      "Sectors": [
+        37650,
+        44104,
+        38776
+      ],
+      "Timestamp": 1701809429,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 121254,
+      "Restrictor": 0,
+      "Sectors": [
+        38629,
+        43943,
+        38682
+      ],
+      "Timestamp": 1701809439,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 122255,
+      "Restrictor": 0,
+      "Sectors": [
+        38222,
+        44636,
+        39397
+      ],
+      "Timestamp": 1701809467,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122815,
+      "Restrictor": 0,
+      "Sectors": [
+        38733,
+        44757,
+        39325
+      ],
+      "Timestamp": 1701809475,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 119007,
+      "Restrictor": 0,
+      "Sectors": [
+        35046,
+        44756,
+        39205
+      ],
+      "Timestamp": 1701809477,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 132381,
+      "Restrictor": 0,
+      "Sectors": [
+        38232,
+        44693,
+        49456
+      ],
+      "Timestamp": 1701809515,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120453,
+      "Restrictor": 0,
+      "Sectors": [
+        37752,
+        44126,
+        38575
+      ],
+      "Timestamp": 1701809544,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 120900,
+      "Restrictor": 0,
+      "Sectors": [
+        37767,
+        44248,
+        38885
+      ],
+      "Timestamp": 1701809550,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120330,
+      "Restrictor": 0,
+      "Sectors": [
+        37611,
+        44001,
+        38718
+      ],
+      "Timestamp": 1701809559,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 116734,
+      "Restrictor": 0,
+      "Sectors": [
+        35104,
+        41688,
+        39942
+      ],
+      "Timestamp": 1701809594,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 123207,
+      "Restrictor": 0,
+      "Sectors": [
+        38462,
+        45369,
+        39376
+      ],
+      "Timestamp": 1701809598,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 132671,
+      "Restrictor": 0,
+      "Sectors": [
+        38171,
+        44933,
+        49567
+      ],
+      "Timestamp": 1701809600,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 123147,
+      "Restrictor": 0,
+      "Sectors": [
+        38520,
+        45251,
+        39376
+      ],
+      "Timestamp": 1701809638,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120451,
+      "Restrictor": 0,
+      "Sectors": [
+        37629,
+        43721,
+        39101
+      ],
+      "Timestamp": 1701809665,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 120357,
+      "Restrictor": 0,
+      "Sectors": [
+        37530,
+        43928,
+        38899
+      ],
+      "Timestamp": 1701809670,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 120451,
+      "Restrictor": 0,
+      "Sectors": [
+        37800,
+        43960,
+        38691
+      ],
+      "Timestamp": 1701809680,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122967,
+      "Restrictor": 0,
+      "Sectors": [
+        38465,
+        45059,
+        39443
+      ],
+      "Timestamp": 1701809721,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 122178,
+      "Restrictor": 0,
+      "Sectors": [
+        38162,
+        44595,
+        39421
+      ],
+      "Timestamp": 1701809722,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 132873,
+      "Restrictor": 0,
+      "Sectors": [
+        34223,
+        56494,
+        42156
+      ],
+      "Timestamp": 1701809727,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 122049,
+      "Restrictor": 0,
+      "Sectors": [
+        38250,
+        44536,
+        39263
+      ],
+      "Timestamp": 1701809760,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 120466,
+      "Restrictor": 0,
+      "Sectors": [
+        37689,
+        43776,
+        39001
+      ],
+      "Timestamp": 1701809785,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 120708,
+      "Restrictor": 0,
+      "Sectors": [
+        37943,
+        43673,
+        39092
+      ],
+      "Timestamp": 1701809791,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 121334,
+      "Restrictor": 0,
+      "Sectors": [
+        38791,
+        43740,
+        38803
+      ],
+      "Timestamp": 1701809801,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 122643,
+      "Restrictor": 0,
+      "Sectors": [
+        38285,
+        44839,
+        39519
+      ],
+      "Timestamp": 1701809844,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 122233,
+      "Restrictor": 0,
+      "Sectors": [
+        38065,
+        44577,
+        39591
+      ],
+      "Timestamp": 1701809844,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 128583,
+      "Restrictor": 0,
+      "Sectors": [
+        36391,
+        50297,
+        41895
+      ],
+      "Timestamp": 1701809856,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 119683,
+      "Restrictor": 0,
+      "Sectors": [
+        37419,
+        43708,
+        38556
+      ],
+      "Timestamp": 1701809905,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 148855,
+      "Restrictor": 0,
+      "Sectors": [
+        56425,
+        52344,
+        40086
+      ],
+      "Timestamp": 1701809909,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 120573,
+      "Restrictor": 0,
+      "Sectors": [
+        37818,
+        43856,
+        38899
+      ],
+      "Timestamp": 1701809911,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 122015,
+      "Restrictor": 0,
+      "Sectors": [
+        38253,
+        44050,
+        39712
+      ],
+      "Timestamp": 1701809923,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 134046,
+      "Restrictor": 0,
+      "Sectors": [
+        38897,
+        49487,
+        45662
+      ],
+      "Timestamp": 1701809978,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 134551,
+      "Restrictor": 0,
+      "Sectors": [
+        38940,
+        55003,
+        40608
+      ],
+      "Timestamp": 1701809979,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 123358,
+      "Restrictor": 0,
+      "Sectors": [
+        34577,
+        43209,
+        45572
+      ],
+      "Timestamp": 1701809979,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 123337,
+      "Restrictor": 0,
+      "Sectors": [
+        37999,
+        45009,
+        40329
+      ],
+      "Timestamp": 1701810028,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 120199,
+      "Restrictor": 0,
+      "Sectors": [
+        37502,
+        44159,
+        38538
+      ],
+      "Timestamp": 1701810032,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 125641,
+      "Restrictor": 0,
+      "Sectors": [
+        38625,
+        47231,
+        39785
+      ],
+      "Timestamp": 1701810034,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 124599,
+      "Restrictor": 0,
+      "Sectors": [
+        37901,
+        46774,
+        39924
+      ],
+      "Timestamp": 1701810048,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "LapTime": 129168,
+      "Restrictor": 0,
+      "Sectors": [
+        39793,
+        46643,
+        42732
+      ],
+      "Timestamp": 1701810107,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "LapTime": 128202,
+      "Restrictor": 0,
+      "Sectors": [
+        39911,
+        46333,
+        41958
+      ],
+      "Timestamp": 1701810107,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 129696,
+      "Restrictor": 0,
+      "Sectors": [
+        39592,
+        50724,
+        39380
+      ],
+      "Timestamp": 1701810108,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 14,
+        "WindDirection": 34,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 0,
+      "BestLap": 119683,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "Restrictor": 0,
+      "TotalTime": 2909878,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 2
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 120083,
+      "CarId": 10,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "Restrictor": 0,
+      "TotalTime": 2913068,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 3
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 119896,
+      "CarId": 13,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "Restrictor": 0,
+      "TotalTime": 2929286,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 1
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 121783,
+      "CarId": 5,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561199129036039",
+      "DriverName": "Jack Nigganigga",
+      "Restrictor": 0,
+      "TotalTime": 2988347,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 4
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 121865,
+      "CarId": 9,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "Restrictor": 0,
+      "TotalTime": 2989891,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 6
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 122049,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "Restrictor": 0,
+      "TotalTime": 2915690,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 5
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 116734,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Cumlover87",
+      "Restrictor": 0,
+      "TotalTime": 2988563,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 13
+    }
+  ],
+  "Penalties": null,
+  "TrackConfig": "bahrain_f1_2023",
+  "TrackName": "bahrain_2020",
+  "Type": "RACE",
+  "Date": "2023-12-05T22:03:00+01:00",
+  "SessionFile": "2023_12_5_22_3_RACE",
+  "SessionConfig": {
+    "session_type": 3,
+    "name": "Race",
+    "time": 45,
+    "laps": 0,
+    "is_open": 1,
+    "wait_time": 80,
+    "visibility_mode": 0,
+    "qualifying_type": 0,
+    "qualifying_number_of_laps_to_average": 0,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "be904e62-d0c9-4e70-acae-c8c6ab13e859",
+  "RaceWeekendID": ""
+}

@@ -15,7 +15,7 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/porsche-cup/season1/bahrain/bahrain2.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/porsche-cup/season1/sepang/sepang4.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -268,7 +268,7 @@ div.big-post i {
 /* MOBILE VIEW */ /*320px, 768px, and 1200px*/
 @media screen and (max-width: 950px) {
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 60%;
+        background-position-x: 82%;
         background-position-y: 0%;
     }
     div.section-title { /*change after every event*/

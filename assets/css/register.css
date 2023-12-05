@@ -1,5 +1,5 @@
 div.main-container {
-    background-image: url('/assets/images/background/porsche-cup/season1/dubai/dubai2.jpg'); /*change*/
+    background-image: url('/assets/images/background/porsche-cup/season1/sepang/sepang4.jpg'); /*change*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -126,6 +126,9 @@ div.register-card a:hover {
 }
 
 @media screen and (max-width: 450px) {
+    div.main-container {
+        background-image: none;
+    }
     div.register-title h1 {
         font-size: 1.5em;
     }
