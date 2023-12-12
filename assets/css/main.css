@@ -15,7 +15,7 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/porsche-cup/season1/sepang/sepang4.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/championship/season2/kyalami/kyalami3.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -26,7 +26,7 @@ div.section-title {
     position: absolute;
     display: flex;
     flex-direction: column;
-    top: 35%;   /*change*/
+    top: 40%;   /*change*/
     width: 100%;
     text-align: center;
     user-select: none
