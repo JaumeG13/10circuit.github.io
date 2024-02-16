@@ -47,7 +47,8 @@ div.main-container {
 section {
     flex-grow: 1;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-evenly;/*
+    background-image: url('/assets/images/background/porsche-cup/season1/spa/spa4.jpg');*/
 }
 section h1 {
     font-size: 3.5em;

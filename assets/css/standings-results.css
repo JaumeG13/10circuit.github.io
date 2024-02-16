@@ -1,5 +1,5 @@
 div.main-container {
-    background-image: url('/assets/images/background/championship/season2/kyalami/kyalami3.jpg'); /*change*/
+    background-image: url('/assets/images/background/porsche-cup/season1/spa/spa4.jpg'); /*change*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -45,7 +45,7 @@ div.buttons {
     max-height: 10vh;
     overflow: hidden;
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     font-size: 1.2em;
     user-select: none;
     min-width: 33%;
