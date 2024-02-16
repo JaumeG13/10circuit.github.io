@@ -268,7 +268,7 @@ div.big-post i {
 /* MOBILE VIEW */ /*320px, 768px, and 1200px*/
 @media screen and (max-width: 950px) {
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 82%;
+        background-position-x: 25%;
         background-position-y: 0%;
     }
     div.section-title { /*change after every event*/
