@@ -1,14 +1,15 @@
 section.drivers {
     flex-direction: column;
-    justify-content: flex-start;
+    width: 80%;
+    margin: auto 10%;
 }
-div.driver-container {
-    justify-content: center;
-}
+
+
+
 /*search bar*/
 div.search-container {
     position: relative;
-    width: 40%;
+    width: 100%;
 }
 #searchInput {
     width: 100%;
@@ -33,3 +34,21 @@ div.search-container {
     font-size: 1.25em;
 }
 /*end of search bar*/
+
+
+
+div.driver-container {
+    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 1em;
+    margin-top: 1em;
+}
+div.driver {
+    width: 100%;
+    text-align: center;
+}
+div.driver img {
+    width: 100%;
+    border-radius: 50%;
+}
