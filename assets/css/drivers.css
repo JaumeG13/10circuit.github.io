@@ -9,7 +9,8 @@ section.drivers {
 /*search bar*/
 div.search-container {
     position: relative;
-    width: 100%;
+    width: 30%;/*
+    margin: auto 35%;*/
 }
 #searchInput {
     width: 100%;
@@ -37,18 +38,44 @@ div.search-container {
 
 
 
-div.driver-container {
+ul.driver-container {
     justify-content: center;
     display: grid;
     grid-template-columns: repeat(7, 1fr);
     gap: 1em;
     margin-top: 1em;
 }
-div.driver {
+li.driver {
     width: 100%;
     text-align: center;
 }
-div.driver img {
+li.driver img {
     width: 100%;
     border-radius: 50%;
+}
+li.driver button {
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 35%;
+    border-bottom-right-radius: 35%;
+}
+div.stats {
+    display: none;
+    min-height: 30vh;
+    transition: all 100ms;
+    background-color: #ec2651;
+}
+.driver input:checked + div.stats {
+    display: block;
+}
+input[type="checkbox"] {
+    display: block;
+}
+label {
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
 }
