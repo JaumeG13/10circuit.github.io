@@ -47,35 +47,29 @@ ul.driver-container {
 }
 li.driver {
     width: 100%;
+    min-height: 27vh;
+    position: relative;
     text-align: center;
+    background-color: #9b3a4f;
 }
 li.driver img {
     width: 100%;
     border-radius: 50%;
 }
-li.driver button {
-    background-color: transparent;
-    border: 0;
-    cursor: pointer;
-    border-top-right-radius: 50%;
-    border-top-left-radius: 50%;
-    border-bottom-left-radius: 35%;
-    border-bottom-right-radius: 35%;
-}
 div.stats {
-    display: none;
-    min-height: 30vh;
-    transition: all 100ms;
+    min-height: inherit;
+    width: 100%;
     background-color: #ec2651;
+    position: absolute;
+    top: 0;
+    z-index: -1;
 }
 .driver input:checked + div.stats {
-    display: block;
+    top: 28vh;
+    transition: ease-in-out 100ms;
+    z-index: 1;
 }
-input[type="checkbox"] {
-    display: block;
-}
-label {
-    height: 100%;
-    width: 100%;
-    cursor: pointer;
+li.driver input:checked {
+    min-height: 25vh;
+    transition: ease-in-out 100ms;
 }
