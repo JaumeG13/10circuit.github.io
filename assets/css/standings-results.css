@@ -51,7 +51,7 @@ div.buttons {
     min-width: 33%;
     align-items: center;
 }
-div.round-buttons {
+div.round-buttons { /*invert round buttons so it loads scrolled to the bottom*/
     flex-direction: column-reverse;
 }
 span.mobile {
