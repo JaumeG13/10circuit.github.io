@@ -45,11 +45,14 @@ div.buttons {
     max-height: 10vh;
     overflow: hidden;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: column;
     font-size: 1.2em;
     user-select: none;
     min-width: 33%;
     align-items: center;
+}
+div.round-buttons {
+    flex-direction: column-reverse;
 }
 span.mobile {
     display: none;
