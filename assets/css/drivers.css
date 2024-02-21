@@ -66,10 +66,13 @@ div.stats {
 }
 .driver input:checked + div.stats {
     top: 28vh;
-    transition: ease-in-out 100ms;
+    transition: all ease-in-out 500ms;
     z-index: 1;
+}
+.driver input:not(:checked) + div.stats {
+    transition: all ease-in-out 500ms;
 }
 li.driver input:checked {
     min-height: 25vh;
-    transition: ease-in-out 100ms;
+    transition: all ease-in-out 500ms;
 }
