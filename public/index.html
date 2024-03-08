@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="The official Assetto Corsa website for 10 Controls" name="description">
+    <meta name="keywords" content="Assetto Corsa, 10 Controls, League racing, Discord, Motorsports, Sim racing, Cars, Porsche, Porsche Cup, Indycar">
+    <meta property="og:image" content="https://cdn.discordapp.com/attachments/782020747047469070/1150841948245082182/10c-cc.png">
+
+    <title>10 Circuit</title>
+
+    <link rel="shortcut icon" href="/assets/images/logos/10c.png">
+    <link rel="stylesheet" href="/assets/css/structure-styling.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">    <!-- Import font awesome for icons -->
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">           <!-- Gallery slider code -->
+    
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>              <!-- Gallery slider code -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>     <!--jquery code to import header and footer-->
+    <script type="text/javascript">                 //jquery code to import header and footer
+        $(document).ready(function(){
+          $("#header").load("/header.html");
+          $("#footer").load("/footer.html");
+         });
+    </script>
+</head>
+
+
+
+<body>
+    <div class="main-container">
+        
+        <div id="header"></div>
+
+        <section class="index">
+            <!--BACKGROUND IMAGE AND TITLE-->
+            <div class="section-bg-image"></div>
+
+            <div class="section-title">
+                <span id="title">Championship Circuit</span><br>
+                <!--<span id="round">Next up: Championship Circuit at Kyalami</span>  change-->
+                <a href="/register" id="sign-up">Sign up</a>
+            </div>  
+
+            <div class="arrow-down"><a href="#aboutus"><i class="fa-solid fa-chevron-down"></i></a></div>
+
+
+            <!--ABOUT US-->
+            <div class="about-us">
+                <div class="member left first">
+                    <div><img src="/assets/images/pfp/jaume.png" alt="Jaume PFP"></div>
+                    <div>
+                        <h2>Jaume</h2>
+                        <span>Number 1 Danny Ricc fan</span>
+                        <ul class="member-tasks">
+                            <li>Server manager</li>
+                            <li>Web designer</li>
+                            <li>Instagram guy</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="about-middle">
+                    <h1 id="aboutus">Our Team</h1>
+                    <div class="team-background-pink"></div>
+                    <div class="team-background"></div>
+                    <div class="arrow-down"><a href="#prizes-and-instagram"><i class="fa-solid fa-chevron-down"></i></a></div>
+                </div>
+
+                <div class="member">
+                    <div><img src="/assets/images/pfp/maxfan.png" alt="Maxfan PFP"></div>
+                    <div>
+                        <h2>Maxfan</h2>
+                        <span>Number 2 Max Verstappen fan</span>
+                        <ul class="member-tasks">
+                            <li>Photographer</li>
+                            <li>Coordinator</li>
+                            <li>Tester</li>
+                        </ul>
+                    </div>
+                </div> 
+                
+                <div class="member left">
+                    <div><img src="/assets/images/pfp/arion.png" alt="Arion PFP"></div>
+                    <div>
+                        <h2>Arion</h2>
+                        <span>Dictator</span>
+                        <ul class="member-tasks"><!--
+                            <li>Content manager</li>
+                            <li>Event planner</li>
+                            <li>Bank</li>-->
+                            <li>Does dictator stuff</li>
+                            <li>Legal owner of 10 Controls</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="member">
+                    <div><img src="/assets/images/pfp/focuser.png" alt="Focuser PFP"></div>
+                    <div>
+                        <h2>Focuser</h2>
+                        <span>is spanish</span>
+                        <ul class="member-tasks">
+                            <li>Provides emotional support</li>
+                            <li>Tester</li>
+                        </ul>
+                    </div>
+                </div> 
+                
+                <div class="member left">
+                    <div><img src="/assets/images/pfp/saad.png" alt="Saad PFP"></div>
+                    <div>
+                        <h2>Saad</h2>
+                        <span>Lincoln town car enjoyer</span>
+                        <ul class="member-tasks">
+                            <li>Will find a way to fix it</li>
+                            <li>The new guy</li>
+                        </ul>
+                    </div>
+                </div> 
+                
+                <div class="member">
+                    <div><img src="/assets/images/pfp/maurits.jpg" alt="Maurits PFP"></div>
+                    <div>
+                        <h2>Maurits</h2>
+                        <span>Wants to be a part of it</span>
+                        <ul class="member-tasks">
+                            <li>Provides actual emotional support </li>
+                            <li>Bank</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="prizes-and-instagram" id="prizes-and-instagram">
+                <div class="prize-container">
+                    <span style="position: relative; z-index: 2;">
+                        <h1>Prizes</h1>
+                        <p>Series winners get a real life miniature trophy</p>
+                    </span>
+                    
+                    <div class="darkPinkBg"></div>
+                    <div class="gallery js-flickity" data-flickity-options='{ "pauseAutoPlayOnHover": false, "imagesLoaded": true, "autoPlay": 3000, "wrapAround": true }'>
+                        <div class="gallery-cell">
+                            <img src="/assets/images/trophy.png" alt="Trophy">
+                        </div>                            
+                        <div class="gallery-cell">
+                            <img src="/assets/images/trophy2.png" alt="Trophy">
+                        </div>
+                        <div class="gallery-cell">
+                            <img src="/assets/images/trophy3.png" alt="Trophy">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="instagram-container">
+                    <h1>Our Instagram</h1>
+
+                    <div class="ig-posts">
+                        <div class="post big-post">
+                            <a href="https://www.instagram.com/p/C0AZwTSI3fU/" target="_blank">
+                                <img src="/assets/images/ig-posts/singlelap.png" alt="You wont last a single lap">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>
+                        <div class="post">
+                            <a href="https://www.instagram.com/p/Cz91V4CoJIb/" target="_blank">
+                                <img src="/assets/images/ig-posts/PedausWinner.png" alt="Winner Post">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>
+
+                        <div class="post">
+                            <a href="https://www.instagram.com/p/CzmUu0gMAJg" target="_blank">
+                                <img src="/assets/images/ig-posts/AdamResults.png" alt="The fight for a finish">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>
+
+                        <div class="post">
+                            <a href="https://www.instagram.com/p/Cy5oeBjtCsb" target="_blank">
+                                <img src="/assets/images/ig-posts/Oreca.jpg" alt="LMP2 car">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="https://www.instagram.com/p/CylvrL1MieB" target="_blank">
+                                <img src="/assets/images/ig-posts/2hRBR.png" alt="2h Red Bull Ring poster">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>
+<!--
+                        <div class="post">
+                            <a href="https://www.instagram.com/p/Cyi1sgSMQvr" target="_blank">
+                                <img src="/assets/images/ig-posts/veixel-demotion2.png" alt="Veixel demoted">
+                                <span class="ig-logo"><i class="fa-brands fa-instagram"></i></span>
+                            </a>
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div id="footer"></div>
+    </div>
+
+
+    
+    <script type="module">
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js";
+        import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-analytics.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+      
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+          apiKey: "AIzaSyB48KkdlQb794w2euzJWHwkUfz1xXbBQ38",
+          authDomain: "circuit-f666e.firebaseapp.com",
+          projectId: "circuit-f666e",
+          storageBucket: "circuit-f666e.appspot.com",
+          messagingSenderId: "829065746483",
+          appId: "1:829065746483:web:921256dd57c9cd1112eb46",
+          measurementId: "G-GV5WJB4YBM"
+        };
+      
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+      </script>
+</body>
+</html>
