@@ -36,9 +36,14 @@
         #list li:hover {
             background-color: #f0f0f0;
         }*/
+        html {
+            background-color: black;
+            color: white;
+        }
 
         .grid-container {
-            display: grid;
+            display: flex;
+            flex-direction: column-reverse;
             grid-template-columns: 1fr;
             grid-template-rows: repeat(6, 1fr);
             gap: 10px; /* Adjust the gap as needed */
@@ -49,18 +54,12 @@
             padding: 20px;
             text-align: center;
         }
-        .first {
-            margin-top: 6em;
-        }
-        .item-2 {
-            grid-row: span 3;
-        }
     </style>
 </head>
 <body>
     <div class="grid-container">
-        <div class="item first">1</div>
-        <div class="item item-2">2 (Spanning)</div>
+        <div class="item">1</div>
+        <div class="item">2</div>
         <div class="item">3</div>
         <div class="item">4</div>
         <div class="item">5</div>
