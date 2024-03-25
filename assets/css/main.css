@@ -15,12 +15,12 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/porsche-cup/season1/spa/spa4.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/special-events/sugo/sugo2.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     background-position-x: 50%;
-    background-position-y: 100%;
+    background-position-y: -25%;
 }
 div.section-title {
     position: absolute;
