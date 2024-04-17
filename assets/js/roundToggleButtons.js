@@ -196,6 +196,10 @@ function roundToggleResults() {
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round8-button').checked)) {
         roundHtml = "/results/porschecup/season1/round8.html";
     }
+    //SPECIAL EVENTS
+    if ((document.getElementById('special-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round1-button').checked)) {
+        roundHtml = "/results/special/fmulticlassaustria.html";
+    }
 
     if ($('#circuit') && roundHtml) {
         $('#circuit').load(roundHtml);
