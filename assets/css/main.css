@@ -15,18 +15,18 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/special-events/sonoma/sonoma5.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/special-events/sepang/sepang2.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
     background-position-x: 50%;
-    background-position-y: 0%;
+    background-position-y: 100%;
 }
 div.section-title {
     position: absolute;
     display: flex;
     flex-direction: column;
-    top: 45%;   /*change*/
+    top: 25%;   /*change*/
     width: 100%;
     text-align: center;
     user-select: none
