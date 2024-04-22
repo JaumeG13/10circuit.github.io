@@ -201,11 +201,11 @@ function roundToggleResults() {
     if ((document.getElementById('special-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round1-button').checked)) {
         roundHtml = "/results/special/fmulticlassaustria.html";
     }
-
+    */
     if ($('#circuit') && roundHtml) {
         $('#circuit').load(roundHtml);
     }
-    */
+    
 }
 
 
