@@ -15,7 +15,7 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/special-events/sepang/sepang2.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/special-events/indycar/indy3.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -26,7 +26,7 @@ div.section-title {
     position: absolute;
     display: flex;
     flex-direction: column;
-    top: 25%;   /*change*/
+    top: 45%;   /*change*/
     width: 100%;
     text-align: center;
     user-select: none
@@ -268,11 +268,11 @@ div.big-post i {
 /* MOBILE VIEW */ /*320px, 768px, and 1200px*/
 @media screen and (max-width: 950px) {
     div.section-bg-image {  /*change after every event*/
-        background-position-x: 25%;
+        background-position-x: 47%;
         background-position-y: 0%;
     }
     div.section-title { /*change after every event*/
-        top: 38%;
+        top: 35%;
     }
     .section-title #title {
         font-size: 1.9em;
