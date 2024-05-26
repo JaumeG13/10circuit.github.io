@@ -18,6 +18,7 @@ Special events
 
 function makeDefault() {
     document.getElementById('s2btn').style.display = 'block';
+    document.getElementById('r8-btn').style.display = 'block';
 }
 
 function roundToggleStandings() {
@@ -29,6 +30,8 @@ function roundToggleStandings() {
         makeDefault();
         document.getElementById('s2btn').style.display = 'none';
         document.getElementById('season1-button').checked = true;
+        document.getElementById('r8-btn').style.display = 'none';
+        document.getElementById('round1-button').checked = true;
     }  
 
     let roundHtml;
@@ -104,9 +107,6 @@ function roundToggleStandings() {
     }
     if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round7-button').checked)) {
         roundHtml = "/standings/porschecup/season1/round7.html";
-    }
-    if ((document.getElementById('porsche-button').checked) && (document.getElementById('season1-button').checked) && (document.getElementById('round8-button').checked)) {
-        roundHtml = "/standings/porschecup/season1/round8.html";
     }
 
     if ($('#circuit') && roundHtml) {
