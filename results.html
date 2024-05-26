@@ -12,7 +12,7 @@
 
     <link rel="shortcut icon" href="/assets/images/logos/10c.png">
     <link rel="stylesheet" href="/assets/css/structure-styling.css">
-    <link rel="stylesheet" href="/assets/css/standings-results.css">
+    <link rel="stylesheet" href="/assets/css/standings-results-copy.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css"> <!-- Import font awesome for icons -->
 
     <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>     <!--jquery code to import header and footer-->
@@ -22,7 +22,7 @@
           $("#footer").load("/footer.html");
          });
     </script>
-    <script src="/assets/js/roundToggleButtons.js"></script>                <!--script for the buttons to toggle standings and results-->
+    <script src="/assets/js/roundToggleButtonsResults.js"></script>                <!--script for the buttons to toggle standings and results-->
     <script type="text/javascript">
         $(document).ready(function() {
             roundToggleResults();
@@ -41,24 +41,24 @@
 
             <div class="buttons-container">
                 <div class="buttons">
-                    <input type="radio" name="series" id="championship-button" onchange="roundToggleResults()" checked>
+                    <input type="radio" name="series" id="championship-button" onchange="roundToggleResults()" >
                     <label for="championship-button"><span class="desktop">Championship Circuit</span><span class="mobile">Circuit</span></label>
 
                     <input type="radio" name="series" id="porsche-button" onchange="roundToggleResults()" >
                     <label for="porsche-button"><span class="desktop">Porsche Cup</span><span class="mobile">Cup</span></label>
-                    <!--
-                    <input type="radio" name="series" id="special-button" onchange="roundToggleResults()" >
+                    
+                    <input type="radio" name="series" id="special-button" onchange="roundToggleResults()" checked>
                     <label for="special-button"><span class="desktop">Special Event</span><span class="mobile">Special</span></label>
-                    -->
+                    
                 </div>
 
                 <div class="separator"></div>
 
-                <div class="buttons">
-                    <input type="radio" name="season" id="season1-button" onchange="roundToggleResults()" >
-                    <label for="season1-button">Season 1</label>
+                <div class="buttons" id="season-buttons-container">
+                    <input type="radio" name="season" id="season1-button" onchange="roundToggleResults()" checked>
+                    <label id="s1btn" for="season1-button">Season 1</label>
 
-                    <input type="radio" name="season" id="season2-button" onchange="roundToggleResults()" checked>
+                    <input type="radio" name="season" id="season2-button" onchange="roundToggleResults()" >
                     <label id="s2btn" for="season2-button">Season 2</label>
                 </div>
 
@@ -66,35 +66,43 @@
 
                 <div class="buttons round-buttons">
                     <input type="radio" name="round" id="round8-button" onchange="roundToggleResults()" checked>
-                    <label for="round8-button">Round 8</label>
+                    <label id="r8-btn" for="round8-button">Round 8</label>
 
                     <input type="radio" name="round" id="round7-button" onchange="roundToggleResults()" >
-                    <label for="round7-button">Round 7</label>
+                    <label id="r7-btn" for="round7-button">Round 7</label>
 
                     <input type="radio" name="round" id="round6-button" onchange="roundToggleResults()" >
-                    <label for="round6-button">Round 6</label>
+                    <label id="r6-btn" for="round6-button">Round 6</label>
 
                     <input type="radio" name="round" id="round5-button" onchange="roundToggleResults()" >
-                    <label for="round5-button">Round 5</label>
+                    <label id="r5-btn" for="round5-button">Round 5</label>
 
                     <input type="radio" name="round" id="round4-button" onchange="roundToggleResults()" >
-                    <label for="round4-button">Round 4</label>
+                    <label id="r4-btn" for="round4-button">Round 4</label>
 
                     <input type="radio" name="round" id="round3-button" onchange="roundToggleResults()">
-                    <label for="round3-button">Round 3</label>
+                    <label id="r3-btn" for="round3-button">Round 3</label>
 
                     <input type="radio" name="round" id="round2-button" onchange="roundToggleResults()">
-                    <label for="round2-button">Round 2</label>
+                    <label id="r2-btn" for="round2-button">Round 2</label>
 
                     <input type="radio" name="round" id="round1-button" onchange="roundToggleResults()">
-                    <label for="round1-button">Round 1</label>
-                    <!--
-                    <input type="radio" name="round" id="round9-button" onchange="roundToggleResults()">
-                    <label id="rnd9" for="round9-button">Round 9</label>
+                    <label id="r1-btn" for="round1-button">Round 1</label>
 
-                    <input type="radio" name="round" id="round10-button" onchange="roundToggleResults()">
-                    <label id="rnd10" for="round10-button">Round 10</label>
-                    -->
+                    <input type="radio" name="special" id="indy-button" onchange="roundToggleResults()" checked>
+                    <label id="indybtn" for="indy-button">Indianapolis</label>
+
+                    <input type="radio" name="special" id="sepang-button" onchange="roundToggleResults()" >
+                    <label id="sepangbtn" for="sepang-button">Sepang</label>
+
+                    <input type="radio" name="special" id="sugo-button" onchange="roundToggleResults()" >
+                    <label id="sugobtn" for="sugo-button">Sugo</label>
+
+                    <input type="radio" name="special" id="nords-button" onchange="roundToggleResults()" >
+                    <label id="n24btn" for="nords-button">Nordschleife 2.4</label>
+
+                    <input type="radio" name="special" id="austria-button" onchange="roundToggleResults()" >
+                    <label id="austriabtn" for="austria-button">Austria</label>
                 </div>
             </div>
 

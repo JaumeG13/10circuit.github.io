@@ -1,0 +1,228 @@
+div.main-container {
+    background-image: url('/assets/images/background/special-events/indycar/indy3.jpg');  /*change after every event*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #0a0705;
+}
+section.standings-results-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    justify-content: center;
+    background-color: rgba(124, 13, 13, 0.2);
+    backdrop-filter: blur(10px);
+}
+section.standings-results-container h1 {
+    margin: 16px 0 8px 0;
+    padding: 0.5em 0;
+    font-weight: 900;
+    width: 50%;
+    align-self: center;
+    border-radius: 25px;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+    background-color: #70172c;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
+}
+
+
+
+/* Toggle buttons */
+div.buttons-container {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #7a2639;
+    padding: 0.5em;
+    margin: 8px 0;
+    align-self: center;
+    border-radius: 25px;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
+}
+div.buttons {
+    max-height: 10vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2em;
+    user-select: none;
+    min-width: 33%;
+    align-items: center;
+}
+div.round-buttons { /*invert round buttons so it loads scrolled to the bottom*/
+    flex-direction: column-reverse;
+}
+span.mobile {
+    display: none;
+}
+div.round-buttons {
+    overflow-y: scroll;
+    width: 7vw;
+}
+div.separator {
+    height: 10vh;
+    border: white 1px solid;
+}
+label {
+    cursor: pointer;
+}
+input {
+    display: none;
+}
+input[type="radio"]:checked + label {
+    font-weight: 700;
+    text-decoration: underline;
+}
+/* End of toggle buttons */
+
+
+
+/* Table content */
+table {
+    width: 50%;
+    margin: 8px auto;
+    border-collapse: collapse;
+    background-color: #5a1b28;
+    border: 2em solid transparent;
+    border-top: none;
+    border-radius: 25px;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
+}
+th.header {
+    background-color: inherit;
+    box-shadow: none;
+    font-size: 1.8em;
+    padding: 1em;
+}
+td {
+    border-bottom: 1px solid #dfdfdf;
+    text-align: center;
+    width: 20%;
+    padding: 0.2em 0;
+}
+td#fastest-lap {
+    color: #e61b47;
+    font-weight: 600;
+}
+/* End of table content */
+
+
+
+/* Legend */
+div.legend {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    font-size: 0.8em;
+    padding: 2em;
+    align-self: center;
+    background-color: #4b1521;
+    border-radius: 25px;
+    margin: 8px 0 16px 0;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
+}
+div.legend * {
+    text-transform: none;
+}
+/* End of legend */
+
+
+
+
+@media screen and (max-width: 1500px) {
+    section.standings-results-container h1 {
+        width: 75%;
+    }
+    div.buttons-container {
+        width: 75%;
+    }
+    table {
+        width: 75%;
+    }
+    div.legend {
+        width: 75%;
+    }
+}
+
+/* MOBILE VIEW */
+@media screen and (max-width: 950px) {
+    section.standings-results-container h1 {
+        width: 90%;
+    }
+    div.buttons-container {
+        width: 90%;
+    }
+    table {
+        width: 90%;
+    }
+    div.legend {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    div.main-container {
+        background-image: none;
+    }
+    section.standings-results-container {
+        width: 100%;
+        backdrop-filter: none;
+    }
+    section.standings-results-container h1 {
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+        font-size: 2.8em;
+    }
+
+    div.buttons-container {
+        width: 96%;
+        margin: 2%;
+        border-radius: 10px;
+    }
+    div.buttons {
+        font-size: 16px;
+    }
+    span.desktop {
+        display: none;
+    }
+    span.mobile {
+        display: block;
+    }
+    input[type="radio"]:checked + span.mobile, input[type="radio"]:checked + span.desktop {
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
+    table {
+        width: 96%;
+        white-space: normal;
+        margin: 0 2%;
+        border: 1em solid transparent;
+        border-radius: 10px;
+    }
+    th.header {
+        font-size: 1.3em;
+        padding: 1em;
+        z-index: 0;
+    }
+    th {
+        font-size: 0.8em;
+    }
+    td {
+        width: auto;
+        font-size: 0.6em;
+        padding: 0.2em -0.1;
+    }
+
+    div.legend {
+        width: 96%;
+        font-size: 0.6em;
+        border-radius: 10px;
+        padding: 1.3em;
+        margin: 2%;
+        align-self: center;
+    }
+}
