@@ -1,3 +1,21 @@
+/*
+
+Championship circuit
+    - Season 1
+        - Round 1-8
+    - Season 2
+        - Round 1-8
+Porsche cup
+    - Season 1
+        - Round 1-7
+Special events
+    - Nordschleife 2.4
+    - Sugo
+    - Sepang
+    - Indy 250
+
+*/
+
 function makeDefault() {
     document.getElementById('s2btn').style.display = 'block';
 }
