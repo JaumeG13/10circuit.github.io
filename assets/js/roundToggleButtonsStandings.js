@@ -29,9 +29,9 @@ function roundToggleStandings() {
     if (document.getElementById('porsche-button').checked) {    //if porsche cup is selected, hide season 2 and check season 1
         makeDefault();
         document.getElementById('s2btn').style.display = 'none';
-        document.getElementById('season1-button').checked = true;
         document.getElementById('r8-btn').style.display = 'none';
-        document.getElementById('round1-button').checked = true;
+        document.getElementById('season1-button').checked = true;
+        /*document.getElementById('round1-button').checked = true;    doesnt work???*/
     }  
 
     let roundHtml;

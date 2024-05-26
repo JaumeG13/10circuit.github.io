@@ -54,7 +54,7 @@ function roundToggleResults() {
         document.getElementById('s2btn').style.display = 'none';
         document.getElementById('season1-button').checked = true;
         document.getElementById('r8-btn').style.display = 'none';
-        document.getElementById('round7-button').checked = true;
+        /*document.getElementById('round7-button').checked = true;    doesnt work???*/
     }
 
 
