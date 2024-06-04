@@ -15,7 +15,7 @@ h1 {
 div.section-bg-image {
     height: 90vh;
     overflow: hidden;
-    background-image: url('/assets/images/background/special-events/indycar/indy3.jpg');  /*change after every event*/
+    background-image: url('/assets/images/background/special-events/lemans/lemans1.jpg');  /*change after every event*/
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
