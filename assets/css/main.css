@@ -20,7 +20,7 @@ div.section-bg-image {
     background-size: cover;
     background-attachment: fixed;
     background-position-x: 50%;
-    background-position-y: 100%;
+    background-position-y: 50%;
 }
 div.section-title {
     position: absolute;
