@@ -28,6 +28,7 @@ function makeDefault() {
     document.getElementById('sugobtn').style.display = 'none';
     document.getElementById('sepangbtn').style.display = 'none';
     document.getElementById('indybtn').style.display = 'none';
+    document.getElementById('indy25btn').style.display = 'none';
 
     //removes round buttons
     // Get all elements with id that matches 'round<number>-button'
@@ -71,6 +72,7 @@ function roundToggleResults() {
         document.getElementById('sugobtn').style.display = 'block';
         document.getElementById('sepangbtn').style.display = 'block';
         document.getElementById('indybtn').style.display = 'block';    
+        document.getElementById('indy25btn').style.display = 'block';    
 
         //removes round buttons
         // Get all elements with id that matches 'round<number>-button'
@@ -173,6 +175,9 @@ function roundToggleResults() {
     }
     if ((document.getElementById('special-button').checked) && (document.getElementById('indy-button').checked)) {
         roundHtml = "/results/special/indy.html";
+    }
+    if ((document.getElementById('special-button').checked) && (document.getElementById('indy25-button').checked)) {
+        roundHtml = "/results/special/indy25.html";
     }
 
 
