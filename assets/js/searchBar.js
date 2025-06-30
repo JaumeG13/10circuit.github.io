@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', function () {
         // Get the search query
         var query = input.value.toLowerCase();
 
-        // Get all list items
-        var items = list.getElementsByClassName('event');
+        // Get all list items with class 'event' or 'driver'
+        var items = list.querySelectorAll('.event, .driver');
 
         // Loop through the list items
         for (var i = 0; i < items.length; i++) {
@@ -18,7 +18,12 @@ document.addEventListener('DOMContentLoaded', function () {
 
             // Check if the item contains the search query
             if (text.includes(query)) {
-                item.style.display = 'block'; // Show the item
+                // Show the item using the correct display style
+                if (item.classList.contains('event')) {
+                    item.style.display = 'block';
+                } else if (item.classList.contains('driver')) {
+                    item.style.display = 'flex';
+                }
             } else {
                 item.style.display = 'none'; // Hide the item
             }
@@ -30,10 +35,15 @@ document.addEventListener('DOMContentLoaded', function () {
         // Clear the search input
         input.value = '';
 
-        // Show all list items
-        var items = list.getElementsByClassName('event');
+        // Show all list items with the correct display type
+        var items = list.querySelectorAll('.event, .driver');
         for (var i = 0; i < items.length; i++) {
-            items[i].style.display = 'block';
+            var item = items[i];
+            if (item.classList.contains('event')) {
+                item.style.display = 'block';
+            } else if (item.classList.contains('driver')) {
+                item.style.display = 'flex';
+            }
         }
     });
 });
