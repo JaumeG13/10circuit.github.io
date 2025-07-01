@@ -1,0 +1,1846 @@
+{
+  "Version": 7,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_06_sauber_11",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "MinPing": 124,
+      "MaxPing": 127
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_03_mclaren_6",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "MinPing": 55,
+      "MaxPing": 60
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_03_mclaren_5",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "MinPing": 91,
+      "MaxPing": 5539
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_02_ferrari_3",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "MinPing": 26,
+      "MaxPing": 36
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198875084577",
+        "GuidsList": [
+          "76561198875084577"
+        ],
+        "Name": "Gideon Lok",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_01_redbull_1",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_05_mercedes_9",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "MinPing": 54,
+      "MaxPing": 58
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_02_ferrari_4",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "MinPing": 30,
+      "MaxPing": 51
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561199046537014",
+        "GuidsList": [
+          "76561199046537014"
+        ],
+        "Name": "Romain Grosjean",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_04_lotus_8",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "MinPing": 57,
+      "MaxPing": 62
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_01_redbull_2",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "MinPing": 61,
+      "MaxPing": 63
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mrs. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_06_sauber_12",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "MinPing": 66,
+      "MaxPing": 70
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561199061297885",
+        "GuidsList": [
+          "76561199061297885"
+        ],
+        "Name": "Pierce Hartley",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_08_williams_16",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198984655803",
+        "GuidsList": [
+          "76561198984655803"
+        ],
+        "Name": "tsar3",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_09_toro_rosso_19",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561199034435554",
+        "GuidsList": [
+          "76561199034435554"
+        ],
+        "Name": "Lukáš Hendrych",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "Model": "rss_formula_2013",
+      "Restrictor": 0,
+      "Skin": "f1_2013_05_mercedes_10",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 50.225033,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": 0.80843467,
+        "Y": -0.014788147,
+        "Z": 2.8044372
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 89.74031,
+        "Y": 2.2612383,
+        "Z": 205.79768
+      },
+      "Timestamp": 1714229537,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 23.59818,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": 0.8989615,
+        "Y": 0.10700751,
+        "Z": -1.8805844
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -54.83852,
+        "Y": 7.203645,
+        "Z": 329.06155
+      },
+      "Timestamp": 1714229662,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mrs. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 9.338541,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": -0.059293095,
+        "Y": 0.12211975,
+        "Z": -2.1137958
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 49.98876,
+        "Y": 2.8186278,
+        "Z": 129.3738
+      },
+      "Timestamp": 1714229692,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 12.604835,
+      "OtherCarId": 9,
+      "OtherDriver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mrs. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": -0.0000017183801,
+        "Y": 0.10488958,
+        "Z": 3.0096571
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 51.706345,
+        "Y": 2.8209963,
+        "Z": 129.1313
+      },
+      "Timestamp": 1714229692,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mrs. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 97.7933,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": 0.9062432,
+        "Y": -0.23323032,
+        "Z": 2.818676
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -344.24185,
+        "Y": 2.934624,
+        "Z": 207.23128
+      },
+      "Timestamp": 1714229797,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 18.531958,
+      "OtherCarId": 7,
+      "OtherDriver": {
+        "Guid": "76561199046537014",
+        "GuidsList": [
+          "76561199046537014"
+        ],
+        "Name": "Romain Grosjean",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": -0.25554347,
+        "Y": 0.007833572,
+        "Z": 0.86603767
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -408.58908,
+        "Y": 3.339463,
+        "Z": 44.92136
+      },
+      "Timestamp": 1714230005,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561199046537014",
+        "GuidsList": [
+          "76561199046537014"
+        ],
+        "Name": "Romain Grosjean",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 24.280699,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": 0.9062359,
+        "Y": -0.23323022,
+        "Z": 2.818666
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 1.1944827,
+        "Y": 7.2143035,
+        "Z": -337.29514
+      },
+      "Timestamp": 1714230029,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561199046537014",
+        "GuidsList": [
+          "76561199046537014"
+        ],
+        "Name": "Romain Grosjean",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 19.26989,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": 0.906238,
+        "Y": -0.23323023,
+        "Z": 2.8186798
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -2.171876,
+        "Y": 8.136551,
+        "Z": -294.71997
+      },
+      "Timestamp": 1714230029,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 22.682022,
+      "OtherCarId": 7,
+      "OtherDriver": {
+        "Guid": "76561199046537014",
+        "GuidsList": [
+          "76561199046537014"
+        ],
+        "Name": "Romain Grosjean",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": -0.6607532,
+        "Y": -0.21598169,
+        "Z": 0.3232798
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 1.2166263,
+        "Y": 7.2202773,
+        "Z": -337.18506
+      },
+      "Timestamp": 1714230030,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 45.446526,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": -0.89896643,
+        "Y": 0.10700772,
+        "Z": -1.8805878
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 385.17,
+        "Y": 4.586149,
+        "Z": 114.29407
+      },
+      "Timestamp": 1714230050,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mrs. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 33.2822,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": 0.8219121,
+        "Y": -0.04512016,
+        "Z": 2.8031538
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -440.18552,
+        "Y": 3.373503,
+        "Z": 205.6043
+      },
+      "Timestamp": 1714230092,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 44.70151,
+      "OtherCarId": 9,
+      "OtherDriver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mrs. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": -0.82665545,
+        "Y": -0.16495237,
+        "Z": -1.6751584
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -439.6214,
+        "Y": 3.266505,
+        "Z": 205.64119
+      },
+      "Timestamp": 1714230092,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "ImpactSpeed": 43.9649,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c"
+      },
+      "RelPosition": {
+        "X": -0.38066536,
+        "Y": 0.75158685,
+        "Z": -2.1498878
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 230.50836,
+        "Y": 3.5516357,
+        "Z": -9.925077
+      },
+      "Timestamp": 1714230300,
+      "AfterSessionEnd": false
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 173713,
+      "Restrictor": 0,
+      "Sectors": [
+        81967,
+        50418,
+        41328
+      ],
+      "Timestamp": 1714229586,
+      "Tyre": "S",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mrs. Cuh",
+      "LapTime": 175921,
+      "Restrictor": 0,
+      "Sectors": [
+        75229,
+        50188,
+        50504
+      ],
+      "Timestamp": 1714229588,
+      "Tyre": "M",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 202285,
+      "Restrictor": 0,
+      "Sectors": [
+        94974,
+        48942,
+        58369
+      ],
+      "Timestamp": 1714229614,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 188182,
+      "Restrictor": 0,
+      "Sectors": [
+        113307,
+        35090,
+        39785
+      ],
+      "Timestamp": 1714229625,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 240647,
+      "Restrictor": 0,
+      "Sectors": [
+        169277,
+        33094,
+        38276
+      ],
+      "Timestamp": 1714229681,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 2,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mrs. Cuh",
+      "LapTime": 116231,
+      "Restrictor": 0,
+      "Sectors": [
+        27046,
+        39722,
+        49463
+      ],
+      "Timestamp": 1714229704,
+      "Tyre": "M",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 118770,
+      "Restrictor": 0,
+      "Sectors": [
+        25840,
+        35455,
+        57475
+      ],
+      "Timestamp": 1714229704,
+      "Tyre": "S",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 99064,
+      "Restrictor": 0,
+      "Sectors": [
+        25377,
+        34370,
+        39317
+      ],
+      "Timestamp": 1714229713,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 100176,
+      "Restrictor": 0,
+      "Sectors": [
+        25556,
+        35730,
+        38890
+      ],
+      "Timestamp": 1714229725,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 101173,
+      "Restrictor": 0,
+      "Sectors": [
+        26639,
+        34767,
+        39767
+      ],
+      "Timestamp": 1714229806,
+      "Tyre": "S",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 2,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mrs. Cuh",
+      "LapTime": 113439,
+      "Restrictor": 0,
+      "Sectors": [
+        27083,
+        37481,
+        48875
+      ],
+      "Timestamp": 1714229817,
+      "Tyre": "M",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 143254,
+      "Restrictor": 0,
+      "Sectors": [
+        49942,
+        45085,
+        48227
+      ],
+      "Timestamp": 1714229856,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 2,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 182297,
+      "Restrictor": 0,
+      "Sectors": [
+        110149,
+        32881,
+        39267
+      ],
+      "Timestamp": 1714229863,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 2,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 101291,
+      "Restrictor": 0,
+      "Sectors": [
+        26016,
+        36369,
+        38906
+      ],
+      "Timestamp": 1714229907,
+      "Tyre": "S",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mrs. Cuh",
+      "LapTime": 106816,
+      "Restrictor": 0,
+      "Sectors": [
+        26536,
+        36630,
+        43650
+      ],
+      "Timestamp": 1714229924,
+      "Tyre": "M",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 367575,
+      "Restrictor": 0,
+      "Sectors": [
+        293635,
+        34186,
+        39754
+      ],
+      "Timestamp": 1714229941,
+      "Tyre": "M",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 231453,
+      "Restrictor": 0,
+      "Sectors": [
+        158417,
+        34272,
+        38764
+      ],
+      "Timestamp": 1714229956,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 94881,
+      "Restrictor": 0,
+      "Sectors": [
+        24469,
+        32378,
+        38034
+      ],
+      "Timestamp": 1714229958,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 100159,
+      "Restrictor": 0,
+      "Sectors": [
+        25567,
+        35109,
+        39483
+      ],
+      "Timestamp": 1714230007,
+      "Tyre": "S",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 4,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 184703,
+      "Restrictor": 0,
+      "Sectors": [
+        102381,
+        37556,
+        44766
+      ],
+      "Timestamp": 1714230041,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 98459,
+      "Restrictor": 0,
+      "Sectors": [
+        25199,
+        34497,
+        38763
+      ],
+      "Timestamp": 1714230055,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 132677,
+      "Restrictor": 0,
+      "Sectors": [
+        60727,
+        33160,
+        38790
+      ],
+      "Timestamp": 1714230090,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mrs. Cuh",
+      "LapTime": 187057,
+      "Restrictor": 0,
+      "Sectors": [
+        109634,
+        35002,
+        42421
+      ],
+      "Timestamp": 1714230111,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 112541,
+      "Restrictor": 0,
+      "Sectors": [
+        25800,
+        34015,
+        52726
+      ],
+      "Timestamp": 1714230120,
+      "Tyre": "S",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 96303,
+      "Restrictor": 0,
+      "Sectors": [
+        24991,
+        32922,
+        38390
+      ],
+      "Timestamp": 1714230187,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 145973,
+      "Restrictor": 0,
+      "Sectors": [
+        71373,
+        33587,
+        41013
+      ],
+      "Timestamp": 1714230201,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mrs. Cuh",
+      "LapTime": 110813,
+      "Restrictor": 0,
+      "Sectors": [
+        25404,
+        45301,
+        40108
+      ],
+      "Timestamp": 1714230222,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 207201,
+      "Restrictor": 0,
+      "Sectors": [
+        118312,
+        45522,
+        43367
+      ],
+      "Timestamp": 1714230248,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 3,
+      "DriverGuid": "76561199046537014",
+      "DriverName": "Romain Grosjean",
+      "LapTime": 296259,
+      "Restrictor": 0,
+      "Sectors": [
+        223134,
+        34357,
+        38768
+      ],
+      "Timestamp": 1714230266,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 96825,
+      "Restrictor": 0,
+      "Sectors": [
+        24906,
+        33029,
+        38890
+      ],
+      "Timestamp": 1714230297,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mrs. Cuh",
+      "LapTime": 101635,
+      "Restrictor": 0,
+      "Sectors": [
+        25121,
+        35420,
+        41094
+      ],
+      "Timestamp": 1714230324,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_2013",
+      "Cuts": 1,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 99035,
+      "Restrictor": 0,
+      "Sectors": [
+        25010,
+        34902,
+        39123
+      ],
+      "Timestamp": 1714230347,
+      "Tyre": "SS",
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 26,
+        "Road": 36,
+        "Grip": 1,
+        "WindSpeed": 4,
+        "WindDirection": 40,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 0,
+      "BestLap": 94881,
+      "CarId": 1,
+      "CarModel": "rss_formula_2013",
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "Restrictor": 0,
+      "TotalTime": 774893,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "GridPosition": 4
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 96825,
+      "CarId": 8,
+      "CarModel": "rss_formula_2013",
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "Restrictor": 0,
+      "TotalTime": 885653,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "GridPosition": 10
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 99064,
+      "CarId": 6,
+      "CarModel": "rss_formula_2013",
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "Restrictor": 0,
+      "TotalTime": 935582,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "GridPosition": 2
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 100159,
+      "CarId": 0,
+      "CarModel": "rss_formula_2013",
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Mr. Cuh",
+      "Restrictor": 0,
+      "TotalTime": 707719,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "GridPosition": 1
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 999999999,
+      "CarId": 9,
+      "CarModel": "rss_formula_2013",
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mrs. Cuh",
+      "Restrictor": 0,
+      "TotalTime": 911944,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "GridPosition": 3
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 999999999,
+      "CarId": 5,
+      "CarModel": "rss_formula_2013",
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "Restrictor": 0,
+      "TotalTime": 528990,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "GridPosition": 8
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 999999999,
+      "CarId": 7,
+      "CarModel": "rss_formula_2013",
+      "DriverGuid": "76561199046537014",
+      "DriverName": "Romain Grosjean",
+      "Restrictor": 0,
+      "TotalTime": 853902,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "86e5c631-9189-4eaa-9b53-ede6ff89939c",
+      "GridPosition": 9
+    }
+  ],
+  "Penalties": null,
+  "TrackConfig": "layout_f1_2024",
+  "TrackName": "acu_sepang",
+  "Type": "QUALIFY",
+  "Date": "2024-04-27T17:06:00+02:00",
+  "SessionFile": "2024_4_27_17_6_QUALIFY",
+  "SessionConfig": {
+    "session_type": 2,
+    "name": "Qualify",
+    "time": 15,
+    "laps": 0,
+    "is_open": 1,
+    "wait_time": 0,
+    "visibility_mode": 0,
+    "qualifying_type": 0,
+    "qualifying_number_of_laps_to_average": 0,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "d4506804-a957-40f8-9b88-85c8c6a8f1af",
+  "RaceWeekendID": ""
+}

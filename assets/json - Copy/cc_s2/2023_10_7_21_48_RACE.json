@@ -1,0 +1,4988 @@
+{
+  "Version": 6,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198861484317",
+        "GuidsList": [
+          "76561198861484317"
+        ],
+        "Name": "Chips",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "16_Browning",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "2023_12_Edgar",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "MinPing": 44,
+      "MaxPing": 49
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "2023_27_Barnard",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561199034435554",
+        "GuidsList": [
+          "76561199034435554"
+        ],
+        "Name": "Lukáš",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "2023_1_Aron",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561199489137314",
+        "GuidsList": [
+          "76561199489137314"
+        ],
+        "Name": "Hedjran Ahmadi",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "04_Trident",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "23_Marti",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "MinPing": 31,
+      "MaxPing": 34
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "2023_2_Beganovic",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "MinPing": 103,
+      "MaxPing": 120
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561199159815270",
+        "GuidsList": [
+          "76561199159815270"
+        ],
+        "Name": "Matyas",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "08_Saucy",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561199241736905",
+        "GuidsList": [
+          "76561199241736905"
+        ],
+        "Name": "danottok",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "08_Saucy",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561199508702937",
+        "GuidsList": [
+          "76561199508702937"
+        ],
+        "Name": "Minadi2slow",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "2023_29_Flörsch_Alpine",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "19_Smith",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "07_Frederick",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "2023_11_Boya",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "MinPing": 49,
+      "MaxPing": 51
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "14_Montoya",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "MinPing": 69,
+      "MaxPing": 92
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "Model": "rss_formula_rss_3_v6",
+      "Restrictor": 0,
+      "Skin": "06_Trident",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "MinPing": 66,
+      "MaxPing": 73
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Himmy Johnson",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_abarth_595ss_s2",
+      "Restrictor": 0,
+      "Skin": "black",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 62.5775,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.9000507,
+        "Y": -0.19017081,
+        "Z": 2.6748607
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 678.9681,
+        "Y": -87.00077,
+        "Z": -484.24
+      },
+      "Timestamp": 1696705744,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 25.429214,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.49727726,
+        "Y": 0.6459785,
+        "Z": -2.0562675
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 652.3753,
+        "Y": -86.28635,
+        "Z": -472.53622
+      },
+      "Timestamp": 1696705749,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 46.048862,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.90007216,
+        "Y": -0.19017184,
+        "Z": 2.6748438
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 341.258,
+        "Y": -56.55312,
+        "Z": -3.4491508
+      },
+      "Timestamp": 1696705759,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 33.543465,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.9133148,
+        "Y": -0.19383217,
+        "Z": -1.3681085
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 293.86273,
+        "Y": -55.54214,
+        "Z": 16.12427
+      },
+      "Timestamp": 1696705864,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 35.56644,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.9000703,
+        "Y": -0.19016814,
+        "Z": 2.6748464
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 347.67883,
+        "Y": -56.708584,
+        "Z": -6.285638
+      },
+      "Timestamp": 1696706550,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 8.3558,
+      "OtherCarId": 12,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.000006018523,
+        "Y": -0.08936445,
+        "Z": 2.8558366
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 850.5304,
+        "Y": -81.56378,
+        "Z": -379.69028
+      },
+      "Timestamp": 1696706701,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 15.255489,
+      "OtherCarId": 13,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.51684916,
+        "Y": -0.1250047,
+        "Z": -1.5138175
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 850.806,
+        "Y": -81.5997,
+        "Z": -379.80643
+      },
+      "Timestamp": 1696706705,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 78.42067,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.8998696,
+        "Y": -0.17373852,
+        "Z": 2.6412387
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 356.24435,
+        "Y": -57.328297,
+        "Z": -52.818726
+      },
+      "Timestamp": 1696706794,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 42.886925,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.49727833,
+        "Y": 0.6459762,
+        "Z": -2.0562906
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 361.95084,
+        "Y": -56.54147,
+        "Z": -54.568542
+      },
+      "Timestamp": 1696706799,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 3.6831183,
+      "OtherCarId": 13,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.000023590354,
+        "Y": 0.0682453,
+        "Z": -2.118832
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 831.88794,
+        "Y": -80.09166,
+        "Z": -370.28952
+      },
+      "Timestamp": 1696706805,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 0.444408,
+      "OtherCarId": 12,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.054114293,
+        "Y": 0.073757604,
+        "Z": 2.4545848
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 831.13184,
+        "Y": -80.047585,
+        "Z": -369.93997
+      },
+      "Timestamp": 1696706806,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 8.51657,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.9000428,
+        "Y": -0.19017163,
+        "Z": 2.6748643
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -873.63324,
+        "Y": -70.798775,
+        "Z": 471.98798
+      },
+      "Timestamp": 1696706828,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 40.83589,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.000007041905,
+        "Y": -0.13687518,
+        "Z": 2.8793876
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -224.48651,
+        "Y": -69.589806,
+        "Z": -64.98214
+      },
+      "Timestamp": 1696706999,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 14.589016,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.9000654,
+        "Y": -0.19017045,
+        "Z": 2.674849
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 372.76868,
+        "Y": -57.65228,
+        "Z": -57.92978
+      },
+      "Timestamp": 1696707183,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 10.044355,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.90007323,
+        "Y": -0.19017087,
+        "Z": 2.6748452
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 374.73477,
+        "Y": -57.68637,
+        "Z": -58.534748
+      },
+      "Timestamp": 1696707188,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 28.39642,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.90007794,
+        "Y": -0.19017099,
+        "Z": 2.6748533
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -842.31415,
+        "Y": -69.37401,
+        "Z": 467.16306
+      },
+      "Timestamp": 1696707240,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 86.96281,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.90008515,
+        "Y": -0.19016907,
+        "Z": 2.6748724
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -821.49695,
+        "Y": -79.46431,
+        "Z": 312.44177
+      },
+      "Timestamp": 1696707248,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 17.263681,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.4972874,
+        "Y": 0.6459749,
+        "Z": -2.0562994
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -892.25244,
+        "Y": -70.32778,
+        "Z": 500.05017
+      },
+      "Timestamp": 1696707263,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 49.151993,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.90008205,
+        "Y": -0.19017261,
+        "Z": 2.6748493
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -855.423,
+        "Y": -69.928055,
+        "Z": 469.11298
+      },
+      "Timestamp": 1696707305,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 19.741652,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.90006375,
+        "Y": -0.19016851,
+        "Z": 2.6748514
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 302.21185,
+        "Y": -55.721077,
+        "Z": 12.629171
+      },
+      "Timestamp": 1696707308,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 60.010166,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.8955873,
+        "Y": 0.32360965,
+        "Z": -1.2505138
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 301.92,
+        "Y": -55.234447,
+        "Z": 12.739296
+      },
+      "Timestamp": 1696707440,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 53.392014,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.000002139873,
+        "Y": -0.0893673,
+        "Z": 2.8558257
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -848.5296,
+        "Y": -78.81422,
+        "Z": 339.23453
+      },
+      "Timestamp": 1696707473,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 1.6360341,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.93699247,
+        "Y": -0.22427578,
+        "Z": 1.72148
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 61.606503,
+        "Y": -84.43206,
+        "Z": -416.11743
+      },
+      "Timestamp": 1696707604,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 89.94754,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.69351566,
+        "Y": 0.46049476,
+        "Z": -1.4059949
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -636.29877,
+        "Y": -81.33653,
+        "Z": -147.17685
+      },
+      "Timestamp": 1696707610,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 69.01718,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.90006423,
+        "Y": -0.19016887,
+        "Z": 2.6748464
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -247.18245,
+        "Y": -57.23279,
+        "Z": 321.76358
+      },
+      "Timestamp": 1696707615,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 6.425555,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.4972698,
+        "Y": 0.64597785,
+        "Z": -2.0562856
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -272.61865,
+        "Y": -58.10549,
+        "Z": 301.2172
+      },
+      "Timestamp": 1696707620,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 41.553013,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.9000566,
+        "Y": -0.1901681,
+        "Z": 2.6748412
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -257.56967,
+        "Y": -64.36743,
+        "Z": 220.94171
+      },
+      "Timestamp": 1696707625,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 1.5032146,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.9133157,
+        "Y": -0.19383214,
+        "Z": -1.3681076
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 352.7305,
+        "Y": -56.811787,
+        "Z": -8.6521
+      },
+      "Timestamp": 1696707660,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 34.169895,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.000001804854,
+        "Y": -0.13687123,
+        "Z": 2.8793838
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -120.59514,
+        "Y": -63.018562,
+        "Z": -24.18932
+      },
+      "Timestamp": 1696707674,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 10.5788145,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.90006757,
+        "Y": -0.19016872,
+        "Z": 2.6748488
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -95.67663,
+        "Y": -62.15548,
+        "Z": -20.718409
+      },
+      "Timestamp": 1696707689,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 0.6788214,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.9000678,
+        "Y": -0.1901704,
+        "Z": 2.6748512
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -101.42961,
+        "Y": -62.358162,
+        "Z": -21.302399
+      },
+      "Timestamp": 1696707694,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 28.421682,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.4972674,
+        "Y": 0.6459804,
+        "Z": -2.0562975
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 37.85032,
+        "Y": -57.534794,
+        "Z": -2.6150134
+      },
+      "Timestamp": 1696707704,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 43.003487,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.000018131152,
+        "Y": -0.13687071,
+        "Z": 2.87936
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 853.7335,
+        "Y": -80.56604,
+        "Z": -362.4414
+      },
+      "Timestamp": 1696707729,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 6.071932,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.9000923,
+        "Y": -0.19016662,
+        "Z": 2.6748352
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 909.69714,
+        "Y": -82.86449,
+        "Z": -386.91174
+      },
+      "Timestamp": 1696707734,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 12.717576,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.90006804,
+        "Y": -0.19016844,
+        "Z": 2.6748524
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -297.782,
+        "Y": -68.11321,
+        "Z": 185.5667
+      },
+      "Timestamp": 1696707818,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 6.8783426,
+      "OtherCarId": 12,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.9077038,
+        "Y": -0.19722088,
+        "Z": 2.477789
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -292.33493,
+        "Y": -68.73354,
+        "Z": 174.9426
+      },
+      "Timestamp": 1696707834,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 7.601168,
+      "OtherCarId": 14,
+      "OtherDriver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.93699205,
+        "Y": -0.22428119,
+        "Z": 1.7214757
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -292.1034,
+        "Y": -68.71222,
+        "Z": 175.8085
+      },
+      "Timestamp": 1696707835,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 13.742684,
+      "OtherCarId": 6,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.00003007823,
+        "Y": -0.19229503,
+        "Z": -1.5241301
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 857.9769,
+        "Y": -85.36447,
+        "Z": -476.00583
+      },
+      "Timestamp": 1696707879,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 4.5141764,
+      "OtherCarId": 14,
+      "OtherDriver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.39127386,
+        "Y": 0.06173,
+        "Z": 2.3692365
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 858.9226,
+        "Y": -85.12276,
+        "Z": -474.224
+      },
+      "Timestamp": 1696707880,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 108.48466,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.9133143,
+        "Y": -0.19383469,
+        "Z": -1.3681186
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -564.7239,
+        "Y": -82.33316,
+        "Z": -240.55455
+      },
+      "Timestamp": 1696707882,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 100.65365,
+      "OtherCarId": 5,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.78946775,
+        "Y": -0.19193833,
+        "Z": 0.84876305
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -608.3606,
+        "Y": -82.10959,
+        "Z": -237.82901
+      },
+      "Timestamp": 1696707887,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 36.31794,
+      "OtherCarId": 6,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.0041012,
+        "Y": -0.11062606,
+        "Z": 2.8472126
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 412.19754,
+        "Y": -85.863174,
+        "Z": -374.21866
+      },
+      "Timestamp": 1696707889,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 42.398777,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.000008488621,
+        "Y": -0.13687599,
+        "Z": 2.8793855
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 418.13885,
+        "Y": -85.87987,
+        "Z": -371.58328
+      },
+      "Timestamp": 1696707889,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 63.99109,
+      "OtherCarId": 13,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.89968765,
+        "Y": -0.16191268,
+        "Z": 2.617077
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -607.5946,
+        "Y": -82.08511,
+        "Z": -238.08037
+      },
+      "Timestamp": 1696707890,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 28.389942,
+      "OtherCarId": 14,
+      "OtherDriver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "SWE",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.00065382925,
+        "Y": -0.13042924,
+        "Z": 2.8731499
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 509.02646,
+        "Y": -86.406334,
+        "Z": -403.48114
+      },
+      "Timestamp": 1696707890,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 42.403656,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": 0.000018797158,
+        "Y": -0.13686982,
+        "Z": 2.8794
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -600.9706,
+        "Y": -82.349556,
+        "Z": -221.51411
+      },
+      "Timestamp": 1696707892,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "ImpactSpeed": 24.704782,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5"
+      },
+      "RelPosition": {
+        "X": -0.9000868,
+        "Y": -0.19017214,
+        "Z": 2.674855
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -624.4446,
+        "Y": -82.10158,
+        "Z": -176.6116
+      },
+      "Timestamp": 1696707918,
+      "AfterSessionEnd": true
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 101793,
+      "Restrictor": 0,
+      "Sectors": [
+        32281,
+        37111,
+        32401
+      ],
+      "Timestamp": 1696705655,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 3,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 102713,
+      "Restrictor": 0,
+      "Sectors": [
+        33193,
+        37066,
+        32454
+      ],
+      "Timestamp": 1696705655,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 104335,
+      "Restrictor": 0,
+      "Sectors": [
+        31863,
+        36287,
+        36185
+      ],
+      "Timestamp": 1696705657,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 104377,
+      "Restrictor": 0,
+      "Sectors": [
+        33813,
+        37831,
+        32733
+      ],
+      "Timestamp": 1696705657,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 113629,
+      "Restrictor": 0,
+      "Sectors": [
+        34317,
+        46048,
+        33264
+      ],
+      "Timestamp": 1696705666,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 95219,
+      "Restrictor": 0,
+      "Sectors": [
+        27031,
+        36324,
+        31864
+      ],
+      "Timestamp": 1696705750,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94888,
+      "Restrictor": 0,
+      "Sectors": [
+        27046,
+        35932,
+        31910
+      ],
+      "Timestamp": 1696705752,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 96814,
+      "Restrictor": 0,
+      "Sectors": [
+        27726,
+        36746,
+        32342
+      ],
+      "Timestamp": 1696705754,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 125624,
+      "Restrictor": 0,
+      "Sectors": [
+        27380,
+        36072,
+        62172
+      ],
+      "Timestamp": 1696705781,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 121933,
+      "Restrictor": 0,
+      "Sectors": [
+        40361,
+        37756,
+        43816
+      ],
+      "Timestamp": 1696705788,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94993,
+      "Restrictor": 0,
+      "Sectors": [
+        26854,
+        35960,
+        32179
+      ],
+      "Timestamp": 1696705845,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 96278,
+      "Restrictor": 0,
+      "Sectors": [
+        26983,
+        37102,
+        32193
+      ],
+      "Timestamp": 1696705850,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 100086,
+      "Restrictor": 0,
+      "Sectors": [
+        26736,
+        41485,
+        31865
+      ],
+      "Timestamp": 1696705852,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 107728,
+      "Restrictor": 0,
+      "Sectors": [
+        37911,
+        36855,
+        32962
+      ],
+      "Timestamp": 1696705889,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 117015,
+      "Restrictor": 0,
+      "Sectors": [
+        28338,
+        38592,
+        50085
+      ],
+      "Timestamp": 1696705905,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 95837,
+      "Restrictor": 0,
+      "Sectors": [
+        27514,
+        36274,
+        32049
+      ],
+      "Timestamp": 1696705941,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 95893,
+      "Restrictor": 0,
+      "Sectors": [
+        27259,
+        36517,
+        32117
+      ],
+      "Timestamp": 1696705946,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 95787,
+      "Restrictor": 0,
+      "Sectors": [
+        26990,
+        35901,
+        32896
+      ],
+      "Timestamp": 1696705948,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 419318,
+      "Restrictor": 0,
+      "Sectors": [
+        333341,
+        46108,
+        39869
+      ],
+      "Timestamp": 1696705972,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 96863,
+      "Restrictor": 0,
+      "Sectors": [
+        27474,
+        36463,
+        32926
+      ],
+      "Timestamp": 1696705986,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 100287,
+      "Restrictor": 0,
+      "Sectors": [
+        27872,
+        37728,
+        34687
+      ],
+      "Timestamp": 1696706006,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 99763,
+      "Restrictor": 0,
+      "Sectors": [
+        26854,
+        40738,
+        32171
+      ],
+      "Timestamp": 1696706040,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 95441,
+      "Restrictor": 0,
+      "Sectors": [
+        26979,
+        36458,
+        32004
+      ],
+      "Timestamp": 1696706042,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 97420,
+      "Restrictor": 0,
+      "Sectors": [
+        26640,
+        38884,
+        31896
+      ],
+      "Timestamp": 1696706045,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 96883,
+      "Restrictor": 0,
+      "Sectors": [
+        27340,
+        36599,
+        32944
+      ],
+      "Timestamp": 1696706083,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 119711,
+      "Restrictor": 0,
+      "Sectors": [
+        33789,
+        46237,
+        39685
+      ],
+      "Timestamp": 1696706092,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 109485,
+      "Restrictor": 0,
+      "Sectors": [
+        36072,
+        39752,
+        33661
+      ],
+      "Timestamp": 1696706115,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 95513,
+      "Restrictor": 0,
+      "Sectors": [
+        26934,
+        35712,
+        32867
+      ],
+      "Timestamp": 1696706136,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 96150,
+      "Restrictor": 0,
+      "Sectors": [
+        27493,
+        36468,
+        32189
+      ],
+      "Timestamp": 1696706138,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94623,
+      "Restrictor": 0,
+      "Sectors": [
+        26655,
+        36094,
+        31874
+      ],
+      "Timestamp": 1696706140,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 3,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 93588,
+      "Restrictor": 0,
+      "Sectors": [
+        27573,
+        36558,
+        29457
+      ],
+      "Timestamp": 1696706176,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 5,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 115702,
+      "Restrictor": 0,
+      "Sectors": [
+        34950,
+        42484,
+        38268
+      ],
+      "Timestamp": 1696706207,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 99810,
+      "Restrictor": 0,
+      "Sectors": [
+        27652,
+        39433,
+        32725
+      ],
+      "Timestamp": 1696706215,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94295,
+      "Restrictor": 0,
+      "Sectors": [
+        26629,
+        35726,
+        31940
+      ],
+      "Timestamp": 1696706230,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 95782,
+      "Restrictor": 0,
+      "Sectors": [
+        27094,
+        36481,
+        32207
+      ],
+      "Timestamp": 1696706233,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 93887,
+      "Restrictor": 0,
+      "Sectors": [
+        26730,
+        35649,
+        31508
+      ],
+      "Timestamp": 1696706234,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 4,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 96439,
+      "Restrictor": 0,
+      "Sectors": [
+        27319,
+        35888,
+        33232
+      ],
+      "Timestamp": 1696706273,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 98703,
+      "Restrictor": 0,
+      "Sectors": [
+        27792,
+        38173,
+        32738
+      ],
+      "Timestamp": 1696706314,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 116353,
+      "Restrictor": 0,
+      "Sectors": [
+        33148,
+        44365,
+        38840
+      ],
+      "Timestamp": 1696706324,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94980,
+      "Restrictor": 0,
+      "Sectors": [
+        26935,
+        36090,
+        31955
+      ],
+      "Timestamp": 1696706325,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 93720,
+      "Restrictor": 0,
+      "Sectors": [
+        26084,
+        35686,
+        31950
+      ],
+      "Timestamp": 1696706328,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 95972,
+      "Restrictor": 0,
+      "Sectors": [
+        27213,
+        36612,
+        32147
+      ],
+      "Timestamp": 1696706329,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 4,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 92688,
+      "Restrictor": 0,
+      "Sectors": [
+        27519,
+        36189,
+        28980
+      ],
+      "Timestamp": 1696706365,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 98415,
+      "Restrictor": 0,
+      "Sectors": [
+        28003,
+        37507,
+        32905
+      ],
+      "Timestamp": 1696706412,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 95341,
+      "Restrictor": 0,
+      "Sectors": [
+        26644,
+        35991,
+        32706
+      ],
+      "Timestamp": 1696706421,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94400,
+      "Restrictor": 0,
+      "Sectors": [
+        26716,
+        35842,
+        31842
+      ],
+      "Timestamp": 1696706422,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 96788,
+      "Restrictor": 0,
+      "Sectors": [
+        27309,
+        36733,
+        32746
+      ],
+      "Timestamp": 1696706426,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 96938,
+      "Restrictor": 0,
+      "Sectors": [
+        27180,
+        36585,
+        33173
+      ],
+      "Timestamp": 1696706462,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 98581,
+      "Restrictor": 0,
+      "Sectors": [
+        27706,
+        36985,
+        33890
+      ],
+      "Timestamp": 1696706511,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94398,
+      "Restrictor": 0,
+      "Sectors": [
+        26934,
+        35838,
+        31626
+      ],
+      "Timestamp": 1696706515,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94147,
+      "Restrictor": 0,
+      "Sectors": [
+        26624,
+        35875,
+        31648
+      ],
+      "Timestamp": 1696706516,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 95430,
+      "Restrictor": 0,
+      "Sectors": [
+        27025,
+        36310,
+        32095
+      ],
+      "Timestamp": 1696706522,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 120909,
+      "Restrictor": 0,
+      "Sectors": [
+        37317,
+        36035,
+        47557
+      ],
+      "Timestamp": 1696706583,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 97740,
+      "Restrictor": 0,
+      "Sectors": [
+        30181,
+        36004,
+        31555
+      ],
+      "Timestamp": 1696706613,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 107209,
+      "Restrictor": 0,
+      "Sectors": [
+        33945,
+        38322,
+        34942
+      ],
+      "Timestamp": 1696706618,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 97047,
+      "Restrictor": 0,
+      "Sectors": [
+        27229,
+        36526,
+        33292
+      ],
+      "Timestamp": 1696706619,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 106147,
+      "Restrictor": 0,
+      "Sectors": [
+        37882,
+        36450,
+        31815
+      ],
+      "Timestamp": 1696706622,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 96394,
+      "Restrictor": 0,
+      "Sectors": [
+        27234,
+        36976,
+        32184
+      ],
+      "Timestamp": 1696706680,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 97218,
+      "Restrictor": 0,
+      "Sectors": [
+        26856,
+        35793,
+        34569
+      ],
+      "Timestamp": 1696706710,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 104064,
+      "Restrictor": 0,
+      "Sectors": [
+        28140,
+        37809,
+        38115
+      ],
+      "Timestamp": 1696706722,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 105115,
+      "Restrictor": 0,
+      "Sectors": [
+        27306,
+        38222,
+        39587
+      ],
+      "Timestamp": 1696706724,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 102273,
+      "Restrictor": 0,
+      "Sectors": [
+        26794,
+        36063,
+        39416
+      ],
+      "Timestamp": 1696706724,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 4,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 103915,
+      "Restrictor": 0,
+      "Sectors": [
+        27919,
+        36387,
+        39609
+      ],
+      "Timestamp": 1696706783,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 121573,
+      "Restrictor": 0,
+      "Sectors": [
+        50766,
+        36836,
+        33971
+      ],
+      "Timestamp": 1696706790,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 101663,
+      "Restrictor": 0,
+      "Sectors": [
+        27157,
+        42043,
+        32463
+      ],
+      "Timestamp": 1696706812,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 96926,
+      "Restrictor": 0,
+      "Sectors": [
+        27150,
+        36657,
+        33119
+      ],
+      "Timestamp": 1696706821,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 96367,
+      "Restrictor": 0,
+      "Sectors": [
+        26900,
+        36572,
+        32895
+      ],
+      "Timestamp": 1696706821,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 111613,
+      "Restrictor": 0,
+      "Sectors": [
+        27589,
+        37890,
+        46134
+      ],
+      "Timestamp": 1696706834,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 98524,
+      "Restrictor": 0,
+      "Sectors": [
+        27343,
+        39406,
+        31775
+      ],
+      "Timestamp": 1696706882,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94980,
+      "Restrictor": 0,
+      "Sectors": [
+        26625,
+        36270,
+        32085
+      ],
+      "Timestamp": 1696706907,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 117401,
+      "Restrictor": 0,
+      "Sectors": [
+        27293,
+        42724,
+        47384
+      ],
+      "Timestamp": 1696706907,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94312,
+      "Restrictor": 0,
+      "Sectors": [
+        26254,
+        35536,
+        32522
+      ],
+      "Timestamp": 1696706915,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 94763,
+      "Restrictor": 0,
+      "Sectors": [
+        26962,
+        35914,
+        31887
+      ],
+      "Timestamp": 1696706916,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 100990,
+      "Restrictor": 0,
+      "Sectors": [
+        28864,
+        38651,
+        33475
+      ],
+      "Timestamp": 1696706934,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 3,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 94793,
+      "Restrictor": 0,
+      "Sectors": [
+        28059,
+        37692,
+        29042
+      ],
+      "Timestamp": 1696706977,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 95211,
+      "Restrictor": 0,
+      "Sectors": [
+        27116,
+        36054,
+        32041
+      ],
+      "Timestamp": 1696707002,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 102422,
+      "Restrictor": 0,
+      "Sectors": [
+        27596,
+        39970,
+        34856
+      ],
+      "Timestamp": 1696707009,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94532,
+      "Restrictor": 0,
+      "Sectors": [
+        26879,
+        35857,
+        31796
+      ],
+      "Timestamp": 1696707010,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 95663,
+      "Restrictor": 0,
+      "Sectors": [
+        27165,
+        36558,
+        31940
+      ],
+      "Timestamp": 1696707011,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 117456,
+      "Restrictor": 0,
+      "Sectors": [
+        31087,
+        52362,
+        34007
+      ],
+      "Timestamp": 1696707052,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 4,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 99813,
+      "Restrictor": 0,
+      "Sectors": [
+        30530,
+        38165,
+        31118
+      ],
+      "Timestamp": 1696707077,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94594,
+      "Restrictor": 0,
+      "Sectors": [
+        26892,
+        35981,
+        31721
+      ],
+      "Timestamp": 1696707096,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94606,
+      "Restrictor": 0,
+      "Sectors": [
+        26688,
+        35685,
+        32233
+      ],
+      "Timestamp": 1696707104,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 94894,
+      "Restrictor": 0,
+      "Sectors": [
+        26953,
+        36180,
+        31761
+      ],
+      "Timestamp": 1696707106,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 99434,
+      "Restrictor": 0,
+      "Sectors": [
+        27754,
+        36126,
+        35554
+      ],
+      "Timestamp": 1696707109,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 99593,
+      "Restrictor": 0,
+      "Sectors": [
+        27859,
+        37822,
+        33912
+      ],
+      "Timestamp": 1696707152,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 95040,
+      "Restrictor": 0,
+      "Sectors": [
+        27432,
+        35914,
+        31694
+      ],
+      "Timestamp": 1696707172,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94127,
+      "Restrictor": 0,
+      "Sectors": [
+        26646,
+        35707,
+        31774
+      ],
+      "Timestamp": 1696707190,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94065,
+      "Restrictor": 0,
+      "Sectors": [
+        26565,
+        35554,
+        31946
+      ],
+      "Timestamp": 1696707198,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 94096,
+      "Restrictor": 0,
+      "Sectors": [
+        26263,
+        35950,
+        31883
+      ],
+      "Timestamp": 1696707200,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 107953,
+      "Restrictor": 0,
+      "Sectors": [
+        27128,
+        36990,
+        43835
+      ],
+      "Timestamp": 1696707217,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 105023,
+      "Restrictor": 0,
+      "Sectors": [
+        34373,
+        37764,
+        32886
+      ],
+      "Timestamp": 1696707257,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 94446,
+      "Restrictor": 0,
+      "Sectors": [
+        27202,
+        35852,
+        31392
+      ],
+      "Timestamp": 1696707266,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94079,
+      "Restrictor": 0,
+      "Sectors": [
+        26507,
+        35515,
+        32057
+      ],
+      "Timestamp": 1696707285,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 96470,
+      "Restrictor": 0,
+      "Sectors": [
+        27688,
+        36329,
+        32453
+      ],
+      "Timestamp": 1696707295,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 104788,
+      "Restrictor": 0,
+      "Sectors": [
+        26997,
+        45778,
+        32013
+      ],
+      "Timestamp": 1696707305,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 130384,
+      "Restrictor": 0,
+      "Sectors": [
+        28297,
+        52754,
+        49333
+      ],
+      "Timestamp": 1696707347,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 104052,
+      "Restrictor": 0,
+      "Sectors": [
+        29347,
+        38993,
+        35712
+      ],
+      "Timestamp": 1696707361,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 102955,
+      "Restrictor": 0,
+      "Sectors": [
+        26963,
+        43165,
+        32827
+      ],
+      "Timestamp": 1696707369,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94205,
+      "Restrictor": 0,
+      "Sectors": [
+        26490,
+        35779,
+        31936
+      ],
+      "Timestamp": 1696707379,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94462,
+      "Restrictor": 0,
+      "Sectors": [
+        26877,
+        35792,
+        31793
+      ],
+      "Timestamp": 1696707389,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 95460,
+      "Restrictor": 0,
+      "Sectors": [
+        26727,
+        36954,
+        31779
+      ],
+      "Timestamp": 1696707400,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 97030,
+      "Restrictor": 0,
+      "Sectors": [
+        26965,
+        37472,
+        32593
+      ],
+      "Timestamp": 1696707444,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 100786,
+      "Restrictor": 0,
+      "Sectors": [
+        29780,
+        37720,
+        33286
+      ],
+      "Timestamp": 1696707461,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 4,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 96333,
+      "Restrictor": 0,
+      "Sectors": [
+        27591,
+        35730,
+        33012
+      ],
+      "Timestamp": 1696707465,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 93899,
+      "Restrictor": 0,
+      "Sectors": [
+        26629,
+        35618,
+        31652
+      ],
+      "Timestamp": 1696707473,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 98052,
+      "Restrictor": 0,
+      "Sectors": [
+        26816,
+        39501,
+        31735
+      ],
+      "Timestamp": 1696707487,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 95269,
+      "Restrictor": 0,
+      "Sectors": [
+        26842,
+        36211,
+        32216
+      ],
+      "Timestamp": 1696707496,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 115737,
+      "Restrictor": 0,
+      "Sectors": [
+        26875,
+        51358,
+        37504
+      ],
+      "Timestamp": 1696707560,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 98054,
+      "Restrictor": 0,
+      "Sectors": [
+        27936,
+        36332,
+        33786
+      ],
+      "Timestamp": 1696707563,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94664,
+      "Restrictor": 0,
+      "Sectors": [
+        26616,
+        36044,
+        32004
+      ],
+      "Timestamp": 1696707567,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94788,
+      "Restrictor": 0,
+      "Sectors": [
+        26820,
+        35775,
+        32193
+      ],
+      "Timestamp": 1696707582,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 94893,
+      "Restrictor": 0,
+      "Sectors": [
+        26889,
+        36274,
+        31730
+      ],
+      "Timestamp": 1696707591,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 133543,
+      "Restrictor": 0,
+      "Sectors": [
+        43120,
+        40612,
+        49811
+      ],
+      "Timestamp": 1696707595,
+      "Tyre": "S",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94421,
+      "Restrictor": 0,
+      "Sectors": [
+        26647,
+        35937,
+        31837
+      ],
+      "Timestamp": 1696707662,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 103009,
+      "Restrictor": 0,
+      "Sectors": [
+        28260,
+        41444,
+        33305
+      ],
+      "Timestamp": 1696707663,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 95008,
+      "Restrictor": 0,
+      "Sectors": [
+        26757,
+        35792,
+        32459
+      ],
+      "Timestamp": 1696707677,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 120981,
+      "Restrictor": 0,
+      "Sectors": [
+        26796,
+        60889,
+        33296
+      ],
+      "Timestamp": 1696707684,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 97407,
+      "Restrictor": 0,
+      "Sectors": [
+        29119,
+        36329,
+        31959
+      ],
+      "Timestamp": 1696707688,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 94192,
+      "Restrictor": 50,
+      "Sectors": [
+        26993,
+        35515,
+        31684
+      ],
+      "Timestamp": 1696707756,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 94798,
+      "Restrictor": 0,
+      "Sectors": [
+        26483,
+        36144,
+        32171
+      ],
+      "Timestamp": 1696707758,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 94640,
+      "Restrictor": 0,
+      "Sectors": [
+        26830,
+        35905,
+        31905
+      ],
+      "Timestamp": 1696707772,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 3,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 184753,
+      "Restrictor": 0,
+      "Sectors": [
+        37495,
+        79672,
+        67586
+      ],
+      "Timestamp": 1696707780,
+      "Tyre": "S",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 95094,
+      "Restrictor": 0,
+      "Sectors": [
+        26905,
+        36392,
+        31797
+      ],
+      "Timestamp": 1696707783,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 3,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 105799,
+      "Restrictor": 0,
+      "Sectors": [
+        27207,
+        35918,
+        42674
+      ],
+      "Timestamp": 1696707790,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 4,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 92827,
+      "Restrictor": 150,
+      "Sectors": [
+        26826,
+        36796,
+        29205
+      ],
+      "Timestamp": 1696707849,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 95812,
+      "Restrictor": 0,
+      "Sectors": [
+        26849,
+        36842,
+        32121
+      ],
+      "Timestamp": 1696707868,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 103464,
+      "Restrictor": 0,
+      "Sectors": [
+        27270,
+        38285,
+        37909
+      ],
+      "Timestamp": 1696707887,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 1,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 129020,
+      "Restrictor": 0,
+      "Sectors": [
+        26466,
+        62455,
+        40099
+      ],
+      "Timestamp": 1696707887,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 3,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 119386,
+      "Restrictor": 0,
+      "Sectors": [
+        27267,
+        39163,
+        52956
+      ],
+      "Timestamp": 1696707910,
+      "Tyre": "M",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "Cuts": 0,
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "LapTime": 244410,
+      "Restrictor": 0,
+      "Sectors": [
+        170011,
+        38016,
+        36383
+      ],
+      "Timestamp": 1696708024,
+      "Tyre": "S",
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 0,
+      "BestLap": 93899,
+      "CarId": 5,
+      "CarModel": "rss_formula_rss_3_v6",
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "Restrictor": 0,
+      "TotalTime": 2295920,
+      "NumLaps": 0,
+      "HasPenalty": true,
+      "PenaltyTime": 15000000000,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "GridPosition": 2
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 93720,
+      "CarId": 13,
+      "CarModel": "rss_formula_rss_3_v6",
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "Restrictor": 0,
+      "TotalTime": 2314758,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "GridPosition": 1
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 94096,
+      "CarId": 12,
+      "CarModel": "rss_formula_rss_3_v6",
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "Restrictor": 0,
+      "TotalTime": 2333727,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "GridPosition": 3
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 96938,
+      "CarId": 6,
+      "CarModel": "rss_formula_rss_3_v6",
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "Restrictor": 0,
+      "TotalTime": 2356723,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "GridPosition": 4
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 98415,
+      "CarId": 14,
+      "CarModel": "rss_formula_rss_3_v6",
+      "DriverGuid": "76561198288926984",
+      "DriverName": "Veixel",
+      "Restrictor": 0,
+      "TotalTime": 2471281,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "GridPosition": 6
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 94798,
+      "CarId": 1,
+      "CarModel": "rss_formula_rss_3_v6",
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "Restrictor": 0,
+      "TotalTime": 2333756,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "9b6307df-eed0-4459-9013-95f01e8902a5",
+      "GridPosition": 5
+    }
+  ],
+  "Penalties": [
+    {
+      "DriverName": "Gabriel Rico",
+      "DriverGUID": "76561198800988033",
+      "CarID": 5,
+      "GivenOnLap": 22,
+      "GivenAtTime": "2023-10-07T21:42:33.7154146+02:00",
+      "InfractionType": 3,
+      "PenaltyType": 2,
+      "BoPAmount": 50,
+      "BoPClearedInNumLaps": 1,
+      "DriveThroughNumLaps": 2,
+      "TimePenaltyDuration": 0
+    },
+    {
+      "DriverName": "Gabriel Rico",
+      "DriverGUID": "76561198800988033",
+      "CarID": 5,
+      "GivenOnLap": 23,
+      "GivenAtTime": "2023-10-07T21:42:42.1378898+02:00",
+      "InfractionType": 3,
+      "PenaltyType": 2,
+      "BoPAmount": 100,
+      "BoPClearedInNumLaps": 1,
+      "DriveThroughNumLaps": 2,
+      "TimePenaltyDuration": 0
+    },
+    {
+      "DriverName": "Gabriel Rico",
+      "DriverGUID": "76561198800988033",
+      "CarID": 5,
+      "GivenOnLap": 23,
+      "GivenAtTime": "2023-10-07T21:44:06.2202184+02:00",
+      "InfractionType": 3,
+      "PenaltyType": 2,
+      "BoPAmount": 150,
+      "BoPClearedInNumLaps": 1,
+      "DriveThroughNumLaps": 2,
+      "TimePenaltyDuration": 0
+    },
+    {
+      "DriverName": "Gabriel Rico",
+      "DriverGUID": "76561198800988033",
+      "CarID": 5,
+      "GivenOnLap": 24,
+      "GivenAtTime": "2023-10-07T21:44:09.3048785+02:00",
+      "InfractionType": 3,
+      "PenaltyType": 2,
+      "BoPAmount": 200,
+      "BoPClearedInNumLaps": 1,
+      "DriveThroughNumLaps": 2,
+      "TimePenaltyDuration": 0
+    },
+    {
+      "DriverName": "Gabriel Rico",
+      "DriverGUID": "76561198800988033",
+      "CarID": 5,
+      "GivenOnLap": 24,
+      "GivenAtTime": "2023-10-07T21:48:35.3001122+02:00",
+      "InfractionType": 5,
+      "PenaltyType": 6,
+      "BoPAmount": 0,
+      "BoPClearedInNumLaps": 0,
+      "DriveThroughNumLaps": 0,
+      "TimePenaltyDuration": 15000000000
+    }
+  ],
+  "TrackConfig": "imola_osrw",
+  "TrackName": "imola",
+  "Type": "RACE",
+  "Date": "2023-10-07T21:48:00+02:00",
+  "SessionFile": "2023_10_7_21_48_RACE",
+  "SessionConfig": {
+    "session_type": 3,
+    "name": "Race",
+    "time": 0,
+    "laps": 24,
+    "is_open": 1,
+    "wait_time": 60,
+    "visibility_mode": 0,
+    "qualifying_type": 0,
+    "qualifying_number_of_laps_to_average": 0,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "c9270dbe-f6dc-49f9-9b6e-cddc1c8c34c1",
+  "RaceWeekendID": "",
+  "EventName": ""
+}

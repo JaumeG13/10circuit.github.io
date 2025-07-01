@@ -1,0 +1,2984 @@
+{
+  "Version": 7,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #10 Vector Sport WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 49,
+      "MaxPing": 56
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #05 Team Penske WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 26,
+      "MaxPing": 30
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Henry Moore",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #38 Jota Sport WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 130,
+      "MaxPing": 197
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #22 United Autosports USA WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 47,
+      "MaxPing": 57
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Saubu fan?!",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #83 AFCorse WEC",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #45 Algarve Pro Racing WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 115,
+      "MaxPing": 116
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #35 Team Ultimate WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 67,
+      "MaxPing": 81
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #34 Inter Europol Competition WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 1,
+      "MaxPing": 12
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "MELON",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2021 #70 Real Team Racing WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 54,
+      "MaxPing": 58
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Corporal",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #44 ARC Bratislava WEC",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "urd_bayro_egt_2018",
+      "Restrictor": 0,
+      "Skin": "82",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "MinPing": 48,
+      "MaxPing": 54
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "urd_detroit_egt_2018_LM",
+      "Restrictor": 0,
+      "Skin": "77",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "urd_bayro_egt_2018",
+      "Restrictor": 0,
+      "Skin": "81",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "MinPing": 50,
+      "MaxPing": 53
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 27.171026,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.9337794,
+        "Y": 0.05860056,
+        "Z": 2.4658353
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 160.02187,
+        "Y": 0.32978243,
+        "Z": -205.6101
+      },
+      "Timestamp": 1702744300,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Henry Moore",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 97.86961,
+      "OtherCarId": 7,
+      "OtherDriver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "RelPosition": {
+        "X": 0.8958065,
+        "Y": -0.11583929,
+        "Z": -2.0479822
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -189.00421,
+        "Y": 13.726639,
+        "Z": -243.3705
+      },
+      "Timestamp": 1702744373,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Henry Moore",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 26.233603,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.93378234,
+        "Y": 0.058600914,
+        "Z": 2.4658422
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -139.6754,
+        "Y": 13.942717,
+        "Z": -193.83649
+      },
+      "Timestamp": 1702744373,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Jaume",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 69.86437,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Henry Moore",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "RelPosition": {
+        "X": -0.73423195,
+        "Y": 0.16346021,
+        "Z": 2.4553852
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -188.49715,
+        "Y": 13.978078,
+        "Z": -243.11382
+      },
+      "Timestamp": 1702744374,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Henry Moore",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 11.839456,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.91864043,
+        "Y": -0.1145163,
+        "Z": -2.0476162
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -109.89783,
+        "Y": 13.490553,
+        "Z": -172.41689
+      },
+      "Timestamp": 1702744378,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 0.84700465,
+      "OtherCarId": 2,
+      "OtherDriver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Henry Moore",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "RelPosition": {
+        "X": 0.03233882,
+        "Y": -0.17489813,
+        "Z": 2.0349708
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 149.22517,
+        "Y": 0.11233526,
+        "Z": -203.31792
+      },
+      "Timestamp": 1702744468,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 13.733119,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.9337835,
+        "Y": 0.058600605,
+        "Z": 2.4658387
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 160.79105,
+        "Y": 0.35144016,
+        "Z": -204.931
+      },
+      "Timestamp": 1702744864,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 79.92601,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.78152454,
+        "Y": 0.08064961,
+        "Z": 2.4308217
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -258.84857,
+        "Y": 15.361081,
+        "Z": 152.43625
+      },
+      "Timestamp": 1702745014,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 46.29333,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.9492811,
+        "Y": 0.63941026,
+        "Z": -1.3659911
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 309.29626,
+        "Y": 0.56004006,
+        "Z": -104.72122
+      },
+      "Timestamp": 1702745159,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 255.7975,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.8946871,
+        "Y": 0.06437156,
+        "Z": 2.415946
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -277.43762,
+        "Y": 1.7478259,
+        "Z": -793.2129
+      },
+      "Timestamp": 1702745174,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 63.15139,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.08482597,
+        "Y": -0.03389076,
+        "Z": 2.4661384
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 86.9021,
+        "Y": -0.81277096,
+        "Z": -264.3928
+      },
+      "Timestamp": 1702745175,
+      "AfterSessionEnd": true
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 128961,
+      "Restrictor": 0,
+      "Sectors": [
+        67887,
+        34685,
+        26389
+      ],
+      "Timestamp": 1702744363,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 132837,
+      "Restrictor": 0,
+      "Sectors": [
+        73099,
+        34078,
+        25660
+      ],
+      "Timestamp": 1702744367,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 132970,
+      "Restrictor": 0,
+      "Sectors": [
+        63189,
+        40347,
+        29434
+      ],
+      "Timestamp": 1702744367,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 138850,
+      "Restrictor": 0,
+      "Sectors": [
+        68376,
+        40225,
+        30249
+      ],
+      "Timestamp": 1702744373,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 155646,
+      "Restrictor": 0,
+      "Sectors": [
+        95580,
+        34164,
+        25902
+      ],
+      "Timestamp": 1702744391,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 184845,
+      "Restrictor": 0,
+      "Sectors": [
+        123591,
+        33993,
+        27261
+      ],
+      "Timestamp": 1702744420,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 199793,
+      "Restrictor": 0,
+      "Sectors": [
+        138409,
+        35154,
+        26230
+      ],
+      "Timestamp": 1702744434,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 88253,
+      "Restrictor": 0,
+      "Sectors": [
+        28255,
+        34515,
+        25483
+      ],
+      "Timestamp": 1702744451,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 87376,
+      "Restrictor": 0,
+      "Sectors": [
+        28026,
+        34065,
+        25285
+      ],
+      "Timestamp": 1702744454,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 101332,
+      "Restrictor": 0,
+      "Sectors": [
+        32451,
+        39870,
+        29011
+      ],
+      "Timestamp": 1702744468,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 101093,
+      "Restrictor": 0,
+      "Sectors": [
+        32055,
+        40050,
+        28988
+      ],
+      "Timestamp": 1702744474,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 86841,
+      "Restrictor": 0,
+      "Sectors": [
+        27967,
+        33575,
+        25299
+      ],
+      "Timestamp": 1702744507,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 89908,
+      "Restrictor": 0,
+      "Sectors": [
+        28474,
+        35410,
+        26024
+      ],
+      "Timestamp": 1702744523,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 293181,
+      "Restrictor": 0,
+      "Sectors": [
+        233326,
+        34070,
+        25785
+      ],
+      "Timestamp": 1702744527,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 154628,
+      "Restrictor": 0,
+      "Sectors": [
+        73196,
+        54761,
+        26671
+      ],
+      "Timestamp": 1702744545,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 107767,
+      "Restrictor": 0,
+      "Sectors": [
+        47381,
+        34983,
+        25403
+      ],
+      "Timestamp": 1702744562,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 3,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 331678,
+      "Restrictor": 0,
+      "Sectors": [
+        265056,
+        39829,
+        26793
+      ],
+      "Timestamp": 1702744566,
+      "Tyre": "M",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 100950,
+      "Restrictor": 0,
+      "Sectors": [
+        31839,
+        39996,
+        29115
+      ],
+      "Timestamp": 1702744569,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 101379,
+      "Restrictor": 0,
+      "Sectors": [
+        31790,
+        40186,
+        29403
+      ],
+      "Timestamp": 1702744575,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 130269,
+      "Restrictor": 0,
+      "Sectors": [
+        61931,
+        40312,
+        28026
+      ],
+      "Timestamp": 1702744581,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 87047,
+      "Restrictor": 0,
+      "Sectors": [
+        27904,
+        33795,
+        25348
+      ],
+      "Timestamp": 1702744594,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 88339,
+      "Restrictor": 0,
+      "Sectors": [
+        28017,
+        34312,
+        26010
+      ],
+      "Timestamp": 1702744615,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 87006,
+      "Restrictor": 0,
+      "Sectors": [
+        27866,
+        33751,
+        25389
+      ],
+      "Timestamp": 1702744632,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 87009,
+      "Restrictor": 0,
+      "Sectors": [
+        27888,
+        33894,
+        25227
+      ],
+      "Timestamp": 1702744649,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 90357,
+      "Restrictor": 0,
+      "Sectors": [
+        28932,
+        35550,
+        25875
+      ],
+      "Timestamp": 1702744656,
+      "Tyre": "M",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 100093,
+      "Restrictor": 0,
+      "Sectors": [
+        31558,
+        39748,
+        28787
+      ],
+      "Timestamp": 1702744669,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 88722,
+      "Restrictor": 0,
+      "Sectors": [
+        28336,
+        35024,
+        25362
+      ],
+      "Timestamp": 1702744670,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 126928,
+      "Restrictor": 0,
+      "Sectors": [
+        60458,
+        35685,
+        30785
+      ],
+      "Timestamp": 1702744672,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 101704,
+      "Restrictor": 0,
+      "Sectors": [
+        31941,
+        40410,
+        29353
+      ],
+      "Timestamp": 1702744677,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 86753,
+      "Restrictor": 0,
+      "Sectors": [
+        27700,
+        33781,
+        25272
+      ],
+      "Timestamp": 1702744680,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 87427,
+      "Restrictor": 0,
+      "Sectors": [
+        27842,
+        34173,
+        25412
+      ],
+      "Timestamp": 1702744703,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 86557,
+      "Restrictor": 0,
+      "Sectors": [
+        27787,
+        33601,
+        25169
+      ],
+      "Timestamp": 1702744719,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 88397,
+      "Restrictor": 0,
+      "Sectors": [
+        28093,
+        34479,
+        25825
+      ],
+      "Timestamp": 1702744758,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 90555,
+      "Restrictor": 0,
+      "Sectors": [
+        28796,
+        35537,
+        26222
+      ],
+      "Timestamp": 1702744763,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 122211,
+      "Restrictor": 0,
+      "Sectors": [
+        54495,
+        35343,
+        32373
+      ],
+      "Timestamp": 1702744771,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 263156,
+      "Restrictor": 0,
+      "Sectors": [
+        198631,
+        37386,
+        27139
+      ],
+      "Timestamp": 1702744787,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 88237,
+      "Restrictor": 0,
+      "Sectors": [
+        28248,
+        34425,
+        25564
+      ],
+      "Timestamp": 1702744791,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 117979,
+      "Restrictor": 0,
+      "Sectors": [
+        46069,
+        33817,
+        38093
+      ],
+      "Timestamp": 1702744798,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 148810,
+      "Restrictor": 0,
+      "Sectors": [
+        87246,
+        35234,
+        26330
+      ],
+      "Timestamp": 1702744805,
+      "Tyre": "M",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 89982,
+      "Restrictor": 0,
+      "Sectors": [
+        28619,
+        35366,
+        25997
+      ],
+      "Timestamp": 1702744853,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 87282,
+      "Restrictor": 0,
+      "Sectors": [
+        27922,
+        33863,
+        25497
+      ],
+      "Timestamp": 1702744858,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 197461,
+      "Restrictor": 0,
+      "Sectors": [
+        126145,
+        40603,
+        30713
+      ],
+      "Timestamp": 1702744874,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 89552,
+      "Restrictor": 0,
+      "Sectors": [
+        28429,
+        34866,
+        26257
+      ],
+      "Timestamp": 1702744876,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 89222,
+      "Restrictor": 0,
+      "Sectors": [
+        28212,
+        35433,
+        25577
+      ],
+      "Timestamp": 1702744880,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 86914,
+      "Restrictor": 0,
+      "Sectors": [
+        27779,
+        33822,
+        25313
+      ],
+      "Timestamp": 1702744885,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 90100,
+      "Restrictor": 0,
+      "Sectors": [
+        28976,
+        35227,
+        25897
+      ],
+      "Timestamp": 1702744895,
+      "Tyre": "M",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 89153,
+      "Restrictor": 0,
+      "Sectors": [
+        28363,
+        34916,
+        25874
+      ],
+      "Timestamp": 1702744942,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 88648,
+      "Restrictor": 0,
+      "Sectors": [
+        28348,
+        34457,
+        25843
+      ],
+      "Timestamp": 1702744965,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 210859,
+      "Restrictor": 0,
+      "Sectors": [
+        140812,
+        34528,
+        35519
+      ],
+      "Timestamp": 1702744969,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 90240,
+      "Restrictor": 0,
+      "Sectors": [
+        28630,
+        33746,
+        27864
+      ],
+      "Timestamp": 1702744975,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 90559,
+      "Restrictor": 0,
+      "Sectors": [
+        29004,
+        35464,
+        26091
+      ],
+      "Timestamp": 1702744985,
+      "Tyre": "M",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 334270,
+      "Restrictor": 0,
+      "Sectors": [
+        265474,
+        40032,
+        28764
+      ],
+      "Timestamp": 1702745003,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 154673,
+      "Restrictor": 0,
+      "Sectors": [
+        93365,
+        34758,
+        26550
+      ],
+      "Timestamp": 1702745013,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 89039,
+      "Restrictor": 0,
+      "Sectors": [
+        28208,
+        34885,
+        25946
+      ],
+      "Timestamp": 1702745031,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "LapTime": 89884,
+      "Restrictor": 0,
+      "Sectors": [
+        28527,
+        35154,
+        26203
+      ],
+      "Timestamp": 1702745055,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 87886,
+      "Restrictor": 0,
+      "Sectors": [
+        28022,
+        34183,
+        25681
+      ],
+      "Timestamp": 1702745057,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 87142,
+      "Restrictor": 0,
+      "Sectors": [
+        27733,
+        34029,
+        25380
+      ],
+      "Timestamp": 1702745063,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 3,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 190856,
+      "Restrictor": 0,
+      "Sectors": [
+        121318,
+        43974,
+        25564
+      ],
+      "Timestamp": 1702745071,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 366207,
+      "Restrictor": 0,
+      "Sectors": [
+        288910,
+        34826,
+        42471
+      ],
+      "Timestamp": 1702745085,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 217936,
+      "Restrictor": 0,
+      "Sectors": [
+        146535,
+        41841,
+        29560
+      ],
+      "Timestamp": 1702745092,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 87181,
+      "Restrictor": 0,
+      "Sectors": [
+        27934,
+        33957,
+        25290
+      ],
+      "Timestamp": 1702745100,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 100945,
+      "Restrictor": 0,
+      "Sectors": [
+        31667,
+        40370,
+        28908
+      ],
+      "Timestamp": 1702745104,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 88887,
+      "Restrictor": 0,
+      "Sectors": [
+        28402,
+        34834,
+        25651
+      ],
+      "Timestamp": 1702745120,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 138457,
+      "Restrictor": 0,
+      "Sectors": [
+        76748,
+        35803,
+        25906
+      ],
+      "Timestamp": 1702745124,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 87989,
+      "Restrictor": 0,
+      "Sectors": [
+        28108,
+        34002,
+        25879
+      ],
+      "Timestamp": 1702745145,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 86527,
+      "Restrictor": 0,
+      "Sectors": [
+        27739,
+        33548,
+        25240
+      ],
+      "Timestamp": 1702745149,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 2,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 88405,
+      "Restrictor": 0,
+      "Sectors": [
+        28604,
+        34119,
+        25682
+      ],
+      "Timestamp": 1702745160,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 86822,
+      "Restrictor": 0,
+      "Sectors": [
+        27909,
+        33542,
+        25371
+      ],
+      "Timestamp": 1702745172,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 102921,
+      "Restrictor": 0,
+      "Sectors": [
+        31821,
+        39726,
+        31374
+      ],
+      "Timestamp": 1702745195,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 88523,
+      "Restrictor": 0,
+      "Sectors": [
+        28304,
+        34601,
+        25618
+      ],
+      "Timestamp": 1702745208,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 88849,
+      "Restrictor": 0,
+      "Sectors": [
+        28653,
+        34415,
+        25781
+      ],
+      "Timestamp": 1702745213,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 8,
+        "WindDirection": 21,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 0,
+      "BestLap": 86527,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "Restrictor": 0,
+      "TotalTime": 915340,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 1
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 86557,
+      "CarId": 3,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "Restrictor": 0,
+      "TotalTime": 938072,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 2
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 87009,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "Restrictor": 0,
+      "TotalTime": 866359,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 3
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 87427,
+      "CarId": 5,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "Restrictor": 0,
+      "TotalTime": 925730,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 6
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 87886,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "Restrictor": 0,
+      "TotalTime": 911366,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 4
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 88523,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "Restrictor": 0,
+      "TotalTime": 974334,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 11
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 88648,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Jaume",
+      "Restrictor": 0,
+      "TotalTime": 820941,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 5
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 88849,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "Restrictor": 0,
+      "TotalTime": 978898,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 7
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 100093,
+      "CarId": 10,
+      "CarModel": "urd_bayro_egt_2018",
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "Restrictor": 0,
+      "TotalTime": 870582,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "GridPosition": 8
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 101093,
+      "CarId": 12,
+      "CarModel": "urd_bayro_egt_2018",
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "Restrictor": 0,
+      "TotalTime": 961355,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "GridPosition": 9
+    }
+  ],
+  "Penalties": null,
+  "TrackConfig": "gt_challenge",
+  "TrackName": "kyalami_2016",
+  "Type": "QUALIFY",
+  "Date": "2023-12-16T17:48:00+01:00",
+  "SessionFile": "2023_12_16_17_48_QUALIFY",
+  "SessionConfig": {
+    "session_type": 2,
+    "name": "Qualify",
+    "time": 15,
+    "laps": 0,
+    "is_open": 1,
+    "wait_time": 0,
+    "visibility_mode": 2,
+    "qualifying_type": 0,
+    "qualifying_number_of_laps_to_average": 0,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "cb4ecc8a-fc05-4143-8fad-072cb007cd98",
+  "RaceWeekendID": ""
+}

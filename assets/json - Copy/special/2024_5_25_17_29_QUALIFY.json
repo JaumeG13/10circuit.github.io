@@ -1,0 +1,4936 @@
+{
+  "Version": 7,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198384671575",
+        "GuidsList": [
+          "76561198384671575"
+        ],
+        "Name": "Filip Radomski",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 20 Christian Rasumussen - GuyCare 2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 83,
+      "MaxPing": 124
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561199241736905",
+        "GuidsList": [
+          "76561199241736905"
+        ],
+        "Name": "danottok",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 27 Kyle Kirkwood - Autonation 2",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Henry Moore",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 41 Sting Ray Robb - Pray.com 2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 123,
+      "MaxPing": 178
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561199527704612",
+        "GuidsList": [
+          "76561199527704612"
+        ],
+        "Name": "Callum",
+        "Nation": "ENG",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "15_EMT_Racing",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 58,
+      "MaxPing": 96
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198307633718",
+        "GuidsList": [
+          "76561198307633718"
+        ],
+        "Name": "Kacper Skalski",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 7 Alexander Rossi - VELO 2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 83,
+      "MaxPing": 122
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198062220099",
+        "GuidsList": [
+          "76561198062220099"
+        ],
+        "Name": "Je Moeder",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 26 Colton Herta - Gainbridge",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 44,
+      "MaxPing": 93
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 11 Marcus Armstrong - Root Insurance",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 60,
+      "MaxPing": 99
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561199046537014",
+        "GuidsList": [
+          "76561199046537014"
+        ],
+        "Name": "Colton Herta",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 26 Colton Herta - Gainbridge 2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 48,
+      "MaxPing": 148
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "riccy",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 7 Alexander Rossi - VELO",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 3,
+      "MaxPing": 275
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198417164853",
+        "GuidsList": [
+          "76561198417164853"
+        ],
+        "Name": "Federico Quintero",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 3 Scott McLaughlin - Xpel",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 44,
+      "MaxPing": 122
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion",
+        "Nation": "ALB",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 11 Marcus Armstrong - IU Cancer Center",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 47,
+      "MaxPing": 100
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561199508702937",
+        "GuidsList": [
+          "76561199508702937"
+        ],
+        "Name": "minadi",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 77 Romain Grosjean - JHR",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198993921175",
+        "GuidsList": [
+          "76561198993921175"
+        ],
+        "Name": "Ellis Costello",
+        "Nation": "GBR",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 78 Agustin Canapino - JHR 2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 56,
+      "MaxPing": 102
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 2 Josef Newgarden - PPG",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 126,
+      "MaxPing": 169
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198126418980",
+        "GuidsList": [
+          "76561198126418980"
+        ],
+        "Name": "Piotr Kwaśniowski",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 10 Alex Palou - DHL 3",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561198068052399",
+        "GuidsList": [
+          "76561198068052399"
+        ],
+        "Name": "campina",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 20 Christian Rasumussen - GuyCare",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 16,
+      "Driver": {
+        "Guid": "76561199562585753",
+        "GuidsList": [
+          "76561199562585753"
+        ],
+        "Name": "james quinn",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 10 Alex Palou - Ridgeline",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "MELO",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 6 David Malukas - NTT Data",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 66 Tom Blomqvist - SiriusXM",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 76,
+      "MaxPing": 121
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198159522959",
+        "GuidsList": [
+          "76561198159522959"
+        ],
+        "Name": "Jakub Kozlowski",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 60 Felix Rosenqvist - SiriusXM",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 68,
+      "MaxPing": 205
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561199025779858",
+        "GuidsList": [
+          "76561199025779858"
+        ],
+        "Name": "Newman145",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 27 Kyle Kirkwood - Autonation 4",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 10 Alex Palou - DHL",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 26,
+      "MaxPing": 71
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198334093743",
+        "GuidsList": [
+          "76561198334093743"
+        ],
+        "Name": "Igor Wasowski",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 66 Tom Blomqvist - Arctic Wolf",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 23,
+      "Driver": {
+        "Guid": "76561198427034160",
+        "GuidsList": [
+          "76561198427034160"
+        ],
+        "Name": "Guts",
+        "Nation": "BRA",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 30 Pietro Fittipaldi - Mi-Jack",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 235,
+      "MaxPing": 290
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 24,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 28 Marcus Ericsson - Delaware Life",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 59,
+      "MaxPing": 103
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "arab",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 27 Kyle Kirkwood - Autonation 3",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561198274760523",
+        "GuidsList": [
+          "76561198274760523"
+        ],
+        "Name": "Simone Ostrowski",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 6 Callum Ilott - NTT Data",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 56,
+      "MaxPing": 107
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "Driver": {
+        "Guid": "76561199108878031",
+        "GuidsList": [
+          "76561199108878031"
+        ],
+        "Name": "Chizz",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 6 Theo Pourchaire - NTT Data",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 41,
+      "MaxPing": 106
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 28,
+      "Driver": {
+        "Guid": "76561198827943092",
+        "GuidsList": [
+          "76561198827943092"
+        ],
+        "Name": "Sebeinkro",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 6 Theo Pourchaire - Onsemi",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 10 Alex Palou - DHL 2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 29,
+      "MaxPing": 77
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Strahinja Zoranovic",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "Model": "vrc_formula_na_2021_oval",
+      "Restrictor": 0,
+      "Skin": "2024 7 Alexander Rossi - VELO 3",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "MinPing": 43,
+      "MaxPing": 92
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 18,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 3.1402688,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9611336,
+        "Y": -0.16432044,
+        "Z": 1.6356461
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -354.11752,
+        "Y": -1.2980239,
+        "Z": 425.47827
+      },
+      "Timestamp": 1716650614,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 18,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 2.458407,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9611231,
+        "Y": 0.03822045,
+        "Z": 1.7005582
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -354.14908,
+        "Y": -1.099081,
+        "Z": 447.6891
+      },
+      "Timestamp": 1716650619,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198384671575",
+        "GuidsList": [
+          "76561198384671575"
+        ],
+        "Name": "Filip Radomski",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 3.1962771,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.99265915,
+        "Y": -0.17954655,
+        "Z": 0.69058
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -42.02932,
+        "Y": -1.07573,
+        "Z": -736.9781
+      },
+      "Timestamp": 1716650626,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "riccy",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 5.560094,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9926791,
+        "Y": -0.17954679,
+        "Z": 0.69057775
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -373.58875,
+        "Y": -0.9967899,
+        "Z": -396.5535
+      },
+      "Timestamp": 1716650701,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 23,
+      "Driver": {
+        "Guid": "76561198427034160",
+        "GuidsList": [
+          "76561198427034160"
+        ],
+        "Name": "Guts",
+        "Nation": "BRA",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 1.6270329,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9926605,
+        "Y": -0.17954646,
+        "Z": 0.69059235
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -371.23422,
+        "Y": -1.0991484,
+        "Z": 390.65045
+      },
+      "Timestamp": 1716650716,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 24,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 4.7875643,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.99267,
+        "Y": 0.08976448,
+        "Z": 0.6684465
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -29.786938,
+        "Y": -0.8289564,
+        "Z": -737.0402
+      },
+      "Timestamp": 1716650721,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561199527704612",
+        "GuidsList": [
+          "76561199527704612"
+        ],
+        "Name": "Callum",
+        "Nation": "ENG",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 11.962889,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.98607963,
+        "Y": 0.23566855,
+        "Z": -1.2415223
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 66.71359,
+        "Y": -0.24402691,
+        "Z": -737.173
+      },
+      "Timestamp": 1716650755,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 42.43263,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9611277,
+        "Y": -0.1643206,
+        "Z": 1.6356436
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 116.09855,
+        "Y": -0.11615148,
+        "Z": -735.97327
+      },
+      "Timestamp": 1716650769,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 18,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 1.9876679,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9926764,
+        "Y": -0.17954667,
+        "Z": 0.69058096
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -372.54016,
+        "Y": -1.0992376,
+        "Z": -47.28802
+      },
+      "Timestamp": 1716650774,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 192.86267,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.91841286,
+        "Y": -0.14604096,
+        "Z": 1.6090021
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 105.68896,
+        "Y": -0.2146514,
+        "Z": -736.16437
+      },
+      "Timestamp": 1716650809,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 45.301407,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.85692626,
+        "Y": 0.23719756,
+        "Z": -2.1105034
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -263.20737,
+        "Y": 1.7530988,
+        "Z": -686.6589
+      },
+      "Timestamp": 1716650814,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198384671575",
+        "GuidsList": [
+          "76561198384671575"
+        ],
+        "Name": "Filip Radomski",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 7.0124426,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9926721,
+        "Y": 0.08976445,
+        "Z": 0.6684479
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -33.12659,
+        "Y": -0.8290583,
+        "Z": -737.02136
+      },
+      "Timestamp": 1716650816,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Strahinja Zoranovic",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 0.61581427,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9926597,
+        "Y": -0.17954658,
+        "Z": 0.69056576
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 370.56433,
+        "Y": -1.1454306,
+        "Z": -389.93518
+      },
+      "Timestamp": 1716650828,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Henry Moore",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 4.7842016,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.99264556,
+        "Y": -0.17954633,
+        "Z": 0.6905804
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -21.409246,
+        "Y": -1.0986426,
+        "Z": -737.0838
+      },
+      "Timestamp": 1716650831,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Strahinja Zoranovic",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 0.8241234,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.99266285,
+        "Y": -0.17954649,
+        "Z": 0.6905801
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -371.16254,
+        "Y": -1.0946578,
+        "Z": 415.30872
+      },
+      "Timestamp": 1716650848,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 18,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Mr. Cuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 187.43167,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.97938824,
+        "Y": -0.17980188,
+        "Z": 0.68952656
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -103.571014,
+        "Y": -0.32135165,
+        "Z": 807.4373
+      },
+      "Timestamp": 1716650864,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Strahinja Zoranovic",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 1.597943,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9926924,
+        "Y": -0.17954688,
+        "Z": 0.6905803
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -35.621887,
+        "Y": -1.0933459,
+        "Z": -737.00903
+      },
+      "Timestamp": 1716650873,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Strahinja Zoranovic",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 222.15004,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.98436123,
+        "Y": -0.17683202,
+        "Z": 0.6930815
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -373.3043,
+        "Y": -1.0958233,
+        "Z": -302.32654
+      },
+      "Timestamp": 1716650878,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 10.41353,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.87437636,
+        "Y": -0.16432008,
+        "Z": 2.55491
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -354.893,
+        "Y": -1.2795355,
+        "Z": 94.43306
+      },
+      "Timestamp": 1716650879,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Strahinja Zoranovic",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 48.40288,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": 0.8797544,
+        "Y": -0.09247185,
+        "Z": 2.5777073
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -357.30542,
+        "Y": -1.1571512,
+        "Z": -64.66074
+      },
+      "Timestamp": 1716650883,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 30,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Strahinja Zoranovic",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 12.179656,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9406813,
+        "Y": 0.23566857,
+        "Z": -1.923885
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -357.03427,
+        "Y": -0.80081725,
+        "Z": 33.50537
+      },
+      "Timestamp": 1716650888,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 48.00914,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.000022555087,
+        "Y": -0.1643206,
+        "Z": 2.6445217
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -368.8093,
+        "Y": 0.5182892,
+        "Z": 579.2061
+      },
+      "Timestamp": 1716650899,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 2.4599965,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9836197,
+        "Y": 0.1684348,
+        "Z": -1.2633784
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 20.206804,
+        "Y": -0.6785263,
+        "Z": -737.1899
+      },
+      "Timestamp": 1716650944,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 3.2851253,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.99267954,
+        "Y": -0.17954664,
+        "Z": 0.69059414
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -371.2746,
+        "Y": -1.1003473,
+        "Z": 377.4296
+      },
+      "Timestamp": 1716650959,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 31.326298,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.9871702,
+        "Y": -0.1785415,
+        "Z": 0.3065017
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -95.59879,
+        "Y": -0.4351305,
+        "Z": 807.55695
+      },
+      "Timestamp": 1716650964,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 29,
+      "Driver": {
+        "Guid": "76561198172405465",
+        "GuidsList": [
+          "76561198172405465"
+        ],
+        "Name": "Rabas",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "ImpactSpeed": 46.519413,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "57408056-968b-4d13-8969-8224a70d82bd"
+      },
+      "RelPosition": {
+        "X": -0.8743883,
+        "Y": -0.16432029,
+        "Z": 2.5549073
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 116.438995,
+        "Y": -0.11442674,
+        "Z": -735.9503
+      },
+      "Timestamp": 1716650984,
+      "AfterSessionEnd": false
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198384671575",
+      "DriverName": "Filip Radomski",
+      "LapTime": 48632,
+      "Restrictor": 0,
+      "Sectors": [
+        18694,
+        15012,
+        14926
+      ],
+      "Timestamp": 1716650633,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198307633718",
+      "DriverName": "Kacper Skalski",
+      "LapTime": 54061,
+      "Restrictor": 0,
+      "Sectors": [
+        23488,
+        15777,
+        14796
+      ],
+      "Timestamp": 1716650638,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 24,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 67021,
+      "Restrictor": 0,
+      "Sectors": [
+        38135,
+        14220,
+        14666
+      ],
+      "Timestamp": 1716650651,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 75547,
+      "Restrictor": 0,
+      "Sectors": [
+        46635,
+        14175,
+        14737
+      ],
+      "Timestamp": 1716650660,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 76007,
+      "Restrictor": 0,
+      "Sectors": [
+        47172,
+        14130,
+        14705
+      ],
+      "Timestamp": 1716650660,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 78321,
+      "Restrictor": 0,
+      "Sectors": [
+        49413,
+        14157,
+        14751
+      ],
+      "Timestamp": 1716650662,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "saad",
+      "LapTime": 78604,
+      "Restrictor": 0,
+      "Sectors": [
+        49574,
+        14167,
+        14863
+      ],
+      "Timestamp": 1716650663,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198274760523",
+      "DriverName": "Simone Ostrowski",
+      "LapTime": 77910,
+      "Restrictor": 0,
+      "Sectors": [
+        48007,
+        15098,
+        14805
+      ],
+      "Timestamp": 1716650663,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 3,
+      "DriverGuid": "76561198159522959",
+      "DriverName": "Jakub Kozlowski",
+      "LapTime": 75097,
+      "Restrictor": 0,
+      "Sectors": [
+        46329,
+        14075,
+        14693
+      ],
+      "Timestamp": 1716650663,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 79543,
+      "Restrictor": 0,
+      "Sectors": [
+        50779,
+        14117,
+        14647
+      ],
+      "Timestamp": 1716650664,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "riccy",
+      "LapTime": 82960,
+      "Restrictor": 0,
+      "Sectors": [
+        52842,
+        15237,
+        14881
+      ],
+      "Timestamp": 1716650667,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198384671575",
+      "DriverName": "Filip Radomski",
+      "LapTime": 38460,
+      "Restrictor": 0,
+      "Sectors": [
+        10569,
+        13360,
+        14531
+      ],
+      "Timestamp": 1716650671,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 23,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198427034160",
+      "DriverName": "Guts",
+      "LapTime": 86973,
+      "Restrictor": 0,
+      "Sectors": [
+        56944,
+        15232,
+        14797
+      ],
+      "Timestamp": 1716650671,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561199108878031",
+      "DriverName": "Chizz",
+      "LapTime": 87972,
+      "Restrictor": 0,
+      "Sectors": [
+        57740,
+        15445,
+        14787
+      ],
+      "Timestamp": 1716650672,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198307633718",
+      "DriverName": "Kacper Skalski",
+      "LapTime": 38634,
+      "Restrictor": 0,
+      "Sectors": [
+        10589,
+        13410,
+        14635
+      ],
+      "Timestamp": 1716650677,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 2,
+      "DriverGuid": "76561198993921175",
+      "DriverName": "Ellis Costello",
+      "LapTime": 96885,
+      "Restrictor": 0,
+      "Sectors": [
+        67302,
+        14903,
+        14680
+      ],
+      "Timestamp": 1716650681,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561199527704612",
+      "DriverName": "Callum",
+      "LapTime": 102438,
+      "Restrictor": 0,
+      "Sectors": [
+        72576,
+        15147,
+        14715
+      ],
+      "Timestamp": 1716650687,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 3,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Strahinja Zoranovic",
+      "LapTime": 103585,
+      "Restrictor": 0,
+      "Sectors": [
+        73835,
+        15026,
+        14724
+      ],
+      "Timestamp": 1716650689,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 24,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 38552,
+      "Restrictor": 0,
+      "Sectors": [
+        10576,
+        13396,
+        14580
+      ],
+      "Timestamp": 1716650690,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 38571,
+      "Restrictor": 0,
+      "Sectors": [
+        10607,
+        13370,
+        14594
+      ],
+      "Timestamp": 1716650698,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 38901,
+      "Restrictor": 0,
+      "Sectors": [
+        10649,
+        13555,
+        14697
+      ],
+      "Timestamp": 1716650699,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 38600,
+      "Restrictor": 0,
+      "Sectors": [
+        10602,
+        13410,
+        14588
+      ],
+      "Timestamp": 1716650701,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "saad",
+      "LapTime": 38620,
+      "Restrictor": 0,
+      "Sectors": [
+        10625,
+        13411,
+        14584
+      ],
+      "Timestamp": 1716650701,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198274760523",
+      "DriverName": "Simone Ostrowski",
+      "LapTime": 38493,
+      "Restrictor": 0,
+      "Sectors": [
+        10579,
+        13374,
+        14540
+      ],
+      "Timestamp": 1716650702,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198159522959",
+      "DriverName": "Jakub Kozlowski",
+      "LapTime": 38580,
+      "Restrictor": 0,
+      "Sectors": [
+        10585,
+        13414,
+        14581
+      ],
+      "Timestamp": 1716650702,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 38548,
+      "Restrictor": 0,
+      "Sectors": [
+        10581,
+        13400,
+        14567
+      ],
+      "Timestamp": 1716650702,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "riccy",
+      "LapTime": 38683,
+      "Restrictor": 0,
+      "Sectors": [
+        10635,
+        13410,
+        14638
+      ],
+      "Timestamp": 1716650706,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198384671575",
+      "DriverName": "Filip Radomski",
+      "LapTime": 38479,
+      "Restrictor": 0,
+      "Sectors": [
+        10561,
+        13365,
+        14553
+      ],
+      "Timestamp": 1716650710,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 23,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198427034160",
+      "DriverName": "Guts",
+      "LapTime": 38524,
+      "Restrictor": 0,
+      "Sectors": [
+        10593,
+        13387,
+        14544
+      ],
+      "Timestamp": 1716650710,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561199108878031",
+      "DriverName": "Chizz",
+      "LapTime": 38591,
+      "Restrictor": 0,
+      "Sectors": [
+        10592,
+        13397,
+        14602
+      ],
+      "Timestamp": 1716650711,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198307633718",
+      "DriverName": "Kacper Skalski",
+      "LapTime": 38645,
+      "Restrictor": 0,
+      "Sectors": [
+        10593,
+        13427,
+        14625
+      ],
+      "Timestamp": 1716650715,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198993921175",
+      "DriverName": "Ellis Costello",
+      "LapTime": 38479,
+      "Restrictor": 0,
+      "Sectors": [
+        10556,
+        13370,
+        14553
+      ],
+      "Timestamp": 1716650719,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 140748,
+      "Restrictor": 0,
+      "Sectors": [
+        110139,
+        15804,
+        14805
+      ],
+      "Timestamp": 1716650725,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561199527704612",
+      "DriverName": "Callum",
+      "LapTime": 38529,
+      "Restrictor": 0,
+      "Sectors": [
+        10579,
+        13392,
+        14558
+      ],
+      "Timestamp": 1716650725,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Strahinja Zoranovic",
+      "LapTime": 38508,
+      "Restrictor": 0,
+      "Sectors": [
+        10572,
+        13373,
+        14563
+      ],
+      "Timestamp": 1716650728,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 24,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 38505,
+      "Restrictor": 0,
+      "Sectors": [
+        10559,
+        13365,
+        14581
+      ],
+      "Timestamp": 1716650728,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 38465,
+      "Restrictor": 0,
+      "Sectors": [
+        10548,
+        13365,
+        14552
+      ],
+      "Timestamp": 1716650737,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 38776,
+      "Restrictor": 0,
+      "Sectors": [
+        10620,
+        13477,
+        14679
+      ],
+      "Timestamp": 1716650738,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 38522,
+      "Restrictor": 0,
+      "Sectors": [
+        10559,
+        13361,
+        14602
+      ],
+      "Timestamp": 1716650739,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198274760523",
+      "DriverName": "Simone Ostrowski",
+      "LapTime": 38416,
+      "Restrictor": 0,
+      "Sectors": [
+        10539,
+        13364,
+        14513
+      ],
+      "Timestamp": 1716650740,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "saad",
+      "LapTime": 38597,
+      "Restrictor": 0,
+      "Sectors": [
+        10581,
+        13400,
+        14616
+      ],
+      "Timestamp": 1716650740,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198159522959",
+      "DriverName": "Jakub Kozlowski",
+      "LapTime": 38528,
+      "Restrictor": 0,
+      "Sectors": [
+        10556,
+        13383,
+        14589
+      ],
+      "Timestamp": 1716650740,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 38498,
+      "Restrictor": 0,
+      "Sectors": [
+        10571,
+        13375,
+        14552
+      ],
+      "Timestamp": 1716650741,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "riccy",
+      "LapTime": 38566,
+      "Restrictor": 0,
+      "Sectors": [
+        10585,
+        13396,
+        14585
+      ],
+      "Timestamp": 1716650744,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198384671575",
+      "DriverName": "Filip Radomski",
+      "LapTime": 38417,
+      "Restrictor": 0,
+      "Sectors": [
+        10544,
+        13347,
+        14526
+      ],
+      "Timestamp": 1716650748,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 23,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198427034160",
+      "DriverName": "Guts",
+      "LapTime": 38472,
+      "Restrictor": 0,
+      "Sectors": [
+        10544,
+        13365,
+        14563
+      ],
+      "Timestamp": 1716650748,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561199108878031",
+      "DriverName": "Chizz",
+      "LapTime": 38549,
+      "Restrictor": 0,
+      "Sectors": [
+        10582,
+        13388,
+        14579
+      ],
+      "Timestamp": 1716650749,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198307633718",
+      "DriverName": "Kacper Skalski",
+      "LapTime": 38703,
+      "Restrictor": 0,
+      "Sectors": [
+        10609,
+        13437,
+        14657
+      ],
+      "Timestamp": 1716650754,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198993921175",
+      "DriverName": "Ellis Costello",
+      "LapTime": 38463,
+      "Restrictor": 0,
+      "Sectors": [
+        10553,
+        13365,
+        14545
+      ],
+      "Timestamp": 1716650758,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 38529,
+      "Restrictor": 0,
+      "Sectors": [
+        10601,
+        13379,
+        14549
+      ],
+      "Timestamp": 1716650763,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561199527704612",
+      "DriverName": "Callum",
+      "LapTime": 38569,
+      "Restrictor": 0,
+      "Sectors": [
+        10579,
+        13383,
+        14607
+      ],
+      "Timestamp": 1716650764,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Strahinja Zoranovic",
+      "LapTime": 38420,
+      "Restrictor": 0,
+      "Sectors": [
+        10548,
+        13364,
+        14508
+      ],
+      "Timestamp": 1716650766,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 24,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 38529,
+      "Restrictor": 0,
+      "Sectors": [
+        10557,
+        13427,
+        14545
+      ],
+      "Timestamp": 1716650767,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 38482,
+      "Restrictor": 0,
+      "Sectors": [
+        10546,
+        13352,
+        14584
+      ],
+      "Timestamp": 1716650775,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 39002,
+      "Restrictor": 0,
+      "Sectors": [
+        10612,
+        13711,
+        14679
+      ],
+      "Timestamp": 1716650777,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198274760523",
+      "DriverName": "Simone Ostrowski",
+      "LapTime": 38431,
+      "Restrictor": 0,
+      "Sectors": [
+        10544,
+        13357,
+        14530
+      ],
+      "Timestamp": 1716650778,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 38923,
+      "Restrictor": 0,
+      "Sectors": [
+        10568,
+        13384,
+        14971
+      ],
+      "Timestamp": 1716650778,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "saad",
+      "LapTime": 38765,
+      "Restrictor": 0,
+      "Sectors": [
+        10578,
+        13581,
+        14606
+      ],
+      "Timestamp": 1716650779,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198159522959",
+      "DriverName": "Jakub Kozlowski",
+      "LapTime": 38509,
+      "Restrictor": 0,
+      "Sectors": [
+        10569,
+        13382,
+        14558
+      ],
+      "Timestamp": 1716650779,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 38460,
+      "Restrictor": 0,
+      "Sectors": [
+        10568,
+        13375,
+        14517
+      ],
+      "Timestamp": 1716650779,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "riccy",
+      "LapTime": 38597,
+      "Restrictor": 0,
+      "Sectors": [
+        10562,
+        13442,
+        14593
+      ],
+      "Timestamp": 1716650783,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198384671575",
+      "DriverName": "Filip Radomski",
+      "LapTime": 38446,
+      "Restrictor": 0,
+      "Sectors": [
+        10551,
+        13365,
+        14530
+      ],
+      "Timestamp": 1716650787,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 23,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198427034160",
+      "DriverName": "Guts",
+      "LapTime": 38511,
+      "Restrictor": 0,
+      "Sectors": [
+        10565,
+        13393,
+        14553
+      ],
+      "Timestamp": 1716650787,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561199108878031",
+      "DriverName": "Chizz",
+      "LapTime": 38558,
+      "Restrictor": 0,
+      "Sectors": [
+        10586,
+        13401,
+        14571
+      ],
+      "Timestamp": 1716650788,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198307633718",
+      "DriverName": "Kacper Skalski",
+      "LapTime": 38614,
+      "Restrictor": 0,
+      "Sectors": [
+        10592,
+        13420,
+        14602
+      ],
+      "Timestamp": 1716650793,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198993921175",
+      "DriverName": "Ellis Costello",
+      "LapTime": 38429,
+      "Restrictor": 0,
+      "Sectors": [
+        10538,
+        13361,
+        14530
+      ],
+      "Timestamp": 1716650796,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 38519,
+      "Restrictor": 0,
+      "Sectors": [
+        10552,
+        13387,
+        14580
+      ],
+      "Timestamp": 1716650802,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561199527704612",
+      "DriverName": "Callum",
+      "LapTime": 38508,
+      "Restrictor": 0,
+      "Sectors": [
+        10571,
+        13370,
+        14567
+      ],
+      "Timestamp": 1716650802,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Strahinja Zoranovic",
+      "LapTime": 38437,
+      "Restrictor": 0,
+      "Sectors": [
+        10551,
+        13356,
+        14530
+      ],
+      "Timestamp": 1716650805,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 24,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 38574,
+      "Restrictor": 0,
+      "Sectors": [
+        10570,
+        13370,
+        14634
+      ],
+      "Timestamp": 1716650805,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 3,
+      "DriverGuid": "76561198417164853",
+      "DriverName": "Federico Quintero",
+      "LapTime": 225162,
+      "Restrictor": 0,
+      "Sectors": [
+        193603,
+        16673,
+        14886
+      ],
+      "Timestamp": 1716650811,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 38462,
+      "Restrictor": 0,
+      "Sectors": [
+        10554,
+        13356,
+        14552
+      ],
+      "Timestamp": 1716650814,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 38712,
+      "Restrictor": 0,
+      "Sectors": [
+        10609,
+        13451,
+        14652
+      ],
+      "Timestamp": 1716650815,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198274760523",
+      "DriverName": "Simone Ostrowski",
+      "LapTime": 38390,
+      "Restrictor": 0,
+      "Sectors": [
+        10527,
+        13346,
+        14517
+      ],
+      "Timestamp": 1716650817,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198159522959",
+      "DriverName": "Jakub Kozlowski",
+      "LapTime": 38485,
+      "Restrictor": 0,
+      "Sectors": [
+        10558,
+        13374,
+        14553
+      ],
+      "Timestamp": 1716650817,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "saad",
+      "LapTime": 38531,
+      "Restrictor": 0,
+      "Sectors": [
+        10577,
+        13379,
+        14575
+      ],
+      "Timestamp": 1716650817,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 38646,
+      "Restrictor": 0,
+      "Sectors": [
+        10588,
+        13378,
+        14680
+      ],
+      "Timestamp": 1716650818,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "riccy",
+      "LapTime": 38842,
+      "Restrictor": 0,
+      "Sectors": [
+        10685,
+        13577,
+        14580
+      ],
+      "Timestamp": 1716650822,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198384671575",
+      "DriverName": "Filip Radomski",
+      "LapTime": 38449,
+      "Restrictor": 0,
+      "Sectors": [
+        10544,
+        13352,
+        14553
+      ],
+      "Timestamp": 1716650825,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 23,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198427034160",
+      "DriverName": "Guts",
+      "LapTime": 38457,
+      "Restrictor": 0,
+      "Sectors": [
+        10538,
+        13375,
+        14544
+      ],
+      "Timestamp": 1716650825,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561199108878031",
+      "DriverName": "Chizz",
+      "LapTime": 38523,
+      "Restrictor": 0,
+      "Sectors": [
+        10578,
+        13383,
+        14562
+      ],
+      "Timestamp": 1716650826,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198307633718",
+      "DriverName": "Kacper Skalski",
+      "LapTime": 38539,
+      "Restrictor": 0,
+      "Sectors": [
+        10558,
+        13374,
+        14607
+      ],
+      "Timestamp": 1716650831,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198993921175",
+      "DriverName": "Ellis Costello",
+      "LapTime": 38441,
+      "Restrictor": 0,
+      "Sectors": [
+        10537,
+        13361,
+        14543
+      ],
+      "Timestamp": 1716650835,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 38504,
+      "Restrictor": 0,
+      "Sectors": [
+        10551,
+        13383,
+        14570
+      ],
+      "Timestamp": 1716650840,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561199527704612",
+      "DriverName": "Callum",
+      "LapTime": 38502,
+      "Restrictor": 0,
+      "Sectors": [
+        10566,
+        13383,
+        14553
+      ],
+      "Timestamp": 1716650841,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 30,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Strahinja Zoranovic",
+      "LapTime": 38422,
+      "Restrictor": 0,
+      "Sectors": [
+        10531,
+        13361,
+        14530
+      ],
+      "Timestamp": 1716650843,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 24,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 38479,
+      "Restrictor": 0,
+      "Sectors": [
+        10548,
+        13351,
+        14580
+      ],
+      "Timestamp": 1716650844,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198417164853",
+      "DriverName": "Federico Quintero",
+      "LapTime": 38978,
+      "Restrictor": 0,
+      "Sectors": [
+        10682,
+        13510,
+        14786
+      ],
+      "Timestamp": 1716650850,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mr. Cuh",
+      "LapTime": 38740,
+      "Restrictor": 0,
+      "Sectors": [
+        10629,
+        13491,
+        14620
+      ],
+      "Timestamp": 1716650854,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198274760523",
+      "DriverName": "Simone Ostrowski",
+      "LapTime": 38415,
+      "Restrictor": 0,
+      "Sectors": [
+        10533,
+        13364,
+        14518
+      ],
+      "Timestamp": 1716650855,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "riccy",
+      "LapTime": 39551,
+      "Restrictor": 0,
+      "Sectors": [
+        10558,
+        13383,
+        15610
+      ],
+      "Timestamp": 1716650861,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 57589,
+      "Restrictor": 0,
+      "Sectors": [
+        10568,
+        13379,
+        33642
+      ],
+      "Timestamp": 1716650871,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198993921175",
+      "DriverName": "Ellis Costello",
+      "LapTime": 38423,
+      "Restrictor": 0,
+      "Sectors": [
+        10542,
+        13360,
+        14521
+      ],
+      "Timestamp": 1716650873,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "LapTime": 38540,
+      "Restrictor": 0,
+      "Sectors": [
+        10582,
+        13406,
+        14552
+      ],
+      "Timestamp": 1716650879,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561199527704612",
+      "DriverName": "Callum",
+      "LapTime": 38479,
+      "Restrictor": 0,
+      "Sectors": [
+        10556,
+        13366,
+        14557
+      ],
+      "Timestamp": 1716650879,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "saad",
+      "LapTime": 66791,
+      "Restrictor": 0,
+      "Sectors": [
+        10568,
+        13384,
+        42839
+      ],
+      "Timestamp": 1716650884,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198417164853",
+      "DriverName": "Federico Quintero",
+      "LapTime": 38874,
+      "Restrictor": 0,
+      "Sectors": [
+        10685,
+        13473,
+        14716
+      ],
+      "Timestamp": 1716650889,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 2,
+      "DriverGuid": "76561198384671575",
+      "DriverName": "Filip Radomski",
+      "LapTime": 94969,
+      "Restrictor": 0,
+      "Sectors": [
+        64994,
+        15228,
+        14747
+      ],
+      "Timestamp": 1716650920,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198417164853",
+      "DriverName": "Federico Quintero",
+      "LapTime": 38861,
+      "Restrictor": 0,
+      "Sectors": [
+        10710,
+        13504,
+        14647
+      ],
+      "Timestamp": 1716650928,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 29,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 2,
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "LapTime": 176594,
+      "Restrictor": 0,
+      "Sectors": [
+        147057,
+        14814,
+        14723
+      ],
+      "Timestamp": 1716650955,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 1,
+      "DriverGuid": "76561198993921175",
+      "DriverName": "Ellis Costello",
+      "LapTime": 87698,
+      "Restrictor": 0,
+      "Sectors": [
+        11770,
+        28165,
+        47763
+      ],
+      "Timestamp": 1716650961,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "Cuts": 0,
+      "DriverGuid": "76561198417164853",
+      "DriverName": "Federico Quintero",
+      "LapTime": 40385,
+      "Restrictor": 0,
+      "Sectors": [
+        10834,
+        14107,
+        15444
+      ],
+      "Timestamp": 1716650968,
+      "Tyre": "P2",
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": {
+        "Ambient": 25,
+        "Road": 35,
+        "Grip": 1,
+        "WindSpeed": 11,
+        "WindDirection": 29,
+        "RainIntensity": 0,
+        "RainWetness": 0,
+        "RainWater": 0
+      }
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 0,
+      "BestLap": 38413,
+      "CarId": 26,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198274760523",
+      "DriverName": "Simone Ostrowski",
+      "Restrictor": 0,
+      "TotalTime": 271130,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 5
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38439,
+      "CarId": 12,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198993921175",
+      "DriverName": "Ellis Costello",
+      "Restrictor": 0,
+      "TotalTime": 376865,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 1
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38446,
+      "CarId": 30,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Strahinja Zoranovic",
+      "Restrictor": 0,
+      "TotalTime": 259174,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 2
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38447,
+      "CarId": 0,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198384671575",
+      "DriverName": "Filip Radomski",
+      "Restrictor": 0,
+      "TotalTime": 335910,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 4
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38491,
+      "CarId": 23,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198427034160",
+      "DriverName": "Guts",
+      "Restrictor": 0,
+      "TotalTime": 241072,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 3
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38495,
+      "CarId": 6,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "Restrictor": 0,
+      "TotalTime": 287149,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 7
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38514,
+      "CarId": 3,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561199527704612",
+      "DriverName": "Callum",
+      "Restrictor": 0,
+      "TotalTime": 295060,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 6
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38521,
+      "CarId": 24,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "Restrictor": 0,
+      "TotalTime": 259682,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 10
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38523,
+      "CarId": 2,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Henry Moore",
+      "Restrictor": 0,
+      "TotalTime": 294915,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 13
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38525,
+      "CarId": 19,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198159522959",
+      "DriverName": "Jakub Kozlowski",
+      "Restrictor": 0,
+      "TotalTime": 233189,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 16
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38538,
+      "CarId": 21,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "Restrictor": 0,
+      "TotalTime": 233714,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 14
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38555,
+      "CarId": 27,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561199108878031",
+      "DriverName": "Chizz",
+      "Restrictor": 0,
+      "TotalTime": 242223,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 9
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38625,
+      "CarId": 4,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198307633718",
+      "DriverName": "Kacper Skalski",
+      "Restrictor": 0,
+      "TotalTime": 247235,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 11
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38628,
+      "CarId": 13,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198400628002",
+      "DriverName": "saad",
+      "Restrictor": 0,
+      "TotalTime": 299969,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 17
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38672,
+      "CarId": 8,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198136285982",
+      "DriverName": "riccy",
+      "Restrictor": 0,
+      "TotalTime": 277199,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 12
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 38807,
+      "CarId": 18,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Mr. Cuh",
+      "Restrictor": 0,
+      "TotalTime": 270174,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 15
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 39274,
+      "CarId": 9,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198417164853",
+      "DriverName": "Federico Quintero",
+      "Restrictor": 0,
+      "TotalTime": 383928,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 18
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 250029011,
+      "CarId": 29,
+      "CarModel": "vrc_formula_na_2021_oval",
+      "DriverGuid": "76561198172405465",
+      "DriverName": "Rabas",
+      "Restrictor": 0,
+      "TotalTime": 370986,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "57408056-968b-4d13-8969-8224a70d82bd",
+      "GridPosition": 8
+    }
+  ],
+  "Penalties": null,
+  "TrackConfig": "indy500",
+  "TrackName": "aa_ims",
+  "Type": "QUALIFY",
+  "Date": "2024-05-25T17:29:00+02:00",
+  "SessionFile": "2024_5_25_17_29_QUALIFY",
+  "SessionConfig": {
+    "session_type": 2,
+    "name": "Qualify",
+    "time": 6,
+    "laps": 0,
+    "is_open": 1,
+    "wait_time": 0,
+    "visibility_mode": 1,
+    "qualifying_type": 2,
+    "qualifying_number_of_laps_to_average": 4,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "309fd862-79c5-493d-bfa8-93f4da3281c5",
+  "RaceWeekendID": ""
+}

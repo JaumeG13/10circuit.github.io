@@ -1,0 +1,7089 @@
+{
+  "Version": 6,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "6",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 114,
+      "MaxPing": 120
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561199508702937",
+        "GuidsList": [
+          "76561199508702937"
+        ],
+        "Name": "Minadi2slow",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "27",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561199064664792",
+        "GuidsList": [
+          "76561199064664792"
+        ],
+        "Name": "Trent",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "15_Alt",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561199375301820",
+        "GuidsList": [
+          "76561199375301820"
+        ],
+        "Name": "Ronnie Williams",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "16",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam Modan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "19",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 49,
+      "MaxPing": 104
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198931437182",
+        "GuidsList": [
+          "76561198931437182"
+        ],
+        "Name": "Gergő Bartus",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "73",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "2",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 1,
+      "MaxPing": 10
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561199248308031",
+        "GuidsList": [
+          "76561199248308031"
+        ],
+        "Name": "Average Indian Driver",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "11",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198875084577",
+        "GuidsList": [
+          "76561198875084577"
+        ],
+        "Name": "Spyzer",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "26",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 52,
+      "MaxPing": 64
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "MELON",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "78",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561198845242073",
+        "GuidsList": [
+          "76561198845242073"
+        ],
+        "Name": "Ollie Blake",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "10",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "21",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 30,
+      "MaxPing": 44
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561199074556594",
+        "GuidsList": [
+          "76561199074556594"
+        ],
+        "Name": "Arion",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "14_Alt",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198813193393",
+        "GuidsList": [
+          "76561198813193393"
+        ],
+        "Name": "Akieush",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "53",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561199241736905",
+        "GuidsList": [
+          "76561199241736905"
+        ],
+        "Name": "danottok",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "96",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561199108878031",
+        "GuidsList": [
+          "76561199108878031"
+        ],
+        "Name": "Alex Chisholm",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "15",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 16,
+      "Driver": {
+        "Guid": "76561199229214748",
+        "GuidsList": [
+          "76561199229214748"
+        ],
+        "Name": "Fran Bianqui",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "20",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "14",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 72,
+      "MaxPing": 83
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "Driver": {
+        "Guid": "76561198420004143",
+        "GuidsList": [
+          "76561198420004143"
+        ],
+        "Name": "Tim Verhoeven",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "57",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Dopicuh",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "41",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "99",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 47,
+      "MaxPing": 112
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 21,
+      "Driver": {
+        "Guid": "76561198875404195",
+        "GuidsList": [
+          "76561198875404195"
+        ],
+        "Name": "MUTE",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "77",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "29",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 48,
+      "MaxPing": 102
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 23,
+      "Driver": {
+        "Guid": "76561199232528307",
+        "GuidsList": [
+          "76561199232528307"
+        ],
+        "Name": "Nydrow",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "35",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 24,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "25",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "24",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 68,
+      "MaxPing": 297
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 26,
+      "Driver": {
+        "Guid": "76561199129036039",
+        "GuidsList": [
+          "76561199129036039"
+        ],
+        "Name": "Jack Grossart",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "28",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "Model": "urd_darche_cup_2021",
+      "Restrictor": 0,
+      "Skin": "4",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "MinPing": 70,
+      "MaxPing": 343
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 28,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Broadcast",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "Model": "ks_abarth_595ss_s2",
+      "Restrictor": 0,
+      "Skin": "blue",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 15.122248,
+      "OtherCarId": 22,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.03342701,
+        "Y": 0.067922466,
+        "Z": 2.4626296
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -423.20435,
+        "Y": 26.976097,
+        "Z": -897.14545
+      },
+      "Timestamp": 1695754913,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 24.032074,
+      "OtherCarId": 17,
+      "OtherDriver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.3222815,
+        "Y": -0.22083294,
+        "Z": -2.0080173
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -423.0024,
+        "Y": 26.72487,
+        "Z": -896.836
+      },
+      "Timestamp": 1695754913,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 27,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 2.0071883,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.97587746,
+        "Y": 0.4739173,
+        "Z": 0.5137672
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -344.53836,
+        "Y": 23.523624,
+        "Z": -933.5476
+      },
+      "Timestamp": 1695754918,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 1.1234086,
+      "OtherCarId": 27,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.9747115,
+        "Y": 0.4737275,
+        "Z": 0.57431185
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -350.35962,
+        "Y": 23.91736,
+        "Z": -936.412
+      },
+      "Timestamp": 1695754920,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 87.83863,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.7544657,
+        "Y": 0.12979503,
+        "Z": 2.1669111
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 308.01874,
+        "Y": 26.913784,
+        "Z": -243.63081
+      },
+      "Timestamp": 1695754937,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 17.860989,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.7622625,
+        "Y": -0.23195896,
+        "Z": 2.2132285
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 336.39502,
+        "Y": 29.325216,
+        "Z": -198.34741
+      },
+      "Timestamp": 1695754942,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 8.253621,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.89175534,
+        "Y": 0.07798487,
+        "Z": -1.4557534
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 327.42938,
+        "Y": 60.540676,
+        "Z": 1065.6913
+      },
+      "Timestamp": 1695754963,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 6.3104057,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.923094,
+        "Y": 0.29108885,
+        "Z": 1.6092899
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 261.47968,
+        "Y": 53.764713,
+        "Z": 1019.4154
+      },
+      "Timestamp": 1695754968,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 0.6688752,
+      "OtherCarId": 22,
+      "OtherDriver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.9067588,
+        "Y": 0.3471503,
+        "Z": -1.4544907
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 261.41812,
+        "Y": 53.801083,
+        "Z": 1019.40295
+      },
+      "Timestamp": 1695754970,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198875084577",
+        "GuidsList": [
+          "76561198875084577"
+        ],
+        "Name": "Spyzer",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 18.712957,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.84373283,
+        "Y": -0.30291593,
+        "Z": 2.186648
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -202.3393,
+        "Y": -18.1294,
+        "Z": 771.51605
+      },
+      "Timestamp": 1695755003,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 45.732277,
+      "OtherCarId": 17,
+      "OtherDriver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.65967304,
+        "Y": -0.23764274,
+        "Z": 2.143843
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -369.80695,
+        "Y": -19.112944,
+        "Z": 831.268
+      },
+      "Timestamp": 1695755006,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 29.332905,
+      "OtherCarId": 25,
+      "OtherDriver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.8702971,
+        "Y": -0.29494935,
+        "Z": 0.19665852
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -369.4439,
+        "Y": -19.071388,
+        "Z": 830.6226
+      },
+      "Timestamp": 1695755008,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 56.904182,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.84375995,
+        "Y": -0.30291525,
+        "Z": 2.1866438
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -388.6549,
+        "Y": -20.304173,
+        "Z": 894.37067
+      },
+      "Timestamp": 1695755008,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 4.6003222,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9950717,
+        "Y": 0.4920853,
+        "Z": 0.5472932
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -180.21808,
+        "Y": 18.912611,
+        "Z": -566.46954
+      },
+      "Timestamp": 1695755056,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 2.7561743,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99508125,
+        "Y": 0.49208653,
+        "Z": 0.5473097
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -80.37916,
+        "Y": 4.0769854,
+        "Z": -728.3631
+      },
+      "Timestamp": 1695755075,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 13.66792,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.46406022,
+        "Y": -0.2010054,
+        "Z": 2.4052567
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 327.74826,
+        "Y": 60.230038,
+        "Z": 1065.855
+      },
+      "Timestamp": 1695755113,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 20.249058,
+      "OtherCarId": 17,
+      "OtherDriver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.25387,
+        "Y": -0.22083214,
+        "Z": -2.0170863
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 327.7576,
+        "Y": 60.25141,
+        "Z": 1065.9296
+      },
+      "Timestamp": 1695755115,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561198875084577",
+        "GuidsList": [
+          "76561198875084577"
+        ],
+        "Name": "Spyzer",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 78.04929,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8766817,
+        "Y": 0.36508363,
+        "Z": 0.66374576
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -390.7063,
+        "Y": -13.569523,
+        "Z": 448.8383
+      },
+      "Timestamp": 1695755193,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 1.1982238,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99505216,
+        "Y": 0.4920852,
+        "Z": 0.54727924
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -13.128698,
+        "Y": -0.6592713,
+        "Z": -655.1815
+      },
+      "Timestamp": 1695755219,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 3.7848518,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9950609,
+        "Y": 0.49208513,
+        "Z": 0.5472906
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -153.4205,
+        "Y": 9.37757,
+        "Z": -805.77014
+      },
+      "Timestamp": 1695755355,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 1.2774353,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9950807,
+        "Y": 0.49208623,
+        "Z": 0.5473107
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -32.442554,
+        "Y": 0.6088924,
+        "Z": -676.21844
+      },
+      "Timestamp": 1695755371,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 42.944,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.48501998,
+        "Y": -0.30777502,
+        "Z": 2.4040718
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 358.57062,
+        "Y": 33.845753,
+        "Z": 818.44995
+      },
+      "Timestamp": 1695755427,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 4.1285315,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9950538,
+        "Y": 0.4920836,
+        "Z": 0.54727554
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -159.27518,
+        "Y": 9.756189,
+        "Z": -810.93463
+      },
+      "Timestamp": 1695755511,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 0.67189634,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9950792,
+        "Y": 0.49208617,
+        "Z": 0.54730797
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -50.987534,
+        "Y": 1.9188503,
+        "Z": -696.37744
+      },
+      "Timestamp": 1695755656,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 2.5682738,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99505013,
+        "Y": 0.4920836,
+        "Z": 0.54728
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -161.40553,
+        "Y": 9.886391,
+        "Z": -812.74567
+      },
+      "Timestamp": 1695755658,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 19.45195,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8729224,
+        "Y": -0.25670165,
+        "Z": -1.4572551
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 615.75903,
+        "Y": 74.93323,
+        "Z": 810.3439
+      },
+      "Timestamp": 1695755862,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 4.9372215,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99506074,
+        "Y": 0.49208453,
+        "Z": 0.54728687
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -155.8766,
+        "Y": 9.546447,
+        "Z": -808.006
+      },
+      "Timestamp": 1695755941,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 1.9004562,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99508166,
+        "Y": 0.49208733,
+        "Z": 0.54731494
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -144.9525,
+        "Y": 8.810069,
+        "Z": -797.7401
+      },
+      "Timestamp": 1695756090,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 7.9712133,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.5639481,
+        "Y": -0.19646077,
+        "Z": 2.340128
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -191.68445,
+        "Y": 12.816701,
+        "Z": -451.45523
+      },
+      "Timestamp": 1695756353,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 17.575378,
+      "OtherCarId": 17,
+      "OtherDriver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.7955427,
+        "Y": -0.2444342,
+        "Z": -1.6663789
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -192.40587,
+        "Y": 12.767062,
+        "Z": -451.52374
+      },
+      "Timestamp": 1695756355,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 3.2017815,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9950581,
+        "Y": 0.49208605,
+        "Z": 0.54730034
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -434.6834,
+        "Y": 28.155222,
+        "Z": -951.0286
+      },
+      "Timestamp": 1695756373,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 123.04491,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8973156,
+        "Y": 0.33385354,
+        "Z": 1.1879678
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -165.92415,
+        "Y": 15.218056,
+        "Z": -479.01535
+      },
+      "Timestamp": 1695756387,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 67.391556,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.47299078,
+        "Y": -0.30291492,
+        "Z": 2.4426029
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -149.08696,
+        "Y": 16.246761,
+        "Z": -510.66974
+      },
+      "Timestamp": 1695756392,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 152.5093,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9888806,
+        "Y": 0.48942456,
+        "Z": 0.54443806
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -0.6191107,
+        "Y": -1.4190667,
+        "Z": -641.55206
+      },
+      "Timestamp": 1695756394,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam Modan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 4.280413,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.91503567,
+        "Y": 0.29842407,
+        "Z": 1.5381709
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 616.9587,
+        "Y": 70.26445,
+        "Z": 651.7459
+      },
+      "Timestamp": 1695756405,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 18.473425,
+      "OtherCarId": 4,
+      "OtherDriver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam Modan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.8883791,
+        "Y": -0.3031563,
+        "Z": -0.3392879
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 617.6336,
+        "Y": 69.64491,
+        "Z": 650.4704
+      },
+      "Timestamp": 1695756405,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 0.9282226,
+      "OtherCarId": 4,
+      "OtherDriver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam Modan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.9064059,
+        "Y": -0.24729133,
+        "Z": 1.8184841
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 261.9491,
+        "Y": 53.212925,
+        "Z": 1020.07404
+      },
+      "Timestamp": 1695756423,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam Modan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 11.366937,
+      "OtherCarId": 17,
+      "OtherDriver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.8967812,
+        "Y": -0.30653596,
+        "Z": -0.6307059
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 261.85693,
+        "Y": 53.291054,
+        "Z": 1021.28375
+      },
+      "Timestamp": 1695756425,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 19.1588,
+      "OtherCarId": 17,
+      "OtherDriver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.46757305,
+        "Y": -0.21336739,
+        "Z": 2.4250646
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 270.52133,
+        "Y": 51.24159,
+        "Z": 995.2905
+      },
+      "Timestamp": 1695756425,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 18.721182,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.6590108,
+        "Y": -0.22972438,
+        "Z": -1.871156
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 270.30545,
+        "Y": 51.265995,
+        "Z": 995.34357
+      },
+      "Timestamp": 1695756428,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561199108968301",
+        "GuidsList": [
+          "76561199108968301"
+        ],
+        "Name": "Marcin Szymani",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 32.004032,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.0000120774075,
+        "Y": -0.30291462,
+        "Z": 2.5142913
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 321.4593,
+        "Y": 46.916954,
+        "Z": 966.5093
+      },
+      "Timestamp": 1695756428,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 19.243114,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8929378,
+        "Y": 0.8489595,
+        "Z": -2.029042
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 248.33781,
+        "Y": 22.31211,
+        "Z": -338.72946
+      },
+      "Timestamp": 1695756447,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 21.035753,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8929408,
+        "Y": 0.8489584,
+        "Z": -2.0290205
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 335.50763,
+        "Y": 47.065105,
+        "Z": 957.0199
+      },
+      "Timestamp": 1695756507,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 24.245335,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.892973,
+        "Y": 0.8489573,
+        "Z": -2.0290196
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -539.34515,
+        "Y": -24.449625,
+        "Z": 979.89606
+      },
+      "Timestamp": 1695756572,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 22.434916,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.89294523,
+        "Y": 0.8489601,
+        "Z": -2.0290377
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 111.40993,
+        "Y": -8.0868,
+        "Z": 362.10904
+      },
+      "Timestamp": 1695756587,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 112.56414,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8213148,
+        "Y": 0.14332236,
+        "Z": 2.1493528
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -167.12836,
+        "Y": 15.067969,
+        "Z": -478.27737
+      },
+      "Timestamp": 1695756612,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 164.54805,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.7529539,
+        "Y": 0.12960556,
+        "Z": 2.1284103
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 234.5155,
+        "Y": 19.920576,
+        "Z": -368.95837
+      },
+      "Timestamp": 1695756652,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 0.77393186,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9950692,
+        "Y": 0.4920857,
+        "Z": 0.54729855
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -31.361996,
+        "Y": 0.53254163,
+        "Z": -675.043
+      },
+      "Timestamp": 1695756661,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 26.338205,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.89292157,
+        "Y": 0.8489557,
+        "Z": -2.0290508
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 391.57733,
+        "Y": 34.269444,
+        "Z": 795.49854
+      },
+      "Timestamp": 1695756691,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "Adam Modan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 21.594952,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.000010894407,
+        "Y": -0.30291653,
+        "Z": 2.51427
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -236.58745,
+        "Y": -17.60741,
+        "Z": 749.5337
+      },
+      "Timestamp": 1695756750,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 90.43966,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.94800746,
+        "Y": 0.44703427,
+        "Z": 0.6046722
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -156.67815,
+        "Y": 17.267195,
+        "Z": -523.42694
+      },
+      "Timestamp": 1695756762,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 5.6156273,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.9241186,
+        "Y": -0.30425215,
+        "Z": 1.819201
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 608.52606,
+        "Y": 74.203896,
+        "Z": 820.2524
+      },
+      "Timestamp": 1695756817,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 93.51862,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.51897454,
+        "Y": -0.037253685,
+        "Z": 2.2776365
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 243.59515,
+        "Y": 20.764555,
+        "Z": -350.9341
+      },
+      "Timestamp": 1695756989,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 19.033863,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.47298545,
+        "Y": -0.3029158,
+        "Z": 2.4425983
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -362.9028,
+        "Y": -19.530241,
+        "Z": 850.73254
+      },
+      "Timestamp": 1695757042,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 27,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 3.7653854,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99505156,
+        "Y": 0.49208507,
+        "Z": 0.5472778
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -23.42108,
+        "Y": -0.0061986563,
+        "Z": -666.3902
+      },
+      "Timestamp": 1695757083,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 1.8676345,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.99506366,
+        "Y": 0.49208543,
+        "Z": 0.5472919
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -1.9006463,
+        "Y": -1.3544146,
+        "Z": -642.94403
+      },
+      "Timestamp": 1695757091,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 38.566605,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.9183802,
+        "Y": -0.30450743,
+        "Z": 1.8286895
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -160.17892,
+        "Y": 9.1212,
+        "Z": -811.7197
+      },
+      "Timestamp": 1695757255,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 113.411705,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.89293724,
+        "Y": 0.8489606,
+        "Z": -2.0290198
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 216.27048,
+        "Y": 23.794907,
+        "Z": -304.25308
+      },
+      "Timestamp": 1695757309,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 0.15948328,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.89294237,
+        "Y": 0.84895945,
+        "Z": -2.029025
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 228.52748,
+        "Y": 24.617298,
+        "Z": -287.17322
+      },
+      "Timestamp": 1695757314,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 22,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 2.4745028,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8929638,
+        "Y": 0.8489565,
+        "Z": -2.0290153
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 551.38934,
+        "Y": 74.77008,
+        "Z": 731.0583
+      },
+      "Timestamp": 1695757344,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 50.89851,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.4729896,
+        "Y": -0.30291605,
+        "Z": 2.4425862
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 514.7943,
+        "Y": 71.269806,
+        "Z": 915.7015
+      },
+      "Timestamp": 1695757437,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 0.2515383,
+      "OtherCarId": 25,
+      "OtherDriver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.18226327,
+        "Y": -0.15232776,
+        "Z": 2.4463644
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 360.7926,
+        "Y": 62.973175,
+        "Z": 1043.4979
+      },
+      "Timestamp": 1695757440,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 13.335601,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.5580966,
+        "Y": -0.22083257,
+        "Z": -1.9768676
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 361.84238,
+        "Y": 63.06098,
+        "Z": 1042.7377
+      },
+      "Timestamp": 1695757442,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 28.921854,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.89293027,
+        "Y": 0.84896296,
+        "Z": -2.0290487
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 473.45334,
+        "Y": 70.81874,
+        "Z": 974.4684
+      },
+      "Timestamp": 1695757442,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 193.59244,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.000013398674,
+        "Y": -0.30291393,
+        "Z": 2.5142558
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -445.65402,
+        "Y": 30.435139,
+        "Z": -1005.98895
+      },
+      "Timestamp": 1695757811,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 38.094612,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.5461386,
+        "Y": -0.2624273,
+        "Z": -1.0587833
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -175.56693,
+        "Y": 16.693335,
+        "Z": -527.68445
+      },
+      "Timestamp": 1695757812,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 33.74327,
+      "OtherCarId": 25,
+      "OtherDriver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.83533,
+        "Y": -0.24004437,
+        "Z": 2.1722443
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -195.7595,
+        "Y": 17.473715,
+        "Z": -557.9534
+      },
+      "Timestamp": 1695757815,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 28.305677,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.86976206,
+        "Y": -0.30334678,
+        "Z": 2.06776
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -196.6555,
+        "Y": 17.461912,
+        "Z": -558.74744
+      },
+      "Timestamp": 1695757817,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 25,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 26.84605,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8929547,
+        "Y": 0.8489604,
+        "Z": -2.02901
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -210.1094,
+        "Y": 19.602245,
+        "Z": -593.6281
+      },
+      "Timestamp": 1695757817,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 35.108418,
+      "OtherCarId": 20,
+      "OtherDriver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.8280235,
+        "Y": 0.73069435,
+        "Z": -1.9637655
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -430.08453,
+        "Y": 29.632597,
+        "Z": -974.18085
+      },
+      "Timestamp": 1695757821,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 32.633354,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.6588866,
+        "Y": 0.43579215,
+        "Z": -1.9855534
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -430.25885,
+        "Y": 29.321135,
+        "Z": -973.9195
+      },
+      "Timestamp": 1695757821,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 103.87178,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.89810693,
+        "Y": 0.27184138,
+        "Z": 1.6354835
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -153.53366,
+        "Y": 17.03104,
+        "Z": -518.21954
+      },
+      "Timestamp": 1695757827,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 38.478664,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": 0.8929516,
+        "Y": 0.84896237,
+        "Z": -2.029062
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -424.1022,
+        "Y": 27.998055,
+        "Z": -952.5839
+      },
+      "Timestamp": 1695757841,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 12.6364,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8929442,
+        "Y": 0.8489586,
+        "Z": -2.0290067
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -434.44635,
+        "Y": 28.449905,
+        "Z": -951.3829
+      },
+      "Timestamp": 1695757846,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 37.053646,
+      "OtherCarId": 27,
+      "OtherDriver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.806996,
+        "Y": 0.8032814,
+        "Z": -1.9678167
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -421.42023,
+        "Y": 29.391233,
+        "Z": -978.745
+      },
+      "Timestamp": 1695757846,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 27,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 41.424522,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.82332855,
+        "Y": -0.22430202,
+        "Z": 2.1513634
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -424.3308,
+        "Y": 28.437712,
+        "Z": -975.72595
+      },
+      "Timestamp": 1695757848,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 9.061466,
+      "OtherCarId": 20,
+      "OtherDriver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": -0.8972997,
+        "Y": 0.70338166,
+        "Z": -1.8577611
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -437.8891,
+        "Y": 29.130728,
+        "Z": -962.7583
+      },
+      "Timestamp": 1695757861,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 20,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 11.087045,
+      "OtherCarId": 11,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "RelPosition": {
+        "X": 0.7732945,
+        "Y": 0.72574484,
+        "Z": -1.8773829
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -438.00476,
+        "Y": 29.162066,
+        "Z": -962.66125
+      },
+      "Timestamp": 1695757861,
+      "AfterSessionEnd": true
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077"
+      },
+      "ImpactSpeed": 10.160682,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "00000000-0000-0000-0000-000000000000"
+      },
+      "RelPosition": {
+        "X": -0.8929611,
+        "Y": 0.8489621,
+        "Z": -2.029057
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -430.48184,
+        "Y": 28.311213,
+        "Z": -954.15393
+      },
+      "Timestamp": 1695757887,
+      "AfterSessionEnd": true
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 145805,
+      "Restrictor": 0,
+      "Sectors": [
+        42769,
+        65371,
+        37665
+      ],
+      "Timestamp": 1695755046,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 148191,
+      "Restrictor": 0,
+      "Sectors": [
+        44398,
+        66222,
+        37571
+      ],
+      "Timestamp": 1695755048,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 148615,
+      "Restrictor": 0,
+      "Sectors": [
+        44512,
+        66303,
+        37800
+      ],
+      "Timestamp": 1695755049,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 149103,
+      "Restrictor": 0,
+      "Sectors": [
+        44626,
+        66532,
+        37945
+      ],
+      "Timestamp": 1695755049,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 151344,
+      "Restrictor": 0,
+      "Sectors": [
+        46718,
+        66312,
+        38314
+      ],
+      "Timestamp": 1695755051,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "LapTime": 152574,
+      "Restrictor": 0,
+      "Sectors": [
+        46770,
+        67589,
+        38215
+      ],
+      "Timestamp": 1695755053,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 155155,
+      "Restrictor": 0,
+      "Sectors": [
+        45657,
+        66100,
+        43398
+      ],
+      "Timestamp": 1695755055,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 157268,
+      "Restrictor": 0,
+      "Sectors": [
+        45246,
+        73939,
+        38083
+      ],
+      "Timestamp": 1695755057,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198875084577",
+      "DriverName": "Spyzer",
+      "LapTime": 161096,
+      "Restrictor": 0,
+      "Sectors": [
+        46653,
+        75033,
+        39410
+      ],
+      "Timestamp": 1695755061,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 162133,
+      "Restrictor": 0,
+      "Sectors": [
+        54781,
+        67284,
+        40068
+      ],
+      "Timestamp": 1695755062,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 142149,
+      "Restrictor": 0,
+      "Sectors": [
+        40120,
+        64611,
+        37418
+      ],
+      "Timestamp": 1695755188,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 142993,
+      "Restrictor": 0,
+      "Sectors": [
+        40371,
+        64926,
+        37696
+      ],
+      "Timestamp": 1695755192,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 144814,
+      "Restrictor": 0,
+      "Sectors": [
+        40697,
+        65984,
+        38133
+      ],
+      "Timestamp": 1695755194,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 146195,
+      "Restrictor": 0,
+      "Sectors": [
+        40855,
+        66582,
+        38758
+      ],
+      "Timestamp": 1695755195,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 146124,
+      "Restrictor": 0,
+      "Sectors": [
+        41301,
+        65871,
+        38952
+      ],
+      "Timestamp": 1695755198,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "LapTime": 145003,
+      "Restrictor": 0,
+      "Sectors": [
+        40693,
+        66038,
+        38272
+      ],
+      "Timestamp": 1695755198,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 144178,
+      "Restrictor": 0,
+      "Sectors": [
+        40651,
+        65205,
+        38322
+      ],
+      "Timestamp": 1695755202,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 1,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 150207,
+      "Restrictor": 0,
+      "Sectors": [
+        47179,
+        65407,
+        37621
+      ],
+      "Timestamp": 1695755206,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 146840,
+      "Restrictor": 0,
+      "Sectors": [
+        40798,
+        66128,
+        39914
+      ],
+      "Timestamp": 1695755209,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 142109,
+      "Restrictor": 0,
+      "Sectors": [
+        40184,
+        64350,
+        37575
+      ],
+      "Timestamp": 1695755330,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 142755,
+      "Restrictor": 0,
+      "Sectors": [
+        40537,
+        64904,
+        37314
+      ],
+      "Timestamp": 1695755335,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 143411,
+      "Restrictor": 0,
+      "Sectors": [
+        40425,
+        64853,
+        38133
+      ],
+      "Timestamp": 1695755337,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 144147,
+      "Restrictor": 0,
+      "Sectors": [
+        40610,
+        65187,
+        38350
+      ],
+      "Timestamp": 1695755339,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 145606,
+      "Restrictor": 0,
+      "Sectors": [
+        41206,
+        65984,
+        38416
+      ],
+      "Timestamp": 1695755343,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 144231,
+      "Restrictor": 0,
+      "Sectors": [
+        40920,
+        65250,
+        38061
+      ],
+      "Timestamp": 1695755346,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 143068,
+      "Restrictor": 0,
+      "Sectors": [
+        40270,
+        64890,
+        37908
+      ],
+      "Timestamp": 1695755349,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "LapTime": 151309,
+      "Restrictor": 0,
+      "Sectors": [
+        40470,
+        66433,
+        44406
+      ],
+      "Timestamp": 1695755349,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 2,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 143759,
+      "Restrictor": 0,
+      "Sectors": [
+        40520,
+        64917,
+        38322
+      ],
+      "Timestamp": 1695755353,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 141649,
+      "Restrictor": 0,
+      "Sectors": [
+        40399,
+        64026,
+        37224
+      ],
+      "Timestamp": 1695755472,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143090,
+      "Restrictor": 0,
+      "Sectors": [
+        40527,
+        64835,
+        37728
+      ],
+      "Timestamp": 1695755478,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 1,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 142945,
+      "Restrictor": 0,
+      "Sectors": [
+        40547,
+        64513,
+        37885
+      ],
+      "Timestamp": 1695755480,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 145990,
+      "Restrictor": 0,
+      "Sectors": [
+        41248,
+        65669,
+        39073
+      ],
+      "Timestamp": 1695755489,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 144396,
+      "Restrictor": 0,
+      "Sectors": [
+        41048,
+        65012,
+        38336
+      ],
+      "Timestamp": 1695755490,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 142511,
+      "Restrictor": 0,
+      "Sectors": [
+        40118,
+        64701,
+        37692
+      ],
+      "Timestamp": 1695755491,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "LapTime": 144298,
+      "Restrictor": 0,
+      "Sectors": [
+        41108,
+        65516,
+        37674
+      ],
+      "Timestamp": 1695755493,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 167530,
+      "Restrictor": 0,
+      "Sectors": [
+        40526,
+        87539,
+        39465
+      ],
+      "Timestamp": 1695755506,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 158911,
+      "Restrictor": 0,
+      "Sectors": [
+        41312,
+        79542,
+        38057
+      ],
+      "Timestamp": 1695755512,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 142606,
+      "Restrictor": 0,
+      "Sectors": [
+        40249,
+        64795,
+        37562
+      ],
+      "Timestamp": 1695755614,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 142256,
+      "Restrictor": 0,
+      "Sectors": [
+        40349,
+        64634,
+        37273
+      ],
+      "Timestamp": 1695755620,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 142592,
+      "Restrictor": 0,
+      "Sectors": [
+        40659,
+        64210,
+        37723
+      ],
+      "Timestamp": 1695755623,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 143586,
+      "Restrictor": 0,
+      "Sectors": [
+        40671,
+        64998,
+        37917
+      ],
+      "Timestamp": 1695755634,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 143552,
+      "Restrictor": 0,
+      "Sectors": [
+        40620,
+        65358,
+        37574
+      ],
+      "Timestamp": 1695755635,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 146570,
+      "Restrictor": 0,
+      "Sectors": [
+        41091,
+        65025,
+        40454
+      ],
+      "Timestamp": 1695755636,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "LapTime": 145437,
+      "Restrictor": 0,
+      "Sectors": [
+        40829,
+        65498,
+        39110
+      ],
+      "Timestamp": 1695755639,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 144766,
+      "Restrictor": 0,
+      "Sectors": [
+        40524,
+        64782,
+        39460
+      ],
+      "Timestamp": 1695755651,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 145364,
+      "Restrictor": 0,
+      "Sectors": [
+        40784,
+        65980,
+        38600
+      ],
+      "Timestamp": 1695755657,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 141602,
+      "Restrictor": 0,
+      "Sectors": [
+        40118,
+        64364,
+        37120
+      ],
+      "Timestamp": 1695755756,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 142918,
+      "Restrictor": 0,
+      "Sectors": [
+        40746,
+        64849,
+        37323
+      ],
+      "Timestamp": 1695755763,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 142401,
+      "Restrictor": 0,
+      "Sectors": [
+        40412,
+        64503,
+        37486
+      ],
+      "Timestamp": 1695755765,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 144211,
+      "Restrictor": 0,
+      "Sectors": [
+        40869,
+        65218,
+        38124
+      ],
+      "Timestamp": 1695755778,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 143624,
+      "Restrictor": 0,
+      "Sectors": [
+        40354,
+        65448,
+        37822
+      ],
+      "Timestamp": 1695755778,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 145614,
+      "Restrictor": 0,
+      "Sectors": [
+        40691,
+        66187,
+        38736
+      ],
+      "Timestamp": 1695755781,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "LapTime": 145003,
+      "Restrictor": 0,
+      "Sectors": [
+        40959,
+        65898,
+        38146
+      ],
+      "Timestamp": 1695755784,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 144248,
+      "Restrictor": 0,
+      "Sectors": [
+        41154,
+        65124,
+        37970
+      ],
+      "Timestamp": 1695755795,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 152607,
+      "Restrictor": 0,
+      "Sectors": [
+        40282,
+        74277,
+        38048
+      ],
+      "Timestamp": 1695755810,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 141959,
+      "Restrictor": 0,
+      "Sectors": [
+        40098,
+        64755,
+        37106
+      ],
+      "Timestamp": 1695755898,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 142781,
+      "Restrictor": 0,
+      "Sectors": [
+        40650,
+        64831,
+        37300
+      ],
+      "Timestamp": 1695755906,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 141938,
+      "Restrictor": 0,
+      "Sectors": [
+        40400,
+        63896,
+        37642
+      ],
+      "Timestamp": 1695755907,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 142635,
+      "Restrictor": 0,
+      "Sectors": [
+        40282,
+        64543,
+        37810
+      ],
+      "Timestamp": 1695755921,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 144456,
+      "Restrictor": 0,
+      "Sectors": [
+        41158,
+        65218,
+        38080
+      ],
+      "Timestamp": 1695755922,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 145228,
+      "Restrictor": 0,
+      "Sectors": [
+        40468,
+        66478,
+        38282
+      ],
+      "Timestamp": 1695755927,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "LapTime": 143997,
+      "Restrictor": 0,
+      "Sectors": [
+        40537,
+        65659,
+        37801
+      ],
+      "Timestamp": 1695755928,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 143373,
+      "Restrictor": 0,
+      "Sectors": [
+        40620,
+        64813,
+        37940
+      ],
+      "Timestamp": 1695755939,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 143189,
+      "Restrictor": 0,
+      "Sectors": [
+        40454,
+        64423,
+        38312
+      ],
+      "Timestamp": 1695755953,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 141793,
+      "Restrictor": 0,
+      "Sectors": [
+        40327,
+        64165,
+        37301
+      ],
+      "Timestamp": 1695756040,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 142459,
+      "Restrictor": 0,
+      "Sectors": [
+        40471,
+        64517,
+        37471
+      ],
+      "Timestamp": 1695756048,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 142707,
+      "Restrictor": 0,
+      "Sectors": [
+        40700,
+        64287,
+        37720
+      ],
+      "Timestamp": 1695756050,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 143135,
+      "Restrictor": 0,
+      "Sectors": [
+        40193,
+        65376,
+        37566
+      ],
+      "Timestamp": 1695756064,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 143910,
+      "Restrictor": 0,
+      "Sectors": [
+        40531,
+        65655,
+        37724
+      ],
+      "Timestamp": 1695756066,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 143511,
+      "Restrictor": 0,
+      "Sectors": [
+        40487,
+        65273,
+        37751
+      ],
+      "Timestamp": 1695756070,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "LapTime": 143383,
+      "Restrictor": 0,
+      "Sectors": [
+        40293,
+        65133,
+        37957
+      ],
+      "Timestamp": 1695756071,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 142577,
+      "Restrictor": 0,
+      "Sectors": [
+        40360,
+        64922,
+        37295
+      ],
+      "Timestamp": 1695756081,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 2,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 142540,
+      "Restrictor": 0,
+      "Sectors": [
+        40718,
+        63032,
+        38790
+      ],
+      "Timestamp": 1695756095,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 142174,
+      "Restrictor": 0,
+      "Sectors": [
+        40415,
+        64670,
+        37089
+      ],
+      "Timestamp": 1695756182,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143119,
+      "Restrictor": 0,
+      "Sectors": [
+        40744,
+        64710,
+        37665
+      ],
+      "Timestamp": 1695756191,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 143585,
+      "Restrictor": 0,
+      "Sectors": [
+        40508,
+        64400,
+        38677
+      ],
+      "Timestamp": 1695756194,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 1,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 143616,
+      "Restrictor": 0,
+      "Sectors": [
+        40431,
+        64665,
+        38520
+      ],
+      "Timestamp": 1695756208,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 142951,
+      "Restrictor": 0,
+      "Sectors": [
+        40347,
+        64863,
+        37741
+      ],
+      "Timestamp": 1695756209,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 144522,
+      "Restrictor": 0,
+      "Sectors": [
+        40788,
+        65565,
+        38169
+      ],
+      "Timestamp": 1695756215,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "LapTime": 144033,
+      "Restrictor": 0,
+      "Sectors": [
+        40478,
+        65385,
+        38170
+      ],
+      "Timestamp": 1695756215,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 143372,
+      "Restrictor": 0,
+      "Sectors": [
+        40323,
+        65416,
+        37633
+      ],
+      "Timestamp": 1695756225,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 144608,
+      "Restrictor": 0,
+      "Sectors": [
+        40722,
+        65254,
+        38632
+      ],
+      "Timestamp": 1695756240,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 148235,
+      "Restrictor": 0,
+      "Sectors": [
+        40083,
+        64921,
+        43231
+      ],
+      "Timestamp": 1695756330,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 142223,
+      "Restrictor": 0,
+      "Sectors": [
+        40375,
+        64539,
+        37309
+      ],
+      "Timestamp": 1695756333,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 150010,
+      "Restrictor": 0,
+      "Sectors": [
+        40278,
+        64511,
+        45221
+      ],
+      "Timestamp": 1695756344,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 143559,
+      "Restrictor": 0,
+      "Sectors": [
+        40756,
+        65011,
+        37792
+      ],
+      "Timestamp": 1695756351,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 143934,
+      "Restrictor": 0,
+      "Sectors": [
+        40550,
+        65206,
+        38178
+      ],
+      "Timestamp": 1695756353,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 145462,
+      "Restrictor": 0,
+      "Sectors": [
+        41048,
+        65161,
+        39253
+      ],
+      "Timestamp": 1695756360,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "LapTime": 145399,
+      "Restrictor": 0,
+      "Sectors": [
+        40716,
+        65349,
+        39334
+      ],
+      "Timestamp": 1695756361,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 143301,
+      "Restrictor": 0,
+      "Sectors": [
+        40498,
+        65025,
+        37778
+      ],
+      "Timestamp": 1695756368,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 3,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 162777,
+      "Restrictor": 0,
+      "Sectors": [
+        40619,
+        77000,
+        45158
+      ],
+      "Timestamp": 1695756403,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143057,
+      "Restrictor": 0,
+      "Sectors": [
+        40638,
+        64880,
+        37539
+      ],
+      "Timestamp": 1695756476,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 143709,
+      "Restrictor": 0,
+      "Sectors": [
+        41216,
+        64584,
+        37909
+      ],
+      "Timestamp": 1695756487,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 142848,
+      "Restrictor": 0,
+      "Sectors": [
+        40153,
+        64890,
+        37805
+      ],
+      "Timestamp": 1695756494,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 142744,
+      "Restrictor": 0,
+      "Sectors": [
+        40382,
+        64719,
+        37643
+      ],
+      "Timestamp": 1695756496,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 146818,
+      "Restrictor": 0,
+      "Sectors": [
+        41010,
+        67626,
+        38182
+      ],
+      "Timestamp": 1695756507,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 177712,
+      "Restrictor": 0,
+      "Sectors": [
+        70859,
+        65588,
+        41265
+      ],
+      "Timestamp": 1695756508,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 143036,
+      "Restrictor": 0,
+      "Sectors": [
+        40869,
+        64637,
+        37530
+      ],
+      "Timestamp": 1695756511,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143139,
+      "Restrictor": 0,
+      "Sectors": [
+        40534,
+        64633,
+        37972
+      ],
+      "Timestamp": 1695756620,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 216989,
+      "Restrictor": 0,
+      "Sectors": [
+        62666,
+        109535,
+        44788
+      ],
+      "Timestamp": 1695756620,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 143739,
+      "Restrictor": 0,
+      "Sectors": [
+        40895,
+        64495,
+        38349
+      ],
+      "Timestamp": 1695756631,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 143163,
+      "Restrictor": 0,
+      "Sectors": [
+        40419,
+        64881,
+        37863
+      ],
+      "Timestamp": 1695756637,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 1,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 155184,
+      "Restrictor": 0,
+      "Sectors": [
+        40942,
+        76145,
+        38097
+      ],
+      "Timestamp": 1695756651,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "LapTime": 143528,
+      "Restrictor": 0,
+      "Sectors": [
+        40262,
+        65381,
+        37885
+      ],
+      "Timestamp": 1695756651,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 145954,
+      "Restrictor": 0,
+      "Sectors": [
+        40731,
+        67297,
+        37926
+      ],
+      "Timestamp": 1695756653,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 1,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 153552,
+      "Restrictor": 0,
+      "Sectors": [
+        40683,
+        75509,
+        37360
+      ],
+      "Timestamp": 1695756664,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 145433,
+      "Restrictor": 0,
+      "Sectors": [
+        43842,
+        64278,
+        37313
+      ],
+      "Timestamp": 1695756765,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 145912,
+      "Restrictor": 0,
+      "Sectors": [
+        40572,
+        67360,
+        37980
+      ],
+      "Timestamp": 1695756765,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 143856,
+      "Restrictor": 0,
+      "Sectors": [
+        40662,
+        65303,
+        37891
+      ],
+      "Timestamp": 1695756775,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 142987,
+      "Restrictor": 0,
+      "Sectors": [
+        40059,
+        64858,
+        38070
+      ],
+      "Timestamp": 1695756780,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 144468,
+      "Restrictor": 0,
+      "Sectors": [
+        40895,
+        65394,
+        38179
+      ],
+      "Timestamp": 1695756796,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 145419,
+      "Restrictor": 0,
+      "Sectors": [
+        40951,
+        66078,
+        38390
+      ],
+      "Timestamp": 1695756798,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 143325,
+      "Restrictor": 0,
+      "Sectors": [
+        40238,
+        65224,
+        37863
+      ],
+      "Timestamp": 1695756808,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143159,
+      "Restrictor": 0,
+      "Sectors": [
+        40217,
+        65070,
+        37872
+      ],
+      "Timestamp": 1695756909,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 2,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 145285,
+      "Restrictor": 0,
+      "Sectors": [
+        43000,
+        63891,
+        38394
+      ],
+      "Timestamp": 1695756911,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 144206,
+      "Restrictor": 0,
+      "Sectors": [
+        40941,
+        64777,
+        38488
+      ],
+      "Timestamp": 1695756919,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 142719,
+      "Restrictor": 0,
+      "Sectors": [
+        40218,
+        65002,
+        37499
+      ],
+      "Timestamp": 1695756923,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 144323,
+      "Restrictor": 0,
+      "Sectors": [
+        41174,
+        64900,
+        38249
+      ],
+      "Timestamp": 1695756940,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 147006,
+      "Restrictor": 0,
+      "Sectors": [
+        40378,
+        65808,
+        40820
+      ],
+      "Timestamp": 1695756945,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 152464,
+      "Restrictor": 0,
+      "Sectors": [
+        40850,
+        73706,
+        37908
+      ],
+      "Timestamp": 1695756960,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143179,
+      "Restrictor": 0,
+      "Sectors": [
+        40557,
+        64863,
+        37759
+      ],
+      "Timestamp": 1695757052,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 142958,
+      "Restrictor": 0,
+      "Sectors": [
+        40435,
+        64687,
+        37836
+      ],
+      "Timestamp": 1695757062,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 142951,
+      "Restrictor": 0,
+      "Sectors": [
+        40256,
+        65075,
+        37620
+      ],
+      "Timestamp": 1695757066,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 2,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 159585,
+      "Restrictor": 0,
+      "Sectors": [
+        40717,
+        63752,
+        55116
+      ],
+      "Timestamp": 1695757070,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 144972,
+      "Restrictor": 0,
+      "Sectors": [
+        40896,
+        65839,
+        38237
+      ],
+      "Timestamp": 1695757090,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 151796,
+      "Restrictor": 0,
+      "Sectors": [
+        40539,
+        73300,
+        37957
+      ],
+      "Timestamp": 1695757092,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 171653,
+      "Restrictor": 0,
+      "Sectors": [
+        58749,
+        74209,
+        38695
+      ],
+      "Timestamp": 1695757132,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143663,
+      "Restrictor": 0,
+      "Sectors": [
+        40326,
+        65398,
+        37939
+      ],
+      "Timestamp": 1695757195,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 142666,
+      "Restrictor": 0,
+      "Sectors": [
+        40399,
+        64454,
+        37813
+      ],
+      "Timestamp": 1695757205,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 142683,
+      "Restrictor": 0,
+      "Sectors": [
+        40227,
+        64737,
+        37719
+      ],
+      "Timestamp": 1695757209,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 145853,
+      "Restrictor": 0,
+      "Sectors": [
+        41048,
+        66169,
+        38636
+      ],
+      "Timestamp": 1695757236,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 144606,
+      "Restrictor": 0,
+      "Sectors": [
+        40538,
+        65682,
+        38386
+      ],
+      "Timestamp": 1695757236,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 168444,
+      "Restrictor": 0,
+      "Sectors": [
+        62734,
+        67423,
+        38287
+      ],
+      "Timestamp": 1695757239,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 1,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 144947,
+      "Restrictor": 0,
+      "Sectors": [
+        41731,
+        65164,
+        38052
+      ],
+      "Timestamp": 1695757277,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143373,
+      "Restrictor": 0,
+      "Sectors": [
+        40260,
+        65407,
+        37706
+      ],
+      "Timestamp": 1695757339,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 142241,
+      "Restrictor": 0,
+      "Sectors": [
+        40348,
+        64269,
+        37624
+      ],
+      "Timestamp": 1695757347,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 142155,
+      "Restrictor": 0,
+      "Sectors": [
+        40153,
+        64318,
+        37684
+      ],
+      "Timestamp": 1695757351,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 143991,
+      "Restrictor": 0,
+      "Sectors": [
+        40481,
+        65413,
+        38097
+      ],
+      "Timestamp": 1695757380,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 144781,
+      "Restrictor": 0,
+      "Sectors": [
+        41285,
+        65903,
+        37593
+      ],
+      "Timestamp": 1695757381,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 143518,
+      "Restrictor": 0,
+      "Sectors": [
+        40774,
+        65007,
+        37737
+      ],
+      "Timestamp": 1695757382,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 1,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 167538,
+      "Restrictor": 0,
+      "Sectors": [
+        54146,
+        74952,
+        38440
+      ],
+      "Timestamp": 1695757444,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143487,
+      "Restrictor": 0,
+      "Sectors": [
+        40324,
+        65173,
+        37990
+      ],
+      "Timestamp": 1695757482,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 142104,
+      "Restrictor": 0,
+      "Sectors": [
+        40255,
+        64125,
+        37724
+      ],
+      "Timestamp": 1695757489,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 143437,
+      "Restrictor": 0,
+      "Sectors": [
+        40229,
+        64558,
+        38650
+      ],
+      "Timestamp": 1695757494,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 144800,
+      "Restrictor": 0,
+      "Sectors": [
+        40643,
+        66227,
+        37930
+      ],
+      "Timestamp": 1695757525,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 145306,
+      "Restrictor": 0,
+      "Sectors": [
+        40339,
+        67279,
+        37688
+      ],
+      "Timestamp": 1695757526,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 163337,
+      "Restrictor": 0,
+      "Sectors": [
+        40474,
+        84051,
+        38812
+      ],
+      "Timestamp": 1695757545,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 145273,
+      "Restrictor": 0,
+      "Sectors": [
+        41413,
+        65948,
+        37912
+      ],
+      "Timestamp": 1695757590,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143550,
+      "Restrictor": 0,
+      "Sectors": [
+        40499,
+        65340,
+        37711
+      ],
+      "Timestamp": 1695757626,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 142294,
+      "Restrictor": 0,
+      "Sectors": [
+        40418,
+        63882,
+        37994
+      ],
+      "Timestamp": 1695757631,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 142844,
+      "Restrictor": 0,
+      "Sectors": [
+        40587,
+        64628,
+        37629
+      ],
+      "Timestamp": 1695757637,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 144353,
+      "Restrictor": 0,
+      "Sectors": [
+        40619,
+        65664,
+        38070
+      ],
+      "Timestamp": 1695757670,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 144019,
+      "Restrictor": 0,
+      "Sectors": [
+        40973,
+        65106,
+        37940
+      ],
+      "Timestamp": 1695757670,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 2,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 144075,
+      "Restrictor": 0,
+      "Sectors": [
+        42073,
+        63792,
+        38210
+      ],
+      "Timestamp": 1695757690,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 146382,
+      "Restrictor": 0,
+      "Sectors": [
+        40784,
+        66151,
+        39447
+      ],
+      "Timestamp": 1695757736,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 143311,
+      "Restrictor": 0,
+      "Sectors": [
+        40396,
+        65066,
+        37849
+      ],
+      "Timestamp": 1695757769,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 142710,
+      "Restrictor": 0,
+      "Sectors": [
+        40532,
+        64557,
+        37621
+      ],
+      "Timestamp": 1695757774,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 166187,
+      "Restrictor": 0,
+      "Sectors": [
+        40359,
+        71900,
+        53928
+      ],
+      "Timestamp": 1695757803,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 144501,
+      "Restrictor": 0,
+      "Sectors": [
+        40051,
+        66434,
+        38016
+      ],
+      "Timestamp": 1695757815,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 153142,
+      "Restrictor": 0,
+      "Sectors": [
+        40656,
+        65564,
+        46922
+      ],
+      "Timestamp": 1695757824,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "LapTime": 141183,
+      "Restrictor": 0,
+      "Sectors": [
+        41458,
+        66343,
+        33382
+      ],
+      "Timestamp": 1695757831,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 151037,
+      "Restrictor": 0,
+      "Sectors": [
+        42817,
+        67779,
+        40441
+      ],
+      "Timestamp": 1695757887,
+      "Tyre": "H",
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 0,
+      "BestLap": 142223,
+      "CarId": 11,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "Restrictor": 0,
+      "TotalTime": 2869018,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 3
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 141938,
+      "CarId": 27,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "Restrictor": 0,
+      "TotalTime": 2873923,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 2
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 142155,
+      "CarId": 20,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "Restrictor": 0,
+      "TotalTime": 2903020,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 5
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 143511,
+      "CarId": 0,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "Restrictor": 0,
+      "TotalTime": 2914509,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 9
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 142744,
+      "CarId": 25,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "Restrictor": 0,
+      "TotalTime": 2923492,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 7
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 142577,
+      "CarId": 22,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "Restrictor": 0,
+      "TotalTime": 2986836,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 4
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 141183,
+      "CarId": 6,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198136285982",
+      "DriverName": "ricfan",
+      "Restrictor": 0,
+      "TotalTime": 2930546,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 8
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 141602,
+      "CarId": 4,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198799287577",
+      "DriverName": "Adam Modan",
+      "Restrictor": 0,
+      "TotalTime": 1751306,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 1
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 143383,
+      "CarId": 17,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561199108968301",
+      "DriverName": "Marcin Szymani",
+      "Restrictor": 0,
+      "TotalTime": 1460368,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 6
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 161096,
+      "CarId": 8,
+      "CarModel": "urd_darche_cup_2021",
+      "DriverGuid": "76561198875084577",
+      "DriverName": "Spyzer",
+      "Restrictor": 0,
+      "TotalTime": 161063,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
+      "GridPosition": 10
+    }
+  ],
+  "Penalties": null,
+  "TrackConfig": "2022",
+  "TrackName": "spa",
+  "Type": "RACE",
+  "Date": "2023-09-26T21:52:00+02:00",
+  "SessionFile": "2023_9_26_21_52_RACE",
+  "SessionConfig": {
+    "session_type": 3,
+    "name": "Race",
+    "time": 45,
+    "laps": 0,
+    "is_open": 1,
+    "wait_time": 80,
+    "visibility_mode": 0,
+    "qualifying_type": 0,
+    "qualifying_number_of_laps_to_average": 0,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "be904e62-d0c9-4e70-acae-c8c6ab13e859",
+  "RaceWeekendID": "",
+  "EventName": ""
+}

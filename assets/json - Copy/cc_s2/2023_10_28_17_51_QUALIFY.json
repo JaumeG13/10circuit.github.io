@@ -1,0 +1,3789 @@
+{
+  "Version": 6,
+  "Cars": [
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #35 Team Ultimate WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 68,
+      "MaxPing": 124
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #10 Vector Sport WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 49,
+      "MaxPing": 55
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #23 United Autosports USA WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 50,
+      "MaxPing": 57
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 3,
+      "Driver": {
+        "Guid": "76561199508702937",
+        "GuidsList": [
+          "76561199508702937"
+        ],
+        "Name": "minadi",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #34 Inter Europol Competition WEC",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "MELON",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #22 United Autosports USA WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 50,
+      "MaxPing": 53
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 5,
+      "Driver": {
+        "Guid": "76561198288926984",
+        "GuidsList": [
+          "76561198288926984"
+        ],
+        "Name": "Veixel",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #41 Real Team by WRT WEC",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198931437182",
+        "GuidsList": [
+          "76561198931437182"
+        ],
+        "Name": "Gergő Bartus",
+        "Nation": "HUN",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2021 #70 Real Team Racing WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 65,
+      "MaxPing": 73
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #45 Algarve Pro Racing WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 117,
+      "MaxPing": 121
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561199034435554",
+        "GuidsList": [
+          "76561199034435554"
+        ],
+        "Name": "Lukáš Hendrych",
+        "Nation": "CZE",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #83 AFCorse WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 55,
+      "MaxPing": 60
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Dopicuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2021 #44 ARC Bratislava WEC",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "MinPing": 81,
+      "MaxPing": 89
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561199192625155",
+        "GuidsList": [
+          "76561199192625155"
+        ],
+        "Name": "Jhaeden Cruz",
+        "Nation": "PHL",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "ks_porsche_911_rsr_2018",
+      "Restrictor": 0,
+      "Skin": "94",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "MinPing": 57,
+      "MaxPing": 66
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 11,
+      "Driver": {
+        "Guid": "76561198875084577",
+        "GuidsList": [
+          "76561198875084577"
+        ],
+        "Name": "Spyzer",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "Model": "Yzd_Oreca_07_LMP2",
+      "Restrictor": 0,
+      "Skin": "2022 #28 Jota Sport WEC",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "ks_porsche_911_rsr_2018",
+      "Restrictor": 0,
+      "Skin": "92",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "MinPing": 1,
+      "MaxPing": 35
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "urd_detroit_egt_2018_LM",
+      "Restrictor": 0,
+      "Skin": "16",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "MinPing": 31,
+      "MaxPing": 39
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "urd_michigan_gtd",
+      "Restrictor": 0,
+      "Skin": "64",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "MinPing": 44,
+      "MaxPing": 54
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Freedom Tower",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "ks_porsche_911_rsr_2018",
+      "Restrictor": 0,
+      "Skin": "93",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "MinPing": 120,
+      "MaxPing": 122
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 16,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "urd_detroit_egt_2018_LM",
+      "Restrictor": 0,
+      "Skin": "65",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "MinPing": 47,
+      "MaxPing": 141
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "urd_michigan_gtd",
+      "Restrictor": 0,
+      "Skin": "63",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "MinPing": 49,
+      "MaxPing": 52
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 18,
+      "Driver": {
+        "Guid": "76561199102505072",
+        "GuidsList": [
+          "76561199102505072"
+        ],
+        "Name": "Mihalis Loukas",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "ks_porsche_911_rsr_2018",
+      "Restrictor": 0,
+      "Skin": "91",
+      "ClassID": "00000000-0000-0000-0000-000000000000",
+      "MinPing": 0,
+      "MaxPing": 0
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "Model": "urd_bayro_egt_2018",
+      "Restrictor": 0,
+      "Skin": "82",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "MinPing": 73,
+      "MaxPing": 91
+    }
+  ],
+  "Events": [
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561199192625155",
+        "GuidsList": [
+          "76561199192625155"
+        ],
+        "Name": "Jhaeden Cruz",
+        "Nation": "PHL",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 90.019554,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.99991846,
+        "Y": -0.3017332,
+        "Z": 1.7057809
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -365.99573,
+        "Y": -1.127462,
+        "Z": 42.32651
+      },
+      "Timestamp": 1698507432,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 10,
+      "Driver": {
+        "Guid": "76561199192625155",
+        "GuidsList": [
+          "76561199192625155"
+        ],
+        "Name": "Jhaeden Cruz",
+        "Nation": "PHL",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 14.513844,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.9932018,
+        "Y": 0.83569854,
+        "Z": -2.305694
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -399.79208,
+        "Y": -0.024112165,
+        "Z": 282.04004
+      },
+      "Timestamp": 1698507442,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 13,
+      "Driver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 176.4355,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.9746539,
+        "Y": -0.30298108,
+        "Z": 1.8538036
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -362.1599,
+        "Y": -0.8230728,
+        "Z": 506.02386
+      },
+      "Timestamp": 1698507444,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 16.52264,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.92801315,
+        "Y": -0.17282946,
+        "Z": 2.4432712
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -158.10979,
+        "Y": -1.2572,
+        "Z": -12.80764
+      },
+      "Timestamp": 1698507460,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 99.02239,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.896013,
+        "Y": -0.19486816,
+        "Z": 1.8033253
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 364.616,
+        "Y": -1.9186897,
+        "Z": -199.9289
+      },
+      "Timestamp": 1698507493,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 14,
+      "Driver": {
+        "Guid": "76561198065315707",
+        "GuidsList": [
+          "76561198065315707"
+        ],
+        "Name": "Tito",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 36.76056,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.57902145,
+        "Y": -0.39298108,
+        "Z": 2.480903
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -166.25246,
+        "Y": -0.09469465,
+        "Z": 549.1824
+      },
+      "Timestamp": 1698507575,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 2,
+      "Driver": {
+        "Guid": "76561198799287577",
+        "GuidsList": [
+          "76561198799287577"
+        ],
+        "Name": "sauberfan",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 172.9757,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.74943817,
+        "Y": 0.08527931,
+        "Z": 2.429096
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -78.83175,
+        "Y": 0.2224705,
+        "Z": 385.05078
+      },
+      "Timestamp": 1698507625,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561199034435554",
+        "GuidsList": [
+          "76561199034435554"
+        ],
+        "Name": "Lukáš Hendrych",
+        "Nation": "CZE",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 12.772265,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.9557199,
+        "Y": 0.8351152,
+        "Z": -1.75551
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -365.78214,
+        "Y": -0.15454781,
+        "Z": 42.147816
+      },
+      "Timestamp": 1698507645,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 16,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 35.28944,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.0000037582163,
+        "Y": 0.013622068,
+        "Z": 2.5374165
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 222.82927,
+        "Y": -1.3656008,
+        "Z": -3.1532013
+      },
+      "Timestamp": 1698507652,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 71.65147,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.9321287,
+        "Y": 0.21369666,
+        "Z": -2.0366068
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -585.28326,
+        "Y": -1.1372366,
+        "Z": -92.182205
+      },
+      "Timestamp": 1698507655,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 16,
+      "Driver": {
+        "Guid": "76561198409346099",
+        "GuidsList": [
+          "76561198409346099"
+        ],
+        "Name": "Stra",
+        "Nation": "SRB",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 8.95324,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.97466016,
+        "Y": -0.30298096,
+        "Z": 1.8538113
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 161.90628,
+        "Y": -1.5383699,
+        "Z": -3.1020873
+      },
+      "Timestamp": 1698507657,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Dopicuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 12.187518,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.9337767,
+        "Y": 0.05860073,
+        "Z": 2.465845
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -364.76346,
+        "Y": -0.91950727,
+        "Z": 41.254776
+      },
+      "Timestamp": 1698507767,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Dopicuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 59.036892,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.7258826,
+        "Y": -0.107213825,
+        "Z": 2.4917517
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -426.69376,
+        "Y": -0.9313605,
+        "Z": 150.30257
+      },
+      "Timestamp": 1698507772,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 82.49191,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.8894415,
+        "Y": -0.3801729,
+        "Z": 1.8709086
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -354.1841,
+        "Y": -1.2808397,
+        "Z": 33.577446
+      },
+      "Timestamp": 1698507776,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Dopicuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 80.424416,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.93378663,
+        "Y": 0.05860094,
+        "Z": 2.4658322
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -355.39978,
+        "Y": -0.2711087,
+        "Z": 505.9675
+      },
+      "Timestamp": 1698507812,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 0,
+      "Driver": {
+        "Guid": "76561198369988904",
+        "GuidsList": [
+          "76561198369988904"
+        ],
+        "Name": "maxfan",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 3.0464103,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.95366323,
+        "Y": 0.6300312,
+        "Z": -1.333304
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -237.26599,
+        "Y": -0.4378988,
+        "Z": -3.1670635
+      },
+      "Timestamp": 1698507815,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 1,
+      "Driver": {
+        "Guid": "76561198018366791",
+        "GuidsList": [
+          "76561198018366791"
+        ],
+        "Name": "Nojus Gedvilas",
+        "Nation": "LTU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 11.615723,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.95572203,
+        "Y": 0.8351152,
+        "Z": -1.7555114
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 399.1155,
+        "Y": -0.8414675,
+        "Z": 14.816856
+      },
+      "Timestamp": 1698507945,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 32.732452,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.33755794,
+        "Y": -0.392981,
+        "Z": 2.4826849
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -280.45416,
+        "Y": -0.23351856,
+        "Z": 474.16092
+      },
+      "Timestamp": 1698507951,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 36.509583,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.92802507,
+        "Y": -0.17282943,
+        "Z": 2.443263
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -162.47783,
+        "Y": 0.022994986,
+        "Z": 546.1456
+      },
+      "Timestamp": 1698507959,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 4,
+      "Driver": {
+        "Guid": "76561198418665166",
+        "GuidsList": [
+          "76561198418665166"
+        ],
+        "Name": "MELON",
+        "Nation": "PLA",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 125.696266,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.7049231,
+        "Y": 0.021867752,
+        "Z": 2.375218
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 495.9897,
+        "Y": -1.8286347,
+        "Z": -71.601685
+      },
+      "Timestamp": 1698507968,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 37.284863,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 1.0206181,
+        "Y": -0.3148378,
+        "Z": 1.6754647
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": 494.9729,
+        "Y": -2.1012275,
+        "Z": -69.78191
+      },
+      "Timestamp": 1698508043,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 6,
+      "Driver": {
+        "Guid": "76561198931437182",
+        "GuidsList": [
+          "76561198931437182"
+        ],
+        "Name": "Gergő Bartus",
+        "Nation": "HUN",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 11.0832615,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.93560576,
+        "Y": -0.017741436,
+        "Z": 2.32384
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -373.36145,
+        "Y": -1.0532873,
+        "Z": 49.830647
+      },
+      "Timestamp": 1698508081,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 2.2671964,
+      "OtherCarId": 13,
+      "OtherDriver": {
+        "Guid": "76561198800988033",
+        "GuidsList": [
+          "76561198800988033"
+        ],
+        "Name": "Gabriel Rico",
+        "Nation": "ESP",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -1.029109,
+        "Y": -0.056266032,
+        "Z": 0.16967027
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": 547.3647,
+        "Y": -1.841777,
+        "Z": 323.99063
+      },
+      "Timestamp": 1698508093,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 8,
+      "Driver": {
+        "Guid": "76561199034435554",
+        "GuidsList": [
+          "76561199034435554"
+        ],
+        "Name": "Lukáš Hendrych",
+        "Nation": "CZE",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 37.655895,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.93378043,
+        "Y": 0.058600757,
+        "Z": 2.4658537
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -107.19866,
+        "Y": 0.10029063,
+        "Z": 391.9083
+      },
+      "Timestamp": 1698508095,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 7,
+      "Driver": {
+        "Guid": "76561198400628002",
+        "GuidsList": [
+          "76561198400628002"
+        ],
+        "Name": "Saad",
+        "Nation": "SAU",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 43.80628,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.95571977,
+        "Y": 0.83511525,
+        "Z": -1.7554996
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -450.20334,
+        "Y": -1.0279788,
+        "Z": -245.54135
+      },
+      "Timestamp": 1698508109,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 45.186428,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.5790182,
+        "Y": -0.39298096,
+        "Z": 2.4808934
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -387.77948,
+        "Y": -1.5576081,
+        "Z": -199.72098
+      },
+      "Timestamp": 1698508156,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 156.72292,
+      "OtherCarId": 19,
+      "OtherDriver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.61887777,
+        "Y": -0.04860513,
+        "Z": 2.4104962
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -376.87222,
+        "Y": -1.2212664,
+        "Z": -201.82507
+      },
+      "Timestamp": 1698508161,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 17,
+      "Driver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 25.337952,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.57902277,
+        "Y": -0.076377615,
+        "Z": 2.4808853
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -374.1382,
+        "Y": -1.1748635,
+        "Z": -199.78494
+      },
+      "Timestamp": 1698508161,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 157.88289,
+      "OtherCarId": 17,
+      "OtherDriver": {
+        "Guid": "76561198987212773",
+        "GuidsList": [
+          "76561198987212773"
+        ],
+        "Name": "Justin Janson",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.46816126,
+        "Y": 0.0006919141,
+        "Z": 2.006446
+      },
+      "Type": "COLLISION_WITH_CAR",
+      "WorldPosition": {
+        "X": -376.82468,
+        "Y": -1.200566,
+        "Z": -201.80225
+      },
+      "Timestamp": 1698508163,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 19,
+      "Driver": {
+        "Guid": "76561198236592684",
+        "GuidsList": [
+          "76561198236592684"
+        ],
+        "Name": "Tony Seroka",
+        "Nation": "POL",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 24.585688,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.85045564,
+        "Y": 0.92966163,
+        "Z": -2.504256
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -364.49066,
+        "Y": -1.3109466,
+        "Z": -199.83603
+      },
+      "Timestamp": 1698508163,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 9,
+      "Driver": {
+        "Guid": "76561198157789493",
+        "GuidsList": [
+          "76561198157789493"
+        ],
+        "Name": "Dopicuh",
+        "Nation": "FIN",
+        "Team": "",
+        "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802"
+      },
+      "ImpactSpeed": 41.218254,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.9280266,
+        "Y": -0.17283048,
+        "Z": 2.443277
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -357.35605,
+        "Y": -0.65374434,
+        "Z": 390.8639
+      },
+      "Timestamp": 1698508172,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 15,
+      "Driver": {
+        "Guid": "76561198359790588",
+        "GuidsList": [
+          "76561198359790588"
+        ],
+        "Name": "Freedom Tower",
+        "Nation": "ITA",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 32.34227,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": -0.9487161,
+        "Y": -0.30881906,
+        "Z": 1.9405074
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -233.89433,
+        "Y": -0.15262957,
+        "Z": 544.3714
+      },
+      "Timestamp": 1698508196,
+      "AfterSessionEnd": false
+    },
+    {
+      "CarId": 12,
+      "Driver": {
+        "Guid": "76561198136285982",
+        "GuidsList": [
+          "76561198136285982"
+        ],
+        "Name": "Ricfan",
+        "Nation": "NLD",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "ImpactSpeed": 30.815376,
+      "OtherCarId": 0,
+      "OtherDriver": {
+        "Guid": "",
+        "GuidsList": null,
+        "Name": "",
+        "Nation": "",
+        "Team": "",
+        "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0"
+      },
+      "RelPosition": {
+        "X": 0.9931797,
+        "Y": 0.8356985,
+        "Z": -2.3057003
+      },
+      "Type": "COLLISION_WITH_ENV",
+      "WorldPosition": {
+        "X": -50.171265,
+        "Y": 1.0621845,
+        "Z": 830.95886
+      },
+      "Timestamp": 1698508228,
+      "AfterSessionEnd": false
+    }
+  ],
+  "Laps": [
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 114577,
+      "Restrictor": 0,
+      "Sectors": [
+        49656,
+        41598,
+        23323
+      ],
+      "Timestamp": 1698507384,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 114843,
+      "Restrictor": 0,
+      "Sectors": [
+        48067,
+        42277,
+        24499
+      ],
+      "Timestamp": 1698507386,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 119975,
+      "Restrictor": 0,
+      "Sectors": [
+        50932,
+        42403,
+        26640
+      ],
+      "Timestamp": 1698507389,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 121378,
+      "Restrictor": 0,
+      "Sectors": [
+        52303,
+        43052,
+        26023
+      ],
+      "Timestamp": 1698507391,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 137953,
+      "Restrictor": 0,
+      "Sectors": [
+        62807,
+        47628,
+        27518
+      ],
+      "Timestamp": 1698507407,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 16,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 138695,
+      "Restrictor": 0,
+      "Sectors": [
+        64257,
+        47659,
+        26779
+      ],
+      "Timestamp": 1698507411,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 1,
+      "DriverGuid": "76561199192625155",
+      "DriverName": "Jhaeden Cruz",
+      "LapTime": 152919,
+      "Restrictor": 0,
+      "Sectors": [
+        77543,
+        47368,
+        28008
+      ],
+      "Timestamp": 1698507422,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 154351,
+      "Restrictor": 0,
+      "Sectors": [
+        81051,
+        47033,
+        26267
+      ],
+      "Timestamp": 1698507423,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 156785,
+      "Restrictor": 0,
+      "Sectors": [
+        81982,
+        47367,
+        27436
+      ],
+      "Timestamp": 1698507426,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561199034435554",
+      "DriverName": "Lukáš Hendrych",
+      "LapTime": 158056,
+      "Restrictor": 0,
+      "Sectors": [
+        89287,
+        45121,
+        23648
+      ],
+      "Timestamp": 1698507427,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 136846,
+      "Restrictor": 0,
+      "Sectors": [
+        71061,
+        42434,
+        23351
+      ],
+      "Timestamp": 1698507438,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 188500,
+      "Restrictor": 0,
+      "Sectors": [
+        119020,
+        44717,
+        24763
+      ],
+      "Timestamp": 1698507458,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 105625,
+      "Restrictor": 0,
+      "Sectors": [
+        40794,
+        41705,
+        23126
+      ],
+      "Timestamp": 1698507489,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 104877,
+      "Restrictor": 0,
+      "Sectors": [
+        40365,
+        41323,
+        23189
+      ],
+      "Timestamp": 1698507491,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 105109,
+      "Restrictor": 0,
+      "Sectors": [
+        40314,
+        41390,
+        23405
+      ],
+      "Timestamp": 1698507494,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 112470,
+      "Restrictor": 0,
+      "Sectors": [
+        42031,
+        42462,
+        27977
+      ],
+      "Timestamp": 1698507503,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Ricfan",
+      "LapTime": 236348,
+      "Restrictor": 0,
+      "Sectors": [
+        160793,
+        48222,
+        27333
+      ],
+      "Timestamp": 1698507505,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 120480,
+      "Restrictor": 0,
+      "Sectors": [
+        46360,
+        47029,
+        27091
+      ],
+      "Timestamp": 1698507528,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 16,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 120121,
+      "Restrictor": 0,
+      "Sectors": [
+        46339,
+        47295,
+        26487
+      ],
+      "Timestamp": 1698507531,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561199034435554",
+      "DriverName": "Lukáš Hendrych",
+      "LapTime": 105126,
+      "Restrictor": 0,
+      "Sectors": [
+        40325,
+        41382,
+        23419
+      ],
+      "Timestamp": 1698507532,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 165439,
+      "Restrictor": 0,
+      "Sectors": [
+        91536,
+        47317,
+        26586
+      ],
+      "Timestamp": 1698507538,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 0,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 120517,
+      "Restrictor": 0,
+      "Sectors": [
+        46722,
+        47097,
+        26698
+      ],
+      "Timestamp": 1698507546,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 108239,
+      "Restrictor": 0,
+      "Sectors": [
+        40938,
+        42223,
+        25078
+      ],
+      "Timestamp": 1698507547,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 109036,
+      "Restrictor": 0,
+      "Sectors": [
+        42044,
+        42885,
+        24107
+      ],
+      "Timestamp": 1698507567,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 304954,
+      "Restrictor": 0,
+      "Sectors": [
+        231338,
+        45693,
+        27923
+      ],
+      "Timestamp": 1698507574,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "Cuts": 2,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 155422,
+      "Restrictor": 0,
+      "Sectors": [
+        82023,
+        47268,
+        26131
+      ],
+      "Timestamp": 1698507579,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 2,
+      "DriverGuid": "76561199192625155",
+      "DriverName": "Jhaeden Cruz",
+      "LapTime": 165482,
+      "Restrictor": 0,
+      "Sectors": [
+        86602,
+        51043,
+        27837
+      ],
+      "Timestamp": 1698507588,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 105395,
+      "Restrictor": 0,
+      "Sectors": [
+        40550,
+        41630,
+        23215
+      ],
+      "Timestamp": 1698507595,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 105116,
+      "Restrictor": 0,
+      "Sectors": [
+        40038,
+        41858,
+        23220
+      ],
+      "Timestamp": 1698507599,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Ricfan",
+      "LapTime": 120819,
+      "Restrictor": 0,
+      "Sectors": [
+        46699,
+        47336,
+        26784
+      ],
+      "Timestamp": 1698507626,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561199034435554",
+      "DriverName": "Lukáš Hendrych",
+      "LapTime": 104431,
+      "Restrictor": 0,
+      "Sectors": [
+        40005,
+        40968,
+        23458
+      ],
+      "Timestamp": 1698507637,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 136408,
+      "Restrictor": 0,
+      "Sectors": [
+        68984,
+        43344,
+        24080
+      ],
+      "Timestamp": 1698507639,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 119691,
+      "Restrictor": 0,
+      "Sectors": [
+        45981,
+        47119,
+        26591
+      ],
+      "Timestamp": 1698507647,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 106229,
+      "Restrictor": 0,
+      "Sectors": [
+        41002,
+        41891,
+        23336
+      ],
+      "Timestamp": 1698507653,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 121231,
+      "Restrictor": 0,
+      "Sectors": [
+        46527,
+        47569,
+        27135
+      ],
+      "Timestamp": 1698507659,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 109504,
+      "Restrictor": 0,
+      "Sectors": [
+        42058,
+        43654,
+        23792
+      ],
+      "Timestamp": 1698507676,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 2,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 110867,
+      "Restrictor": 0,
+      "Sectors": [
+        41352,
+        42614,
+        26901
+      ],
+      "Timestamp": 1698507685,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 119701,
+      "Restrictor": 0,
+      "Sectors": [
+        46000,
+        47191,
+        26510
+      ],
+      "Timestamp": 1698507699,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 105239,
+      "Restrictor": 0,
+      "Sectors": [
+        40498,
+        41616,
+        23125
+      ],
+      "Timestamp": 1698507700,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 138407,
+      "Restrictor": 0,
+      "Sectors": [
+        71933,
+        41572,
+        24902
+      ],
+      "Timestamp": 1698507704,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561199192625155",
+      "DriverName": "Jhaeden Cruz",
+      "LapTime": 121458,
+      "Restrictor": 0,
+      "Sectors": [
+        47162,
+        47512,
+        26784
+      ],
+      "Timestamp": 1698507709,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 111899,
+      "Restrictor": 0,
+      "Sectors": [
+        46978,
+        41296,
+        23625
+      ],
+      "Timestamp": 1698507711,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Ricfan",
+      "LapTime": 120500,
+      "Restrictor": 0,
+      "Sectors": [
+        46691,
+        47498,
+        26311
+      ],
+      "Timestamp": 1698507747,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 107938,
+      "Restrictor": 0,
+      "Sectors": [
+        41712,
+        42304,
+        23922
+      ],
+      "Timestamp": 1698507747,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 106405,
+      "Restrictor": 0,
+      "Sectors": [
+        40908,
+        42065,
+        23432
+      ],
+      "Timestamp": 1698507759,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 0,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 120275,
+      "Restrictor": 0,
+      "Sectors": [
+        46102,
+        47299,
+        26874
+      ],
+      "Timestamp": 1698507768,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 120191,
+      "Restrictor": 0,
+      "Sectors": [
+        46202,
+        47124,
+        26865
+      ],
+      "Timestamp": 1698507779,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 105460,
+      "Restrictor": 0,
+      "Sectors": [
+        40890,
+        41327,
+        23243
+      ],
+      "Timestamp": 1698507790,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 16,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 272030,
+      "Restrictor": 0,
+      "Sectors": [
+        198348,
+        46971,
+        26711
+      ],
+      "Timestamp": 1698507803,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 105365,
+      "Restrictor": 0,
+      "Sectors": [
+        40732,
+        41409,
+        23224
+      ],
+      "Timestamp": 1698507805,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 104420,
+      "Restrictor": 0,
+      "Sectors": [
+        40151,
+        41108,
+        23161
+      ],
+      "Timestamp": 1698507808,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 104731,
+      "Restrictor": 0,
+      "Sectors": [
+        40071,
+        41251,
+        23409
+      ],
+      "Timestamp": 1698507816,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 148947,
+      "Restrictor": 0,
+      "Sectors": [
+        79988,
+        44460,
+        24499
+      ],
+      "Timestamp": 1698507825,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561199192625155",
+      "DriverName": "Jhaeden Cruz",
+      "LapTime": 120163,
+      "Restrictor": 0,
+      "Sectors": [
+        46161,
+        47299,
+        26703
+      ],
+      "Timestamp": 1698507829,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 2,
+      "DriverGuid": "76561199034435554",
+      "DriverName": "Lukáš Hendrych",
+      "LapTime": 198879,
+      "Restrictor": 0,
+      "Sectors": [
+        109247,
+        58635,
+        30997
+      ],
+      "Timestamp": 1698507836,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 107933,
+      "Restrictor": 0,
+      "Sectors": [
+        41648,
+        42368,
+        23917
+      ],
+      "Timestamp": 1698507855,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "Cuts": 2,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 206781,
+      "Restrictor": 0,
+      "Sectors": [
+        128993,
+        51026,
+        26762
+      ],
+      "Timestamp": 1698507905,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 104920,
+      "Restrictor": 0,
+      "Sectors": [
+        40368,
+        41283,
+        23269
+      ],
+      "Timestamp": 1698507913,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 2,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 366895,
+      "Restrictor": 0,
+      "Sectors": [
+        291668,
+        47957,
+        27270
+      ],
+      "Timestamp": 1698507913,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 16,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "Cuts": 0,
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "LapTime": 119693,
+      "Restrictor": 0,
+      "Sectors": [
+        46136,
+        47106,
+        26451
+      ],
+      "Timestamp": 1698507923,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 159743,
+      "Restrictor": 0,
+      "Sectors": [
+        84634,
+        48299,
+        26810
+      ],
+      "Timestamp": 1698507927,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 4,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 182449,
+      "Restrictor": 0,
+      "Sectors": [
+        112812,
+        45576,
+        24061
+      ],
+      "Timestamp": 1698507942,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 156264,
+      "Restrictor": 0,
+      "Sectors": [
+        89398,
+        42863,
+        24003
+      ],
+      "Timestamp": 1698507947,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561199034435554",
+      "DriverName": "Lukáš Hendrych",
+      "LapTime": 120608,
+      "Restrictor": 0,
+      "Sectors": [
+        41233,
+        55012,
+        24363
+      ],
+      "Timestamp": 1698507956,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 2,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 142705,
+      "Restrictor": 0,
+      "Sectors": [
+        74742,
+        42772,
+        25191
+      ],
+      "Timestamp": 1698507959,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 107161,
+      "Restrictor": 0,
+      "Sectors": [
+        41182,
+        42188,
+        23791
+      ],
+      "Timestamp": 1698507962,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 2,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 165810,
+      "Restrictor": 0,
+      "Sectors": [
+        93094,
+        41530,
+        31186
+      ],
+      "Timestamp": 1698507971,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561199192625155",
+      "DriverName": "Jhaeden Cruz",
+      "LapTime": 184348,
+      "Restrictor": 0,
+      "Sectors": [
+        109729,
+        47587,
+        27032
+      ],
+      "Timestamp": 1698508014,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 104613,
+      "Restrictor": 0,
+      "Sectors": [
+        40190,
+        41184,
+        23239
+      ],
+      "Timestamp": 1698508018,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 119097,
+      "Restrictor": 0,
+      "Sectors": [
+        46016,
+        46778,
+        26303
+      ],
+      "Timestamp": 1698508024,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 3,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 124885,
+      "Restrictor": 0,
+      "Sectors": [
+        46355,
+        50729,
+        27801
+      ],
+      "Timestamp": 1698508038,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 1,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Ricfan",
+      "LapTime": 297754,
+      "Restrictor": 0,
+      "Sectors": [
+        223949,
+        47395,
+        26410
+      ],
+      "Timestamp": 1698508045,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 106124,
+      "Restrictor": 0,
+      "Sectors": [
+        40933,
+        41926,
+        23265
+      ],
+      "Timestamp": 1698508048,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "LapTime": 106271,
+      "Restrictor": 0,
+      "Sectors": [
+        40940,
+        41581,
+        23750
+      ],
+      "Timestamp": 1698508053,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 17,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 1,
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "LapTime": 129018,
+      "Restrictor": 0,
+      "Sectors": [
+        54075,
+        47830,
+        27113
+      ],
+      "Timestamp": 1698508056,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 19,
+      "CarModel": "urd_bayro_egt_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "LapTime": 281243,
+      "Restrictor": 0,
+      "Sectors": [
+        190226,
+        51732,
+        39285
+      ],
+      "Timestamp": 1698508061,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "LapTime": 104117,
+      "Restrictor": 0,
+      "Sectors": [
+        39749,
+        41162,
+        23206
+      ],
+      "Timestamp": 1698508063,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561199034435554",
+      "DriverName": "Lukáš Hendrych",
+      "LapTime": 112133,
+      "Restrictor": 0,
+      "Sectors": [
+        42226,
+        44757,
+        25150
+      ],
+      "Timestamp": 1698508068,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 108460,
+      "Restrictor": 0,
+      "Sectors": [
+        42157,
+        42539,
+        23764
+      ],
+      "Timestamp": 1698508071,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 1,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 105470,
+      "Restrictor": 0,
+      "Sectors": [
+        40724,
+        41364,
+        23382
+      ],
+      "Timestamp": 1698508077,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "LapTime": 104206,
+      "Restrictor": 0,
+      "Sectors": [
+        40013,
+        40955,
+        23238
+      ],
+      "Timestamp": 1698508122,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 10,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561199192625155",
+      "DriverName": "Jhaeden Cruz",
+      "LapTime": 120642,
+      "Restrictor": 0,
+      "Sectors": [
+        46234,
+        47286,
+        27122
+      ],
+      "Timestamp": 1698508134,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 7,
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "LapTime": 309527,
+      "Restrictor": 0,
+      "Sectors": [
+        238634,
+        43394,
+        27499
+      ],
+      "Timestamp": 1698508135,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 9,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "LapTime": 106500,
+      "Restrictor": 0,
+      "Sectors": [
+        41155,
+        41900,
+        23445
+      ],
+      "Timestamp": 1698508154,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 14,
+      "CarModel": "urd_michigan_gtd",
+      "Cuts": 2,
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "LapTime": 120048,
+      "Restrictor": 0,
+      "Sectors": [
+        46670,
+        46926,
+        26452
+      ],
+      "Timestamp": 1698508158,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 13,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "Cuts": 0,
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "LapTime": 140858,
+      "Restrictor": 0,
+      "Sectors": [
+        67572,
+        47128,
+        26158
+      ],
+      "Timestamp": 1698508165,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 12,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Ricfan",
+      "LapTime": 122334,
+      "Restrictor": 0,
+      "Sectors": [
+        47778,
+        47816,
+        26740
+      ],
+      "Timestamp": 1698508167,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 15,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "Cuts": 0,
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Freedom Tower",
+      "LapTime": 179367,
+      "Restrictor": 0,
+      "Sectors": [
+        102587,
+        49654,
+        27126
+      ],
+      "Timestamp": 1698508170,
+      "Tyre": "S",
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": null,
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 4,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "LapTime": 105127,
+      "Restrictor": 0,
+      "Sectors": [
+        40539,
+        41386,
+        23202
+      ],
+      "Timestamp": 1698508182,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": true,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    },
+    {
+      "BallastKG": 0,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "Cuts": 0,
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "LapTime": 112636,
+      "Restrictor": 0,
+      "Sectors": [
+        41667,
+        42515,
+        28454
+      ],
+      "Timestamp": 1698508184,
+      "Tyre": "S",
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "ContributedToFastestLap": false,
+      "SpeedTrapHits": [],
+      "Conditions": null
+    }
+  ],
+  "Result": [
+    {
+      "BallastKG": 0,
+      "BestLap": 104117,
+      "CarId": 2,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198799287577",
+      "DriverName": "sauberfan",
+      "Restrictor": 0,
+      "TotalTime": 793691,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 2
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 104206,
+      "CarId": 0,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198369988904",
+      "DriverName": "maxfan",
+      "Restrictor": 0,
+      "TotalTime": 852721,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 1
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 104431,
+      "CarId": 8,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561199034435554",
+      "DriverName": "Lukáš Hendrych",
+      "Restrictor": 0,
+      "TotalTime": 799281,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 15
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 105127,
+      "CarId": 4,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198418665166",
+      "DriverName": "MELON",
+      "Restrictor": 0,
+      "TotalTime": 912660,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 14
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 105460,
+      "CarId": 1,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198018366791",
+      "DriverName": "Nojus Gedvilas",
+      "Restrictor": 0,
+      "TotalTime": 783847,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 3
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 106229,
+      "CarId": 9,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198157789493",
+      "DriverName": "Dopicuh",
+      "Restrictor": 0,
+      "TotalTime": 885279,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 4
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 107161,
+      "CarId": 6,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198931437182",
+      "DriverName": "Gergő Bartus",
+      "Restrictor": 0,
+      "TotalTime": 914402,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 6
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 109504,
+      "CarId": 7,
+      "CarModel": "Yzd_Oreca_07_LMP2",
+      "DriverGuid": "76561198400628002",
+      "DriverName": "Saad",
+      "Restrictor": 0,
+      "TotalTime": 865575,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "cec59779-e413-4bf0-8e96-b572f5c3f802",
+      "GridPosition": 5
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 119097,
+      "CarId": 13,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "DriverGuid": "76561198800988033",
+      "DriverName": "Gabriel Rico",
+      "Restrictor": 0,
+      "TotalTime": 896242,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "GridPosition": 7
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 119691,
+      "CarId": 17,
+      "CarModel": "urd_michigan_gtd",
+      "DriverGuid": "76561198987212773",
+      "DriverName": "Justin Janson",
+      "Restrictor": 0,
+      "TotalTime": 787179,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "GridPosition": 9
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 119693,
+      "CarId": 16,
+      "CarModel": "urd_detroit_egt_2018_LM",
+      "DriverGuid": "76561198409346099",
+      "DriverName": "Stra",
+      "Restrictor": 0,
+      "TotalTime": 653417,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "GridPosition": 8
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 120163,
+      "CarId": 10,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "DriverGuid": "76561199192625155",
+      "DriverName": "Jhaeden Cruz",
+      "Restrictor": 0,
+      "TotalTime": 865050,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "GridPosition": 11
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 120191,
+      "CarId": 19,
+      "CarModel": "urd_bayro_egt_2018",
+      "DriverGuid": "76561198236592684",
+      "DriverName": "Tony Seroka",
+      "Restrictor": 0,
+      "TotalTime": 791479,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "GridPosition": 10
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 120500,
+      "CarId": 12,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "DriverGuid": "76561198136285982",
+      "DriverName": "Ricfan",
+      "Restrictor": 0,
+      "TotalTime": 897754,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "GridPosition": 12
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 120517,
+      "CarId": 14,
+      "CarModel": "urd_michigan_gtd",
+      "DriverGuid": "76561198065315707",
+      "DriverName": "Tito",
+      "Restrictor": 0,
+      "TotalTime": 889139,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "GridPosition": 13
+    },
+    {
+      "BallastKG": 0,
+      "BestLap": 999999999,
+      "CarId": 15,
+      "CarModel": "ks_porsche_911_rsr_2018",
+      "DriverGuid": "76561198359790588",
+      "DriverName": "Freedom Tower",
+      "Restrictor": 0,
+      "TotalTime": 901027,
+      "NumLaps": 0,
+      "HasPenalty": false,
+      "PenaltyTime": 0,
+      "LapPenalty": 0,
+      "Disqualified": false,
+      "ClassID": "15246932-20c9-4647-bdde-9c78f1bb69f0",
+      "GridPosition": 19
+    }
+  ],
+  "Penalties": null,
+  "TrackConfig": "raceday",
+  "TrackName": "rt_sebring",
+  "Type": "QUALIFY",
+  "Date": "2023-10-28T17:51:00+02:00",
+  "SessionFile": "2023_10_28_17_51_QUALIFY",
+  "SessionConfig": {
+    "session_type": 2,
+    "name": "Qualify",
+    "time": 15,
+    "laps": 0,
+    "is_open": 1,
+    "wait_time": 0,
+    "visibility_mode": 2,
+    "qualifying_type": 0,
+    "qualifying_number_of_laps_to_average": 0,
+    "count_out_lap": false,
+    "disable_push_to_pass": false
+  },
+  "ChampionshipID": "74dc5141-c6aa-449e-a8cc-0a5df2bee8d5",
+  "RaceWeekendID": "",
+  "EventName": ""
+}
