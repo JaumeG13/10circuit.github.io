@@ -120,19 +120,7 @@
   "Type": "RACE",
   "Date": "2023-11-21T21:51:00+01:00",
   "SessionFile": "2023_11_21_21_51_RACE",
-  "SessionConfig": {
-    "session_type": 3,
-    "name": "Race",
-    "time": 45,
-    "laps": 0,
-    "is_open": 1,
-    "wait_time": 80,
-    "visibility_mode": 0,
-    "qualifying_type": 0,
-    "qualifying_number_of_laps_to_average": 0,
-    "count_out_lap": false,
-    "disable_push_to_pass": false
-  },
   "ChampionshipID": "be904e62-d0c9-4e70-acae-c8c6ab13e859",
-  "RaceWeekendID": ""
+  "RaceWeekendID": "",
+  "document-id": "pc-s1-r6"
 }

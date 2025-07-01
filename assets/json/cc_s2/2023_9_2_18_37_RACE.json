@@ -229,20 +229,8 @@
   "Type": "RACE",
   "Date": "2023-09-02T18:37:00+02:00",
   "SessionFile": "2023_9_2_18_37_RACE",
-  "SessionConfig": {
-    "session_type": 3,
-    "name": "Race",
-    "time": 0,
-    "laps": 36,
-    "is_open": 1,
-    "wait_time": 60,
-    "visibility_mode": 0,
-    "qualifying_type": 0,
-    "qualifying_number_of_laps_to_average": 0,
-    "count_out_lap": false,
-    "disable_push_to_pass": false
-  },
   "ChampionshipID": "a54d1f04-08f6-4886-b4ae-ef2a961ea26d",
   "RaceWeekendID": "",
-  "EventName": ""
+  "EventName": "",
+  "document-id": "cc-s2-r1"
 }
