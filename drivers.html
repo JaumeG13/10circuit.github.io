@@ -24,6 +24,9 @@
          });
     </script>
     <script src="/assets/js/searchBar.js"></script>
+
+    <script src="https://www.gstatic.com/firebasejs/11.9.1/firebase-app-compat.js"></script> <!-- Firestore implementation -->
+    <script src="https://www.gstatic.com/firebasejs/11.9.1/firebase-firestore-compat.js"></script>
 </head>
 
 
@@ -41,6 +44,14 @@
             </div>
 
             <ul class="driver-container" id="list">
+                <ul id="drivers">Loading...</ul>
+
+                <!-- Your JS logic -->
+                <script src="/assets/js/drivers.js"></script>
+                
+                
+                
+                <!--
                 <li class="driver">
                     <span class="fi fi-eu"></span>
                     <h2>Ricfan</h2>
@@ -148,7 +159,8 @@
                     <input type="checkbox">
                     <label></label>
                 </li>
-                <div class="stats"></div>
+                <div class="stats"></div>  -->
+            </ul>
         </section>
 
         <script> /*automatically generate input+label id*/
