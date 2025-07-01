@@ -2251,7 +2251,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2271,7 +2272,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2291,7 +2293,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2311,7 +2314,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2331,7 +2335,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2351,7 +2356,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2371,7 +2377,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2391,7 +2398,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2411,7 +2419,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2431,7 +2440,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2451,7 +2461,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2471,7 +2482,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2491,7 +2503,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2511,7 +2524,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2531,7 +2545,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2551,7 +2566,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2571,7 +2587,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2591,7 +2608,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2611,7 +2629,8 @@
       "Tyre": "V",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2631,7 +2650,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2651,7 +2671,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2671,7 +2692,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2691,7 +2713,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2711,7 +2734,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2731,7 +2755,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2751,7 +2776,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2771,7 +2797,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2791,7 +2818,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2811,7 +2839,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2831,7 +2860,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2851,7 +2881,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2871,7 +2902,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2891,7 +2923,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2911,7 +2944,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2931,7 +2965,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2951,7 +2986,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2971,7 +3007,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -2991,7 +3028,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3011,7 +3049,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3031,7 +3070,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3051,7 +3091,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3071,7 +3112,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3091,7 +3133,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3111,7 +3154,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3131,7 +3175,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3151,7 +3196,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3171,7 +3217,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3191,7 +3238,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3211,7 +3259,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3231,7 +3280,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3251,7 +3301,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3271,7 +3322,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3291,7 +3343,8 @@
       "Tyre": "H",
       "ClassID": "61eaf546-0e1a-4844-8995-4c3c36a40077",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     }
   ],
   "Result": [
@@ -3304,6 +3357,7 @@
       "DriverName": "maxfan",
       "Restrictor": 0,
       "TotalTime": 1250623,
+      "NumLaps": 0,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -3320,6 +3374,7 @@
       "DriverName": "Nojus Gedvilas",
       "Restrictor": 0,
       "TotalTime": 1352627,
+      "NumLaps": 0,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -3336,6 +3391,7 @@
       "DriverName": "Gabriel Rico",
       "Restrictor": 0,
       "TotalTime": 1227263,
+      "NumLaps": 0,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -3352,6 +3408,7 @@
       "DriverName": "Stra",
       "Restrictor": 0,
       "TotalTime": 955917,
+      "NumLaps": 0,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -3368,6 +3425,7 @@
       "DriverName": "Saad",
       "Restrictor": 0,
       "TotalTime": 907820,
+      "NumLaps": 0,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -3384,6 +3442,7 @@
       "DriverName": "Akieush",
       "Restrictor": 0,
       "TotalTime": 1295223,
+      "NumLaps": 0,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -3400,6 +3459,7 @@
       "DriverName": "Cumlover87",
       "Restrictor": 0,
       "TotalTime": 444007,
+      "NumLaps": 0,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -3428,5 +3488,6 @@
     "disable_push_to_pass": false
   },
   "ChampionshipID": "be904e62-d0c9-4e70-acae-c8c6ab13e859",
-  "RaceWeekendID": ""
+  "RaceWeekendID": "",
+  "EventName": ""
 }
