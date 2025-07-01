@@ -21,10 +21,12 @@ document.addEventListener("DOMContentLoaded", () => {
       const item = document.createElement("li");
       item.classList.add("driver");
       item.innerHTML = `
-        <strong>${driver.name}</strong> — ${driver.country}<br>
-        Race Starts: ${driver["race-starts"]} | Race finishes: ${driver["race-starts"]}<br>
-        Wins: ${driver.wins} | Poles: ${driver.poles}<br>
-        Podiums: ${driver.podiums} | Fastest Laps: ${driver["race-starts"]}<br>
+        <span class="fi fi-${driver.country}"></span><h2>${driver.name}</h2>
+        <div>
+            Race Starts: ${driver["race-starts"]} | Race finishes: ${driver["race-starts"]}<br>
+            Wins: ${driver.wins} | Poles: ${driver.poles}<br>
+            Podiums: ${driver.podiums} | Fastest Laps: ${driver["race-starts"]}<br>
+        </div>
       `;
       list.appendChild(item);
     });
