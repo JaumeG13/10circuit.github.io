@@ -55,7 +55,7 @@ li.driver {
     width: 100%;
     display: flex;
     min-height: 50px;
-    max-height: 50px;
+    max-height: 500px;
     gap: 0.5em;
     position: relative;
 }
