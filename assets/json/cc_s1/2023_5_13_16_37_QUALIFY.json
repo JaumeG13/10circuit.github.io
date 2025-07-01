@@ -3307,7 +3307,8 @@
       "Tyre": "C",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3327,7 +3328,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3347,7 +3349,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3367,7 +3370,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3387,7 +3391,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3407,7 +3412,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3427,7 +3433,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3447,7 +3454,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3467,7 +3475,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3487,7 +3496,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3507,7 +3517,8 @@
       "Tyre": "C",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3527,7 +3538,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3547,7 +3559,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3567,7 +3580,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3587,7 +3601,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3607,7 +3622,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3627,7 +3643,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3647,7 +3664,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3667,7 +3685,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3687,7 +3706,8 @@
       "Tyre": "C",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3707,7 +3727,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3727,7 +3748,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3747,7 +3769,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3767,7 +3790,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3787,7 +3811,8 @@
       "Tyre": "B",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3807,7 +3832,8 @@
       "Tyre": "C",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3827,7 +3853,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3847,7 +3874,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3867,7 +3895,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3887,7 +3916,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3907,7 +3937,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3927,7 +3958,8 @@
       "Tyre": "B",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3947,7 +3979,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3967,7 +4000,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -3987,7 +4021,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4007,7 +4042,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4027,7 +4063,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4047,7 +4084,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4067,7 +4105,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4087,7 +4126,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4107,7 +4147,8 @@
       "Tyre": "B",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4127,7 +4168,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4147,7 +4189,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4167,7 +4210,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4187,7 +4231,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4207,7 +4252,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4227,7 +4273,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4247,7 +4294,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4267,7 +4315,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4287,7 +4336,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4307,7 +4357,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4327,7 +4378,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4347,7 +4399,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4367,7 +4420,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4387,7 +4441,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4407,7 +4462,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4427,7 +4483,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4447,7 +4504,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": null
+      "SpeedTrapHits": null,
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4467,7 +4525,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4487,7 +4546,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4507,7 +4567,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4527,7 +4588,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4547,7 +4609,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4567,7 +4630,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4587,7 +4651,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4607,7 +4672,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4627,7 +4693,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4647,7 +4714,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4667,7 +4735,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4687,7 +4756,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4707,7 +4777,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4727,7 +4798,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4747,7 +4819,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4767,7 +4840,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4787,7 +4861,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4807,7 +4882,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4827,7 +4903,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4847,7 +4924,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4867,7 +4945,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4887,7 +4966,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4907,7 +4987,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4927,7 +5008,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4947,7 +5029,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4967,7 +5050,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -4987,7 +5071,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5007,7 +5092,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5027,7 +5113,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5047,7 +5134,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5067,7 +5155,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5087,7 +5176,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5107,7 +5197,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5127,7 +5218,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5147,7 +5239,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5167,7 +5260,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5187,7 +5281,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5207,7 +5302,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5227,7 +5323,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5247,7 +5344,8 @@
       "Tyre": "C",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5267,7 +5365,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5287,7 +5386,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5307,7 +5407,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5327,7 +5428,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5347,7 +5449,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5367,7 +5470,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5387,7 +5491,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5407,7 +5512,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5427,7 +5533,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5447,7 +5554,8 @@
       "Tyre": "C",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5467,7 +5575,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5487,7 +5596,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5507,7 +5617,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5527,7 +5638,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5547,7 +5659,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5567,7 +5680,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5587,7 +5701,8 @@
       "Tyre": "C",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5607,7 +5722,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5627,7 +5743,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5647,7 +5764,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5667,7 +5785,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5687,7 +5806,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5707,7 +5827,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5727,7 +5848,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5747,7 +5869,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5767,7 +5890,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5787,7 +5911,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5807,7 +5932,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5827,7 +5953,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5847,7 +5974,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5867,7 +5995,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5887,7 +6016,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5907,7 +6037,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5927,7 +6058,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5947,7 +6079,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5967,7 +6100,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -5987,7 +6121,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6007,7 +6142,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6027,7 +6163,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6047,7 +6184,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6067,7 +6205,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6087,7 +6226,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6107,7 +6247,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6127,7 +6268,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6147,7 +6289,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6167,7 +6310,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6187,7 +6331,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6207,7 +6352,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6227,7 +6373,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6247,7 +6394,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": true,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     },
     {
       "BallastKG": 0,
@@ -6267,7 +6415,8 @@
       "Tyre": "Q",
       "ClassID": "00000000-0000-0000-0000-000000000000",
       "ContributedToFastestLap": false,
-      "SpeedTrapHits": []
+      "SpeedTrapHits": [],
+      "Conditions": null
     }
   ],
   "Result": [
@@ -6280,6 +6429,7 @@
       "DriverName": "Adam24",
       "Restrictor": 0,
       "TotalTime": 1729512,
+      "NumLaps": 10,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6296,6 +6446,7 @@
       "DriverName": "maxfan1982",
       "Restrictor": 0,
       "TotalTime": 1819643,
+      "NumLaps": 8,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6312,6 +6463,7 @@
       "DriverName": "Guts",
       "Restrictor": 0,
       "TotalTime": 1597432,
+      "NumLaps": 9,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6328,6 +6480,7 @@
       "DriverName": "Arion",
       "Restrictor": 0,
       "TotalTime": 1726692,
+      "NumLaps": 13,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6344,6 +6497,7 @@
       "DriverName": "Focuser",
       "Restrictor": 0,
       "TotalTime": 1876028,
+      "NumLaps": 11,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6360,6 +6514,7 @@
       "DriverName": "Stra",
       "Restrictor": 0,
       "TotalTime": 1873153,
+      "NumLaps": 14,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6376,6 +6531,7 @@
       "DriverName": "Justin J.",
       "Restrictor": 0,
       "TotalTime": 1757501,
+      "NumLaps": 8,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6392,6 +6548,7 @@
       "DriverName": "Dopi",
       "Restrictor": 0,
       "TotalTime": 1651231,
+      "NumLaps": 9,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6408,6 +6565,7 @@
       "DriverName": "bartusg5",
       "Restrictor": 0,
       "TotalTime": 1693846,
+      "NumLaps": 13,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6424,6 +6582,7 @@
       "DriverName": "ricfan1982",
       "Restrictor": 0,
       "TotalTime": 1817176,
+      "NumLaps": 8,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6440,6 +6599,7 @@
       "DriverName": "Tib",
       "Restrictor": 0,
       "TotalTime": 1799534,
+      "NumLaps": 9,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6456,6 +6616,7 @@
       "DriverName": "Tim V.",
       "Restrictor": 0,
       "TotalTime": 1631313,
+      "NumLaps": 13,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6472,6 +6633,7 @@
       "DriverName": "Saad",
       "Restrictor": 0,
       "TotalTime": 736681,
+      "NumLaps": 4,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6488,6 +6650,7 @@
       "DriverName": "Veixel",
       "Restrictor": 0,
       "TotalTime": 1734504,
+      "NumLaps": 9,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
@@ -6504,6 +6667,7 @@
       "DriverName": "Rabas",
       "Restrictor": 0,
       "TotalTime": 1727004,
+      "NumLaps": 11,
       "HasPenalty": false,
       "PenaltyTime": 0,
       "LapPenalty": 0,
