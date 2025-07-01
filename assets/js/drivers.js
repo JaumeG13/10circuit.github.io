@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const list = document.getElementById("list");
   list.innerHTML = ""; // clear 'Loading...'
 
-  db.collection("drivers").orderBy("wins", "desc").get().then(snapshot => {
+  db.collection("drivers").orderBy("race-starts", "desc").get().then(snapshot => {
     snapshot.forEach(doc => {
       const driver = doc.data();
       const item = document.createElement("label");
