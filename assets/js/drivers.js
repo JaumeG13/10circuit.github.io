@@ -20,10 +20,10 @@ document.addEventListener("DOMContentLoaded", () => {
       const driver = doc.data();
       const item = document.createElement("li");
       item.innerHTML = `
-        <strong>${drivers.name}</strong> — ${drivers.country}<br>
-        Race Starts: ${drivers.race-starts} | Race finishes: ${drivers.race-finishes}<br>
-        Wins: ${drivers.wins} | Poles: ${drivers.poles}<br>
-        Podiums: ${drivers.podiums} | Fastest Laps: ${drivers.fastest-laps}<br>
+        <strong>${driver.name}</strong> — ${driver.country}<br>
+        Race Starts: ${driver["race-starts"]} | Race finishes: ${driver["race-starts"]}<br>
+        Wins: ${driver.wins} | Poles: ${driver.poles}<br>
+        Podiums: ${driver.podiums} | Fastest Laps: ${driver["race-starts"]}<br>
       `;
       list.appendChild(item);
     });
