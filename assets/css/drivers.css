@@ -49,48 +49,37 @@ ul.driver-container {
     margin-top: 1em;
     position: relative;
 }
-li.driver {
+.driver {
     background-color: #702929;
     padding: 10px;
     width: 100%;
     display: flex;
+    flex-direction: column;
     min-height: 50px;
-    max-height: 500px;
     gap: 0.5em;
     position: relative;
+    cursor: pointer;
+}
+div.flag-name {
+    display: flex;
+    gap: 6px;
 }
 span.fi { /*flag size*/
     width: 2em;
     height: 2em;
 }
-li.driver input {
+.driver input {
     display: none;
 }
-li.driver:has(input[type="checkbox"]:checked) {
+.driver:has(input[type="checkbox"]:checked) {
     background-color: #ec2651;
-    min-height: 190px;
-    max-height: 190px;
-}
-li.driver label {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    cursor: pointer;
+    min-height: 180px;
+    max-height: 180px;
 }
 div.stats {
     display: none;
-    min-height: 125px;
-    max-height: 125px;
-    width: 100%;
-    top: 65px;
-    position: absolute;
-    background-color: #ec2651;
+    flex-direction: column;
 }
-li.driver:has(input[type="checkbox"]:checked) + div.stats {
+input[type="checkbox"]:checked + div.stats {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding: 15px;
 }

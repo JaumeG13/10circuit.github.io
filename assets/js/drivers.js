@@ -18,14 +18,27 @@ document.addEventListener("DOMContentLoaded", () => {
   db.collection("drivers").orderBy("wins").get().then(snapshot => {
     snapshot.forEach(doc => {
       const driver = doc.data();
-      const item = document.createElement("li");
+      const item = document.createElement("label");
       item.classList.add("driver");
+
+      let country = driver.country; // automatically assign "eu" flag when country is empty
+      if (country === "") {
+        country = "eu";
+      }
+
       item.innerHTML = `
-        <span class="fi fi-${driver.country}"></span><h2>${driver.name}</h2>
-        <div>
-            Race Starts: ${driver["race-starts"]} | Race finishes: ${driver["race-starts"]}<br>
-            Wins: ${driver.wins} | Poles: ${driver.poles}<br>
-            Podiums: ${driver.podiums} | Fastest Laps: ${driver["race-starts"]}<br>
+        <div class="flag-name">
+          <span class="fi fi-${country}"></span>
+          <h2>${driver.name}</h2>
+        </div>
+        <input type="checkbox">
+        <div class="stats">
+            <span>Race Starts: ${driver["race-starts"]}</span>
+            <span>Race finishes: ${driver["race-finishes"]}</span>
+            <span>Wins: ${driver.wins}</span>
+            <span>Poles: ${driver.poles}</span>
+            <span>Podiums: ${driver.podiums}</span>
+            <span>Fastest Laps: ${driver["fastest-laps"]}</span>
         </div>
       `;
       list.appendChild(item);
