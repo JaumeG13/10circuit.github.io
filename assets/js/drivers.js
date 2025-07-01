@@ -12,13 +12,14 @@ firebase.initializeApp(firebaseConfig);
 const db = firebase.firestore();
 
 document.addEventListener("DOMContentLoaded", () => {
-  const list = document.getElementById("drivers");
+  const list = document.getElementById("list");
   list.innerHTML = ""; // clear 'Loading...'
 
   db.collection("drivers").orderBy("wins").get().then(snapshot => {
     snapshot.forEach(doc => {
       const driver = doc.data();
       const item = document.createElement("li");
+      item.classList.add("driver");
       item.innerHTML = `
         <strong>${driver.name}</strong> — ${driver.country}<br>
         Race Starts: ${driver["race-starts"]} | Race finishes: ${driver["race-starts"]}<br>

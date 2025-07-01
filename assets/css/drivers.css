@@ -41,7 +41,7 @@ div.search-container {
 
 
 
-ul.drivers {
+ul.driver-container {
     justify-content: center;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
