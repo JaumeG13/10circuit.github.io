@@ -184,19 +184,7 @@
   "Type": "RACE",
   "Date": "2024-03-17T22:32:00+01:00",
   "SessionFile": "2024_3_17_22_32_RACE",
-  "SessionConfig": {
-    "session_type": 3,
-    "name": "Race",
-    "time": 144,
-    "laps": 0,
-    "is_open": 1,
-    "wait_time": 60,
-    "visibility_mode": 0,
-    "qualifying_type": 0,
-    "qualifying_number_of_laps_to_average": 0,
-    "count_out_lap": false,
-    "disable_push_to_pass": false
-  },
   "ChampionshipID": "dee78588-9f6b-4283-a9af-4a978a35a269",
-  "RaceWeekendID": ""
+  "RaceWeekendID": "",
+  "document-id": "special-nords-2.4"
 }

@@ -373,19 +373,7 @@
   "Type": "RACE",
   "Date": "2023-10-21T20:13:00+02:00",
   "SessionFile": "2023_10_21_20_13_RACE",
-  "SessionConfig": {
-    "session_type": 3,
-    "name": "Race",
-    "time": 120,
-    "laps": 0,
-    "is_open": 1,
-    "wait_time": 60,
-    "visibility_mode": 0,
-    "qualifying_type": 0,
-    "qualifying_number_of_laps_to_average": 0,
-    "count_out_lap": false,
-    "disable_push_to_pass": false
-  },
   "ChampionshipID": "3b601e08-a25c-4045-bad7-c88c72d730ac",
-  "RaceWeekendID": ""
+  "RaceWeekendID": "",
+  "document-id": "special-f1-multiclass"
 }

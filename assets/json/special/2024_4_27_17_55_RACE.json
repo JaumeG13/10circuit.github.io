@@ -270,19 +270,7 @@
   "Type": "RACE",
   "Date": "2024-04-27T17:55:00+02:00",
   "SessionFile": "2024_4_27_17_55_RACE",
-  "SessionConfig": {
-    "session_type": 3,
-    "name": "Race",
-    "time": 0,
-    "laps": 23,
-    "is_open": 1,
-    "wait_time": 60,
-    "visibility_mode": 0,
-    "qualifying_type": 0,
-    "qualifying_number_of_laps_to_average": 0,
-    "count_out_lap": false,
-    "disable_push_to_pass": false
-  },
   "ChampionshipID": "d4506804-a957-40f8-9b88-85c8c6a8f1af",
-  "RaceWeekendID": ""
+  "RaceWeekendID": "",
+  "document-id": "special-sepang"
 }
