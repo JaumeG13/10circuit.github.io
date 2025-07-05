@@ -1,0 +1,62 @@
+div.main-container {
+    background-image: url('/assets/images/background/special-events/lemans/lemans1.jpg');  /*change after every event*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #0a0705;
+}
+section.standings-results-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    justify-content: center;
+    background-color: rgba(124, 13, 13, 0.2);
+    backdrop-filter: blur(10px);
+}
+section.standings-results-container h1 {
+    margin: 16px 0 8px 0;
+    padding: 0.5em 0;
+    font-weight: 900;
+    width: 50%;
+    align-self: center;
+    border-radius: 25px;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+    background-color: #70172c;
+    box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.5);
+}
+
+
+
+/* Buttons */
+div.buttons-container {
+    display: flex;
+    margin: 2.5em 5em;
+}
+select {
+    background-color: #70172c;
+}
+input[type=button] {
+    display: none;
+}
+div.buttons-container input + label {
+    cursor: pointer;
+    background-color: #70172c;
+    padding: 6px;
+}
+
+
+
+/* Results */
+div.results-container {
+    margin: 0.25em 5em;
+}
+div.results-header {
+    display: grid;    
+    grid-template-columns: repeat(5, 1fr);
+}
+li.result {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    border: 1px solid #70172c;
+}
