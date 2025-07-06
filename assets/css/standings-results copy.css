@@ -54,9 +54,13 @@ div.results-container {
 div.results-header {
     display: grid;    
     grid-template-columns: repeat(5, 1fr);
+    font-weight: bold;
+    font-size: 1.2em;
+    border-bottom: 2px solid #70172c;
 }
 li.result {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    border: 1px solid #70172c;
+    border-bottom: 1px solid #70172c;
+    padding: 10px auto;
 }
