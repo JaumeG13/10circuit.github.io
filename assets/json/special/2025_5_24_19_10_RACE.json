@@ -180,6 +180,7 @@
   "SessionFile": "2025_5_24_19_10_RACE",
   "ChampionshipID": "8c491a21-a6ec-438f-b3f4-097bd14a2970",
   "RaceWeekendID": "",
-  "EventName": "Indianapolis Motor Speedway Indy 250, USA",
-  "document-id": "special-indy2025"
+  "EventName": "Indy 250",
+  "document-id": "special-indy2025",
+  "championship": "Special Events"
 }

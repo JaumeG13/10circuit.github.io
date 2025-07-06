@@ -375,5 +375,7 @@
   "SessionFile": "2023_10_21_20_13_RACE",
   "ChampionshipID": "3b601e08-a25c-4045-bad7-c88c72d730ac",
   "RaceWeekendID": "",
-  "document-id": "special-f1-multiclass"
+  "EventName": "Formula Multiclass",
+  "document-id": "special-f1-multiclass",
+  "championship": "Special Events"
 }

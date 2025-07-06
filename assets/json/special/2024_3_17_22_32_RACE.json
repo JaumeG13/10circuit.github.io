@@ -186,5 +186,7 @@
   "SessionFile": "2024_3_17_22_32_RACE",
   "ChampionshipID": "dee78588-9f6b-4283-a9af-4a978a35a269",
   "RaceWeekendID": "",
-  "document-id": "special-nords-2.4"
+  "EventName": "Nordschleife 2.4",
+  "document-id": "special-nords-2.4",
+  "championship": "Special Events"
 }

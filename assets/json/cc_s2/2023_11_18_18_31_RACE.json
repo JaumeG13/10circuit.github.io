@@ -121,6 +121,8 @@
   "Date": "2023-11-18T18:31:00+01:00",
   "SessionFile": "2023_11_18_18_31_RACE",
   "ChampionshipID": "88a76614-ec6a-490b-996e-15cbe109f6cd",
-  "RaceWeekendID": "",
-  "document-id": "cc-s2-r6"
+  "RaceWeekendID": "",  
+  "EventName": "93 Laps of Charlotte",
+  "document-id": "cc-s2-r6",
+  "championship": "Championship Circuit"
 }

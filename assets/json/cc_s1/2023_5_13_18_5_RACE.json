@@ -299,5 +299,7 @@
   "SessionFile": "2023_5_13_18_5_RACE",
   "ChampionshipID": "",
   "RaceWeekendID": "",
-  "document-id": "cc-s1-r3"
+  "EventName": "Fuji F1 1991",
+  "document-id": "cc-s1-r3",
+  "championship": "Championship Circuit"
 }

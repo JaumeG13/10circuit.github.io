@@ -401,5 +401,7 @@
   "SessionFile": "2023_6_3_19_42_RACE",
   "ChampionshipID": "",
   "RaceWeekendID": "",
-  "document-id": "cc-s1-r4"
+  "EventName": "Indy 250",
+  "document-id": "cc-s1-r4",
+  "championship": "Championship Circuit"
 }

@@ -298,5 +298,7 @@
   "SessionFile": "2024_5_25_18_59_RACE",
   "ChampionshipID": "309fd862-79c5-493d-bfa8-93f4da3281c5",
   "RaceWeekendID": "",
-  "document-id": "special-indy2024"
+  "EventName": "Indy 250",
+  "document-id": "special-indy2024",
+  "championship": "Special Events"
 }
